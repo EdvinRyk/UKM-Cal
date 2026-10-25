@@ -8,6 +8,50 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9925@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261016T215900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Band Tour 2026
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour 2026.\n
+ Påmeldingsfrist: 16.10.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour 2026\
+ n\nfredag 13. november kl. 14:00 - søndag 15. november kl. 22:00\n\nFinnm
+ ark (https://www.google.com/maps/search/?api=1&query=Finnmark)\n\nFinnmark
+ \n\nUKM BAND TOUR 13.-15. NOVEMBER 🔥\nEr du mellom 13-20 år\, spiller 
+ i band og har lyst til å dra på turné\, spille konserter og møte nye f
+ olk?\n\nHVA ER UKM BANDTOUR?\n3 dager på turnébuss\nKonserter i Alta\, H
+ onningsvåg og Lakselv\nMasse musikk\, folk og god stemning\n\nFOR Å BLI 
+ MED PÅ BUSSEN MÅ DERE:\n✔️ Ha minst 20 min med låter klare\n✔️ 
+ Være gira på å reise sammen i flere dager\n✔️ Like å henge med fol
+ k + bidra til god stemning\n👉 Meld dere på og skriv litt om hvorfor de
+ re vil på turné\n🎲 Vi trekker ut 3 band som får bli med på hele tur
+ en\n\n⚡ VI TRENGER OGSÅ DEG SOM VIL DELTA SOM:\n🎥 Media (foto\, film
+ \, content)\n🛠️ Arrangør\n🔊 Teknikk & rigg (scene\, lyd\, lys\, v
+ ære med bak kulissene og få det til å funke live)\nFor teknikere/rigg: 
+ Meld dere på kategorien ARRANGØR og skriv at det gjelder tekniker eller 
+ rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER BIDRA LOKALT?\nDu kan fortsatt 
+ spille eller jobbe med teknikk\, som arrangør eller med media\, når buss
+ en kommer til din kommune. Søk opp din kommune\, så finner du arrangemen
+ tet. 🤘\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\
+ nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm.no/arran
+ gement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\nPåmeldte
+ Påmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku
+ -ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: https://ww
+ w.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\
+ n\nPåmeldingsfrist – delta: 23.10.2026 kl. 23:59\nPåmeldingsfrist – 
+ bidra bak scenen: 16.10.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm
+ .no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Mode
+ rn-Album-Cover-2-1200x1200.png
+LOCATION:Finnmark
+URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
+ tour26
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9925@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9925@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -50,6 +94,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9826@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261121T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Band Tour Alta
+DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
+ eldingsfrist: 21.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfreda
+ g 11. desember kl. 18:00 - 20:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND
+  TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser samme
+ n på buss\, spiller konserter\, møter andre musikkinteresserte og får o
+ ppleve hvordan det er å være på turné. Band Tour besøker flere steder
+  i Finnmark\, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKAL
+ T I ALTA\nNår UKM Band Tour kommer til Huset\, trenger vi deg!\n\nVi søk
+ er deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være da
+ ns/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto
+ \, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/
+ gjennomføring)\n🔊 Teknikk og rigg (scene\, lyd\, lys og praktisk gjenn
+ omføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSE
+ N?\nDersom du ønsker å være med på hele turneen og reise mellom flere 
+ steder i Finnmark\, må du melde deg på UKM Band Tour 2026.\n👉 Søk op
+ p UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\
+ nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandto
+ ur\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https:/
+ /sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2
+ -1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKonta
+ ktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hanse
+ n@alta.kommune.no\n\nPåmeldingsfrist – delta: 21.11.2026 kl. 23:59\nPå
+ meldingsfrist – bidra bak scenen: 21.11.2026 kl. 23:59\nArrangementsside
+ : https://www.ukm.no/arrangement/2026-alta-bandtouralta
+LOCATION:Skoleveien 14\, Alta
+URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9826@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9826@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -85,6 +167,84 @@ LOCATION:Skoleveien 14\, Alta
 URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9794@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270318T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Deatnu - Tana
+DESCRIPTION:Frist for å melde seg på bak scenen til Deatnu - Tana.\nPåme
+ ldingsfrist: 18.03.2027 kl. 23:59 (norsk tid).\n\nDeatnu - Tana\n\ntorsdag
+  1. april kl. 18:00 - 22:00\n\nDeanu birasvisti / Tana miljøbygg\n\nHold 
+ av dato for lokal UKM i 2027 allerede nå!\nPåmeldingen åpner i desember
+ .\n\nÅpent for alle å delta opp til 20 år.\n\nEr du deltaker over 13 å
+ r? Da er det en mulighet for å gå videre til Fylkesfestivalen i Alta som
+  er i slutten av april.\n\nHva kan du delta med?\nPå UKM kan du gjøre ak
+ kurat det DU vil. Musikk\, dans\, standup\, teater\, cosplay\, kunst\, duo
+ dji\, film\, foto\, rigg\, lys\, lyd\, programleder\, backstage\, produksj
+ on – eller noe helt annet du brenner for. Kort sagt: UKM er stedet der d
+ u kan være deg selv og gjøre det du digger!​​​​‌﻿‍﻿​
+ ‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌
+ ‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌
+ ‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌
+ ‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌
+ ‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌
+ ﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​
+ ‍﻿﻿‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌
+ ‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌
+ ﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​
+ ‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌
+ ﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​
+ ‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌
+ ﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌
+ ﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​
+ ﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​
+ ﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​
+ ‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​
+ ﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​
+ ﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌
+ ‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌
+ ‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌
+ ﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌
+ ‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌
+ ‍‍​​﻿﻿‌‌‍‌​‌‍‌‌‌﻿​﻿‌‍​﻿‌
+ ﻿​‍‌‍‍‌‌﻿​​‌﻿‌​‌‍‍‌‌‍﻿﻿‌
+ ‍﻿‍​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌
+ ‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌
+ ﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​
+ ‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌
+ ﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌
+ ‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌
+ ﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌
+ ‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​
+ ﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌
+ ‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​
+ ﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​
+ ﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​
+ ﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​
+ ﻿​‌​﻿​﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌
+ ﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌
+ ‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​
+ ﻿﻿‌‌‍‌​‌‍‌‌‌﻿​﻿‌‍​﻿‌﻿​‍‌
+ ‍‍‌‌﻿​​‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​
+ ‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌
+ ‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​
+ ﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌
+ ﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌\n\nD
+ eatnu - Tana: https://sys.ukm.no/2027-deatnu-tana-deatnu-tana/files/2026/0
+ 5/concert-crowd-audience-people-preview.jpg\n\nKontaktpersoner\nMargrethe 
+ Ballo\nTelefon: 46400277\nE-post: margrethe.ballo@tana.kommune.no\n\nPåme
+ ldingsfrist – delta: 18.03.2027 kl. 23:59\nPåmeldingsfrist – bidra ba
+ k scenen: 18.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arran
+ gement/2027-deatnu-tana-deatnu-tana
+LOCATION:Deanu birasvisti / Tana miljøbygg\, Deatnu - Tana
+URL:https://www.ukm.no/arrangement/2027-deatnu-tana-deatnu-tana
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9794@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9794@ukm-kalendere

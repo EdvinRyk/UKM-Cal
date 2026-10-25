@@ -8,6 +8,38 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9830@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261127T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Svalbard
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Svalbard.\nPåmel
+ dingsfrist: 27.11.2026 kl. 23:59 (norsk tid).\n\nUKM Svalbard\n\ntirsdag 9
+ . februar kl. 18:00 - fredag 12. februar kl. 22:00\n\nSvalbard\n\nUKM Long
+ yearbyen 9.–12. februar.\nVelkommen til årets UKM i Longyearbyen kultur
+ hus!\nForestilling: fredag 12. februar kl. 19.00\nPå UKM kan du utforske 
+ og skape – enten du vil vise frem det du allerede kan\, eller prøve noe
+  helt nytt. Her er det plass til alle som vil gjøre noe innen kultur\, b
+ åde på\, bak og rundt scenen.\nDu kan for eksempel:\n• synge\, danse e
+ ller rappe\n• lage film eller vise TikTok-innhold\n• stille ut tegning
+ er\, malerier eller foto\n• vise fram design\, håndverk eller egne teks
+ ter\n\nKort sagt: Hvis du skaper noe – digitalt\, på papir eller på sc
+ enen – så hører det hjemme på UKM!\n\nUKM Svalbard: https://sys.ukm.n
+ o/2027-svalbard-svalbard/files/2026/08/UKM-svalbard.png\n\nhttps://delta.u
+ km.no/ukmid/pamelding/5399-9830/\n\nKontaktpersoner\nLene Gjervik\nBarne- 
+ og ungdomskoordinator\nTelefon: 93231207\nE-post: lene.gjervik@lokalstyre.
+ no\n\nPåmeldingsfrist – delta: 27.11.2026 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 27.11.2026 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-svalbard-svalbard
+LOCATION:\, Svalbard
+URL:https://www.ukm.no/arrangement/2027-svalbard-svalbard
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9830@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9830@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -37,6 +69,125 @@ LOCATION:\, Svalbard
 URL:https://www.ukm.no/arrangement/2027-svalbard-svalbard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9715@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270228T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Målselv 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Målselv 2027.\nP
+ åmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Målselv 2027\n\
+ nlørdag 13. mars kl. 18:00 - 22:00\n\nCUE\n\nMålselv\n\nPå UKM kan du g
+ jøre akkurat det du vil. Musikk\, dans\, teater\, cosplay\, kunst\, film\
+ , foto\, gaming (datakultur)\, og mye annet!\nUKM er stedet der du kan væ
+ re deg selv! ​​​​\nDu kan delta fra det året du fyller 10 år\, t
+ ilogmed det året du fyller 20 år\nTrives du ikke på scenen? Da kan du v
+ ære med som arrangør!\n\nLyst å bli med? - Meld deg på!‌﻿‍﻿​
+ ‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌
+ ‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌
+ ‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌
+ ‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌
+ ‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌
+ ﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​
+ ‍﻿﻿‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌
+ ‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌
+ ﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​
+ ‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌
+ ﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​
+ ‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌
+ ﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌
+ ﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​
+ ﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​
+ ﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​
+ ‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​
+ ﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​
+ ﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌
+ ‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌
+ ‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌
+ ﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌
+ ‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌
+ ‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌
+ ‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌
+ ‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌
+ ﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​
+ ‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌
+ ﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌
+ ‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌
+ ﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌
+ ‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​
+ ﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌
+ ‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​
+ ﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​
+ ﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​
+ ﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​
+ ﻿​‌​﻿​﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌
+ ﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌
+ ‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​
+ ﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​
+ ‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌
+ ‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​
+ ﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌
+ ﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌\nLur
+ er du på noe? - SPØR!\n\nUKM Målselv 2027: https://sys.ukm.no/2027-mals
+ elv-ukmmalselv2027/files/2026/03/DSC_1498-Edit-1200x798.jpg\n\nhttps://del
+ ta.ukm.no/ukmid/pamelding/5524-9715/\n\nKontaktpersoner\nMonica Karlstad\n
+ Telefon: 97516123\nE-post: monica.karlstad@malselv.kommune.no\n\nSvein Eri
+ k Pedersen\nTelefon: 94195074\nE-post: svein.pedersen@malselv.kommune.no\n
+ \nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist – b
+ idra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.n
+ o/arrangement/2027-malselv-ukmmalselv2027
+LOCATION:CUE\, Målselv
+URL:https://www.ukm.no/arrangement/2027-malselv-ukmmalselv2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9715@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9804@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270228T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Balsfjord 2027!
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Balsfjord 2027!.\
+ nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Balsfjord 2027
+ !\n\nlørdag 13. mars kl. 15:00 - 20:00\n\nStorsteinnes skole\n\nBalsfjord
+ \n\nHei du! Tidlig ute? Det like vi!\nPåmelding åpner i desember!\n\nKon
+ taktpersoner\nBlanka Cysarczyk\nTelefon: 46224697\nE-post: blankacys@gmail
+ .com\n\nPåmeldingsfrist – delta: 06.03.2027 kl. 23:59\nPåmeldingsfrist
+  – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www
+ .ukm.no/arrangement/2027-balsfjord-ukmbalsfjord2027
+LOCATION:Storsteinnes skole\, Balsfjord
+URL:https://www.ukm.no/arrangement/2027-balsfjord-ukmbalsfjord2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9804@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9941@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270307T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Harstad 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Harstad 2027.\nP
+ åmeldingsfrist: 07.03.2027 kl. 23:59 (norsk tid).\n\nUKM Harstad 2027\n\n
+ lørdag 3. april kl. 14:00 - 17:00\n\nHarstad kulturhus AS\n\nHarstad - H
+ árstták\n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9941/\n\nKontaktper
+ soner\nArne-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli
+ @harstad.kommune.no\n\nPåmeldingsfrist – delta: 14.03.2027 kl. 23:59\nP
+ åmeldingsfrist – bidra bak scenen: 07.03.2027 kl. 23:59\nArrangementssi
+ de: https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027
+LOCATION:Harstad kulturhus AS\, Harstad - Hárstták
+URL:https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9941@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9804@ukm-kalendere
@@ -131,6 +282,40 @@ LOCATION:CUE\, Målselv
 URL:https://www.ukm.no/arrangement/2027-malselv-ukmmalselv2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9938@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270318T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Fylkesfestivalen i Troms 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Fylkesfestivalen i Tr
+ oms 2027.\nPåmeldingsfrist: 18.03.2027 kl. 23:59 (norsk tid).\n\nFylkesfe
+ stivalen i Troms 2027\n\nfredag 16. april kl. 20:30 - søndag 18. april kl
+ . 13:00\n\nKulturhuset Finnsnes (https://www.google.com/maps/search/?api=1
+ &query=Kulturhuset%20Finnsnes)\n\nKulturhuset Finnsnes\n\nFylkesfestivalen
+  gjennomføres på Finnsnes i tiden 26.-18.april 2027. Denne gangen marker
+ er vi 30 års jubileum for fylkesfestivalen i Troms. Vi står klare til å
+  skape personlig vekst for kulturungdom \, videreutvikle og vise fram tale
+ nter fra hele vår region!\n\nKontaktpersoner\nOdd Halvdan Jakobsen\nDagli
+ g leder UKM Troms\nTelefon: 97193855\nE-post: adm@ukmarctic.no\n\nJulia So
+ fie Sørum Bjørklund\nInnholdsprodusent\nTelefon: 97896349\nE-post: julia
+ @ukm.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-troms-romsa
+ -tromssa-ukm-festivalenitroms2027/program\n\nPåmeldtePåmeldte: https://w
+ ww.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/de
+ ltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangem
+ ent/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/media\n\nPåmeldings
+ frist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scen
+ en: 18.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-troms
+ -romsa-tromssa-ukm-festivalenitroms2027/files/2026/10/Andreas-Olsen.jpg
+LOCATION:Kulturhuset Finnsnes
+URL:https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivaleni
+ troms2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9938@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9941@ukm-kalendere

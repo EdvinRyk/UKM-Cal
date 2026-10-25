@@ -8,6 +8,101 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9821@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261117T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM 2027 TRYSIL
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM 2027 TRYSIL.\nPå
+ meldingsfrist: 17.11.2026 kl. 23:59 (norsk tid).\n\nUKM 2027 TRYSIL\n\nsø
+ ndag 14. mars kl. 16:00 - 19:00\n\nKulturhuset Hagelund\n\nTrysil\n\nUKM 2
+ 027 TRYSIL: https://sys.ukm.no/2027-trysil-trysil/files/2026/10/Insitula-2
+ -fotograf-Monika-Soberg-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pameldi
+ ng/3421-9821/\n\nKontaktpersoner\nAnne Norderhaug Sætre\nTelefon: 9051515
+ 9\nE-post: ase@trysil.kommune.no\n\nBeathe Sande - Hovedkontakt UKM TRYSIL
+ \nTelefon: 47456499\nE-post: beathe.helen.sande@trysil.kommune.no\n\nPåme
+ ldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra ba
+ k scenen: 17.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arran
+ gement/2027-trysil-trysil
+LOCATION:Kulturhuset Hagelund\, Trysil
+URL:https://www.ukm.no/arrangement/2027-trysil-trysil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9821@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9851@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Gjøvikregionen
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Gjøvikregionen.\
+ nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Gjøvikregione
+ n\n\nlørdag 20. februar kl. 15:00 - 17:00\n\nØstre Toten Kulturhus\n\nS
+ øndre Land\, Gjøvik\, Vestre Toten\, Østre Toten\n\nEr du kreativ? Da e
+ r UKM for deg! 🎤🎨📸🎬 20. februar fyller vi Østre Toten kulturh
+ us med musikk\, dans\, kunst\, foto\, film og andre kreative uttrykk. På 
+ UKM får du vise fram talentet ditt\, møte andre kreative ungdommer og op
+ pleve en dag fylt med energi\, fellesskap og inspirasjon. UKM handler ikke
+  om å være best. Det handler om å tørre å vise hvem du er og det du l
+ iker å drive med. Enten du vil stå på scenen\, vise fram noe du har lag
+ et eller jobbe bak kulissene for å skape det beste arrangementet\, er det
+  plass til deg. Meld deg på i dag!\n\nUKM Gjøvikregionen: https://sys.uk
+ m.no/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten/files/20
+ 26/10/UKM-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3447-9851/\n\nKont
+ aktpersoner\nHege Øversveen\nTelefon: 45407778\nE-post: hege.oversveen@ot
+ oten.no\n\nLinda Victoria Bakkelund Røise\nTelefon: 92819853\nE-post: lin
+ da.victoria.roise@gjovik.kommune.no\n\nNina Vedal\nTelefon: 90041362\nE-po
+ st: nina.vedal@vestre-toten.kommune.no\n\nSolfrid Eriksen\nTelefon: 922871
+ 17\nE-post: wenchesolfridnilsson.eriksen@sondre-land.kommune.no\n\nPåmeld
+ ing – Gjøvik: https://delta.ukm.no/ukmid/pamelding/3407-9851/\nPåmeldi
+ ng – Vestre Toten: https://delta.ukm.no/ukmid/pamelding/3443-9851/\nPåm
+ elding – Østre Toten: https://delta.ukm.no/ukmid/pamelding/3442-9851/\n
+ Påmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bid
+ ra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/
+ arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten
+LOCATION:Østre Toten Kulturhus\, Søndre Land\, Gjøvik\, Vestre Toten
+URL:https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandves
+ tretotenogostretoten
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9851@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9901@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270101T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Ringebu
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Ringebu.\nPåmeld
+ ingsfrist: 01.01.2027 kl. 23:59 (norsk tid).\n\nUKM Ringebu\n\nlørdag 16.
+  januar kl. 15:00 - 19:00\n\nKaupanger Ringebu\n\nRingebu\n\nUKM Ringebu 2
+ 027 – bli med! 🎤🎨🎸\nHar du noe du liker å holde på med – mu
+ sikk\, dans\, kunst\, foto\, film\, teater eller noe helt annet? Da er UKM
+  stedet for deg!\nHer kan du vise fram det du driver med\, prøve noe nytt
+ \, møte andre ungdommer og være en del av et kreativt og sosialt felless
+ kap. Du trenger ikke å være proff – det viktigste er at du har lyst ti
+ l å bli med!\nUKM Ringebu arrangeres 16. januar 2027.\nPåmeldingsfrist e
+ r 10. januar 2027.\nTa med deg kreativiteten\, motet – og gjerne en venn
+ .\nVi sees på UKM Ringebu!\n\nhttps://delta.ukm.no/ukmid/pamelding/3439-9
+ 901/\n\nKontaktpersoner\nBrede Vestby\nTelefon: 48290415\nE-post: brede.ve
+ stby@ringebu.kommune.no\n\nErika Urbute\nTelefon: 96856605\nE-post: Erika.
+ Urbute@ringebu.kommune.no\n\nPåmeldingsfrist – delta: 01.01.2027 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 01.01.2027 kl. 23:59\nArrangem
+ entsside: https://www.ukm.no/arrangement/2027-ringebu-ringebu
+LOCATION:Kaupanger Ringebu
+URL:https://www.ukm.no/arrangement/2027-ringebu-ringebu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9901@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9901@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -35,6 +130,37 @@ LOCATION:Kaupanger Ringebu
 URL:https://www.ukm.no/arrangement/2027-ringebu-ringebu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9911@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270117T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Gausdal & Øyer 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Gausdal & Øyer 2
+ 027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nUKM Gausdal &
+  Øyer 2027\n\nsøndag 7. februar kl. 19:00 - 21:00\n\nGausdal Kulturhus\n
+ \nØyer\, Gausdal\n\nBli med ​​på årets viktigste kulturarrangement 
+ for ungdom i Øyer og Gausdal.\nUKM arrangeres lørdag og søndag\, 6-7 fe
+ bruar.\nPå lørdag blir det rigging av lyd\, lys og kunstutstilling\, lyd
+ prøver og UKM-vorspiel på kvelden. På søndag blir det workshops\, gene
+ ralprøve og forestilling kl 1900\, som er åpen for publikum. Vel møtt t
+ il en morsom helg :)\n\nUKM Gausdal & Øyer 2027: https://sys.ukm.no/2027-
+ gausdal-oyer-oyer/files/2026/10/Sugarcoat-Foto-Ingrid-Vibe-1200x1072.jpg\n
+ \nhttps://delta.ukm.no/ukmid/pamelding/3440-9911/\n\nKontaktpersoner\nØyd
+ is Uthberg\nTelefon: 95037719\nE-post: oydis.uthberg@gausdal.kommune.no\n\
+ nØyvind Selnes\nTelefon: 97634550\nE-post: Oyvind.Arnold.Selnes@oyer.komm
+ une.no\n\nPåmelding – Gausdal: https://delta.ukm.no/ukmid/pamelding/344
+ 1-9911/\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfris
+ t – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://ww
+ w.ukm.no/arrangement/2027-gausdal-oyer-oyer
+LOCATION:Gausdal Kulturhus\, Øyer
+URL:https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9911@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9911@ukm-kalendere
@@ -103,6 +229,75 @@ URL:https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandves
  tretotenogostretoten
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9906@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270228T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Elverum 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Elverum 2027.\nP
+ åmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Elverum 2027\n\n
+ søndag 4. april kl. 13:00 - 16:00\n\nElverum kulturhus\n\nElverum\n\nNå 
+ kan du melde deg på UKM Elverum 2027!🎨🎶🎭\n\nSøndag 4. april 202
+ 7 fyller vi Elverum Kulturhus med dans og musikk\, kunst\, foto\, film og 
+ andre kreative uttrykk! Bli med på UKM og møt andre kreative ungdommer\,
+  stift nye bekjentskap\, prøv noe nytt og opplev en dag fylt med god ener
+ gi\, fellesskap og inspirasjon!\n\nUKM handler ikke om å være best - det
+  handler om å vise frem hvem du er og det du liker å drive med! Liker du
+  å stå på scenen? Vil du vise frem noe du har laget? Ønsker du å jobb
+ e bak kulissene med å sminke deltakere\, rigge scene eller være produsen
+ t? Vil du ønske publikum velkommen\, jobbe med lyd og lys eller bare vær
+ e en del av et fellesskap? Meld deg på!\n\nDu stiller med kreativiteten o
+ g motet - og gjerne en venn - vi stiller med det resterende!\nVi sees på 
+ UKM! Alt er gratis!\n\n🔥Påmeldingsfrist for scene og kunst: 22.03.2027
+ \n🔥Påmeldingsfrist for arrangør\, konferansier og media: 28.02.2027\n
+ \nUKM Elverum 2027: https://sys.ukm.no/2027-elverum-ukmelverum2027/files/2
+ 026/10/336719835_600085101838555_6342385621675897198_n-1200x900.jpg\n\nhtt
+ ps://delta.ukm.no/ukmid/pamelding/3420-9906/\n\nKontaktpersoner\nHanne Ska
+ vern\nTelefon: 40612432\nE-post: hannemadeline@hotmail.com\n\nPåmeldingsf
+ rist – delta: 22.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scene
+ n: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/
+ 2027-elverum-ukmelverum2027
+LOCATION:Elverum kulturhus
+URL:https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9906@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9802@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Hadeland 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Hadeland 2027.\nPåme
+ ldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag
+  13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran\, Lunner\n\nMeld
+  deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeld
+ ingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-g
+ ran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.
+ no/ukmid/pamelding/3446-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strø
+ mnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.n
+ o\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\
+ n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n
+ \nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.
+ kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\n
+ E-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 918537
+ 04\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: http
+ s://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmeldingsfrist – delta: 0
+ 1.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl.
+  23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-
+ ukmhadeland2027
+LOCATION:Hadeland kultursal\, Gran\, Lunner
+URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9802@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9802@ukm-kalendere

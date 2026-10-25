@@ -158,6 +158,33 @@ def normalize(raw, page, counties, hit=None):
             "status": "CANCELLED" if cancelled(raw, page["text"]) else "CONFIRMED"}
 
 
+def backstage_deadline(raw, event):
+    """Keep the deadline beside its upcoming parent, with a separate stable UID.
+
+    UKM also supplies unused default deadlines after an event has ended. Like
+    the deadline text in the parent description, those are not published.
+    A passed deadline stays visible until its parent event is finished.
+    """
+    key = "paameldingsfrist_2"
+    deadline = source_date(raw, key)
+    end = source_date(raw, "stop") or source_date(raw, "start")
+    if deadline is None or deadline > end:
+        return None
+    structured = raw.get(key + "_date") or {}
+    all_day = len(str(structured.get("date", ""))) == 10
+    title = "Påmeldingsfrist bak scenen – " + event["title"]
+    shown = deadline.strftime("%d.%m.%Y" if all_day else "%d.%m.%Y kl. %H:%M")
+    description = (f"Frist for å melde seg på bak scenen til {event['title']}.\n"
+                   f"Påmeldingsfrist: {shown} (norsk tid).\n\n" + event["description"])
+    return {**event, "id": event["id"] + "-bak-scenen-frist",
+            "uid": f"ukm-bak-scenen-frist-{event['id']}@ukm-kalendere",
+            "kind": "backstage_deadline", "parent_uid": event["uid"],
+            "title": title, "description": description,
+            "start": deadline.date().isoformat() if all_day else deadline.isoformat(),
+            "end": (deadline.date() + timedelta(days=1)).isoformat() if all_day else None,
+            "all_day": all_day}
+
+
 def revisions(events, previous, now):
     """Keep revision metadata even for removed events, so reappearing IDs stay stable."""
     state = dict(previous)
@@ -211,6 +238,9 @@ def make_calendar(name, events, state):
                 lines.append("DTEND:" + utc_stamp(datetime.fromisoformat(event["end"])))
         lines += ["SUMMARY:" + escape(event["title"]), "DESCRIPTION:" + escape(event["description"]),
                   "LOCATION:" + escape(event["location"]), "URL:" + event["url"],
-                  "STATUS:" + event["status"], "TRANSP:TRANSPARENT", "END:VEVENT"]
+                  "STATUS:" + event["status"], "TRANSP:TRANSPARENT"]
+        if event.get("parent_uid"):
+            lines.append("RELATED-TO;RELTYPE=PARENT:" + escape(event["parent_uid"]))
+        lines.append("END:VEVENT")
     lines.append("END:VCALENDAR")
     return ("\r\n".join(fold_line(line) for line in lines) + "\r\n").encode("utf-8")

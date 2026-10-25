@@ -152,6 +152,106 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9909@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261101T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Askøy og Øygarden
+DESCRIPTION:Frist for å melde seg på bak scenen til Askøy og Øygarden.\
+ nPåmeldingsfrist: 01.11.2026 kl. 23:59 (norsk tid).\n\nAskøy og Øygarde
+ n\n\nlørdag 13. februar kl. 12:00 - 13:00\n\nAskøy\, Øygarden\n\nAskøy
+  og Øygarden: https://sys.ukm.no/2027-askoy-oygarden-askoyogoygarden/file
+ s/2026/10/pexels-audio-1851517_1920-1800x1200.jpg\n\nhttps://delta.ukm.no/
+ ukmid/pamelding/4627-9909/\n\nKontaktpersoner\nBjørn Andersen\nTelefon: 9
+ 0656836\nE-post: bjorn.andersen@oygarden.kommune.no\n\nHilde Kristin Egela
+ nd\nTelefon: 97585142\nE-post: hilde.egeland@oygarden.kommune.no\n\nNina M
+ athisen\nTelefon: 90538791\nE-post: nina.mathisen@askoy.kommune.no\n\nPåm
+ elding – Øygarden: https://delta.ukm.no/ukmid/pamelding/4626-9909/\nPå
+ meldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfrist – bidra 
+ bak scenen: 01.11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/20
+ 27-askoy-oygarden-askoyogoygarden/files/2026/10/pexels-audio-1851517_1920-
+ 1200x800.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-askoy-
+ oygarden-askoyogoygarden
+LOCATION:\, Askøy\, Øygarden
+URL:https://www.ukm.no/arrangement/2027-askoy-oygarden-askoyogoygarden
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9909@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9900@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Nordhordland lokalfestival
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Nordhordland loka
+ lfestival.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Nor
+ dhordland lokalfestival\n\nlørdag 30. januar kl. 12:00 - 19:00\n\nLeknes 
+ barneskule\n\nAlver\, Austrheim\, Masfjorden\n\nUKM lokalfestival for ungd
+ om i Alver\, Austrheim og Masfjorden\nUKM er ein møteplass for ungdom og 
+ kultur. Her kan me skape noko saman\, vise fram det me brenn for og hjelpe
+  andre med å bli sett.\n\nDet er gratis å delta på festivalen.\n\nKven 
+ kan delta?\nFestivalen er for ungdom frå det året dei fyller 13 år\, ti
+ l og med det året dei fyller 20 år.\n\nFor unge arrangørar og mediedelt
+ akarar er aldersgrensa frå det året dei fyller 15 år\, til og med det 
+ året dei fyller 20 år.\n\nSceneinnslag\nNytt i år er at kvar deltakar k
+ an vere med på inntil to ulike sceneinnslag. Du kan til dømes delta båd
+ e i eit band og som solist.\n\nKvart sceneinnslag kan ha éin låt\, slik 
+ det har vore tidlegare.\n\nMe har husband.\n\nKunst\nKunsten må vere laga
+  av kunstnaren sjølv\, anten åleine eller saman med ei gruppe.\n\nKvar d
+ eltakar kan stille ut inntil tre ulike verk. Eitt verk kan vere ein serie 
+ med maksimalt fire delar.\n\nNytt i år er at kunsten skal leverast inn é
+ i veke før festivalen. Tidspunkt for levering blir avtalt med kommunekont
+ aktane.\n\nhttps://delta.ukm.no/ukmid/pamelding/4631-9900/\n\nKontaktperso
+ ner\nHilde Jordal\nTelefon: 95066573\nE-post: hilde.jordal@alver.kommune.n
+ o\n\nIngunn Birkeland Fyllingen\nTelefon: 92046806\nE-post: ingunn.birkela
+ nd.fyllingen@alver.kommune.no\n\nKatarina Birkeland Nepstad\nTelefon: 9069
+ 6931\nE-post: katarina.birkeland@alver.kommune.no\n\nRobert Lorang Hansen\
+ nTelefon: 95522070\nE-post: robert.lorang.hansen@alver.kommune.no\n\nPåme
+ lding – Austrheim: https://delta.ukm.no/ukmid/pamelding/4632-9900/\nPåm
+ elding – Masfjorden: https://delta.ukm.no/ukmid/pamelding/4634-9900/\nP
+ åmeldingsfrist – delta: 12.01.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2027-alver-austrheim-ukmnordhordland
+LOCATION:Leknes barneskule\, Alver\, Austrheim\, Masfjorden
+URL:https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9900@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9908@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270102T095916Z
+SUMMARY:Påmeldingsfrist bak scenen – Askøy og Øygarden 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Askøy og Øygarden 2
+ 027.\nPåmeldingsfrist: 02.01.2027 kl. 10:59 (norsk tid).\n\nAskøy og Øy
+ garden 2027\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nAskøy\n\nhttps://
+ delta.ukm.no/ukmid/pamelding/4627-9908/\n\nKontaktpersoner\nBjørn Anderse
+ n\nTelefon: 90656836\nE-post: bjorn.andersen@oygarden.kommune.no\n\nHilde 
+ Kristin Egeland\nTelefon: 97585142\nE-post: hilde.egeland@oygarden.kommune
+ .no\n\nKaja Linder Henriksen\nTelefon: 97051880\nE-post: kaja.linder.henri
+ ksen@askoy.kommune.no\n\nKikkis Holmås\nTelefon: 41143144\nE-post: kikkis
+ .holmas@askoy.kommune.no\n\nNina Mathisen\nTelefon: 90538791\nE-post: nina
+ .mathisen@askoy.kommune.no\n\nKushtrim Aliu\nFullstack utvikler\nTelefon: 
+ 46516256\nE-post: kushtrim@ukm.no\n\nPåmeldingsfrist – delta: 02.01.202
+ 7 kl. 10:59\nPåmeldingsfrist – bidra bak scenen: 02.01.2027 kl. 10:59\n
+ Arrangementsside: https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoyga
+ rden2027
+LOCATION:\, Askøy
+URL:https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoygarden2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9908@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9900@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -191,6 +291,79 @@ LOCATION:Leknes barneskule\, Alver\, Austrheim\, Masfjorden
 URL:https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9885@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270131T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Voss\, Eidfjord\, Ulvik
+DESCRIPTION:Frist for å melde seg på bak scenen til Voss\, Eidfjord\, Ulv
+ ik.\nPåmeldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nVoss\, Eidfjor
+ d\, Ulvik\n\ntirsdag 16. februar kl. 18:00 - 22:00\n\nVoss kulturhus\n\nMi
+ nifestival for ungdom i Kulturhuset på Voss. Mange ungdommer er med både
+  på\, bak og rundt scenen. Du kan delta med musikk\, kunst\, film\, dikt\
+ , dans\, styling\, sjonglering og alt det mellom himmel og jord som ungdom
+  driver med. Hva driver du med? Kom og bli med!\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/4621-9885/\n\nKontaktpersoner\nBjørne Møen\nTelefon: 97071
+ 399\nE-post: Bjorne.Moen@eidfjord.kommune.no\n\nErlend Styve\nTelefon: 400
+ 07156\nE-post: Erlend.Styve@ulvik.kommune.no\n\nKristine Akselberg\nTelefo
+ n: 95727224\nE-post: kristine.akselberg@voss.herad.no\n\nInna Kopyl\nVoss\
+ nTelefon: 48664748\nE-post: inna.kopyl@voss.herad.no\n\nTrude Wiese Bang\n
+ Voss\nTelefon: 95165495\nE-post: trude.wiese-hansen@voss.herad.no\n\nPåme
+ lding – Eidfjord: https://delta.ukm.no/ukmid/pamelding/4619-9885/\nPåme
+ lding – Ulvik: https://delta.ukm.no/ukmid/pamelding/4620-9885/\nPåmeldi
+ ngsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak s
+ cenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangem
+ ent/2027-eidfjord-ulvik-vvosseidfjordulvik
+LOCATION:Voss kulturhus\, Eidfjord\, Ulvik
+URL:https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9885@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9820@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270205T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Årdal 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPå
+ meldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Årdal 2027\n\nlø
+ rdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM År
+ dal er møteplassen for unge som vil vise fram det dei brenn for! Her kan 
+ du delta med musikk\, dans\, teater\, kunst\, film\, foto eller andre krea
+ tive uttrykk.\n\nUKM er for ungdom frå 10 til 20 år\, og du treng ikkje 
+ vere profesjonell – det viktigaste er at du har lyst til å skape\, delt
+ a og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arra
+ ngert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til 
+ å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på U
+ KM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://
+ sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.j
+ pg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\n
+ Thor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.k
+ ommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vi
+ l vise fram det dei brenn for! Her kan du delta med musikk\, dans\, teater
+ \, kunst\, film\, foto eller andre kreative uttrykk.\n\nUKM er for ungdom 
+ frå 10 til 20 år\, og du treng ikkje vere profesjonell – det viktigast
+ e er at du har lyst til å skape\, delta og vere ein del av eit kreativt f
+ ellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av 
+ deltakarane får også moglegheit til å representere Årdal vidare på UK
+ M sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva d
+ u skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldings
+ frist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsbilde: https
+ ://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200
+ .jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal
+ 2027
+LOCATION:Årdal Kulturhus
+URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9820@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9820@ukm-kalendere
@@ -315,6 +488,51 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9969@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270221T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Lokalmønstring Sunnfjord 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Lokalmønstring Sunnf
+ jord 2027.\nPåmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nLokalm
+ ønstring Sunnfjord 2027\n\nfredag 5. mars kl. 15:00 - 21:00\n\nFørdehuse
+ t\n\nSunnfjord\n\nPåmeldinga er open!!\nMeld deg på med det du vil og ka
+ n\, UKM Sunnfjord lokalmønstring skjer på Førdehuset fredag 5. mars 202
+ 7\n\nUKM er ein møteplass der ungdom får høve til å vise fram sine kul
+ turelle utrykk gjennom ulike sjangrar som t.d musikk\, song\, dans\, teate
+ r\, kunst og foto i aldersgruppa 13-20 år.\n5. mars blir det lokalmønstr
+ ing i Førdehuset. Påmeldingsfrist er torsdag 25. februar.\n( søndag 21.
+  februar er frist for konferansier\, media og arrangør )\n\nFrist for å 
+ levere inn kunst er søndag 28. februar. Du leverer kunsten i resepsjonen 
+ i Førdehuset.\n\nDet er gratis å vere deltakar på UKM.\n\nVil du være 
+ i publikum så kan du kjøpe billett på Førdehuset si heimeside www.ford
+ ehuset.no\n\nProgram:\nKl. 15.00: Registrering av deltakarar som skal på 
+ scene i Festsalen\nKl. 15.30: Lyd/ sceneprøver\nKl. 16.30: Registrering a
+ v deltakarar på utstilling i Festsalen\nKl. 17.15: Pizza til alle i Fests
+ alen\nkl. 18.00 – Opning av kunstutstilling i Utstillingssalen.\nkl. 19.
+ 00 – 20.30 Sceneinnslag i Storsalen\n\nLokalmønstring Sunnfjord 2027: h
+ ttps://sys.ukm.no/2027-sunnfjord-lokalmonstringsunnfjord2027/files/2026/10
+ /gitar.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4647-9969/\n\nKontaktpe
+ rsoner\nAnders Bruland\nTelefon: 97196913\nE-post: anders.bruland@sunnfjor
+ d.kommune.no\n\nEli Britt Danielsen\nTelefon: 94818440\nE-post: Eli.Britt.
+ Danielsen@sunnfjord.kommune.no\n\nGrete Karin Øen\nTelefon: 91717180\nE-p
+ ost: grete.karin.oen@sunnfjord.kommune.no\n\nKristin Sandal\nTelefon: 9528
+ 5015\nE-post: kristin@oncue.no\n\nMai Kristin Tidemansen\nTelefon: 9151591
+ 2\nE-post: mai.kristin.tidemansen@forde.kommune.no\n\nStig Kamonen\nTelefo
+ n: 90187738\nE-post: stig@oncue.no\n\nPåmeldingsfrist – delta: 25.02.20
+ 27 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\
+ nArrangementsside: https://www.ukm.no/arrangement/2027-sunnfjord-lokalmons
+ tringsunnfjord2027
+LOCATION:Førdehuset\, Sunnfjord
+URL:https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord20
+ 27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9969@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9969@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -356,6 +574,38 @@ URL:https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord20
  27
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9899@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270315T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Vestland 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Vest
+ land 2027.\nPåmeldingsfrist: 15.03.2027 kl. 23:59 (norsk tid).\n\nUKM-fes
+ tivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 - søndag 25. april 
+ kl. 17:00\n\nKIPO Kultursal Askøy VGS (https://www.google.com/maps/search
+ /?api=1&query=KIPO%20Kultursal%20Ask%C3%B8y%20VGS)\n\nKIPO Kultursal Askø
+ y VGS\n\n23.–25. april 2027 brakar det laust med fylkesfestival i Vestla
+ nd.\n\nFor å delta på fylkesfestivalen må du bli vidaresend frå det lo
+ kale UKM-arrangementet i eigen kommune.\n\nMeir informasjon om festivalen 
+ kjem på denne sida.\n\nKontaktpersoner\nTora Herringbotn Theigmann\nFylke
+ skontakt\nTelefon: 48213866\nE-post: Tora.Herringbotn.Theigmann@vlfk.no\n\
+ nProgramProgram: https://www.ukm.no/arrangement/2027-vestland-ukm-festival
+ enivestland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/
+ 2027-vestland-ukm-festivalenivestland/deltagere\n\nBilder og videoerBilder
+  og videoer: https://www.ukm.no/arrangement/2027-vestland-ukm-festivaleniv
+ estland/media\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeld
+ ingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: h
+ ttps://sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/viol
+ aintenso_Adrians_260621_1-5-1200x800.jpg
+LOCATION:KIPO Kultursal Askøy VGS
+URL:https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9899@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9899@ukm-kalendere

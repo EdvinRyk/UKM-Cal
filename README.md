@@ -2,6 +2,10 @@
 
 Én iCalendar-feed for hvert av Norges 15 fylker og én for nasjonale UKM-arrangementer. Alle kommende og pågående offentlige arrangementer i UKMs kilder tas med, også neste kalenderår. Det er ingen egen øvre datogrense i generatoren.
 
+Hvert arrangement får også en separat hendelse med tittelen **Påmeldingsfrist bak scenen – [arrangementsnavn]** når UKM oppgir en gyldig frist. Den ligger i samme fylkes- eller nasjonale abonnement, på fristens dato og klokkeslett i norsk tid, med beskrivelse og påmeldingslenker fra arrangementet. Du trenger ikke legge til kalenderen på nytt.
+
+Fristen hentes fra API-feltet `paameldingsfrist_2` («jobbe med» i UKMs dokumentasjon). Den får en egen stabil UID knyttet til arrangements-ID-en, slik at endrede frister oppdaterer samme kalenderhendelse. Manglende frister og ubrukte standardverdier etter arrangementets slutt utelates. En frist som allerede har passert beholdes frem til det tilhørende arrangementet er avsluttet. Avlysning følger arrangementets status. Dato uten klokkeslett gir heldagsoppføring.
+
 Valgt repository: [EdvinRyk/UKM-Cal](https://github.com/EdvinRyk/UKM-Cal). Publiseringsadressen etter aktivering av GitHub Pages er `https://edvinryk.github.io/UKM-Cal/`.
 
 **Løsningen er publisert på [GitHub Pages](https://edvinryk.github.io/UKM-Cal/), med daglig oppdatering via GitHub Actions. Nettsiden har fast mørk modus.**
@@ -97,6 +101,7 @@ Testene bruker lagrede, offentlige eksempler fra UKM og trenger ikke nettverk. D
 - `generated/site/kalendere/*.ics`: 16 kalenderfiler.
 - `generated/site/status.json`: siste vellykkede generering, kildeomfang og antall arrangementer.
 - `generated/data/latest.json`: siste vellykkede offentlige kilde- og arrangementsdata.
+- `generated/data/latest.json` inneholder også `deadline_events`, med normaliserte fristoppføringer. `status.json` skiller mellom `event_count` (arrangementer), `deadline_count` (frister) og `entry_count` (alle kalenderhendelser); `calendars` teller alle oppføringer per abonnement.
 - `generated/data/events-state.json`: stabile revisjoner og tidsstempler.
 - `generated/data/status.json`: samme byggestatus som på nettstedet.
 

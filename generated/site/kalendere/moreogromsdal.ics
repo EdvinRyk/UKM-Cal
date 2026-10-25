@@ -8,6 +8,29 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9953@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270121T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Surnadal
+DESCRIPTION:Frist for å melde seg på bak scenen til Surnadal.\nPåmelding
+ sfrist: 21.01.2027 kl. 23:59 (norsk tid).\n\nSurnadal\n\nlørdag 13. febru
+ ar kl. 18:00 - 22:00\n\nSurnadal kulturhus\n\nSurnadal: https://sys.ukm.no
+ /2027-surnadal-surnadal/files/2026/10/IMG_1709-1350x1800.jpeg\n\nKontaktpe
+ rsoner\nSiv Torvik\nTelefon: 47875485\nE-post: siv.torvik@surnadal.kommune
+ .no\n\nPåmeldingsfrist – delta: 21.01.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 21.01.2027 kl. 23:59\nArrangementsbilde: https://sys
+ .ukm.no/2027-surnadal-surnadal/files/2026/10/IMG_1709-900x1200.jpeg\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-surnadal-surnadal
+LOCATION:Surnadal kulturhus
+URL:https://www.ukm.no/arrangement/2027-surnadal-surnadal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9953@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9953@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -28,6 +51,31 @@ LOCATION:Surnadal kulturhus
 URL:https://www.ukm.no/arrangement/2027-surnadal-surnadal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9923@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270306T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Festival Molde - 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Festival Molde - 
+ 2027.\nPåmeldingsfrist: 06.03.2027 kl. 23:59 (norsk tid).\n\nUKM Festival
+  Molde - 2027\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nMolde Kulturskole\n
+ \nMolde\n\nhttps://delta.ukm.no/ukmid/pamelding/1506-9923/\n\nKontaktperso
+ ner\nAnne Berntsen\nTelefon: 94143153\nE-post: anne.berntsen@molde.kommune
+ .no\n\nJan Espen Ramstad\nTelefon: 90941260\nE-post: janespen@lyd1.no\n\nS
+ tig-Tore Mayer\nTelefon: 41548478\nE-post: stig-tore.mayer@molde.kommune.n
+ o\n\nTanja Pedersen\nTelefon: 92436305\nE-post: tanja.pedersen@molde.kommu
+ ne.no\n\nPåmeldingsfrist – delta: 06.03.2027 kl. 23:59\nPåmeldingsfris
+ t – bidra bak scenen: 06.03.2027 kl. 23:59\nArrangementsside: https://ww
+ w.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027
+LOCATION:Molde Kulturskole
+URL:https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9923@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9923@ukm-kalendere

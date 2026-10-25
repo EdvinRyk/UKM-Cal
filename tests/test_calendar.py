@@ -5,7 +5,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from ukm_calendar.calendar import (OSLO, cancelled, county_memberships, is_test_county,
+from ukm_calendar.calendar import (OSLO, backstage_deadline, cancelled, county_memberships, is_test_county,
                                    make_calendar, normalize, revisions, source_date)
 from ukm_calendar.publish import build
 from ukm_calendar.source import SourceError, event_page, search_all
@@ -199,6 +199,88 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(parsed.decoded("DTSTART"), date(2027, 4, 1))
         self.assertEqual(parsed.decoded("DTEND"), date(2027, 4, 4))
         self.assertEqual(str(parsed["STATUS"]), "CANCELLED")
+
+
+class BackstageDeadlineTests(unittest.TestCase):
+    def record(self, deadline="2026-10-26 23:59:00.000000"):
+        raw, page = fixture()
+        raw["paameldingsfrist_2_date"]["date"] = deadline
+        return {"raw": raw, "page": page, "event": normalize(raw, page, COUNTIES)}
+
+    def test_distinct_deadline_links_to_parent_and_keeps_description(self):
+        record = self.record()
+        parent = record["event"]
+        value = backstage_deadline(record["raw"], parent)
+        self.assertNotEqual(value["uid"], parent["uid"])
+        self.assertEqual(value["parent_uid"], parent["uid"])
+        self.assertEqual(value["title"], "Påmeldingsfrist bak scenen – " + parent["title"])
+        self.assertEqual(value["calendars"], parent["calendars"])
+        self.assertEqual(value["expires"], parent["expires"])
+        self.assertEqual(value["url"], parent["url"])
+        self.assertIn(parent["description"], value["description"])
+        self.assertEqual(datetime.fromisoformat(value["start"]).hour, 23)
+        self.assertIsNone(value["end"])
+
+    def test_missing_and_unused_late_deadlines_are_not_invented(self):
+        record = self.record("2027-01-01 23:59:00")
+        self.assertIsNone(backstage_deadline(record["raw"], record["event"]))
+        record["raw"].pop("paameldingsfrist_2_date")
+        record["raw"]["paameldingsfrist_2"] = 0
+        self.assertIsNone(backstage_deadline(record["raw"], record["event"]))
+
+    def test_past_deadline_and_cancellation_follow_active_parent(self):
+        record = self.record("2026-10-20 23:59:00")
+        record["event"]["status"] = "CANCELLED"
+        value = backstage_deadline(record["raw"], record["event"])
+        self.assertLess(datetime.fromisoformat(value["start"]), NOW)
+        self.assertGreater(datetime.fromisoformat(value["expires"]), NOW)
+        self.assertEqual(value["status"], "CANCELLED")
+
+    @unittest.skipUnless(Calendar, "Installer .[test]")
+    def test_winter_summer_and_date_only_deadlines_roundtrip(self):
+        for deadline, expected_offset in (("2026-10-26 23:59:00", 1), ("2026-10-24 23:59:00", 2)):
+            record = self.record(deadline)
+            value = backstage_deadline(record["raw"], record["event"])
+            content = make_calendar("Test", [value], revisions([value], {}, NOW))
+            parsed = Calendar.from_ical(content).walk("VEVENT")[0]
+            local = parsed.decoded("DTSTART").astimezone(OSLO)
+            self.assertEqual(local.strftime("%Y-%m-%d %H:%M:%S"), deadline)
+            self.assertEqual(local.utcoffset(), timedelta(hours=expected_offset))
+            self.assertEqual(str(parsed["RELATED-TO"]), record["event"]["uid"])
+            self.assertEqual(parsed["RELATED-TO"].params["RELTYPE"], "PARENT")
+        record = self.record("2026-10-26")
+        value = backstage_deadline(record["raw"], record["event"])
+        parsed = Calendar.from_ical(make_calendar("Test", [value], revisions([value], {}, NOW))).walk("VEVENT")[0]
+        self.assertEqual(parsed.decoded("DTSTART"), date(2026, 10, 26))
+        self.assertEqual(parsed.decoded("DTEND"), date(2026, 10, 27))
+
+    @unittest.skipUnless(Calendar, "Installer .[test]")
+    def test_feed_updates_deadline_without_duplicates_and_removes_missing_deadline(self):
+        meta = {"search": {"hits": 1, "complete": True}}
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp) / "generated"
+            first = self.record()
+            status = build(output, COUNTIES, [first], meta, NOW)
+            self.assertEqual(status["event_count"], 1)
+            self.assertEqual(status["deadline_count"], 1)
+            self.assertEqual(status["calendars"]["vestland"], 2)
+            path = output / "site/kalendere/vestland.ics"
+            original = Calendar.from_ical(path.read_bytes()).walk("VEVENT")
+            original_uids = {str(e["UID"]) for e in original}
+            changed = self.record("2026-10-27 12:00:00")
+            build(output, COUNTIES, [changed], meta, NOW + timedelta(hours=1))
+            updated = Calendar.from_ical(path.read_bytes()).walk("VEVENT")
+            self.assertEqual({str(e["UID"]) for e in updated}, original_uids)
+            deadline = next(e for e in updated if "RELATED-TO" in e)
+            self.assertEqual(int(deadline["SEQUENCE"]), 1)
+            self.assertEqual(deadline.decoded("DTSTART").astimezone(OSLO).hour, 12)
+            self.assertIn("1 påmeldingsfrist bak scenen", (output / "site/index.html").read_text())
+            changed["raw"].pop("paameldingsfrist_2_date")
+            changed["raw"]["paameldingsfrist_2"] = 0
+            build(output, COUNTIES, [changed], meta, NOW + timedelta(hours=2))
+            remaining = Calendar.from_ical(path.read_bytes()).walk("VEVENT")
+            self.assertEqual(len(remaining), 1)
+            self.assertEqual(str(remaining[0]["UID"]), first["event"]["uid"])
 
 
 class AtomicBuildTests(unittest.TestCase):

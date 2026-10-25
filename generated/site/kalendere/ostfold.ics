@@ -8,6 +8,66 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9958@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270122T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Våler (Østfold) 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Våler (Østfold) 202
+ 7.\nPåmeldingsfrist: 22.01.2027 kl. 23:59 (norsk tid).\n\nVåler (Østfol
+ d) 2027\n\nfredag 5. mars kl. 18:00 - 20:00\n\nVåler Ungdomsskole\n\nVål
+ er (Østfold)\n\n💥Bli med på UKM Våler 5. mars 2027💥\nDu kan opptr
+ e på scena med dans\, musikk\, teater eller noe annet\, vise frem kunst i
+  utstillingen\neller være med som arrangør eller konferansier.\nMeld deg
+  på! Aldersgrense 7.trinn til 20 år.\n\nHar du spørsmål?\nTa kontakt m
+ ed Ida eller Merethe.\n\nVåler (Østfold) 2027: https://sys.ukm.no/2027-v
+ alerostfold-ukmvalerostfold2027/files/2026/10/IMG_5390-1350x1800.jpeg\n\nh
+ ttps://delta.ukm.no/ukmid/pamelding/3114-9958/\n\nKontaktpersoner\nIda Lø
+ kken Anstensrud\nTelefon: 97762085\nE-post: ida.lokken.anstensrud@valer.ko
+ mmune.no\n\nMerethe Osufsen\nTelefon: 45439353\nE-post: merethe.osufsen@va
+ ler.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangementsbilde: 
+ https://sys.ukm.no/2027-valerostfold-ukmvalerostfold2027/files/2026/10/IMG
+ _5390-900x1200.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027
+ -valerostfold-ukmvalerostfold2027
+LOCATION:Våler Ungdomsskole\, Våler (Østfold)
+URL:https://www.ukm.no/arrangement/2027-valerostfold-ukmvalerostfold2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9958@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9956@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – SHOW MOSS
+DESCRIPTION:Frist for å melde seg på bak scenen til SHOW MOSS.\nPåmeldin
+ gsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nSHOW MOSS\n\nfredag 12. mars
+  kl. 18:00 - 22:00\n\nSamfunnshuset\n\nMoss\n\nFredag 12. mars braker det 
+ løs med UKM Show Moss. Nærmere informasjon kommer\n\nSHOW MOSS: https://
+ sys.ukm.no/2027-moss-showmoss/files/2026/10/Image-2-900x1200.jpeg\n\nhttps
+ ://delta.ukm.no/ukmid/pamelding/3103-9956/\n\nKontaktpersoner\nArthur Olse
+ n\nTelefon: 93085578\nE-post: arthur.olsen@moss.kommune.no\n\nBeate Anonse
+ n\nTelefon: 93484735\nE-post: beate.anonsen@moss.kommune.no\n\nJanne Korne
+ liussen\nTelefon: 93044810\nE-post: Janne.Korneliussen@moss.kommune.no\n\n
+ Kenneth Manfred Storkås\nTelefon: 45230909\nE-post: kenneth.manfred.stork
+ as@moss.kommune.no\n\nNicoline-Louise Kvennsjø\nTelefon: 45167121\nE-post
+ : nicoline-louise.leegaard.kvennsjo@moss.kommune.no\n\nPåmeldingsfrist 
+ – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01
+ .03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ moss-showmoss
+LOCATION:Samfunnshuset\, Moss
+URL:https://www.ukm.no/arrangement/2027-moss-showmoss
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9956@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9958@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -64,6 +124,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9952@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270411T215900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Fredrikstadfestivalen 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Fredrikstadfestiv
+ alen 2027.\nPåmeldingsfrist: 11.04.2027 kl. 23:59 (norsk tid).\n\nUKM Fre
+ drikstadfestivalen 2027\n\nlørdag 17. april kl. 18:00 - 22:00\n\nSt.Croix
+ -huset\n\nFredrikstad\n\nVelkommen til vårens vakreste eventyr ! Ung Kult
+ ur Møtes til UKM Fredrikstadfestivalen lørdag 17. april. Følg med i sos
+ iale medier. Mer info kommer.\n\nUKM Fredrikstadfestivalen 2027: https://s
+ ys.ukm.no/2027-fredrikstad-ukmfredrikstadfestivalen2027/files/2026/10/back
+ drop-show-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3107-9952/\
+ n\nKontaktpersoner\nLine Eger-Heed\nTelefon: 91835011\nE-post: lhee@fredri
+ kstad.kommune.no\n\nPer-Øivind Johannessen\nTelefon: 90732111\nE-post: po
+ jo@fredrikstad.kommune.no\n\nPåmeldingsfrist – delta: 03.04.2027 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 11.04.2027 kl. 23:59\nArrangem
+ entsside: https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfe
+ stivalen2027
+LOCATION:St.Croix-huset\, Fredrikstad
+URL:https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivale
+ n2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9952@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9952@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -89,6 +178,35 @@ URL:https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivale
  n2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9894@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270916T215900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Østfold 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Øst
+ fold 2027.\nPåmeldingsfrist: 16.09.2027 kl. 23:59 (norsk tid).\n\nUKM-fes
+ tivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (
+ https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-
+ festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 2
+ 00 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en in
+ nholdsrik festivaldag.\nMeld deg på UKM i din kommune\, så kanskje vi se
+ s i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\
+ nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement
+ /2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/a
+ rrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og v
+ ideoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåm
+ eldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra b
+ ak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/202
+ 7-ostfold-festival/files/2026/10/2.jpg
+LOCATION:Moss
+URL:https://www.ukm.no/arrangement/2027-ostfold-festival
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9894@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9894@ukm-kalendere

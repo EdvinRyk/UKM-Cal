@@ -17,7 +17,8 @@ def main():
     except (SourceError, ValueError, KeyError, OSError) as error:
         print(f"Oppdateringen feilet. Forrige vellykkede versjon er beholdt.\n{error}", file=sys.stderr)
         return 1
-    print(f"Ferdig: {status['event_count']} arrangementer i {status['calendar_count']} kalendere. Utmappe: {args.output}")
+    print(f"Ferdig: {status['event_count']} arrangementer og {status['deadline_count']} påmeldingsfrister bak scenen "
+          f"i {status['calendar_count']} kalendere. Utmappe: {args.output}")
     return 0
 
 

@@ -141,6 +141,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9880@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261221T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Nordstrand
+DESCRIPTION:Frist for å melde seg på bak scenen til Nordstrand.\nPåmeldi
+ ngsfrist: 21.12.2026 kl. 23:59 (norsk tid).\n\nNordstrand\n\nfredag 5. feb
+ ruar kl. 18:00 - 22:00\n\nLambertseter fritidsklubb\n\nUKM Nordstrand er e
+ n møteplass for unge som ønsker å vise fram det de brenner for. Her kan
+  ungdom delta med musikk\, dans\, kunst\, film og andre kreative uttrykk\,
+  og få muligheten til å møte andre unge og dele talentene sine.\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/308-9880/\n\nKontaktpersoner\nAbid Albark
+ ane\nTelefon: 96818926\nE-post: abid.albarkane@bns.oslo.kommune.no\n\nElis
+ e Breivik Skarbø\nTelefon: 99093836\nE-post: elise.breivik.skarbo@bns.osl
+ o.kommune.no\n\nPåmeldingsfrist – delta: 21.12.2026 kl. 23:59\nPåmeldi
+ ngsfrist – bidra bak scenen: 21.12.2026 kl. 23:59\nArrangementsside: htt
+ ps://www.ukm.no/arrangement/2027-nordstrand-nordstrand
+LOCATION:Lambertseter fritidsklubb\, Nordstrand
+URL:https://www.ukm.no/arrangement/2027-nordstrand-nordstrand
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9880@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9968@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -230,6 +256,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9951@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270120T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM på Stovner 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM på Stovner 2027.
+ \nPåmeldingsfrist: 20.01.2027 kl. 23:59 (norsk tid).\n\nUKM på Stovner 2
+ 027\n\ntorsdag 18. mars kl. 18:00 - 21:00\n\nRommen Scene\n\nStovner\n\nVi
+  gleder oss! Mer info kommer!\n\nhttps://delta.ukm.no/ukmid/pamelding/317-
+ 9951/\n\nKontaktpersoner\nAtle Borgeteien\nTelefon: 93286658\nE-post: atle
+ .borgeteien@bsr.oslo.kommune.no\n\nPåmeldingsfrist – delta: 20.01.2027 
+ kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 20.01.2027 kl. 23:59\nAr
+ rangementsside: https://www.ukm.no/arrangement/2027-stovner-ukmpastovner20
+ 27
+LOCATION:Rommen Scene\, Stovner
+URL:https://www.ukm.no/arrangement/2027-stovner-ukmpastovner2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9951@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9880@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -253,6 +302,37 @@ LOCATION:Lambertseter fritidsklubb\, Nordstrand
 URL:https://www.ukm.no/arrangement/2027-nordstrand-nordstrand
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9937@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270214T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Lokal mønstring Vestre Aker 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Lokal mønstring Vest
+ re Aker 2027.\nPåmeldingsfrist: 14.02.2027 kl. 23:59 (norsk tid).\n\nLoka
+ l mønstring Vestre Aker 2027\n\nlørdag 13. mars kl. 16:00 - 20:00\n\nVes
+ tre Aker\n\nUKM – Ung Kultur Møtes – er en møteplass der ungdom får
+  vise fram det de liker å gjøre og være en del av et kreativt fellesska
+ p.\n\nPå lokalmønstringen kan ungdom delta med blant annet musikk\, dans
+ \, teater\, kunst\, arrangører\, film og andre kreative uttrykk. Det hand
+ ler ikke om å konkurrere\, men om å møtes\, oppleve\, lære og få muli
+ ghet til å utvikle seg.\n\nLokalmønstringen arrangeres lokalt og er åpe
+ n for ungdom som ønsker å delta eller bidra.\n\nhttps://delta.ukm.no/ukm
+ id/pamelding/324-9937/\n\nKontaktpersoner\nBalita Serge Buhendwa\nTelefon:
+  99866660\nE-post: villagepointproduction@gmail.com\n\nNaimo Abdulkadir Sh
+ iiq Omar\nTelefon: 41213779\nE-post: naciimonora@gmail.com\n\nPåmeldingsf
+ rist – delta: 14.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scene
+ n: 14.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/
+ 2027-vestreaker-lokalmonstringvestreaker2027
+LOCATION:\, Vestre Aker
+URL:https://www.ukm.no/arrangement/2027-vestreaker-lokalmonstringvestreaker
+ 2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9937@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9937@ukm-kalendere
@@ -303,6 +383,37 @@ LOCATION:Rommen Scene\, Stovner
 URL:https://www.ukm.no/arrangement/2027-stovner-ukmpastovner2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9883@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270319T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Oslo 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Oslo
+  2027.\nPåmeldingsfrist: 19.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festiva
+ len i Oslo 2027\n\nlørdag 24. april kl. 10:00 - søndag 25. april kl. 21:
+ 00\n\nSentralen (https://www.google.com/maps/search/?api=1&query=Sentralen
+ )\n\nSentralen\n\nVelkommen til UKM-festivalen i Oslo 2027! VI samler ungd
+ ommer fra hele Oslo til to dager med aktiviteter\, forestillinger\, kunstu
+ tstilling og ekte lidenskap for ungdomskultur!\n\nKontaktpersoner\nMagnus 
+ Nordbekk\nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nMargaret
+  Berger\nTelefon: 97097921\nE-post: margaretukmoslo@gmail.com\n\nProgramPr
+ ogram: https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027/pr
+ ogram\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-oslo-ukm-
+ festivalenioslo2027/deltagere\n\nBilder og videoerBilder og videoer: https
+ ://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027/media\n\nPåme
+ ldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra ba
+ k scenen: 19.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027
+ -oslo-ukm-festivalenioslo2027/files/2026/09/Forestilling-1_FLAMMESEX_UKM_O
+ SLO_2026_Kasper-Holgersen-5-1200x901.jpg
+LOCATION:Sentralen
+URL:https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9883@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9883@ukm-kalendere

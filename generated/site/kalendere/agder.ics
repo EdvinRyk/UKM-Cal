@@ -63,6 +63,110 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9887@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20261231T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Sirdal UKM 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Sirdal UKM 2027.\nPå
+ meldingsfrist: 31.12.2026 kl. 23:59 (norsk tid).\n\nSirdal UKM 2027\n\nfre
+ dag 5. februar kl. 18:30 - 20:30\n\nSirdal Kulturhus\n\nSirdal\n\nVelkomme
+ n til Sirdal UKM 2027! Påmelding for deltakere åpner allerede nå\, og h
+ ar en frist på 17.01.27. Dersom du ønsker å bidra med noe\, om det så 
+ er Scenarbeid\, Mediedekking\, Konfransier eller lignende\, stenger dette 
+ 31.12.26.\n\nVi håper dette blir Sirdal Kommunes beste UKM\, derfor håpe
+ r vi at nettopp DU melder deg på!\n\nSirdal UKM 2027: https://sys.ukm.no/
+ 2027-sirdal-ukmsirdal2027/files/2026/09/Copy-of-Stedsnavn-med-Logo-1200x79
+ 9.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4228-9887/\n\nKontaktpersone
+ r\nDan Olaf Søgård Solberg\nTelefon: 98849594\nE-post: dan.olaf.sogard.s
+ olberg@sirdal.kommune.no\n\nMarianne Tjørhom\nTelefon: 46668566\nE-post: 
+ marianne.tjorhom@sirdal.kommune.no\n\nPåmeldingsfrist – delta: 17.01.20
+ 27 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.12.2026 kl. 23:59\
+ nArrangementsside: https://www.ukm.no/arrangement/2027-sirdal-ukmsirdal202
+ 7
+LOCATION:Sirdal Kulturhus
+URL:https://www.ukm.no/arrangement/2027-sirdal-ukmsirdal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9887@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9942@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270116T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Grimstad
+DESCRIPTION:Frist for å melde seg på bak scenen til Grimstad.\nPåmelding
+ sfrist: 16.01.2027 kl. 23:59 (norsk tid).\n\nGrimstad\n\nfredag 12. mars k
+ l. 17:30 - 21:00\n\nGrimstad Kulturhus og kino\n\nFredag 12.mars er vi end
+ elig klare til årets store kultur-happening for ungdom i Grimstad\, nemli
+ g UKM!\n\nUKM (Ung Kultur Møtes) er en festival der ungdom kan vise hva d
+ e holder på med og møte andre som liker å drive med noe kreativt og gø
+ y. Det er gratis å være med\, og du kan delta med nesten hva som helst!\
+ n\nAlle mellom 13-20 år kan være med\, enten ved å vise noe fram på sc
+ enen\, delta i kunstutstillingen\, eller som arrangør\, konferansier\, el
+ ler jobbe med media (foto/video/some-produksjon).\n\nGrimstad: https://sys
+ .ukm.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1800x1200.jpg\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/4202-9942/\n\nKontaktpersoner\nIrene Håh
+ eim\nTelefon: 91386511\nE-post: Irene.Haheim@grimstad.kommune.no\n\nKevin 
+ Kvåle\nTelefon: 92891349\nE-post: kevin.kvale@grimstad.kommune.no\n\nMagn
+ us Tornensis\nTelefon: 95197456\nE-post: magtor@alta.kommune.no\n\nSimon M
+ eyer Tallaksen\nTelefon: 95946629\nE-post: simon.meyer.tallaksen@gmail.com
+ \n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist –
+  bidra bak scenen: 16.01.2027 kl. 23:59\nArrangementsbilde: https://sys.uk
+ m.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1200x800.jpg\nArrangemen
+ tsside: https://www.ukm.no/arrangement/2027-grimstad-grimstad
+LOCATION:Grimstad Kulturhus og kino
+URL:https://www.ukm.no/arrangement/2027-grimstad-grimstad
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9942@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9932@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270130T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Risør ( Gjerstad og Vegårshei er 
+ også velkomne)
+DESCRIPTION:Frist for å melde seg på bak scenen til Risør ( Gjerstad og 
+ Vegårshei er også velkomne).\nPåmeldingsfrist: 30.01.2027 kl. 23:59 (no
+ rsk tid).\n\nRisør ( Gjerstad og Vegårshei er også velkomne)\n\nfredag 
+ 5. mars kl. 18:00 - lørdag 6. mars kl. 22:00\n\nRisørhuset kulturhus\n\n
+ Risør\n\nVelkommen til UKM-helg på Risørhuset!\n\nFredag og lørdag fyl
+ ler vi huset med aktiviteter\, full backline\, verksteder\, pizza\, gaming
+  og mye mer. Vi håper du vil være med på scenen\, bak kameraet eller ba
+ k kulissene!\n\nUKM er mye mer enn å opptre. Her er noen av måtene du ka
+ n delta på:\n\nArrangør – bli med på å planlegge og gjennomføre arr
+ angementet\, ta imot deltakere og skape god stemning.\n\n📸 Media – li
+ ker du å lage TikTok vidoer og innehold til Sosiale medier? Da trenger vi
+  deg! Bidra med foto\, film som viser fram det som skjer.\n\n🎤 Konferan
+ sier – presenter deltakerne og led publikum gjennom forestillingen.\n\n
+ 🎛️ Sceneteknikk – bli med bak kulissene og jobb med det tekniske ru
+ ndt scenen.\n\n🎶 Vil du heller vise fram noe selv? Du kan delta med bla
+ nt annet musikk\, dans\, teater\, kunst eller film – alene eller sammen 
+ med andre.\n\nBli med og skap en helg full av ungdomskultur\, nye venner o
+ g fine opplevelser!\n\nRisør ( Gjerstad og Vegårshei er også velkomne):
+  https://sys.ukm.no/2027-risor-risor/files/2026/10/649045638_1258641309807
+ 354_4564327398316902648_n-900x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamel
+ ding/4201-9932/\n\nKontaktpersoner\nFrida Fred Dørsdal\nTelefon: 99518123
+ \nE-post: frida.fred.dorsdal@risor.kommune.no\n\nPåmeldingsfrist – delt
+ a: 05.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 30.01.2027
+  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-risor-ri
+ sor
+LOCATION:Risørhuset kulturhus
+URL:https://www.ukm.no/arrangement/2027-risor-risor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9932@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9887@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -89,6 +193,36 @@ LOCATION:Sirdal Kulturhus
 URL:https://www.ukm.no/arrangement/2027-sirdal-ukmsirdal2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9931@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270207T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Tvedestrand
+DESCRIPTION:Frist for å melde seg på bak scenen til Tvedestrand.\nPåmeld
+ ingsfrist: 07.02.2027 kl. 23:59 (norsk tid).\n\nTvedestrand\n\nlørdag 20.
+  februar kl. 18:00 - 21:00\n\nDet blir Tvedestrand UKM i 2027 også!\n\nUK
+ M er for deg mellom 10 – 20 år. Du kan vise frem noe\, danse\, synge\, 
+ opptre med band\, vise en film\, spille musikk\, spille en teatersnutt\, u
+ tstille noe du har laget\, sydd\, tegnet\, skrevet\, brodert\, skapt.... D
+ et kan være hva som helst!\nOg så trenger vi deg som vil hjelpe bak scen
+ en med å rigge til\, ta foto og filme det hele. Hvis du ikke har gjort de
+ t før\, gjør det ingenting. Du får lære av de som kan det.\n\nBli med 
+ og meld deg på!\n\nTvedestrand: https://sys.ukm.no/2027-tvedestrand-tvede
+ strandukm/files/2026/10/P1228584-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamel
+ ding/4213-9931/\n\nKontaktpersoner\nFranziska Rüttimann Storemyr\nTelefon
+ : 47667687\nE-post: franziska.ruttimann.storemyr@tvedestrand.kommune.no\n\
+ nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bi
+ dra bak scenen: 07.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no
+ /arrangement/2027-tvedestrand-tvedestrandukm
+LOCATION:\, Tvedestrand
+URL:https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9931@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9931@ukm-kalendere
@@ -118,6 +252,39 @@ LOCATION:\, Tvedestrand
 URL:https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9934@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Flekkefjord og Kvinesdal
+DESCRIPTION:Frist for å melde seg på bak scenen til Flekkefjord og Kvines
+ dal.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nFlekkefjord o
+ g Kvinesdal\n\ntorsdag 11. mars kl. 18:00 - 21:00\n\nFlekkefjord Kultursen
+ ter Spira\n\nKvinesdal\, Flekkefjord\n\nFlekkefjord og Kvinesdal UKM 2027 
+ arrangeres i Flekkefjord Kultursenter Spira torsdag 11. mars kl.18.00 (opp
+ møte for deltakere kl.17.00)\n\nGeneralprøve onsdag 10. mars i Flekkefjo
+ rd Kultursenter(Mer info kommer til de påmeldte kommer når det nærmer s
+ eg)\n\nPåmeldingsfris: 1. mars for arrangører / 4. mars for Kunst- og sc
+ eneinnslag.\n\nFlekkefjord og Kvinesdal: https://sys.ukm.no/2027-flekkefjo
+ rd-kvinflekkefjordogkvinesdal/files/2026/10/UKM-900x1200.jpg\n\nhttps://de
+ lta.ukm.no/ukmid/pamelding/4227-9934/\n\nKontaktpersoner\nArne Reidar Skag
+ e\nTelefon: 91114400\nE-post: arne.reidar.skage.jr@flekkefjord.kommune.no\
+ n\nLisa Stokkeland\nUKM koordinator Kvinesdal og klubbleder INNER10Er ungd
+ omshus\nTelefon: 41514887\nE-post: lisa.yvon.stokkeland@kvinesdal.kommune.
+ no\n\nPåmelding – Flekkefjord: https://delta.ukm.no/ukmid/pamelding/420
+ 7-9934/\nPåmeldingsfrist – delta: 04.03.2027 kl. 23:59\nPåmeldingsfris
+ t – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://ww
+ w.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvinesdal
+LOCATION:Flekkefjord Kultursenter Spira\, Kvinesdal
+URL:https://www.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvines
+ dal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9934@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9708@ukm-kalendere
@@ -186,6 +353,51 @@ LOCATION:Risørhuset kulturhus
 URL:https://www.ukm.no/arrangement/2027-risor-risor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9805@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270307T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Lyngdal
+DESCRIPTION:Frist for å melde seg på bak scenen til Lyngdal.\nPåmeldings
+ frist: 07.03.2027 kl. 23:59 (norsk tid).\n\nLyngdal\n\nlørdag 13. mars kl
+ . 18:00 - 20:00\n\nLyngdal kulturhus\n\nEtter å ha samarbeidet to år med
+  Farsund om UKM\, er Lyngdal nå tilbake og vil arrangere UKM på egenhån
+ d. Med Lyngdal kulturskole med på laget har vi klokketro på at det komme
+ r til å bli helt nydelig!\n\nUKM Lyngdal er for DEG i alderen 13-20 år (
+ altså du som er født mellom 2007 og 2014)\, og som har noe du vil vise p
+ å en scene\, i en utstilling\, en film\, kokkekunst\, skriver dikt eller 
+ bøker - eller i det hele tatt holder på med gøye og kreative ting! UKM 
+ er ikke en talentkonkurranse\, men vi vektlegger det sosiale og positive m
+ ed å møte og lære av andre kreative ungdommer.\n\nDu kan delta med så 
+ mange ulike typer innslag eller kunstverk du vil\, og du kan også samarbe
+ ide med andre. På UKM kan du også melde deg på som arrangør\, konferan
+ sier eller med media - hvor du for eksempel kan ta bilder\, filme eller sk
+ rive om UKM.\n\nDersom dere er en gruppe\, må halvparten av medlemmene i 
+ gruppen være født mellom 2007 og 2014 - resten kan være eldre eller yng
+ re.\n\nHar du spørsmål? Ta kontakt med Pål eller Martin\, så hjelper v
+ i deg gjerne! :)\n\nhttps://delta.ukm.no/ukmid/pamelding/4225-9805/\n\nKon
+ taktpersoner\nMartin Sierra\nMartin Sierra er utdannet danser\, og er rekt
+ or for kulturskolen i Lyngdal. Martin har også utviklet et program hvor h
+ an lærer opp ungdom til å bli fremtidige ledere - og disse ungdommene er
+  en viktig del av gjennomføringen av UKM Lyngdal.\nTelefon: 93613034\nE-p
+ ost: martin.sierra@lyngdal.kommune.no\n\nPål T. Fosso\nPål Tesaker Fosso
+  er kommunekontakt for UKM Lyngdal\, og jobber på Lyngdal kulturhus som r
+ ådgiver. Pål har arrangert UKM siden 2010\, og har også vært deltaker 
+ mange ganger i band. Pål er også produsent for flere podkaster\, blant a
+ nnet podkasten UKM Lyngdal\, som du kan høre på Spotify\, Apple Podcasts
+ \, Podme\, Podimo osv.\nTelefon: 47059851\nE-post: pal.tesaker.fosso@lyngd
+ al.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeld
+ ingsfrist – bidra bak scenen: 07.03.2027 kl. 23:59\nArrangementsside: ht
+ tps://www.ukm.no/arrangement/2027-lyngdal-lyngdal
+LOCATION:Lyngdal kulturhus
+URL:https://www.ukm.no/arrangement/2027-lyngdal-lyngdal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9805@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9934@ukm-kalendere
@@ -295,6 +507,39 @@ LOCATION:Lyngdal kulturhus
 URL:https://www.ukm.no/arrangement/2027-lyngdal-lyngdal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9918@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270319T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM festivalen i Agder 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM festivalen i Agde
+ r 2027.\nPåmeldingsfrist: 19.03.2027 kl. 23:59 (norsk tid).\n\nUKM festiv
+ alen i Agder 2027\n\nfredag 9. april kl. 18:00 - søndag 11. april kl. 16:
+ 00\n\nTeateret (https://www.google.com/maps/search/?api=1&query=Teateret)\
+ n\nTeateret\n\nUKM-deltakere fra hele Agder samles i Kristiansand for fylk
+ esfestivalen 2026! To dager med overnatting\, show\, kunst\, workshops og 
+ aktiviteter - helt gratis selvfølgelig! Vil du være med\, må du først 
+ delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åp
+ en\, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktpe
+ rsoner\nTonje Eikrem Jacobsen\nFylkeskontakt\nTelefon: 47381761\nE-post: T
+ onje.Eikrem.Jacobsen@agderfk.no\n\nHarald Stensland\nSceneprodusent\nTelef
+ on: 90975600\nE-post: harald.stensland@agderfk.no\n\nProgramProgram: https
+ ://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/program\n\nP
+ åmeldtePåmeldte: https://www.ukm.no/arrangement/2026-agder-ukm-festivale
+ niagder2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.u
+ km.no/arrangement/2026-agder-ukm-festivaleniagder2027/media\n\nPåmeldings
+ frist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scen
+ en: 19.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-agder
+ -ukm-festivaleniagder2027/files/2026/10/scene-1200x900.jpg
+LOCATION:Teateret
+URL:https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9918@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9918@ukm-kalendere

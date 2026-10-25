@@ -11,7 +11,7 @@ from datetime import UTC, datetime, time
 from pathlib import Path
 from urllib.parse import quote, urljoin, urlparse
 
-from .calendar import OSLO, is_test_county, make_calendar, normalize, revisions, short_name
+from .calendar import OSLO, backstage_deadline, is_test_county, make_calendar, normalize, revisions, short_name
 from .source import Client, Document, SourceError, WEB, event_page, search_all, search_credentials
 
 
@@ -122,12 +122,15 @@ def index_html(counties, events, generated_at, base_url):
     calendars = [("nasjonalt", "Nasjonale arrangementer")] + [(c["link"], short_name(c["navn"])) for c in counties]
     cards = []
     for slug, title in calendars:
-        count = sum(slug in e["calendars"] for e in events)
+        count = sum(slug in e["calendars"] and e.get("kind") != "backstage_deadline" for e in events)
+        deadline_count = sum(slug in e["calendars"] and e.get("kind") == "backstage_deadline" for e in events)
+        event_label = "arrangement" if count == 1 else "arrangementer"
+        deadline_label = "påmeldingsfrist" if deadline_count == 1 else "påmeldingsfrister"
         file = f"kalendere/{slug}.ics"
         url = base_url.rstrip("/") + "/" + file if base_url else ""
         esc = html.escape
         cards.append(f'''<article class="card{' national' if slug == 'nasjonalt' else ''}">
-<h2>{esc(title)}</h2><p class="count">{count} kommende og pågående arrangementer</p>
+<h2>{esc(title)}</h2><p class="count">{count} kommende og pågående {event_label}<br>{deadline_count} {deadline_label} bak scenen</p>
 <div class="actions"><button class="google" type="button" data-google="{file}" data-calendar="{esc(title, quote=True)}">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="{file}">Kopier lenke</button>
 <a class="file" href="{file}">iCal-fil</a></div>
@@ -138,7 +141,7 @@ def index_html(counties, events, generated_at, base_url):
 <title>UKM i kalenderen din</title><style>{STYLE}</style></head><body><main>
 <div class="eyebrow">Uavhengig kalenderoversikt · Data fra UKM</div>
 <h1>Få UKM rett i kalenderen.</h1>
-<p class="intro">Velg fylket ditt eller følg nasjonale arrangementer. Hver oppføring har tid, sted, hele arrangementsbeskrivelsen og relevante lenker.</p>
+<p class="intro">Velg fylket ditt eller følg nasjonale arrangementer. Hver oppføring har tid, sted, hele arrangementsbeskrivelsen og relevante lenker. Påmeldingsfristen bak scenen vises også som en egen kalenderhendelse når en gyldig frist er oppgitt.</p>
 <p class="status"><span class="dot" aria-hidden="true">●</span> Kalenderfilene oppdateres daglig · Sist oppdatert {local} (norsk tid)</p>
 <div class="how"><h2>Slik abonnerer du</h2><p>Velg «Legg til i Google Kalender» under ønsket kalender. Du får riktig lenke og trinnene for å legge den til via <strong>Fra nettadresse</strong>.</p>
 <p class="muted">Google bestemmer når nye opplysninger hentes, så endringer kan vises senere enn tidspunktet ovenfor. Bruk abonnement for løpende oppdateringer; import av en nedlastet fil gir en engangskopi.</p>
@@ -146,7 +149,7 @@ def index_html(counties, events, generated_at, base_url):
 <p id="preview" class="preview" hidden>Dette er en lokal forhåndsvisning. Kalenderne må publiseres på en offentlig HTTPS-adresse før Google kan abonnere.</p>
 <div class="grid">{''.join(cards)}</div><p id="feedback" role="status" aria-live="polite"></p>
 <footer><p>Kilde: <a href="https://www.ukm.no/arrangement">UKMs offentlige arrangementssider</a>. Oversikten er en uavhengig tjeneste. Kontakt arrangøren via UKM for spørsmål om innholdet.</p>
-<p>Bare kommende og pågående arrangementer tas med. Et tomt abonnement fylles automatisk når UKM publiserer aktuelle arrangementer. <a href="status.json">Oppdateringsstatus</a>.</p></footer>
+<p>Bare kommende og pågående arrangementer tas med. En passert påmeldingsfrist beholdes frem til arrangementet er avsluttet. Et tomt abonnement fylles automatisk når UKM publiserer aktuelle arrangementer. <a href="status.json">Oppdateringsstatus</a>.</p></footer>
 </main>
 <dialog id="subscribe-dialog" aria-labelledby="subscribe-title">
 <form method="dialog"><button class="dialog-close" aria-label="Lukk" type="submit">×</button></form>
@@ -202,7 +205,10 @@ def build(output, counties, records, metadata, now, base_url="", allow_empty=Fal
         raise SourceError("Utmappe inneholder andre filer; velg en egen generert mappe")
     if base_url and (urlparse(base_url).scheme != "https" or not urlparse(base_url).netloc or urlparse(base_url).query or urlparse(base_url).fragment):
         raise SourceError("Publiseringsadressen må være en HTTPS-adresse uten query/fragment")
-    events = [record["event"] for record in records]
+    arrangements = [record["event"] for record in records]
+    deadlines = [deadline for record in records
+                 if (deadline := backstage_deadline(record["raw"], record["event"])) is not None]
+    events = arrangements + deadlines
     previous_snapshot = read_json(output / "data/latest.json", {"events": []})
     old_active = [e for e in previous_snapshot["events"] if datetime.fromisoformat(e["event"]["expires"]) > now]
     if not allow_empty and (not metadata["search"]["hits"] or (old_active and not events)):
@@ -214,8 +220,10 @@ def build(output, counties, records, metadata, now, base_url="", allow_empty=Fal
     stamp = now.astimezone(UTC).isoformat()
     names = {c["link"]: "UKM – " + short_name(c["navn"]) for c in counties}
     names["nasjonalt"] = "UKM – Nasjonale arrangementer"
-    status = {"last_success": stamp, "event_count": len(events), "calendar_count": len(names),
+    status = {"last_success": stamp, "event_count": len(arrangements),
+              "deadline_count": len(deadlines), "entry_count": len(events), "calendar_count": len(names),
               "calendars": {slug: sum(slug in e["calendars"] for e in events) for slug in names},
+              "deadline_calendars": {slug: sum(slug in e["calendars"] for e in deadlines) for slug in names},
               "sources": metadata, "base_url": base_url or None}
     output.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix=".ukm-release-", dir=output.parent) as temp:
@@ -232,7 +240,8 @@ def build(output, counties, records, metadata, now, base_url="", allow_empty=Fal
         write_json(site / "status.json", status)
         write_json(stage / "data/status.json", status)
         write_json(stage / "data/events-state.json", state)
-        write_json(stage / "data/latest.json", {"generated_at": stamp, "counties": counties, "events": records})
+        write_json(stage / "data/latest.json", {"generated_at": stamp, "counties": counties,
+                                                "events": records, "deadline_events": deadlines})
         # Only this final replacement mutates the last successful release.
         backup = Path(temp) / "previous"
         if output.exists():

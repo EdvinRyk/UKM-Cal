@@ -19,6 +19,7 @@ class ReleaseTests(unittest.TestCase):
         status = json.loads((root / "data/status.json").read_text())
         snapshot = json.loads((root / "data/latest.json").read_text())
         expected = {r["event"]["uid"]: r["event"] for r in snapshot["events"]}
+        expected.update({e["uid"]: e for e in snapshot.get("deadline_events", [])})
         found = set()
         files = list((root / "site/kalendere").glob("*.ics"))
         self.assertEqual(len(files), status["calendar_count"])

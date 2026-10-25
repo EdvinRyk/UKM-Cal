@@ -151,6 +151,1503 @@
       "nettverk_omrade": null
     }
   ],
+  "deadline_events": [
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Arrangør Trondheim-Tråante.\nPåmeldingsfrist: 07.01.2027 kl. 19:04 (norsk tid).\n\nArrangør Trondheim-Tråante\n\ntirsdag 13. oktober kl. 18:30 - søndag 14. mars kl. 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\nBli en arrangør for UKM 2027! 🎉\n\nSom arrangør er du med på å planlegge UKM 2027 og skape fantastiske minner sammen med resten av arrangørene.\nDet første arrangement vi planlegger, er UKM kickoff 13. november 2026. Vi har ungdommer i forskjellige arbeidsgrupper:\n\n-Media\n-Tekniker\n-Konferansier\n-Dekor\n-og masse mer\n\nArrangør møter: Tirsdager KL: 18:30\nSted: Kultursenter ISAK\n\nSenere får du muligheten til å være med på arrangørenes egen kickoff som finner sted i Januar 2027.\n\nJoin vår Discord chat for mer info :)\nhttps://discord.com/invite/MFKAyv7aq3\n\nArrangør Trondheim-Tråante: https://sys.ukm.no/2026-trondheim-traante-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1800x1618.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9920/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 07.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.01.2027 kl. 19:04\nArrangementsbilde: https://sys.ukm.no/2026-trondheim-traante-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1200x1079.jpg\nArrangementsside: https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondheim-traante",
+      "end": null,
+      "expires": "2027-03-14T22:00:00+01:00",
+      "id": "9920-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kultursenteret ISAK, Trondheim - Tråante",
+      "parent_uid": "ukm-arrangement-9920@ukm-kalendere",
+      "start": "2027-01-07T19:04:55+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Arrangør Trondheim-Tråante",
+      "uid": "ukm-bak-scenen-frist-9920@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondheim-traante"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Larvik høst 26.\nPåmeldingsfrist: 15.10.2026 kl. 23:59 (norsk tid).\n\nLarvik høst 26\n\ntorsdag 15. oktober kl. 12:00 - mandag 30. november kl. 12:30\n\nLarvik\n\nUKM\\'ere mellom 13-20 år!\n\nDenne høsten blir UKM Larvik litt annerledes - istedenfor å samle alle til en UKM-dag, har vi bestemt oss for å heller komme ut til dere!\n\nSå hvis du spiller i band, er soloartist, lager kunst, er fotograf eller tekniker, eller andre ting - inviter oss til der DU viser frem!\nDermed er du med på å kunne bli trukket ut som Larviks bidrag til fylkesmønstringen (16.-17.JANUAR \\'27)\n\nFor å melde seg på må du ta kontakt med Sara (UKM-kontakt i Larvik), enten pr. mail (sara.gjeterud@larvik.kommune.no (mailto:sara.gjeterud@larvik.kommune.no)), eller komme innom på Fabrikken Ungdomshus for en prat. Det viktigste er at vi får greie på hvor og når du skal vise frem kunsten, musikken, dansen eller showet ditt :)\n\nDette må vi vite:\n- Hva skal du/dere gjøre? (feks, \\\"vi skal spille med bandet vårt på juleavslutninga på skolen\\\", eller \\\"vi har utstilling med kunstgruppa på kulturskolen\\\")\n- Når og hvor skjer det?\n- Navnet ditt, og alder på de som er med?\n\nBidrag blir plukket ut denne høsten, og siste frist for å vise oss er 5. desember.\n\nLarvik har masse talent, og UKM gir deg muligheten for å vise det frem!\n\nKontaktpersoner\nSara Håkonsdatter Gjeterud\nE-post: sara.gjeterud@larvik.kommune.no\n\nPåmeldingsfrist – delta: 15.10.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.10.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26",
+      "end": null,
+      "expires": "2026-11-30T12:30:00+01:00",
+      "id": "9813-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Larvik",
+      "parent_uid": "ukm-arrangement-9813@ukm-kalendere",
+      "start": "2026-10-15T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Larvik høst 26",
+      "uid": "ukm-bak-scenen-frist-9813@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til CREW - Tokke og Vinje.\nPåmeldingsfrist: 25.12.2026 kl. 11:51 (norsk tid).\n\nCREW - Tokke og Vinje\n\nlørdag 17. oktober kl. 12:00 - lørdag 13. mars kl. 22:00\n\nVinje, Tokke\n\nUKM-Crew – bli med bak scena!\n\nUKM står for Ung-Kultur-Møtast og UKM-Crew er ei gruppe ungdom som møtest jamleg for å lære korleis ein arrangerer konsertar, workshops og sceneproduksjonar. Du treng ikkje kunne noko frå før. Det viktigaste er at du er nysgjerrig, har lyst til å lære og vil vere med i eit godt fellesskap.\n\nMe har stort fokus på det sosiale, samarbeid og å bli trygge på kvarandre. På samlingane jobbar me saman med ulike oppgåver, lærer nye ting og planlegg UKM i Tokke og Vinje. Målet er at crewet skal vere med og styre heile UKM i mars!\n\nKva kan du gjere i UKM-Crew?\n\nDet finst mange roller, og me treng ungdom med ulike interesser og styrkar:\n\n- Lyd og lys\n- Rigging av scene og utstyr\n- Planlegging og organisering\n- Kontakt med deltakarar og workshophaldarar\n- Søknader og økonomi\n- Kunstutstillingar og dekor\n- Konferansier og programleiing\n- Praktiske oppgåver under arrangement\n\nKanskje veit du akkurat kva du har lyst til. Kanskje anar du ikkje kva noko av dette er. Begge delar er heilt greitt! Me finn ei oppgåve som passar for deg.\n\nMen ver førebudd: Du kjem til å jobbe. Du kjem til å bere, rigge, planleggje og stå på når festivalen går av stabelen. Du kan bli sliten i både rygg og bein, men du kjem også til å lære mykje, få nye vener og oppleve ting dei færraste ungdomar får vere med på. Dette er kanskje det næraste ein ungdom kjem Kompani Lauritzen!\n\nKvifor vere med?\n\nI fjor blei Vinje kåra til Årets UKM-kommune i Telemark på grunn av satsinga på ungdomscrew. Nokre av ungdomane fekk òg vere med på UKM Landsfestivalen i Trondheim og jobbe i ei stor profesjonell produksjon.\n\nI år er Tokke med på laget, og saman skal me bli endå sterkare!\n\nPraktisk informasjon:\n\nDet er avgrensa tal på plassar i UKM-Crew, så du må melde deg på for å vere med.\n\nI haust blir det fire samlingar, med kick-off på Morgedal Høgfjellshotell laurdag 17. oktober. Etter påmelding får du tilsendt semesterplan.\n\nSamlingane blir på laurdagar og inneheld:\n\n- Sosiale aktivitetar\n- Kurs og opplæring\n- Arbeid og planlegging\n- Mat og moro\n\nViktig å vite:\n\n✅ UKM er alltid rusfritt.\n\n✅ Du må vere så sjølvstendig at du kan overnatte utan føresette.\n\n✅ Du vil få ansvar, og det er viktig at du er villig til å ta det ansvaret.\n\n✅ Det vil alltid vere vaksne til stades.\n\n✅ Aldersgrense: frå 8. klasse til og med 20 år.\n\nCREW - Tokke og Vinje: https://sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinje/files/2026/09/1000011069-1.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4036-9890/\n\nKontaktpersoner\nJardar Østbø Juberg\nTelefon: 99412608\nE-post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine Mondal Ljostad\nTelefon: 90873194\nE-post: stine.ljostad@vinje.kommune.no\n\nPåmelding – Tokke: https://delta.ukm.no/ukmid/pamelding/4034-9890/\nPåmeldingsfrist – delta: 25.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.12.2026 kl. 11:51\nArrangementsside: https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje",
+      "end": null,
+      "expires": "2027-03-13T22:00:00+01:00",
+      "id": "9890-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Vinje, Tokke",
+      "parent_uid": "ukm-arrangement-9890@ukm-kalendere",
+      "start": "2026-12-25T11:51:54+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – CREW - Tokke og Vinje",
+      "uid": "ukm-bak-scenen-frist-9890@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "finnmark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Band Tour 2026.\nPåmeldingsfrist: 16.10.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour 2026\n\nfredag 13. november kl. 14:00 - søndag 15. november kl. 22:00\n\nFinnmark (https://www.google.com/maps/search/?api=1&query=Finnmark)\n\nFinnmark\n\nUKM BAND TOUR 13.-15. NOVEMBER 🔥\nEr du mellom 13-20 år, spiller i band og har lyst til å dra på turné, spille konserter og møte nye folk?\n\nHVA ER UKM BANDTOUR?\n3 dager på turnébuss\nKonserter i Alta, Honningsvåg og Lakselv\nMasse musikk, folk og god stemning\n\nFOR Å BLI MED PÅ BUSSEN MÅ DERE:\n✔️ Ha minst 20 min med låter klare\n✔️ Være gira på å reise sammen i flere dager\n✔️ Like å henge med folk + bidra til god stemning\n👉 Meld dere på og skriv litt om hvorfor dere vil på turné\n🎲 Vi trekker ut 3 band som får bli med på hele turen\n\n⚡ VI TRENGER OGSÅ DEG SOM VIL DELTA SOM:\n🎥 Media (foto, film, content)\n🛠️ Arrangør\n🔊 Teknikk & rigg (scene, lyd, lys, være med bak kulissene og få det til å funke live)\nFor teknikere/rigg: Meld dere på kategorien ARRANGØR og skriv at det gjelder tekniker eller rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER BIDRA LOKALT?\nDu kan fortsatt spille eller jobbe med teknikk, som arrangør eller med media, når bussen kommer til din kommune. Søk opp din kommune, så finner du arrangementet. 🤘\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\n\nPåmeldingsfrist – delta: 23.10.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.10.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Modern-Album-Cover-2-1200x1200.png",
+      "end": null,
+      "expires": "2026-11-15T22:00:00+01:00",
+      "id": "9925-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Finnmark",
+      "parent_uid": "ukm-arrangement-9925@ukm-kalendere",
+      "start": "2026-10-16T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Band Tour 2026",
+      "uid": "ukm-bak-scenen-frist-9925@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Utstilling: Bird set free.\nPåmeldingsfrist: 11.08.2026 kl. 13:04 (norsk tid).\n\nUtstilling: Bird set free\n\nfredag 13. november kl. 16:00 - 20:00\n\nSundet\n\nEidsvoll\n\nEr du mellom 13-20 år og ønsker å lage en utstilling med tittelen; Bird set free?\nDa kan du melde deg på!\n\nHva du trenger å gjøre?\n-> Meld deg på\n-> Lag et kunstverk som du mener er relevant til tittelen\n-> Kom med kunstverket ditt den 13. November nede i Sundet for å bidra i utstillingen 😊\n\nhttps://delta.ukm.no/ukmid/pamelding/3240-9798/\n\nKontaktpersoner\nM. Anastasia Lampidoni\nTelefon: 48865155\nE-post: mara.anastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldingsfrist – delta: 09.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.08.2026 kl. 13:04\nArrangementsside: https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001",
+      "end": null,
+      "expires": "2026-11-13T20:00:00+01:00",
+      "id": "9798-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Sundet, Eidsvoll",
+      "parent_uid": "ukm-arrangement-9798@ukm-kalendere",
+      "start": "2026-08-11T13:04:25+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Utstilling: Bird set free",
+      "uid": "ukm-bak-scenen-frist-9798@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til DJ kurs med Sebastian.\nPåmeldingsfrist: 16.09.2026 kl. 13:45 (norsk tid).\n\nDJ kurs med Sebastian\n\nlørdag 14. november kl. 10:00 - søndag 15. november kl. 14:00\n\nØvre Eiker\n\nKanskje er du den kommende Kygo eller bare er interessert i musikk!\nVi ønsker deg som går på ungdomskolen velkommen til Dj- kurs med Sebastian på Folkets Hus i Vestfossen lørdag 14. november og søndag 15.november. På kurset vil du lære\n- hva en Dj gjør\n- hvordan bruke Dj- utstyr\n- hvordan musikk er bygd opp\n- hvordan du kan mikse låter sammen\n\nDu trenger:\n- ipad/ telefon\n- øreklokker med kabel (hvis du har)\n- litt mat og drikke\n\nPåmeldingsfrist 6. november.\n\nhttps://delta.ukm.no/ukmid/pamelding/3314-9807/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.klunderud@oeiker.no\n\nSebastian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune.no\n\nPåmeldingsfrist – delta: 06.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2026 kl. 13:45\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian",
+      "end": null,
+      "expires": "2026-11-15T14:00:00+01:00",
+      "id": "9807-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Øvre Eiker",
+      "parent_uid": "ukm-arrangement-9807@ukm-kalendere",
+      "start": "2026-09-16T13:45:56+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – DJ kurs med Sebastian",
+      "uid": "ukm-bak-scenen-frist-9807@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Holmestrand.\nPåmeldingsfrist: 07.11.2026 kl. 23:59 (norsk tid).\n\nHolmestrand\n\nlørdag 21. november kl. 12:00 - 16:00\n\nUKM HOLMESTRAND\nBli med oss ​​på årets viktigste kulturarrangement for ungdom. I tillegg til forestillingen vil det være mange workshops.\n\nPåmeldingsfrist: 07. november klokken 23.59\n\nHolmestrand: https://sys.ukm.no/2026-holmestrand-holmestrand27/files/2026/09/Banner27_Hvit.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3903-9881/\n\nKontaktpersoner\nLars-Erik Revdal\nTelefon: 92096519\nE-post: lars.erik.revdal@steinkjer.kommune.no\n\nPåmeldingsfrist – delta: 07.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27",
+      "end": null,
+      "expires": "2026-11-21T16:00:00+01:00",
+      "id": "9881-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Holmestrand",
+      "parent_uid": "ukm-arrangement-9881@ukm-kalendere",
+      "start": "2026-11-07T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Holmestrand",
+      "uid": "ukm-bak-scenen-frist-9881@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Sandefjord 2026.\nPåmeldingsfrist: 15.11.2026 kl. 23:59 (norsk tid).\n\nUKM Sandefjord 2026\n\nsøndag 22. november kl. 12:00 - 19:00\n\nHarmonie Arena\n\nSandefjord\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er Norges største kulturarena for ungdom – en festival der du får vise fram det du lager, uansett om det er en sang du har skrevet, en dans du har koreografert, en film du har klipt, eller noe vi ikke har hørt om ennå.\nDu trenger ikke være «god nok» eller ha gjort det før. UKM er stedet du prøver deg – foran et publikum som heier på deg.\n\nHvem kan delta?\nAlle ungdommer mellom 10 - 20 år, enten du vil:\nVære utøver - vis fram det du lager - på scenen, på en skjerm, eller i en utstilling\nVære arrangør - Bli med og lag festivalen sammen med oss. Vi trenger folk som liker å planlegge, bygge scene, jobbe bak kulissene, eller ta i mot publikum.\n\nPraktisk info:\nNår: 22. november\nHvor: Harmonie arena\nHvem: Ungdom i Sandefjord (og omegn)\nPris: Gratis å delta og å se forestilling\n\nSlik melder du deg på:\nBestem deg for hva du vil vise fram eller hvilken rolle du vil ha som arrangør\nFyll ut påmeldingsskjemaet innen 15. november\nVi tar kontakt med mer info\n\nLurer du på noe?\nTa kontakt med ane.pedersen@sandefjord.kommune.no (mailto:ane.pedersen@sandefjord.kommune.no)\n\nUKM Sandefjord 2026: https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3907-9847/\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203995\nE-post: ane.pedersen@sandefjord.kommune.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
+      "end": null,
+      "expires": "2026-11-22T19:00:00+01:00",
+      "id": "9847-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Harmonie Arena, Sandefjord",
+      "parent_uid": "ukm-arrangement-9847@ukm-kalendere",
+      "start": "2026-11-15T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Sandefjord 2026",
+      "uid": "ukm-bak-scenen-frist-9847@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Skrive workshop med Jawad.\nPåmeldingsfrist: 02.12.2026 kl. 11:05 (norsk tid).\n\nSkrive workshop med Jawad\n\nmandag 30. november kl. 17:00 - fredag 11. desember kl. 20:00\n\nUllensaker\n\nVi repeterer suksessen fra februar med ny (og større) skrive-workshop! Denne gangen blir det fem dager man kan delta på og vi åpner for flere deltakere. Du deltar på dagene du har mulighet til å delta på, vi tilpasser opplegget til deltakerne. Ta kontakt med Malin om du har spørsmål (kontaktinfo nederst på siden), eller på vår instagram @ukmullensaker.\n\nDatoene er:\n\n30. november\n3. desember\n7. desember\n9. desember\n11. desember\n\nTidspunkt kommer fortløpende, workshopen holdes etter skoletid mot kveldstid. Begrensede plasser så meld deg på her så fort du kan:)\n\nMer info kommer!\n\nOm workshop-leder Jawad:\nJawad Aziz er en prisvinnende skuespiller, poet og instruktør fra Oslo øst. Med røtter i rap, rim, breakdance og scenekunst har han stått på scenen over 100 ganger, gitt ut en egen diktbok og vunnet både Oslomesterskapet i slampoesi og Gulljerven – Årets nykommer 2025.\n\nSom gründer av SlamShake har Jawad jobbet med mennesker i alle aldre – fra barn til voksne. Han er kjent for sin smittende energi, humor og evne til å få folk til å senke skuldrene, finne kreativiteten og tørre å uttrykke seg.\n\nPå skrivekurset får du leke med ord, rytme og historiefortelling – enten du skriver hele tiden eller aldri har skrevet en tekst før. For Jawad handler skriving ikke om å være perfekt, men om å finne din egen stemme og tørre å bruke den.\n\nhttps://delta.ukm.no/ukmid/pamelding/3209-9844/\n\nKontaktpersoner\nMalin Louise Nyhagen\nTelefon: 94161637\nE-post: malin.l.nyhagen@ullensaker.kommune.no\n\nPåmeldingsfrist – delta: 13.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.12.2026 kl. 11:05\nArrangementsside: https://www.ukm.no/arrangement/2026-ullensaker-skriveworkshopmedjawad",
+      "end": null,
+      "expires": "2026-12-11T20:00:00+01:00",
+      "id": "9844-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Ullensaker",
+      "parent_uid": "ukm-arrangement-9844@ukm-kalendere",
+      "start": "2026-12-02T11:05:47+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Skrive workshop med Jawad",
+      "uid": "ukm-bak-scenen-frist-9844@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-ullensaker-skriveworkshopmedjawad"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "finnmark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Band Tour Alta.\nPåmeldingsfrist: 21.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfredag 11. desember kl. 18:00 - 20:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist – delta: 21.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-bandtouralta",
+      "end": null,
+      "expires": "2026-12-11T20:00:00+01:00",
+      "id": "9826-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Skoleveien 14, Alta",
+      "parent_uid": "ukm-arrangement-9826@ukm-kalendere",
+      "start": "2026-11-21T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Band Tour Alta",
+      "uid": "ukm-bak-scenen-frist-9826@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Torsdagsscenen 17. desember 2026.\nPåmeldingsfrist: 10.12.2026 kl. 23:59 (norsk tid).\n\nTorsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 46878825\nE-post: torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026",
+      "end": null,
+      "expires": "2026-12-17T20:00:00+01:00",
+      "id": "9917-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Melhus",
+      "parent_uid": "ukm-arrangement-9917@ukm-kalendere",
+      "start": "2026-12-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Torsdagsscenen 17. desember 2026",
+      "uid": "ukm-bak-scenen-frist-9917@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Ringebu.\nPåmeldingsfrist: 01.01.2027 kl. 23:59 (norsk tid).\n\nUKM Ringebu\n\nlørdag 16. januar kl. 15:00 - 19:00\n\nKaupanger Ringebu\n\nRingebu\n\nUKM Ringebu 2027 – bli med! 🎤🎨🎸\nHar du noe du liker å holde på med – musikk, dans, kunst, foto, film, teater eller noe helt annet? Da er UKM stedet for deg!\nHer kan du vise fram det du driver med, prøve noe nytt, møte andre ungdommer og være en del av et kreativt og sosialt fellesskap. Du trenger ikke å være proff – det viktigste er at du har lyst til å bli med!\nUKM Ringebu arrangeres 16. januar 2027.\nPåmeldingsfrist er 10. januar 2027.\nTa med deg kreativiteten, motet – og gjerne en venn.\nVi sees på UKM Ringebu!\n\nhttps://delta.ukm.no/ukmid/pamelding/3439-9901/\n\nKontaktpersoner\nBrede Vestby\nTelefon: 48290415\nE-post: brede.vestby@ringebu.kommune.no\n\nErika Urbute\nTelefon: 96856605\nE-post: Erika.Urbute@ringebu.kommune.no\n\nPåmeldingsfrist – delta: 01.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ringebu-ringebu",
+      "end": null,
+      "expires": "2027-01-16T19:00:00+01:00",
+      "id": "9901-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kaupanger Ringebu",
+      "parent_uid": "ukm-arrangement-9901@ukm-kalendere",
+      "start": "2027-01-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Ringebu",
+      "uid": "ukm-bak-scenen-frist-9901@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-ringebu-ringebu"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Oppdal 2027.\nPåmeldingsfrist: 15.01.2027 kl. 23:59 (norsk tid).\n\nOppdal 2027\n\ntorsdag 28. januar kl. 15:00 - søndag 31. januar kl. 12:00\n\nOppdal kulturhus\n\nOppdal\n\nDa er datoen satt for vår lokalfestival på Oppdal 2027! Spenn dere fast for vi kickstarter året med kultur og musikk med festival 28.-30. januar. Påmelding åpner samme dag som vårt kickoff-arrangement på Oppdal Ungdomsklubb den 06. November. Ses der!\nKlikk inn på påmeldingsskjemaet og meld deg på! Man kan enten vise frem noe, enten det er teater, musikk, kunst eller dans. Eller melde seg på og bidra til festivalen som arrangør, media, konferansierer osv. Og svaret er JA, man kan gjøre begge deler!\n\nOppdal 2027: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1800x992.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9960/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1200x661.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
+      "end": null,
+      "expires": "2027-01-31T12:00:00+01:00",
+      "id": "9960-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Oppdal kulturhus",
+      "parent_uid": "ukm-arrangement-9960@ukm-kalendere",
+      "start": "2027-01-15T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Oppdal 2027",
+      "uid": "ukm-bak-scenen-frist-9960@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Asker 2027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nUKM Asker 2027\n\nfredag 29. januar kl. 15:00 - lørdag 30. januar kl. 20:00\n\nAsker Kulturhus\n\nAsker\n\nVelkommen til UKM Asker 2027!\nDatoene for årets arrangement har blitt flyttet til 29. og 30. januar.\nVi håper at så mange som mulig vil være med å lage dette til den beste UKM noen sinne!\n\nhttps://delta.ukm.no/ukmid/pamelding/3203-9868/\n\nKontaktpersoner\nEmmeli Hedvald\nHar du spørsmål om arrangement, UA, påmelding eller alt annet enn teknikk, ta kontakt med Emmeli!\nTelefon: 90022063\nE-post: emmeli.hedvald@asker.kommune.no\n\nChristian Nilsen\nHar du spørsmål om teknikk, ta kontakt med vår flotte teknikker Christian!\nTelefon: 48031625\nE-post: Christian.Nilsen@asker.kommune.no\n\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-asker-asker",
+      "end": null,
+      "expires": "2027-01-30T20:00:00+01:00",
+      "id": "9868-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Asker Kulturhus",
+      "parent_uid": "ukm-arrangement-9868@ukm-kalendere",
+      "start": "2027-01-17T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Asker 2027",
+      "uid": "ukm-bak-scenen-frist-9868@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-asker-asker"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Nordhordland lokalfestival.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Nordhordland lokalfestival\n\nlørdag 30. januar kl. 12:00 - 19:00\n\nLeknes barneskule\n\nAlver, Austrheim, Masfjorden\n\nUKM lokalfestival for ungdom i Alver, Austrheim og Masfjorden\nUKM er ein møteplass for ungdom og kultur. Her kan me skape noko saman, vise fram det me brenn for og hjelpe andre med å bli sett.\n\nDet er gratis å delta på festivalen.\n\nKven kan delta?\nFestivalen er for ungdom frå det året dei fyller 13 år, til og med det året dei fyller 20 år.\n\nFor unge arrangørar og mediedeltakarar er aldersgrensa frå det året dei fyller 15 år, til og med det året dei fyller 20 år.\n\nSceneinnslag\nNytt i år er at kvar deltakar kan vere med på inntil to ulike sceneinnslag. Du kan til dømes delta både i eit band og som solist.\n\nKvart sceneinnslag kan ha éin låt, slik det har vore tidlegare.\n\nMe har husband.\n\nKunst\nKunsten må vere laga av kunstnaren sjølv, anten åleine eller saman med ei gruppe.\n\nKvar deltakar kan stille ut inntil tre ulike verk. Eitt verk kan vere ein serie med maksimalt fire delar.\n\nNytt i år er at kunsten skal leverast inn éi veke før festivalen. Tidspunkt for levering blir avtalt med kommunekontaktane.\n\nhttps://delta.ukm.no/ukmid/pamelding/4631-9900/\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\nE-post: hilde.jordal@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelefon: 92046806\nE-post: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatarina Birkeland Nepstad\nTelefon: 90696931\nE-post: katarina.birkeland@alver.kommune.no\n\nRobert Lorang Hansen\nTelefon: 95522070\nE-post: robert.lorang.hansen@alver.kommune.no\n\nPåmelding – Austrheim: https://delta.ukm.no/ukmid/pamelding/4632-9900/\nPåmelding – Masfjorden: https://delta.ukm.no/ukmid/pamelding/4634-9900/\nPåmeldingsfrist – delta: 12.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
+      "end": null,
+      "expires": "2027-01-30T19:00:00+01:00",
+      "id": "9900-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Leknes barneskule, Alver, Austrheim, Masfjorden",
+      "parent_uid": "ukm-arrangement-9900@ukm-kalendere",
+      "start": "2026-12-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Nordhordland lokalfestival",
+      "uid": "ukm-bak-scenen-frist-9900@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Ørland kunstutstilling.\nPåmeldingsfrist: 22.01.2027 kl. 23:59 (norsk tid).\n\nØrland kunstutstilling\n\ntirsdag 2. februar kl. 17:00 - 17:30\n\nBjugn Kulturhus\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/5057-9855/\n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Jannicke.olden@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orland-orlandkunst",
+      "end": null,
+      "expires": "2027-02-02T17:30:00+01:00",
+      "id": "9855-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bjugn Kulturhus, Ørland",
+      "parent_uid": "ukm-arrangement-9855@ukm-kalendere",
+      "start": "2027-01-22T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Ørland kunstutstilling",
+      "uid": "ukm-bak-scenen-frist-9855@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-orland-orlandkunst"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Ørland forestilling.\nPåmeldingsfrist: 22.01.2027 kl. 23:59 (norsk tid).\n\nUKM Ørland forestilling\n\ntirsdag 2. februar kl. 18:00 - 20:00\n\nBjugn Kulturhus\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/5057-9853/\n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Jannicke.olden@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orland-orland",
+      "end": null,
+      "expires": "2027-02-02T20:00:00+01:00",
+      "id": "9853-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bjugn Kulturhus, Ørland",
+      "parent_uid": "ukm-arrangement-9853@ukm-kalendere",
+      "start": "2027-01-22T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Ørland forestilling",
+      "uid": "ukm-bak-scenen-frist-9853@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-orland-orland"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Jæren 2027.\nPåmeldingsfrist: 24.01.2027 kl. 23:59 (norsk tid).\n\nJæren 2027\n\nfredag 5. februar kl. 14:00 - lørdag 6. februar kl. 22:00\n\nStorstova\n\nHå, Gjesdal, Klepp, Time\n\nUKM FESTIVAL i Storstova 5. og 6. februar 2027\nFor ungdom fra HÅ, TIME, KLEPP og GJESDAL.\n\nTo hele dager til ende med sceneprøver, forestillinger, kunstutstilling, kafe og masse gøy!\n\nPåmeldingsfrist 25. januar\n\nAlle ungdommer mellom 13 (du må fylle 13 år i 2027) og 20 år kan melde seg på UKM og alle får være med. Påmelding skjer via nettsiden her. Det er ingen begrensning i antall deltakere eller uttrykksform – du kan delta alene eller i en gruppe, med hva du vil. Du kan kun delta i ett sceneinnslag og med ett (eller en serie på inntil 3) kunstverk.\n\nDu melder deg på gjennom den kommunen du bor i.\n\nUKM – består av sceneopptredener, utstilling og filmvisning.\n\nHver deltaker/gruppe får vanligvis inntil 5 minutter på scenen. Dette gjelder også filminnslag. Teater/Drama -innslag kan være inntil 10 min. De som deltar med utstillingsobjekter (tegninger, tegneserier, skulpturer, etc.) blir presentert på en egen utstilling, og utstillingslokalet er åpent for publikum under hele UKM.\n\nGjennom hele festivalen er det arrangement for deltakerne på Møllekjelleren. Her blir det kafe fredag, frokost lørdagen og kafe gjennom dagen, rom for styling av hår og sminke, treffe andre som skal opptre, afterparty lørdag kveld. Mye gøy!\n\nFølg UKM JÆREN på facebook\n\nJæren 2027: https://sys.ukm.no/2027-gjesdal-ha-kleppukmjaren2027/files/2026/10/IMG_0740-1200x772.jpg\n\nKontaktpersoner\nCamilla Ystanes\nTelefon: 97500968\nE-post: cey@ha.kommune.no\n\nEspen Nybråten\nTelefon: 91828645\nE-post: espen.nybraten@time.kommune.no\n\nPåmeldingsfrist – delta: 24.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027",
+      "end": null,
+      "expires": "2027-02-06T22:00:00+01:00",
+      "id": "9940-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Storstova, Hå, Gjesdal, Klepp, Time",
+      "parent_uid": "ukm-arrangement-9940@ukm-kalendere",
+      "start": "2027-01-24T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Jæren 2027",
+      "uid": "ukm-bak-scenen-frist-9940@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "oslo"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Nordstrand.\nPåmeldingsfrist: 21.12.2026 kl. 23:59 (norsk tid).\n\nNordstrand\n\nfredag 5. februar kl. 18:00 - 22:00\n\nLambertseter fritidsklubb\n\nUKM Nordstrand er en møteplass for unge som ønsker å vise fram det de brenner for. Her kan ungdom delta med musikk, dans, kunst, film og andre kreative uttrykk, og få muligheten til å møte andre unge og dele talentene sine.\n\nhttps://delta.ukm.no/ukmid/pamelding/308-9880/\n\nKontaktpersoner\nAbid Albarkane\nTelefon: 96818926\nE-post: abid.albarkane@bns.oslo.kommune.no\n\nElise Breivik Skarbø\nTelefon: 99093836\nE-post: elise.breivik.skarbo@bns.oslo.kommune.no\n\nPåmeldingsfrist – delta: 21.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nordstrand-nordstrand",
+      "end": null,
+      "expires": "2027-02-05T22:00:00+01:00",
+      "id": "9880-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Lambertseter fritidsklubb, Nordstrand",
+      "parent_uid": "ukm-arrangement-9880@ukm-kalendere",
+      "start": "2026-12-21T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Nordstrand",
+      "uid": "ukm-bak-scenen-frist-9880@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-nordstrand-nordstrand"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Sirdal UKM 2027.\nPåmeldingsfrist: 31.12.2026 kl. 23:59 (norsk tid).\n\nSirdal UKM 2027\n\nfredag 5. februar kl. 18:30 - 20:30\n\nSirdal Kulturhus\n\nSirdal\n\nVelkommen til Sirdal UKM 2027! Påmelding for deltakere åpner allerede nå, og har en frist på 17.01.27. Dersom du ønsker å bidra med noe, om det så er Scenarbeid, Mediedekking, Konfransier eller lignende, stenger dette 31.12.26.\n\nVi håper dette blir Sirdal Kommunes beste UKM, derfor håper vi at nettopp DU melder deg på!\n\nSirdal UKM 2027: https://sys.ukm.no/2027-sirdal-ukmsirdal2027/files/2026/09/Copy-of-Stedsnavn-med-Logo-1200x799.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4228-9887/\n\nKontaktpersoner\nDan Olaf Søgård Solberg\nTelefon: 98849594\nE-post: dan.olaf.sogard.solberg@sirdal.kommune.no\n\nMarianne Tjørhom\nTelefon: 46668566\nE-post: marianne.tjorhom@sirdal.kommune.no\n\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sirdal-ukmsirdal2027",
+      "end": null,
+      "expires": "2027-02-05T20:30:00+01:00",
+      "id": "9887-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Sirdal Kulturhus",
+      "parent_uid": "ukm-arrangement-9887@ukm-kalendere",
+      "start": "2026-12-31T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Sirdal UKM 2027",
+      "uid": "ukm-bak-scenen-frist-9887@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sirdal-ukmsirdal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPåmeldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
+      "end": null,
+      "expires": "2027-02-06T18:00:00+01:00",
+      "id": "9820-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Årdal Kulturhus",
+      "parent_uid": "ukm-arrangement-9820@ukm-kalendere",
+      "start": "2027-02-05T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Årdal 2027",
+      "uid": "ukm-bak-scenen-frist-9820@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Malvik 2027.\nPåmeldingsfrist: 01.11.2026 kl. 23:59 (norsk tid).\n\nUKM Malvik 2027\n\nlørdag 6. februar kl. 18:00 - 22:00\n\nMalvik\n\nhttps://delta.ukm.no/ukmid/pamelding/5031-9706/\n\nKontaktpersoner\nIngunn Granli\nTelefon: 93068849\nE-post: ingunn.granli@malvik.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 01.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027",
+      "end": null,
+      "expires": "2027-02-06T22:00:00+01:00",
+      "id": "9706-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Malvik",
+      "parent_uid": "ukm-arrangement-9706@ukm-kalendere",
+      "start": "2026-11-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Malvik 2027",
+      "uid": "ukm-bak-scenen-frist-9706@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM BAMBLE.\nPåmeldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nUKM BAMBLE\n\nlørdag 6. februar kl. 18:00 - 21:00\n\nBamble Ungdomsskole\n\nBamble\n\nUKM BAMBLE: https://sys.ukm.no/2027-bamble-ukmbamble/files/2026/09/traktor-1200x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4012-9893/\n\nKontaktpersoner\nElisabeth Andrea Stormoen\nTelefon: 98422582\nE-post: elisabeth.andrea.stormoen@bamble.kommune.no\n\nKristian Grennes\nTelefon: 40413100\nE-post: kristian.grennes@bamble.kommune.no\n\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bamble-ukmbamble",
+      "end": null,
+      "expires": "2027-02-06T21:00:00+01:00",
+      "id": "9893-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bamble Ungdomsskole",
+      "parent_uid": "ukm-arrangement-9893@ukm-kalendere",
+      "start": "2027-01-31T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM BAMBLE",
+      "uid": "ukm-bak-scenen-frist-9893@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-bamble-ukmbamble"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Gausdal & Øyer 2027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nUKM Gausdal & Øyer 2027\n\nsøndag 7. februar kl. 19:00 - 21:00\n\nGausdal Kulturhus\n\nØyer, Gausdal\n\nBli med ​​på årets viktigste kulturarrangement for ungdom i Øyer og Gausdal.\nUKM arrangeres lørdag og søndag, 6-7 februar.\nPå lørdag blir det rigging av lyd, lys og kunstutstilling, lydprøver og UKM-vorspiel på kvelden. På søndag blir det workshops, generalprøve og forestilling kl 1900, som er åpen for publikum. Vel møtt til en morsom helg :)\n\nUKM Gausdal & Øyer 2027: https://sys.ukm.no/2027-gausdal-oyer-oyer/files/2026/10/Sugarcoat-Foto-Ingrid-Vibe-1200x1072.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3440-9911/\n\nKontaktpersoner\nØydis Uthberg\nTelefon: 95037719\nE-post: oydis.uthberg@gausdal.kommune.no\n\nØyvind Selnes\nTelefon: 97634550\nE-post: Oyvind.Arnold.Selnes@oyer.kommune.no\n\nPåmelding – Gausdal: https://delta.ukm.no/ukmid/pamelding/3441-9911/\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
+      "end": null,
+      "expires": "2027-02-07T21:00:00+01:00",
+      "id": "9911-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Gausdal Kulturhus, Øyer",
+      "parent_uid": "ukm-arrangement-9911@ukm-kalendere",
+      "start": "2027-01-17T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Gausdal & Øyer 2027",
+      "uid": "ukm-bak-scenen-frist-9911@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Svalbard.\nPåmeldingsfrist: 27.11.2026 kl. 23:59 (norsk tid).\n\nUKM Svalbard\n\ntirsdag 9. februar kl. 18:00 - fredag 12. februar kl. 22:00\n\nSvalbard\n\nUKM Longyearbyen 9.–12. februar.\nVelkommen til årets UKM i Longyearbyen kulturhus!\nForestilling: fredag 12. februar kl. 19.00\nPå UKM kan du utforske og skape – enten du vil vise frem det du allerede kan, eller prøve noe helt nytt. Her er det plass til alle som vil gjøre noe innen kultur, både på, bak og rundt scenen.\nDu kan for eksempel:\n• synge, danse eller rappe\n• lage film eller vise TikTok-innhold\n• stille ut tegninger, malerier eller foto\n• vise fram design, håndverk eller egne tekster\n\nKort sagt: Hvis du skaper noe – digitalt, på papir eller på scenen – så hører det hjemme på UKM!\n\nUKM Svalbard: https://sys.ukm.no/2027-svalbard-svalbard/files/2026/08/UKM-svalbard.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5399-9830/\n\nKontaktpersoner\nLene Gjervik\nBarne- og ungdomskoordinator\nTelefon: 93231207\nE-post: lene.gjervik@lokalstyre.no\n\nPåmeldingsfrist – delta: 27.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 27.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-svalbard-svalbard",
+      "end": null,
+      "expires": "2027-02-12T22:00:00+01:00",
+      "id": "9830-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Svalbard",
+      "parent_uid": "ukm-arrangement-9830@ukm-kalendere",
+      "start": "2026-11-27T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Svalbard",
+      "uid": "ukm-bak-scenen-frist-9830@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-svalbard-svalbard"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Ørland Gaming.\nPåmeldingsfrist: 08.02.2027 kl. 23:59 (norsk tid).\n\nØrland Gaming\n\ntirsdag 9. februar kl. 18:00 - 21:00\n\nAlf Nebbs gate 1\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/5057-9854/\n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Jannicke.olden@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 08.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 08.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orland-orlandgaming",
+      "end": null,
+      "expires": "2027-02-09T21:00:00+01:00",
+      "id": "9854-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Alf Nebbs gate 1, Ørland",
+      "parent_uid": "ukm-arrangement-9854@ukm-kalendere",
+      "start": "2027-02-08T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Ørland Gaming",
+      "uid": "ukm-bak-scenen-frist-9854@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-orland-orlandgaming"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Askøy og Øygarden.\nPåmeldingsfrist: 01.11.2026 kl. 23:59 (norsk tid).\n\nAskøy og Øygarden\n\nlørdag 13. februar kl. 12:00 - 13:00\n\nAskøy, Øygarden\n\nAskøy og Øygarden: https://sys.ukm.no/2027-askoy-oygarden-askoyogoygarden/files/2026/10/pexels-audio-1851517_1920-1800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4627-9909/\n\nKontaktpersoner\nBjørn Andersen\nTelefon: 90656836\nE-post: bjorn.andersen@oygarden.kommune.no\n\nHilde Kristin Egeland\nTelefon: 97585142\nE-post: hilde.egeland@oygarden.kommune.no\n\nNina Mathisen\nTelefon: 90538791\nE-post: nina.mathisen@askoy.kommune.no\n\nPåmelding – Øygarden: https://delta.ukm.no/ukmid/pamelding/4626-9909/\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-askoy-oygarden-askoyogoygarden/files/2026/10/pexels-audio-1851517_1920-1200x800.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-askoy-oygarden-askoyogoygarden",
+      "end": null,
+      "expires": "2027-02-13T13:00:00+01:00",
+      "id": "9909-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Askøy, Øygarden",
+      "parent_uid": "ukm-arrangement-9909@ukm-kalendere",
+      "start": "2026-11-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Askøy og Øygarden",
+      "uid": "ukm-bak-scenen-frist-9909@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-askoy-oygarden-askoyogoygarden"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Midt-Telemark.\nPåmeldingsfrist: 04.02.2027 kl. 23:59 (norsk tid).\n\nUKM Midt-Telemark\n\nlørdag 13. februar kl. 15:00 - 16:30\n\nGullbring Kulturhus\n\nMidt-Telemark\n\nEr du mellom 10 og 19 år kan du melde deg på enten du holder på med musikk, dans, teater, kunst eller noe annet.\nDu kan også melde deg på som arrangør. I tillegg får du møte mange flotte mennesker som du kan være sammen med i Gullbring. Det blir servert mat og drikke hele dagen. Alt er gratis.\nDet blir åpning av kunstutstilling klokka 14.00. Klokka 15.00 er det forestilling i Storsalen.\n\nUKM Midt-Telemark: https://sys.ukm.no/2026-midt-telemark-ukmmidt-telemark2027/files/2026/09/Gitar-1800x1200.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/4020-9884/\n\nKontaktpersoner\nSverre Jacobsen\nTelefon: 95223342\nE-post: sverja@mt.kommune.no\n\nPåmeldingsfrist – delta: 04.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 04.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-midt-telemark-ukmmidt-telemark2027/files/2026/09/Gitar-1200x800.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2026-midt-telemark-ukmmidt-telemark2027",
+      "end": null,
+      "expires": "2027-02-13T16:30:00+01:00",
+      "id": "9884-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Gullbring Kulturhus, Midt-Telemark",
+      "parent_uid": "ukm-arrangement-9884@ukm-kalendere",
+      "start": "2027-02-04T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Midt-Telemark",
+      "uid": "ukm-bak-scenen-frist-9884@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-midt-telemark-ukmmidt-telemark2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lokalmønstring Levanger.\nPåmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nLokalmønstring Levanger\n\nlørdag 13. februar kl. 17:30 - 22:00\n\nFestiviteten kulturhus – Levanger\n\nLevanger\n\nEr du mellom 10-20 år? Har du lyst til å være med på noe gøy? Har du lyst til å vise hva du kan? Da er UKM noe for deg. UKM er ALT! Alt som kan vises på en scene, utstilling eller film. Eller har du kun lyst til å være konferansier eller scenearbeider eller crew? Da er det bare å melde seg på, også hvis dere er en gruppe.\n\nhttps://delta.ukm.no/ukmid/pamelding/5037-9943/\n\nKontaktpersoner\nEva Gunn Eide\nTelefon: 90077139\nE-post: ege@levanger.kommune.no\n\nHåvard Ness\nTelefon: 90033683\nE-post: haanes@levanger.kommune.no\n\nKatrine Ingebrigtsen\nTelefon: 92225170\nE-post: katrine.ingebrigtsen@levanger.kommune.no\n\nMarius Eide Stjern\nTelefon: 47864662\nE-post: marius.stjern@levanger.kommune.no\n\nMartin Stifjfeld\nTelefon: 97541060\nE-post: stifjeldlyd@gmail.com\n\nSiri Okkenhaug Bævre\nTelefon: 96949811\nE-post: siba@levanger.kommune.no\n\nYlva Almås Haugan\nTelefon: 96949814\nE-post: ylva.haugan@levanger.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger",
+      "end": null,
+      "expires": "2027-02-13T22:00:00+01:00",
+      "id": "9943-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Festiviteten kulturhus – Levanger",
+      "parent_uid": "ukm-arrangement-9943@ukm-kalendere",
+      "start": "2027-02-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lokalmønstring Levanger",
+      "uid": "ukm-bak-scenen-frist-9943@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Grong.\nPåmeldingsfrist: 10.02.2027 kl. 23:59 (norsk tid).\n\nUKM Grong\n\nlørdag 13. februar kl. 18:00 - 20:00\n\nKulturhuset Kuben - Grong\n\nGrong\n\nUKM Grong: https://sys.ukm.no/2027-grong-grong/files/2026/08/3f15bf4ce6c3_False_Stor_cd62e03c-04ae-44df-beb7-378d949d92c7.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5045-9838/\n\nKontaktpersoner\nHarald Rossetnes\nE-post: harald.rossetnes@grong.kommune.no\n\nJohanna Kjerstina Seem\nTelefon: 91790267\nE-post: johanna.kjerstina.seem@grong.kommune.no\n\nKari Annette Sivertsen\nTelefon: 99313561\nE-post: kari.annette.sivertsen@grong.kommune.no\n\nPåmeldingsfrist – delta: 10.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-grong-grong",
+      "end": null,
+      "expires": "2027-02-13T20:00:00+01:00",
+      "id": "9838-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kulturhuset Kuben - Grong",
+      "parent_uid": "ukm-arrangement-9838@ukm-kalendere",
+      "start": "2027-02-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Grong",
+      "uid": "ukm-bak-scenen-frist-9838@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-grong-grong"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Askøy og Øygarden 2027.\nPåmeldingsfrist: 02.01.2027 kl. 10:59 (norsk tid).\n\nAskøy og Øygarden 2027\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nAskøy\n\nhttps://delta.ukm.no/ukmid/pamelding/4627-9908/\n\nKontaktpersoner\nBjørn Andersen\nTelefon: 90656836\nE-post: bjorn.andersen@oygarden.kommune.no\n\nHilde Kristin Egeland\nTelefon: 97585142\nE-post: hilde.egeland@oygarden.kommune.no\n\nKaja Linder Henriksen\nTelefon: 97051880\nE-post: kaja.linder.henriksen@askoy.kommune.no\n\nKikkis Holmås\nTelefon: 41143144\nE-post: kikkis.holmas@askoy.kommune.no\n\nNina Mathisen\nTelefon: 90538791\nE-post: nina.mathisen@askoy.kommune.no\n\nKushtrim Aliu\nFullstack utvikler\nTelefon: 46516256\nE-post: kushtrim@ukm.no\n\nPåmeldingsfrist – delta: 02.01.2027 kl. 10:59\nPåmeldingsfrist – bidra bak scenen: 02.01.2027 kl. 10:59\nArrangementsside: https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoygarden2027",
+      "end": null,
+      "expires": "2027-02-13T22:00:00+01:00",
+      "id": "9908-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Askøy",
+      "parent_uid": "ukm-arrangement-9908@ukm-kalendere",
+      "start": "2027-01-02T10:59:16+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Askøy og Øygarden 2027",
+      "uid": "ukm-bak-scenen-frist-9908@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoygarden2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "moreogromsdal"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Surnadal.\nPåmeldingsfrist: 21.01.2027 kl. 23:59 (norsk tid).\n\nSurnadal\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nSurnadal kulturhus\n\nSurnadal: https://sys.ukm.no/2027-surnadal-surnadal/files/2026/10/IMG_1709-1350x1800.jpeg\n\nKontaktpersoner\nSiv Torvik\nTelefon: 47875485\nE-post: siv.torvik@surnadal.kommune.no\n\nPåmeldingsfrist – delta: 21.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-surnadal-surnadal/files/2026/10/IMG_1709-900x1200.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027-surnadal-surnadal",
+      "end": null,
+      "expires": "2027-02-13T22:00:00+01:00",
+      "id": "9953-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Surnadal kulturhus",
+      "parent_uid": "ukm-arrangement-9953@ukm-kalendere",
+      "start": "2027-01-21T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Surnadal",
+      "uid": "ukm-bak-scenen-frist-9953@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Nittedal 2027.\nPåmeldingsfrist: 24.01.2027 kl. 23:59 (norsk tid).\n\nUKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no\n\nPåmeldingsfrist – delta: 06.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
+      "end": null,
+      "expires": "2027-02-14T22:00:00+01:00",
+      "id": "9919-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Nittedal",
+      "parent_uid": "ukm-arrangement-9919@ukm-kalendere",
+      "start": "2027-01-24T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Nittedal 2027",
+      "uid": "ukm-bak-scenen-frist-9919@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Voss, Eidfjord, Ulvik.\nPåmeldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nVoss, Eidfjord, Ulvik\n\ntirsdag 16. februar kl. 18:00 - 22:00\n\nVoss kulturhus\n\nMinifestival for ungdom i Kulturhuset på Voss. Mange ungdommer er med både på, bak og rundt scenen. Du kan delta med musikk, kunst, film, dikt, dans, styling, sjonglering og alt det mellom himmel og jord som ungdom driver med. Hva driver du med? Kom og bli med!\n\nhttps://delta.ukm.no/ukmid/pamelding/4621-9885/\n\nKontaktpersoner\nBjørne Møen\nTelefon: 97071399\nE-post: Bjorne.Moen@eidfjord.kommune.no\n\nErlend Styve\nTelefon: 40007156\nE-post: Erlend.Styve@ulvik.kommune.no\n\nKristine Akselberg\nTelefon: 95727224\nE-post: kristine.akselberg@voss.herad.no\n\nInna Kopyl\nVoss\nTelefon: 48664748\nE-post: inna.kopyl@voss.herad.no\n\nTrude Wiese Bang\nVoss\nTelefon: 95165495\nE-post: trude.wiese-hansen@voss.herad.no\n\nPåmelding – Eidfjord: https://delta.ukm.no/ukmid/pamelding/4619-9885/\nPåmelding – Ulvik: https://delta.ukm.no/ukmid/pamelding/4620-9885/\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik",
+      "end": null,
+      "expires": "2027-02-16T22:00:00+01:00",
+      "id": "9885-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Voss kulturhus, Eidfjord, Ulvik",
+      "parent_uid": "ukm-arrangement-9885@ukm-kalendere",
+      "start": "2027-01-31T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Voss, Eidfjord, Ulvik",
+      "uid": "ukm-bak-scenen-frist-9885@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Hole, Modum og Ringerike.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nHole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\n\nInfo om arrangementet kommer fortløpende gjennom høsten. Men det vil bli:\n- Workshops\n- Sceneshow\n- Hang out: Gaming i stua, strikke/sy-hjørne/fikse-hjørne, mingling, spill og moro\n- Mulighet for å være frivillig/arrangør på arrangementet\n- Mat\nOG ALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nPÅMELDINGEN ER ÅPEN :)\nDet går an å melde seg på HANG OUT eller WORKSHOP 11-16 og være publikum på kunstutstilling-åpningen og sceneshowet 17-21.\nDa må du velge alternativet NOE ANNET PÅ EN SCENE. Skriv så inn navnet ditt under artistnavn, en funfact om deg selv under beskriv deg selv, og viktigst av alt: under SJANGER, skriv HANG OUT eller navn på ønsket workshop (du kan velge ulike ting før/etter lunsj også).\n\nPS: HUSK Å HUKE AV FOR KOMMUNEN DU KOMMER FRA I PÅMELDINGEN. Modum, Hole eller Ringerike.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/08/0.1-Velkommen-1-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no\n\nPåmelding – Modum: https://delta.ukm.no/ukmid/pamelding/3316-9815/\nPåmelding – Ringerike: https://delta.ukm.no/ukmid/pamelding/3305-9815/\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
+      "end": null,
+      "expires": "2027-02-20T21:00:00+01:00",
+      "id": "9815-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Alles Kulturhus, Hole, Modum, Ringerike",
+      "parent_uid": "ukm-arrangement-9815@ukm-kalendere",
+      "start": "2027-01-17T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Hole, Modum og Ringerike",
+      "uid": "ukm-bak-scenen-frist-9815@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Gjøvikregionen.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Gjøvikregionen\n\nlørdag 20. februar kl. 15:00 - 17:00\n\nØstre Toten Kulturhus\n\nSøndre Land, Gjøvik, Vestre Toten, Østre Toten\n\nEr du kreativ? Da er UKM for deg! 🎤🎨📸🎬 20. februar fyller vi Østre Toten kulturhus med musikk, dans, kunst, foto, film og andre kreative uttrykk. På UKM får du vise fram talentet ditt, møte andre kreative ungdommer og oppleve en dag fylt med energi, fellesskap og inspirasjon. UKM handler ikke om å være best. Det handler om å tørre å vise hvem du er og det du liker å drive med. Enten du vil stå på scenen, vise fram noe du har laget eller jobbe bak kulissene for å skape det beste arrangementet, er det plass til deg. Meld deg på i dag!\n\nUKM Gjøvikregionen: https://sys.ukm.no/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten/files/2026/10/UKM-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3447-9851/\n\nKontaktpersoner\nHege Øversveen\nTelefon: 45407778\nE-post: hege.oversveen@ototen.no\n\nLinda Victoria Bakkelund Røise\nTelefon: 92819853\nE-post: linda.victoria.roise@gjovik.kommune.no\n\nNina Vedal\nTelefon: 90041362\nE-post: nina.vedal@vestre-toten.kommune.no\n\nSolfrid Eriksen\nTelefon: 92287117\nE-post: wenchesolfridnilsson.eriksen@sondre-land.kommune.no\n\nPåmelding – Gjøvik: https://delta.ukm.no/ukmid/pamelding/3407-9851/\nPåmelding – Vestre Toten: https://delta.ukm.no/ukmid/pamelding/3443-9851/\nPåmelding – Østre Toten: https://delta.ukm.no/ukmid/pamelding/3442-9851/\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten",
+      "end": null,
+      "expires": "2027-02-20T17:00:00+01:00",
+      "id": "9851-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Østre Toten Kulturhus, Søndre Land, Gjøvik, Vestre Toten",
+      "parent_uid": "ukm-arrangement-9851@ukm-kalendere",
+      "start": "2026-12-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Gjøvikregionen",
+      "uid": "ukm-bak-scenen-frist-9851@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Tvedestrand.\nPåmeldingsfrist: 07.02.2027 kl. 23:59 (norsk tid).\n\nTvedestrand\n\nlørdag 20. februar kl. 18:00 - 21:00\n\nDet blir Tvedestrand UKM i 2027 også!\n\nUKM er for deg mellom 10 – 20 år. Du kan vise frem noe, danse, synge, opptre med band, vise en film, spille musikk, spille en teatersnutt, utstille noe du har laget, sydd, tegnet, skrevet, brodert, skapt.... Det kan være hva som helst!\nOg så trenger vi deg som vil hjelpe bak scenen med å rigge til, ta foto og filme det hele. Hvis du ikke har gjort det før, gjør det ingenting. Du får lære av de som kan det.\n\nBli med og meld deg på!\n\nTvedestrand: https://sys.ukm.no/2027-tvedestrand-tvedestrandukm/files/2026/10/P1228584-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4213-9931/\n\nKontaktpersoner\nFranziska Rüttimann Storemyr\nTelefon: 47667687\nE-post: franziska.ruttimann.storemyr@tvedestrand.kommune.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm",
+      "end": null,
+      "expires": "2027-02-20T21:00:00+01:00",
+      "id": "9931-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Tvedestrand",
+      "parent_uid": "ukm-arrangement-9931@ukm-kalendere",
+      "start": "2027-02-07T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Tvedestrand",
+      "uid": "ukm-bak-scenen-frist-9931@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Workshop Sokndal 2027.\nPåmeldingsfrist: 20.12.2026 kl. 11:48 (norsk tid).\n\nWorkshop Sokndal 2027\n\nlørdag 27. februar kl. 10:00 - 16:00\n\nSkoleveien 2\n\nSokndal\n\nDet vil bli Workshop i forkant av UKM. Du kan velge mellom gruppene dans, sang, kunst og design!\n\nWorkshop Sokndal 2027: https://sys.ukm.no/2027-sokndal-workshopsokndal2027/files/2026/09/IMG_0292-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/1111-9875/\n\nKontaktpersoner\nRaimond Mydland\nTelefon: 90772237\nE-post: rmy@sokndal.kommune.no\n\nSelmer Simonsen\nTelefon: 97554794\nE-post: ssi@sokndal.kommune.no\n\nPåmeldingsfrist – delta: 25.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 20.12.2026 kl. 11:48\nArrangementsside: https://www.ukm.no/arrangement/2027-sokndal-workshopsokndal2027",
+      "end": null,
+      "expires": "2027-02-27T16:00:00+01:00",
+      "id": "9875-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Skoleveien 2, Sokndal",
+      "parent_uid": "ukm-arrangement-9875@ukm-kalendere",
+      "start": "2026-12-20T11:48:54+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Workshop Sokndal 2027",
+      "uid": "ukm-bak-scenen-frist-9875@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sokndal-workshopsokndal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Karmøy.\nPåmeldingsfrist: 30.11.2026 kl. 23:59 (norsk tid).\n\nKarmøy\n\nlørdag 27. februar kl. 12:00 - 18:00\n\nKarmøy kulturhus\n\nUKM Karmøy inviterer til en inspirerende dag på Karmøy kulturhus, fylt med kreativitet, kunst og sterke unge uttrykk. Her får du oppleve hva ungdom i kommunen skaper innen kunst, musikk, scene og kultur.\n\nLørdag 27.februar\nProgram kommer\n\nArrangementet er åpent for alle! Familie, venner og nysgjerrige publikummere. Velkommen til en dag som feirer unges skaperglede!\n\nhttps://delta.ukm.no/ukmid/pamelding/1149-9828/\n\nKontaktpersoner\nGlenn Roger Mardal\nTelefon: 45728947\nE-post: grm01@karmoy.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 30.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy",
+      "end": null,
+      "expires": "2027-02-27T18:00:00+01:00",
+      "id": "9828-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Karmøy kulturhus",
+      "parent_uid": "ukm-arrangement-9828@ukm-kalendere",
+      "start": "2026-11-30T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Karmøy",
+      "uid": "ukm-bak-scenen-frist-9828@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Show Kongsberg.\nPåmeldingsfrist: 20.02.2027 kl. 23:59 (norsk tid).\n\nUKM Show Kongsberg\n\nlørdag 27. februar kl. 16:30 - 18:30\n\nKongsberg\n\n«UKM er for deg som har noe på hjertet, noe å vise fram, noe å teste ut – eller bare lyst å se hva du tør.»\n\nUKM er en møteplass for ungdom som vil skape, utforske og uttrykke seg. Noen har øvd i årevis, andre har akkurat begynt. Noen har store ambisjoner, noen lager ting ingen helt vet hva er, og noen har bare lyst til å kjenne på hvordan det er å stå foran et publikum.\n\nDet er nettopp denne blandingen som gjør UKM til UKM!\n\nDu kan delta med musikk, dans, teater, kunst, film eller noe helt annet – alene eller sammen med andre. Det er helt opp til deg.\n\nDu kan også være med bak kulissene som ung arrangør eller konferansier, bidra med planlegging og gjennomføring, eller jobbe med media eller gaming.\n\nPåmeldingsfrist: 20. februar\nShow: 27. februar\n\nTa gjerne kontakt hvis du lurer på noe!\n\nMer informasjon kommer nærmere. Følg med!\n\nhttps://delta.ukm.no/ukmid/pamelding/3303-9913/\n\nKontaktpersoner\nEldrid Ninive Andersen\nTelefon: 92253855\nE-post: eldrid.ninive.andersen@kongsberg.kommune.no\n\nRobert Omholt Opsahl\nTelefon: 99102606\nE-post: robert.opsahl@kongsberg.kommune.no\n\nPåmeldingsfrist – delta: 20.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 20.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-kongsberg-kongsberg",
+      "end": null,
+      "expires": "2027-02-27T18:30:00+01:00",
+      "id": "9913-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Kongsberg",
+      "parent_uid": "ukm-arrangement-9913@ukm-kalendere",
+      "start": "2027-02-20T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Show Kongsberg",
+      "uid": "ukm-bak-scenen-frist-9913@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-kongsberg-kongsberg"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "nordland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Mo i Rana 2027.\nPåmeldingsfrist: 25.02.2027 kl. 23:59 (norsk tid).\n\nUKM Mo i Rana 2027\n\nonsdag 3. mars kl. 18:00 - 22:00\n\nPark 22\n\nRana\n\nUKM er et arrangement for deg mellom 13-20 år. Her kan du delta med det du vil som musikk, dans, teater, cosplay, kunst, film, foto, rigg, lys, lyd, programleder, backstage, produksjon – eller noe helt annet du brenner for.\nDette er en unik mulighet til å vise frem sine ferdigheter innen all type kunst og kulturuttrykk, og der du også vil møte andre ungdommer med like interesser. Vi skal lage et flott arrangement der ungdom kan møtes og dele sin entusiasme og interesse for kultur. Vi åpner også opp for ungdom utenfor Rana. Etter at forestillingen er ferdig vil noen av deltagerne bli valgt ut til å delta på fylkesfestivalen i Bodø i april der det også vil bli workshops innen kunst, musikk, dans og lignende. Etter dette kan noen også bli sendt videre til landsfestivalen som er første uken i sommerferien. Denne festivalen er fylt med mulige aktiviteter fra morgen til kveld hver eneste dag. Der kan du lære og oppleve masse nytt.\n\nhttps://delta.ukm.no/ukmid/pamelding/1833-9954/\n\nKontaktpersoner\nJørgen Kjærsund-Aasebøstøl\nE-post: jorgen.kjaersund@rana.kommune.no\n\nSusanne Nystjerne\nTelefon: 91130187\nE-post: susanne.nystjerne@gmail.com\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027",
+      "end": null,
+      "expires": "2027-03-03T22:00:00+01:00",
+      "id": "9954-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Park 22, Rana",
+      "parent_uid": "ukm-arrangement-9954@ukm-kalendere",
+      "start": "2027-02-25T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Mo i Rana 2027",
+      "uid": "ukm-bak-scenen-frist-9954@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lokalfestival i Eidsvoll 2027.\nPåmeldingsfrist: 01.09.2026 kl. 23:59 (norsk tid).\n\nLokalfestival i Eidsvoll 2027\n\ntorsdag 4. mars kl. 16:00 - lørdag 6. mars kl. 19:00\n\nBadet Kulturtun\n\nEidsvoll\n\nVelkommen til Ung Kultur Møtes i Eidsvoll i 2027!\n\nVi kjører UKM igjen til neste år, og vi gleder oss masse!\nØnsker du å være med som musiker, danser, cosplayer, gamer, arrangør, eller lyst til å bidra på en hel annen måte inn i festivalen?\nMeld deg på vel!\n\nHer er fristene dere må forholde dere til! 😎\n- 1. September: Frist til å melde deg som Ung Arrangør\n- 14. Februar: Påmelding med andre innslag på scenen og/eller utstillingen\n\nDere kan melde dere på med flere ting til festivalen, men husk!\n- Musikere kan kun melde seg på med to låter i første omgang\n- Kunstnere, det er lurt å liste opp alle verkene deres så vi veit hvor mange kunstverk det blir i utstillingen\n- Det er lurt for alle å melde inn tekniske behov! Det kan være alt fra å trenge et staffeli til kunst, til å ønske en mikrofon, et bord, m.m. - også skriv om dere IKKE har noen tekniske behov 😊\n\nOBS!\nDatoen er midlertidig! Det kan komme endringer 😊\nPåmeldingen for å vise frem noe er IKKE åpen enda! Det er først Ung Arrangørene som skal melde seg på 😊\n\nLokalfestival i Eidsvoll 2027: https://sys.ukm.no/2027-eidsvoll-lokalfestivalieidsvoll2027/files/2026/04/UKM-2027-midlertidig-banner-1.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3240-9732/\n\nKontaktpersoner\nAnita Kristine Olsen Støbakk\nTelefon: 91736270\nE-post: anita.kristine.olsen.stobakk@eidsvoll.kommune.no\n\nM. Anastasia Lampidoni\nTelefon: 48865155\nE-post: mara.anastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldingsfrist – delta: 14.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.09.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eidsvoll-lokalfestivalieidsvoll2027",
+      "end": null,
+      "expires": "2027-03-06T19:00:00+01:00",
+      "id": "9732-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Badet Kulturtun, Eidsvoll",
+      "parent_uid": "ukm-arrangement-9732@ukm-kalendere",
+      "start": "2026-09-01T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lokalfestival i Eidsvoll 2027",
+      "uid": "ukm-bak-scenen-frist-9732@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-eidsvoll-lokalfestivalieidsvoll2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lokalmønstring Sunnfjord 2027.\nPåmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nLokalmønstring Sunnfjord 2027\n\nfredag 5. mars kl. 15:00 - 21:00\n\nFørdehuset\n\nSunnfjord\n\nPåmeldinga er open!!\nMeld deg på med det du vil og kan, UKM Sunnfjord lokalmønstring skjer på Førdehuset fredag 5. mars 2027\n\nUKM er ein møteplass der ungdom får høve til å vise fram sine kulturelle utrykk gjennom ulike sjangrar som t.d musikk, song, dans, teater, kunst og foto i aldersgruppa 13-20 år.\n5. mars blir det lokalmønstring i Førdehuset. Påmeldingsfrist er torsdag 25. februar.\n( søndag 21. februar er frist for konferansier, media og arrangør )\n\nFrist for å levere inn kunst er søndag 28. februar. Du leverer kunsten i resepsjonen i Førdehuset.\n\nDet er gratis å vere deltakar på UKM.\n\nVil du være i publikum så kan du kjøpe billett på Førdehuset si heimeside www.fordehuset.no\n\nProgram:\nKl. 15.00: Registrering av deltakarar som skal på scene i Festsalen\nKl. 15.30: Lyd/ sceneprøver\nKl. 16.30: Registrering av deltakarar på utstilling i Festsalen\nKl. 17.15: Pizza til alle i Festsalen\nkl. 18.00 – Opning av kunstutstilling i Utstillingssalen.\nkl. 19.00 – 20.30 Sceneinnslag i Storsalen\n\nLokalmønstring Sunnfjord 2027: https://sys.ukm.no/2027-sunnfjord-lokalmonstringsunnfjord2027/files/2026/10/gitar.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4647-9969/\n\nKontaktpersoner\nAnders Bruland\nTelefon: 97196913\nE-post: anders.bruland@sunnfjord.kommune.no\n\nEli Britt Danielsen\nTelefon: 94818440\nE-post: Eli.Britt.Danielsen@sunnfjord.kommune.no\n\nGrete Karin Øen\nTelefon: 91717180\nE-post: grete.karin.oen@sunnfjord.kommune.no\n\nKristin Sandal\nTelefon: 95285015\nE-post: kristin@oncue.no\n\nMai Kristin Tidemansen\nTelefon: 91515912\nE-post: mai.kristin.tidemansen@forde.kommune.no\n\nStig Kamonen\nTelefon: 90187738\nE-post: stig@oncue.no\n\nPåmeldingsfrist – delta: 25.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord2027",
+      "end": null,
+      "expires": "2027-03-05T21:00:00+01:00",
+      "id": "9969-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Førdehuset, Sunnfjord",
+      "parent_uid": "ukm-arrangement-9969@ukm-kalendere",
+      "start": "2027-02-21T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lokalmønstring Sunnfjord 2027",
+      "uid": "ukm-bak-scenen-frist-9969@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Osen.\nPåmeldingsfrist: 12.02.2027 kl. 23:59 (norsk tid).\n\nOsen\n\nfredag 5. mars kl. 17:00 - 19:30\n\nKontaktpersoner\nAnn Jorid Gåsmo\nTelefon: 41578007\nE-post: 2305ag@fosenskole.no\n\nAstrid Jakobsen\nTelefon: 91727562\nE-post: Astrid.Jakobsen@osen.kommune.no\n\nMay-Britt Haldaas\nTelefon: 98166659\nE-post: haldaas@yahoo.no\n\nPåmeldingsfrist – delta: 19.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-osen-osen",
+      "end": null,
+      "expires": "2027-03-05T19:30:00+01:00",
+      "id": "9718-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Osen",
+      "parent_uid": "ukm-arrangement-9718@ukm-kalendere",
+      "start": "2027-02-12T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Osen",
+      "uid": "ukm-bak-scenen-frist-9718@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-osen-osen"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Risør ( Gjerstad og Vegårshei er også velkomne).\nPåmeldingsfrist: 30.01.2027 kl. 23:59 (norsk tid).\n\nRisør ( Gjerstad og Vegårshei er også velkomne)\n\nfredag 5. mars kl. 18:00 - lørdag 6. mars kl. 22:00\n\nRisørhuset kulturhus\n\nRisør\n\nVelkommen til UKM-helg på Risørhuset!\n\nFredag og lørdag fyller vi huset med aktiviteter, full backline, verksteder, pizza, gaming og mye mer. Vi håper du vil være med på scenen, bak kameraet eller bak kulissene!\n\nUKM er mye mer enn å opptre. Her er noen av måtene du kan delta på:\n\nArrangør – bli med på å planlegge og gjennomføre arrangementet, ta imot deltakere og skape god stemning.\n\n📸 Media – liker du å lage TikTok vidoer og innehold til Sosiale medier? Da trenger vi deg! Bidra med foto, film som viser fram det som skjer.\n\n🎤 Konferansier – presenter deltakerne og led publikum gjennom forestillingen.\n\n🎛️ Sceneteknikk – bli med bak kulissene og jobb med det tekniske rundt scenen.\n\n🎶 Vil du heller vise fram noe selv? Du kan delta med blant annet musikk, dans, teater, kunst eller film – alene eller sammen med andre.\n\nBli med og skap en helg full av ungdomskultur, nye venner og fine opplevelser!\n\nRisør ( Gjerstad og Vegårshei er også velkomne): https://sys.ukm.no/2027-risor-risor/files/2026/10/649045638_1258641309807354_4564327398316902648_n-900x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4201-9932/\n\nKontaktpersoner\nFrida Fred Dørsdal\nTelefon: 99518123\nE-post: frida.fred.dorsdal@risor.kommune.no\n\nPåmeldingsfrist – delta: 05.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 30.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-risor-risor",
+      "end": null,
+      "expires": "2027-03-06T22:00:00+01:00",
+      "id": "9932-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Risørhuset kulturhus",
+      "parent_uid": "ukm-arrangement-9932@ukm-kalendere",
+      "start": "2027-01-30T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Risør ( Gjerstad og Vegårshei er også velkomne)",
+      "uid": "ukm-bak-scenen-frist-9932@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-risor-risor"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Våler (Østfold) 2027.\nPåmeldingsfrist: 22.01.2027 kl. 23:59 (norsk tid).\n\nVåler (Østfold) 2027\n\nfredag 5. mars kl. 18:00 - 20:00\n\nVåler Ungdomsskole\n\nVåler (Østfold)\n\n💥Bli med på UKM Våler 5. mars 2027💥\nDu kan opptre på scena med dans, musikk, teater eller noe annet, vise frem kunst i utstillingen\neller være med som arrangør eller konferansier.\nMeld deg på! Aldersgrense 7.trinn til 20 år.\n\nHar du spørsmål?\nTa kontakt med Ida eller Merethe.\n\nVåler (Østfold) 2027: https://sys.ukm.no/2027-valerostfold-ukmvalerostfold2027/files/2026/10/IMG_5390-1350x1800.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/3114-9958/\n\nKontaktpersoner\nIda Løkken Anstensrud\nTelefon: 97762085\nE-post: ida.lokken.anstensrud@valer.kommune.no\n\nMerethe Osufsen\nTelefon: 45439353\nE-post: merethe.osufsen@valer.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-valerostfold-ukmvalerostfold2027/files/2026/10/IMG_5390-900x1200.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027-valerostfold-ukmvalerostfold2027",
+      "end": null,
+      "expires": "2027-03-05T20:00:00+01:00",
+      "id": "9958-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Våler Ungdomsskole, Våler (Østfold)",
+      "parent_uid": "ukm-arrangement-9958@ukm-kalendere",
+      "start": "2027-01-22T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Våler (Østfold) 2027",
+      "uid": "ukm-bak-scenen-frist-9958@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-valerostfold-ukmvalerostfold2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Eigersund 2027.\nPåmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nUKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersund-eigersund",
+      "end": null,
+      "expires": "2027-03-06T15:00:00+01:00",
+      "id": "9957-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Egersund kino, Eigersund",
+      "parent_uid": "ukm-arrangement-9957@ukm-kalendere",
+      "start": "2027-02-21T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Eigersund 2027",
+      "uid": "ukm-bak-scenen-frist-9957@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-eigersund-eigersund"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Nærøysund 2027.\nPåmeldingsfrist: 19.02.2027 kl. 23:59 (norsk tid).\n\nUKM Nærøysund 2027\n\nlørdag 6. mars kl. 16:00 - 19:00\n\nNærøysund kulturhus\n\nNærøysund\n\nUKM Nærøysund 2027 – Påmeldingen er ÅPEN!\n\nEr du mellom 10 - 20 år og har lyst til å vise fram det du brenner for?\nMeld deg på med musikk, dans, teater, kunst, foto/film, dikt, media – eller som arrangør! Scenen og galleriet er ditt!\n\nLørdag 06. mars kl. 16:00\nNærøysund Kulturhus, Kolvereid\n\nVi gleder oss til å se akkurat DEG på UKM!\n\nFrist for påmelding er 19.02.27\n\nhttps://delta.ukm.no/ukmid/pamelding/5060-9891/\n\nKontaktpersoner\nChasmine Fay Roma Tangen\nTelefon: 97862761\nE-post: chasmine.tangen@naroysund.kommune.no\n\nLars Rune Sporildnes\nTelefon: 47235398\nE-post: lars.sporildnes@naroysund.kommune.no\n\nStine Barstad Holm\nTelefon: 47687648\nE-post: stine.holm@naroysund.kommune.no\n\nPåmeldingsfrist – delta: 19.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-naroysund-ukmnaroysund2027",
+      "end": null,
+      "expires": "2027-03-06T19:00:00+01:00",
+      "id": "9891-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Nærøysund kulturhus",
+      "parent_uid": "ukm-arrangement-9891@ukm-kalendere",
+      "start": "2027-02-19T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Nærøysund 2027",
+      "uid": "ukm-bak-scenen-frist-9891@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-naroysund-ukmnaroysund2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Bjerkreim Lokalmønstring 2027.\nPåmeldingsfrist: 19.02.2027 kl. 23:59 (norsk tid).\n\nBjerkreim Lokalmønstring 2027\n\nlørdag 6. mars kl. 17:00 - 20:00\n\nBjerkreim Sammfunnshus\n\nBjerkreim\n\nVelkommen til UKM Lokalmønstring i Bjerkreim!\nMeld deg på og vis hva du kan! Påmelding åpen for alle mellom 10 - 20 år. De som fyller 13 år og oppover i 2027, kan vli valgt ut til å delta på fylkesmønstring i april.\n\nBjerkreim Lokalmønstring 2027: https://sys.ukm.no/2027-bjerkreim-ukmbjerkreimlokalmonstring2027/files/2026/08/UKM-2025-bilde-1-1800x985.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/1114-9814/\n\nKontaktpersoner\nAnne Margrethe Vikeså\nTelefon: 91154670\nE-post: annemavikesa@bjerkreim.kommune.no\n\nAnnette Olden Nedrebø\nTelefon: 98880147\nE-post: annette.nedrebo@bjerkreim.kommune.no\n\nPåmeldingsfrist – delta: 19.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-bjerkreim-ukmbjerkreimlokalmonstring2027/files/2026/08/UKM-2025-bilde-1-1200x657.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-bjerkreim-ukmbjerkreimlokalmonstring2027",
+      "end": null,
+      "expires": "2027-03-06T20:00:00+01:00",
+      "id": "9814-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bjerkreim Sammfunnshus",
+      "parent_uid": "ukm-arrangement-9814@ukm-kalendere",
+      "start": "2027-02-19T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Bjerkreim Lokalmønstring 2027",
+      "uid": "ukm-bak-scenen-frist-9814@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-bjerkreim-ukmbjerkreimlokalmonstring2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Sokndal 2027.\nPåmeldingsfrist: 25.02.2027 kl. 23:59 (norsk tid).\n\nUKM Sokndal 2027\n\nlørdag 6. mars kl. 17:00 - 18:30\n\nGamleveien 20\n\nSokndal\n\nMeld deg på i dag! Vis hva du kan! Sang, dans, kunst, trylling, teater, stand-up, video eller noe annet du kan? Bli med! Det er også mulighet til å delta på våre Workshop innen sang, dans, kunst og annet som kommer snart!\n\nUKM Sokndal 2027: https://sys.ukm.no/2027-sokndal-sokndal/files/2026/09/13A7880-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/1111-9874/\n\nKontaktpersoner\nRaimond Mydland\nTelefon: 90772237\nE-post: rmy@sokndal.kommune.no\n\nSelmer Simonsen\nTelefon: 97554794\nE-post: ssi@sokndal.kommune.no\n\nPåmeldingsfrist – delta: 25.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sokndal-sokndal",
+      "end": null,
+      "expires": "2027-03-06T18:30:00+01:00",
+      "id": "9874-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Gamleveien 20, Sokndal",
+      "parent_uid": "ukm-arrangement-9874@ukm-kalendere",
+      "start": "2027-02-25T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Sokndal 2027",
+      "uid": "ukm-bak-scenen-frist-9874@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sokndal-sokndal"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "nordland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Alstahaug.\nPåmeldingsfrist: 07.02.2027 kl. 23:59 (norsk tid).\n\nUKM Alstahaug\n\nsøndag 7. mars kl. 12:00 - 15:00\n\nKulturbadet Sandnessjøen\n\nAlstahaug\n\nVelkommen til Ung Kultur Møtes i Alstahaug i 2027!\n\nØnsker du å være med på UKM 2027? Det er mulig å melde seg på i mange ulike kategorier både som utøver og som arrangør. Meld deg på og bli med og bidra til en strålende lokalmønstring!\n\nPåmeldingsfrister:\n- 14. Februar: Frist for påmelding som arrangør/scenetekniker/Konferansier\n- 14. Februar: Frist for påmelding for innslag på scenen og/eller utstillingen\n\nDere kan melde dere på med flere ting til festivalen, men husk!\n- Musikere kan kun melde seg på med to låter i første omgang\n- Kunstnere, det er lurt å liste opp alle verkene deres så vi veit hvor mange kunstverk det blir i utstillingen\n- Det er lurt for alle å melde inn tekniske behov! Det kan være alt fra å trenge et staffeli til kunst, til å ønske en mikrofon, et bord, m.m. - også skriv om dere IKKE har noen tekniske behov 😊\n\nOBS!\nDatoen er midlertidig! Det kan komme endringer 😊\nMer info om tekniske krav som f.eks. format på lydfiler eller videofiler kan komme etterhvert.\n\nhttps://delta.ukm.no/ukmid/pamelding/1820-9897/\n\nKontaktpersoner\nSander Johansen\nTelefon: 41462974\nE-post: Sander.Johansen@alstahaug.kommune.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-alstahaug-alstahaug",
+      "end": null,
+      "expires": "2027-03-07T15:00:00+01:00",
+      "id": "9897-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kulturbadet Sandnessjøen, Alstahaug",
+      "parent_uid": "ukm-arrangement-9897@ukm-kalendere",
+      "start": "2027-02-07T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Alstahaug",
+      "uid": "ukm-bak-scenen-frist-9897@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-alstahaug-alstahaug"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Trondheim - Tråante.\nPåmeldingsfrist: 02.01.2027 kl. 23:59 (norsk tid).\n\nTrondheim - Tråante\n\ntorsdag 11. mars kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\n🎉 UKM Trondheim 2027, hold av uke 10!\n\nHva liker DU å lage, spille, vise fram eller finne på? I uke 10 fyller vi Kultursenteret ISAK med ungdomskultur, og vi vil ha deg med! 🔥\n\nUKM står for Ung Kultur Møtes, og er en møteplass der ungdom kan vise fram det de skaper, prøve noe nytt og bli kjent med andre som liker å være kreative.\n\nMusikk, dans, kunst, film, foto, teater, tekst, søm, cosplay eller noe vi aldri har sett før? Her er det plass til mange uttrykk og ideer! Du kan delta alene eller sammen med andre, enten du har gjort det hundre ganger eller skal prøve for aller første gang.\n\n✨ Del det du brenner for.\n✨ Møt andre kreative ungdommer.\n✨ Få erfaring og inspirasjon, og kanskje oppdage nye muligheter!\n\nDu trenger ikke ha alt ferdig eller føle deg som en proff. Det starter med en idé og lysten til å være med. Vil du heller komme og oppleve det andre viser fram? Da er du også velkommen!\n\nHold av uka, mer informasjon om program og påmelding kommer! 👀\n\nTrondheim - Tråante: https://sys.ukm.no/2027-trondheim-traante-trondheim-traante/files/2026/10/Kopi-av-UKM-Pameldingsplakat.png\n\nKontaktpersoner\nKim Olve Breistrand\nTelefon: 91532477\nE-post: kim.olve.breistrand@trondheim.kommune.no\n\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
+      "end": null,
+      "expires": "2027-03-11T22:00:00+01:00",
+      "id": "9910-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kultursenteret ISAK, Trondheim - Tråante",
+      "parent_uid": "ukm-arrangement-9910@ukm-kalendere",
+      "start": "2027-01-02T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Trondheim - Tråante",
+      "uid": "ukm-bak-scenen-frist-9910@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Flekkefjord og Kvinesdal.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nFlekkefjord og Kvinesdal\n\ntorsdag 11. mars kl. 18:00 - 21:00\n\nFlekkefjord Kultursenter Spira\n\nKvinesdal, Flekkefjord\n\nFlekkefjord og Kvinesdal UKM 2027 arrangeres i Flekkefjord Kultursenter Spira torsdag 11. mars kl.18.00 (oppmøte for deltakere kl.17.00)\n\nGeneralprøve onsdag 10. mars i Flekkefjord Kultursenter(Mer info kommer til de påmeldte kommer når det nærmer seg)\n\nPåmeldingsfris: 1. mars for arrangører / 4. mars for Kunst- og sceneinnslag.\n\nFlekkefjord og Kvinesdal: https://sys.ukm.no/2027-flekkefjord-kvinflekkefjordogkvinesdal/files/2026/10/UKM-900x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4227-9934/\n\nKontaktpersoner\nArne Reidar Skage\nTelefon: 91114400\nE-post: arne.reidar.skage.jr@flekkefjord.kommune.no\n\nLisa Stokkeland\nUKM koordinator Kvinesdal og klubbleder INNER10Er ungdomshus\nTelefon: 41514887\nE-post: lisa.yvon.stokkeland@kvinesdal.kommune.no\n\nPåmelding – Flekkefjord: https://delta.ukm.no/ukmid/pamelding/4207-9934/\nPåmeldingsfrist – delta: 04.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvinesdal",
+      "end": null,
+      "expires": "2027-03-11T21:00:00+01:00",
+      "id": "9934-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Flekkefjord Kultursenter Spira, Kvinesdal",
+      "parent_uid": "ukm-arrangement-9934@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Flekkefjord og Kvinesdal",
+      "uid": "ukm-bak-scenen-frist-9934@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvinesdal"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Lier 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er ikke åpen ennå, men følg med – mer informasjon kommer!\n\nVi gleder oss til å se hva Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
+      "end": null,
+      "expires": "2027-03-13T22:00:00+01:00",
+      "id": "9819-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Lier Kulturscene",
+      "parent_uid": "ukm-arrangement-9819@ukm-kalendere",
+      "start": "2027-02-28T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Lier 2027",
+      "uid": "ukm-bak-scenen-frist-9819@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-lier-ukmlier2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Grimstad.\nPåmeldingsfrist: 16.01.2027 kl. 23:59 (norsk tid).\n\nGrimstad\n\nfredag 12. mars kl. 17:30 - 21:00\n\nGrimstad Kulturhus og kino\n\nFredag 12.mars er vi endelig klare til årets store kultur-happening for ungdom i Grimstad, nemlig UKM!\n\nUKM (Ung Kultur Møtes) er en festival der ungdom kan vise hva de holder på med og møte andre som liker å drive med noe kreativt og gøy. Det er gratis å være med, og du kan delta med nesten hva som helst!\n\nAlle mellom 13-20 år kan være med, enten ved å vise noe fram på scenen, delta i kunstutstillingen, eller som arrangør, konferansier, eller jobbe med media (foto/video/some-produksjon).\n\nGrimstad: https://sys.ukm.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4202-9942/\n\nKontaktpersoner\nIrene Håheim\nTelefon: 91386511\nE-post: Irene.Haheim@grimstad.kommune.no\n\nKevin Kvåle\nTelefon: 92891349\nE-post: kevin.kvale@grimstad.kommune.no\n\nMagnus Tornensis\nTelefon: 95197456\nE-post: magtor@alta.kommune.no\n\nSimon Meyer Tallaksen\nTelefon: 95946629\nE-post: simon.meyer.tallaksen@gmail.com\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1200x800.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-grimstad-grimstad",
+      "end": null,
+      "expires": "2027-03-12T21:00:00+01:00",
+      "id": "9942-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Grimstad Kulturhus og kino",
+      "parent_uid": "ukm-arrangement-9942@ukm-kalendere",
+      "start": "2027-01-16T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Grimstad",
+      "uid": "ukm-bak-scenen-frist-9942@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-grimstad-grimstad"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Drammen 2027.\nPåmeldingsfrist: 08.03.2027 kl. 23:59 (norsk tid).\n\nUKM Drammen 2027\n\nfredag 12. mars kl. 18:00 - 22:00\n\nDrammen\n\nVelkommen til UKM Drammen!\n\nPåmelding for 2027 er ikke åpnet enda.\n\nUKM Drammen er et samarbeid mellom Drammen Kulturskole, Ung Kultur og Attic danseskole. Du kan delta med kunst, film, band, musikk, stand-up, litteratur, teater og mye mer. Alle mellom 13 – 20 år kan delta (er du yngre en 13 kan du fremdeles delta på lokalmønstring, men du må helst være fylt 15 år for å kunne bli videresendt til fylkesfestivalen i Buskerud).\n\nHos UKM handler det ikke om å være “best”, men om å bli sett, møtes og teste nye ting sammen. Du kan stille alene eller med venner, på scenen, bak kamera, i kulissene eller i kunstutstillingen.\n\nPRAKTISK INFORMASJON\nUKM i Drammen går over to dager. På fredag ettermiddag er det lyd- og sceneprøver. Selve forestillingen er lørdag 13.mars.\n\nMer detaljert informasjon finner du på:\n\nhttp://ungidrammen.no/ukm\n\nPÅ UKM HEIER ALLE PÅ ALLE!\nNår du er med på UKM så er du med på hele arrangementet. Du må være med på begge akter i forestillingen. Da er du publikum i den akten du ikke skal opptre på scenen.\n\nOFTE STILTE SPØRSMÅL\nKan jeg melde meg på med mer enn ett innslag?\n\nJa, det kan du.\nHvis du både vil synge, stille ut kunst og være med i en film – kjør på. UKM elsker folk som har mange sider.\n\nKan jeg melde meg på hvis jeg er 10 år?\nJa, det kan du også.\nUKM er åpent for deg som er litt yngre og klar for å vise fram det du lager. Vi passer på at det blir trygt, gøy og tilrettelagt for alle. Men vær oppmerksom på at du ikke kan bli videresendt til fylkesfestival før du er 15 år.\n\nUKM Drammen 2027: https://sys.ukm.no/2027-drammen-ukmdrammen2027/files/2026/09/Gutt-spiller-trommer-800x1200.jpg\n\nKontaktpersoner\nHåkon Windsland\nTelefon: 91757255\nE-post: Hakon.Windsland@drammen.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 08.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-drammen-ukmdrammen2027",
+      "end": null,
+      "expires": "2027-03-12T22:00:00+01:00",
+      "id": "9879-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Drammen",
+      "parent_uid": "ukm-arrangement-9879@ukm-kalendere",
+      "start": "2027-03-08T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Drammen 2027",
+      "uid": "ukm-bak-scenen-frist-9879@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-drammen-ukmdrammen2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til SHOW MOSS.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nSHOW MOSS\n\nfredag 12. mars kl. 18:00 - 22:00\n\nSamfunnshuset\n\nMoss\n\nFredag 12. mars braker det løs med UKM Show Moss. Nærmere informasjon kommer\n\nSHOW MOSS: https://sys.ukm.no/2027-moss-showmoss/files/2026/10/Image-2-900x1200.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/3103-9956/\n\nKontaktpersoner\nArthur Olsen\nTelefon: 93085578\nE-post: arthur.olsen@moss.kommune.no\n\nBeate Anonsen\nTelefon: 93484735\nE-post: beate.anonsen@moss.kommune.no\n\nJanne Korneliussen\nTelefon: 93044810\nE-post: Janne.Korneliussen@moss.kommune.no\n\nKenneth Manfred Storkås\nTelefon: 45230909\nE-post: kenneth.manfred.storkas@moss.kommune.no\n\nNicoline-Louise Kvennsjø\nTelefon: 45167121\nE-post: nicoline-louise.leegaard.kvennsjo@moss.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-moss-showmoss",
+      "end": null,
+      "expires": "2027-03-12T22:00:00+01:00",
+      "id": "9956-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Samfunnshuset, Moss",
+      "parent_uid": "ukm-arrangement-9956@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – SHOW MOSS",
+      "uid": "ukm-bak-scenen-frist-9956@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-moss-showmoss"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lørenskog 2027.\nPåmeldingsfrist: 22.01.2027 kl. 23:59 (norsk tid).\n\nLørenskog 2027\n\nlørdag 13. mars kl. 10:00 - søndag 14. mars kl. 20:00\n\nAktivitetshuset VOLT\n\nLørenskog\n\nUKM Lørenskog 2027!\nFestivalen foregår lørdag 13.mars og søndag 14. mars på VOLT Scene på Lørenskog Hus.\n\nArrangører er Lørenskog kulturskole og Aktivitetshuset VOLT\n\nDu kan melde deg på med hva du vil!\n\nMer info kommer - bare ta kontakt med oss om du har noen spørsmål :)\n\nLørenskog 2027: https://sys.ukm.no/2027-lorenskog-ukmlorenskog2027/files/2026/10/VOLT-NYSIRKUS-2026.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3222-9959/\n\nKontaktpersoner\nAda Odegard Risberg\nTelefon: 95160074\nE-post: adaris@lorenskog.kommune.no\n\nEmilie Mordal\nTelefon: 45974915\nE-post: emikon@lorenskog.kommune.no\n\nSturla Riis Mossefinn\nTelefon: 45428132\nE-post: stumos@lorenskog.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lorenskog-ukmlorenskog2027",
+      "end": null,
+      "expires": "2027-03-14T20:00:00+01:00",
+      "id": "9959-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Aktivitetshuset VOLT, Lørenskog",
+      "parent_uid": "ukm-arrangement-9959@ukm-kalendere",
+      "start": "2027-01-22T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lørenskog 2027",
+      "uid": "ukm-bak-scenen-frist-9959@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-lorenskog-ukmlorenskog2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Tokke og Vinje.\nPåmeldingsfrist: 08.03.2027 kl. 23:59 (norsk tid).\n\nTokke og Vinje\n\nlørdag 13. mars kl. 12:00 - 20:00\n\nVinjehuset\n\nVinje, Tokke\n\nUng Kultur Møtast atter ein gong på Vinjehuset. Velkomen til å melde deg på med det du ynskjer bidra med på ein hei riv dundrande flott konsert eller utstilling av ljod/ljos, rigging, song, dans, band, 3-D-printing, konferansier, kunst og alt du måtte ynskje av kultur!\n\nTokke og Vinje: https://sys.ukm.no/2027-tokke-vinje-tokkeogvinje/files/2026/09/IMG_0284-1-1800x1350.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4036-9858/\n\nKontaktpersoner\nJardar Østbø Juberg\nTelefon: 99412608\nE-post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine Mondal Ljostad\nTelefon: 90873194\nE-post: stine.ljostad@vinje.kommune.no\n\nPåmelding – Tokke: https://delta.ukm.no/ukmid/pamelding/4034-9858/\nPåmeldingsfrist – delta: 08.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 08.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-tokke-vinje-tokkeogvinje/files/2026/09/IMG_0284-1-1200x900.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9858-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Vinjehuset, Tokke",
+      "parent_uid": "ukm-arrangement-9858@ukm-kalendere",
+      "start": "2027-03-08T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Tokke og Vinje",
+      "uid": "ukm-bak-scenen-frist-9858@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Balsfjord 2027!.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Balsfjord 2027!\n\nlørdag 13. mars kl. 15:00 - 20:00\n\nStorsteinnes skole\n\nBalsfjord\n\nHei du! Tidlig ute? Det like vi!\nPåmelding åpner i desember!\n\nKontaktpersoner\nBlanka Cysarczyk\nTelefon: 46224697\nE-post: blankacys@gmail.com\n\nPåmeldingsfrist – delta: 06.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-balsfjord-ukmbalsfjord2027",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9804-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Storsteinnes skole, Balsfjord",
+      "parent_uid": "ukm-arrangement-9804@ukm-kalendere",
+      "start": "2027-02-28T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Balsfjord 2027!",
+      "uid": "ukm-bak-scenen-frist-9804@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-balsfjord-ukmbalsfjord2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "oslo"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lokal mønstring Vestre Aker 2027.\nPåmeldingsfrist: 14.02.2027 kl. 23:59 (norsk tid).\n\nLokal mønstring Vestre Aker 2027\n\nlørdag 13. mars kl. 16:00 - 20:00\n\nVestre Aker\n\nUKM – Ung Kultur Møtes – er en møteplass der ungdom får vise fram det de liker å gjøre og være en del av et kreativt fellesskap.\n\nPå lokalmønstringen kan ungdom delta med blant annet musikk, dans, teater, kunst, arrangører, film og andre kreative uttrykk. Det handler ikke om å konkurrere, men om å møtes, oppleve, lære og få mulighet til å utvikle seg.\n\nLokalmønstringen arrangeres lokalt og er åpen for ungdom som ønsker å delta eller bidra.\n\nhttps://delta.ukm.no/ukmid/pamelding/324-9937/\n\nKontaktpersoner\nBalita Serge Buhendwa\nTelefon: 99866660\nE-post: villagepointproduction@gmail.com\n\nNaimo Abdulkadir Shiiq Omar\nTelefon: 41213779\nE-post: naciimonora@gmail.com\n\nPåmeldingsfrist – delta: 14.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 14.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-vestreaker-lokalmonstringvestreaker2027",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9937-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Vestre Aker",
+      "parent_uid": "ukm-arrangement-9937@ukm-kalendere",
+      "start": "2027-02-14T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lokal mønstring Vestre Aker 2027",
+      "uid": "ukm-bak-scenen-frist-9937@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-vestreaker-lokalmonstringvestreaker2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "nordland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Fauske.\nPåmeldingsfrist: 15.02.2027 kl. 23:59 (norsk tid).\n\nFauske\n\nlørdag 13. mars kl. 16:00 - 18:00\n\nhttps://delta.ukm.no/ukmid/pamelding/1841-9939/\n\nKontaktpersoner\nGunn Lisbeth Pedersen\nTelefon: 91553736\nE-post: gunn.pedersen@fauske.kommune.no\n\nMartine Eidissen Nymo\nTelefon: 95851383\nE-post: martine.nymo@fauske.kommune.no\n\nMerete Hasselbergsen\nTelefon: 48295521\nE-post: merete.hasselbergsen@fauske.kommune.no\n\nThomas Andreassen\nTelefon: 97037260\nE-post: thomas.andreassen@fauske.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-fauske-fauske",
+      "end": null,
+      "expires": "2027-03-13T18:00:00+01:00",
+      "id": "9939-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Fauske",
+      "parent_uid": "ukm-arrangement-9939@ukm-kalendere",
+      "start": "2027-02-15T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Fauske",
+      "uid": "ukm-bak-scenen-frist-9939@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-fauske-fauske"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Hemsedal / Gol / Nesbyen UKM 2027 show!.\nPåmeldingsfrist: 06.03.2027 kl. 23:59 (norsk tid).\n\nHemsedal / Gol / Nesbyen UKM 2027 show!\n\nlørdag 13. mars kl. 17:00 - 20:00\n\nHemsedal, Gol, Nesbyen\n\nhttps://delta.ukm.no/ukmid/pamelding/3326-9926/\n\nKontaktpersoner\nAndreas Colbro\nTelefon: 40918058\nE-post: Andreas.Bertil.Colbro@hemsedal.kommune.no\n\nMari Vaagland\nTelefon: 95211903\nE-post: mari.vaagland@gol.kommune.no\n\nMålfrid Breivik\nTelefon: 90047824\nE-post: malfrid.breivik@nesbyen.kommune.no\n\nPåmelding – Gol: https://delta.ukm.no/ukmid/pamelding/3324-9926/\nPåmelding – Nesbyen: https://delta.ukm.no/ukmid/pamelding/3322-9926/\nPåmeldingsfrist – delta: 06.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 06.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-gol-hemsedal-neshemsedalgolnesbyenukmshow",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9926-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Hemsedal, Gol, Nesbyen",
+      "parent_uid": "ukm-arrangement-9926@ukm-kalendere",
+      "start": "2027-03-06T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Hemsedal / Gol / Nesbyen UKM 2027 show!",
+      "uid": "ukm-bak-scenen-frist-9926@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-gol-hemsedal-neshemsedalgolnesbyenukmshow"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Målselv 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Målselv 2027\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nCUE\n\nMålselv\n\nPå UKM kan du gjøre akkurat det du vil. Musikk, dans, teater, cosplay, kunst, film, foto, gaming (datakultur), og mye annet!\nUKM er stedet der du kan være deg selv! ​​​​\nDu kan delta fra det året du fyller 10 år, tilogmed det året du fyller 20 år\nTrives du ikke på scenen? Da kan du være med som arrangør!\n\nLyst å bli med? - Meld deg på!‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌\nLurer du på noe? - SPØR!\n\nUKM Målselv 2027: https://sys.ukm.no/2027-malselv-ukmmalselv2027/files/2026/03/DSC_1498-Edit-1200x798.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5524-9715/\n\nKontaktpersoner\nMonica Karlstad\nTelefon: 97516123\nE-post: monica.karlstad@malselv.kommune.no\n\nSvein Erik Pedersen\nTelefon: 94195074\nE-post: svein.pedersen@malselv.kommune.no\n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-malselv-ukmmalselv2027",
+      "end": null,
+      "expires": "2027-03-13T22:00:00+01:00",
+      "id": "9715-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "CUE, Målselv",
+      "parent_uid": "ukm-arrangement-9715@ukm-kalendere",
+      "start": "2027-02-28T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Målselv 2027",
+      "uid": "ukm-bak-scenen-frist-9715@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-malselv-ukmmalselv2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "nordland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Hadsel.\nPåmeldingsfrist: 03.08.2026 kl. 20:12 (norsk tid).\n\nHadsel\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nKontaktpersoner\nChristin Nilsen Long\nTelefon: 48085609\nE-post: christin.nilsen.long@hadsel.kommune.no\n\nMona Løveng\nTelefon: 95875257\nE-post: mona.loveng@hadsel.kommune.no\n\nStine Sivertsen\nTelefon: 97075432\nE-post: stine.sivertsen@hadsel.kommune.no\n\nPåmeldingsfrist – delta: 03.08.2026 kl. 20:12\nPåmeldingsfrist – bidra bak scenen: 03.08.2026 kl. 20:12\nArrangementsside: https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel",
+      "end": null,
+      "expires": "2027-03-13T22:00:00+01:00",
+      "id": "9793-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Hadsel",
+      "parent_uid": "ukm-arrangement-9793@ukm-kalendere",
+      "start": "2026-08-03T20:12:29+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Hadsel",
+      "uid": "ukm-bak-scenen-frist-9793@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus",
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Hadeland 2027.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3446-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027",
+      "end": null,
+      "expires": "2027-03-13T21:00:00+01:00",
+      "id": "9802-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Hadeland kultursal, Gran, Lunner",
+      "parent_uid": "ukm-arrangement-9802@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Hadeland 2027",
+      "uid": "ukm-bak-scenen-frist-9802@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lyngdal.\nPåmeldingsfrist: 07.03.2027 kl. 23:59 (norsk tid).\n\nLyngdal\n\nlørdag 13. mars kl. 18:00 - 20:00\n\nLyngdal kulturhus\n\nEtter å ha samarbeidet to år med Farsund om UKM, er Lyngdal nå tilbake og vil arrangere UKM på egenhånd. Med Lyngdal kulturskole med på laget har vi klokketro på at det kommer til å bli helt nydelig!\n\nUKM Lyngdal er for DEG i alderen 13-20 år (altså du som er født mellom 2007 og 2014), og som har noe du vil vise på en scene, i en utstilling, en film, kokkekunst, skriver dikt eller bøker - eller i det hele tatt holder på med gøye og kreative ting! UKM er ikke en talentkonkurranse, men vi vektlegger det sosiale og positive med å møte og lære av andre kreative ungdommer.\n\nDu kan delta med så mange ulike typer innslag eller kunstverk du vil, og du kan også samarbeide med andre. På UKM kan du også melde deg på som arrangør, konferansier eller med media - hvor du for eksempel kan ta bilder, filme eller skrive om UKM.\n\nDersom dere er en gruppe, må halvparten av medlemmene i gruppen være født mellom 2007 og 2014 - resten kan være eldre eller yngre.\n\nHar du spørsmål? Ta kontakt med Pål eller Martin, så hjelper vi deg gjerne! :)\n\nhttps://delta.ukm.no/ukmid/pamelding/4225-9805/\n\nKontaktpersoner\nMartin Sierra\nMartin Sierra er utdannet danser, og er rektor for kulturskolen i Lyngdal. Martin har også utviklet et program hvor han lærer opp ungdom til å bli fremtidige ledere - og disse ungdommene er en viktig del av gjennomføringen av UKM Lyngdal.\nTelefon: 93613034\nE-post: martin.sierra@lyngdal.kommune.no\n\nPål T. Fosso\nPål Tesaker Fosso er kommunekontakt for UKM Lyngdal, og jobber på Lyngdal kulturhus som rådgiver. Pål har arrangert UKM siden 2010, og har også vært deltaker mange ganger i band. Pål er også produsent for flere podkaster, blant annet podkasten UKM Lyngdal, som du kan høre på Spotify, Apple Podcasts, Podme, Podimo osv.\nTelefon: 47059851\nE-post: pal.tesaker.fosso@lyngdal.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lyngdal-lyngdal",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9805-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Lyngdal kulturhus",
+      "parent_uid": "ukm-arrangement-9805@ukm-kalendere",
+      "start": "2027-03-07T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lyngdal",
+      "uid": "ukm-bak-scenen-frist-9805@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-lyngdal-lyngdal"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Sandnes 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Sandnes 2027\n\nlørdag 13. mars kl. 18:00 - 20:00\n\nVågen videregående skole\n\nSandnes\n\nhttps://delta.ukm.no/ukmid/pamelding/1108-9892/\n\nKontaktpersoner\nAudun Hiis\nTelefon: 91894360\nE-post: audun.hiis@sandnes.kommune.no\n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sandnes-sandnes",
+      "end": null,
+      "expires": "2027-03-13T20:00:00+01:00",
+      "id": "9892-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Vågen videregående skole, Sandnes",
+      "parent_uid": "ukm-arrangement-9892@ukm-kalendere",
+      "start": "2027-02-28T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Sandnes 2027",
+      "uid": "ukm-bak-scenen-frist-9892@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sandnes-sandnes"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "moreogromsdal"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Festival Molde - 2027.\nPåmeldingsfrist: 06.03.2027 kl. 23:59 (norsk tid).\n\nUKM Festival Molde - 2027\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nMolde Kulturskole\n\nMolde\n\nhttps://delta.ukm.no/ukmid/pamelding/1506-9923/\n\nKontaktpersoner\nAnne Berntsen\nTelefon: 94143153\nE-post: anne.berntsen@molde.kommune.no\n\nJan Espen Ramstad\nTelefon: 90941260\nE-post: janespen@lyd1.no\n\nStig-Tore Mayer\nTelefon: 41548478\nE-post: stig-tore.mayer@molde.kommune.no\n\nTanja Pedersen\nTelefon: 92436305\nE-post: tanja.pedersen@molde.kommune.no\n\nPåmeldingsfrist – delta: 06.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 06.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027",
+      "end": null,
+      "expires": "2027-03-13T22:00:00+01:00",
+      "id": "9923-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Molde Kulturskole",
+      "parent_uid": "ukm-arrangement-9923@ukm-kalendere",
+      "start": "2027-03-06T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Festival Molde - 2027",
+      "uid": "ukm-bak-scenen-frist-9923@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM 2027 TRYSIL.\nPåmeldingsfrist: 17.11.2026 kl. 23:59 (norsk tid).\n\nUKM 2027 TRYSIL\n\nsøndag 14. mars kl. 16:00 - 19:00\n\nKulturhuset Hagelund\n\nTrysil\n\nUKM 2027 TRYSIL: https://sys.ukm.no/2027-trysil-trysil/files/2026/10/Insitula-2-fotograf-Monika-Soberg-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3421-9821/\n\nKontaktpersoner\nAnne Norderhaug Sætre\nTelefon: 90515159\nE-post: ase@trysil.kommune.no\n\nBeathe Sande - Hovedkontakt UKM TRYSIL\nTelefon: 47456499\nE-post: beathe.helen.sande@trysil.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-trysil-trysil",
+      "end": null,
+      "expires": "2027-03-14T19:00:00+01:00",
+      "id": "9821-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kulturhuset Hagelund, Trysil",
+      "parent_uid": "ukm-arrangement-9821@ukm-kalendere",
+      "start": "2026-11-17T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM 2027 TRYSIL",
+      "uid": "ukm-bak-scenen-frist-9821@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-trysil-trysil"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Orkland 2027.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
+      "end": null,
+      "expires": "2027-03-14T22:00:00+01:00",
+      "id": "9889-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Allfarveien 5, Orkland",
+      "parent_uid": "ukm-arrangement-9889@ukm-kalendere",
+      "start": "2026-12-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Orkland 2027",
+      "uid": "ukm-bak-scenen-frist-9889@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "oslo"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM på Stovner 2027.\nPåmeldingsfrist: 20.01.2027 kl. 23:59 (norsk tid).\n\nUKM på Stovner 2027\n\ntorsdag 18. mars kl. 18:00 - 21:00\n\nRommen Scene\n\nStovner\n\nVi gleder oss! Mer info kommer!\n\nhttps://delta.ukm.no/ukmid/pamelding/317-9951/\n\nKontaktpersoner\nAtle Borgeteien\nTelefon: 93286658\nE-post: atle.borgeteien@bsr.oslo.kommune.no\n\nPåmeldingsfrist – delta: 20.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 20.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-stovner-ukmpastovner2027",
+      "end": null,
+      "expires": "2027-03-18T21:00:00+01:00",
+      "id": "9951-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Rommen Scene, Stovner",
+      "parent_uid": "ukm-arrangement-9951@ukm-kalendere",
+      "start": "2027-01-20T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM på Stovner 2027",
+      "uid": "ukm-bak-scenen-frist-9951@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-stovner-ukmpastovner2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "finnmark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Deatnu - Tana.\nPåmeldingsfrist: 18.03.2027 kl. 23:59 (norsk tid).\n\nDeatnu - Tana\n\ntorsdag 1. april kl. 18:00 - 22:00\n\nDeanu birasvisti / Tana miljøbygg\n\nHold av dato for lokal UKM i 2027 allerede nå!\nPåmeldingen åpner i desember.\n\nÅpent for alle å delta opp til 20 år.\n\nEr du deltaker over 13 år? Da er det en mulighet for å gå videre til Fylkesfestivalen i Alta som er i slutten av april.\n\nHva kan du delta med?\nPå UKM kan du gjøre akkurat det DU vil. Musikk, dans, standup, teater, cosplay, kunst, duodji, film, foto, rigg, lys, lyd, programleder, backstage, produksjon – eller noe helt annet du brenner for. Kort sagt: UKM er stedet der du kan være deg selv og gjøre det du digger!​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌​‌‍‌‌‌﻿​﻿‌‍​﻿‌﻿​‍‌‍‍‌‌﻿​​‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌﻿‌‌‌‍‍﻿‌‍﻿‌​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌​​﻿‌​​﻿‌​‌‍​‍​﻿‌‍‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌​‌‍‌‌‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‌​﻿‌﻿​‍﻿‌​﻿‍‌​﻿‌‍​﻿​​‌‍​‌​‍﻿‌​﻿‌‌​﻿​﻿‌‍​‌​﻿‌‌‌‍‌‌​﻿​﻿‌‍‌‌‌‍​‍‌‍‌‍​﻿​‌​﻿​﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌​‌‍‌‌‌﻿​﻿‌‍​﻿‌﻿​‍‌‍‍‌‌﻿​​‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌\n\nDeatnu - Tana: https://sys.ukm.no/2027-deatnu-tana-deatnu-tana/files/2026/05/concert-crowd-audience-people-preview.jpg\n\nKontaktpersoner\nMargrethe Ballo\nTelefon: 46400277\nE-post: margrethe.ballo@tana.kommune.no\n\nPåmeldingsfrist – delta: 18.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 18.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-deatnu-tana-deatnu-tana",
+      "end": null,
+      "expires": "2027-04-01T22:00:00+02:00",
+      "id": "9794-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Deanu birasvisti / Tana miljøbygg, Deatnu - Tana",
+      "parent_uid": "ukm-arrangement-9794@ukm-kalendere",
+      "start": "2027-03-18T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Deatnu - Tana",
+      "uid": "ukm-bak-scenen-frist-9794@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-deatnu-tana-deatnu-tana"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Harstad 2027.\nPåmeldingsfrist: 07.03.2027 kl. 23:59 (norsk tid).\n\nUKM Harstad 2027\n\nlørdag 3. april kl. 14:00 - 17:00\n\nHarstad kulturhus AS\n\nHarstad - Hárstták\n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9941/\n\nKontaktpersoner\nArne-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.kommune.no\n\nPåmeldingsfrist – delta: 14.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027",
+      "end": null,
+      "expires": "2027-04-03T17:00:00+02:00",
+      "id": "9941-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Harstad kulturhus AS, Harstad - Hárstták",
+      "parent_uid": "ukm-arrangement-9941@ukm-kalendere",
+      "start": "2027-03-07T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Harstad 2027",
+      "uid": "ukm-bak-scenen-frist-9941@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Elverum 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Elverum 2027\n\nsøndag 4. april kl. 13:00 - 16:00\n\nElverum kulturhus\n\nElverum\n\nNå kan du melde deg på UKM Elverum 2027!🎨🎶🎭\n\nSøndag 4. april 2027 fyller vi Elverum Kulturhus med dans og musikk, kunst, foto, film og andre kreative uttrykk! Bli med på UKM og møt andre kreative ungdommer, stift nye bekjentskap, prøv noe nytt og opplev en dag fylt med god energi, fellesskap og inspirasjon!\n\nUKM handler ikke om å være best - det handler om å vise frem hvem du er og det du liker å drive med! Liker du å stå på scenen? Vil du vise frem noe du har laget? Ønsker du å jobbe bak kulissene med å sminke deltakere, rigge scene eller være produsent? Vil du ønske publikum velkommen, jobbe med lyd og lys eller bare være en del av et fellesskap? Meld deg på!\n\nDu stiller med kreativiteten og motet - og gjerne en venn - vi stiller med det resterende!\nVi sees på UKM! Alt er gratis!\n\n🔥Påmeldingsfrist for scene og kunst: 22.03.2027\n🔥Påmeldingsfrist for arrangør, konferansier og media: 28.02.2027\n\nUKM Elverum 2027: https://sys.ukm.no/2027-elverum-ukmelverum2027/files/2026/10/336719835_600085101838555_6342385621675897198_n-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3420-9906/\n\nKontaktpersoner\nHanne Skavern\nTelefon: 40612432\nE-post: hannemadeline@hotmail.com\n\nPåmeldingsfrist – delta: 22.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027",
+      "end": null,
+      "expires": "2027-04-04T16:00:00+02:00",
+      "id": "9906-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Elverum kulturhus",
+      "parent_uid": "ukm-arrangement-9906@ukm-kalendere",
+      "start": "2027-02-28T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Elverum 2027",
+      "uid": "ukm-bak-scenen-frist-9906@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Telemark 2027.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Telemark 2027\n\nfredag 9. april kl. 15:00 - søndag 11. april kl. 18:00\n\nNotodden Teater (https://www.google.com/maps/search/?api=1&query=Notodden%20Teater)\n\nNotodden Teater\n\nI 2027 kjører vi UKM Telemark i Notodden!\n\nVi skal bruke ulike lokasjoner i byen når vi inntar bluesbyen i april!\n\n🎭Notodden teater: forestillinger og kunstutstilling\n💥Klubben: Greenroom og hangout\n🎙️Bok og Blueshuset: workshops og kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nKontaktpersoner\nHeidi Bekkevold\nTelefon: 99155531\nE-post: heidi.bekkevold@telemarkfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59",
+      "end": null,
+      "expires": "2027-04-11T18:00:00+02:00",
+      "id": "9945-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Notodden Teater",
+      "parent_uid": "ukm-arrangement-9945@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM-festivalen i Telemark 2027",
+      "uid": "ukm-bak-scenen-frist-9945@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "agder"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM festivalen i Agder 2027.\nPåmeldingsfrist: 19.03.2027 kl. 23:59 (norsk tid).\n\nUKM festivalen i Agder 2027\n\nfredag 9. april kl. 18:00 - søndag 11. april kl. 16:00\n\nTeateret (https://www.google.com/maps/search/?api=1&query=Teateret)\n\nTeateret\n\nUKM-deltakere fra hele Agder samles i Kristiansand for fylkesfestivalen 2026! To dager med overnatting, show, kunst, workshops og aktiviteter - helt gratis selvfølgelig! Vil du være med, må du først delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åpen, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktpersoner\nTonje Eikrem Jacobsen\nFylkeskontakt\nTelefon: 47381761\nE-post: Tonje.Eikrem.Jacobsen@agderfk.no\n\nHarald Stensland\nSceneprodusent\nTelefon: 90975600\nE-post: harald.stensland@agderfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/media\n\nPåmeldingsfrist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-agder-ukm-festivaleniagder2027/files/2026/10/scene-1200x900.jpg",
+      "end": null,
+      "expires": "2027-04-11T16:00:00+02:00",
+      "id": "9918-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Teateret",
+      "parent_uid": "ukm-arrangement-9918@ukm-kalendere",
+      "start": "2027-03-19T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM festivalen i Agder 2027",
+      "uid": "ukm-bak-scenen-frist-9918@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "buskerud"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM fylkesfestival Buskerud 2027.\nPåmeldingsfrist: 02.04.2027 kl. 23:59 (norsk tid).\n\nUKM fylkesfestival Buskerud 2027\n\nfredag 16. april kl. 15:00 - søndag 18. april kl. 16:00\n\nDelta lokalt på ditt UKM der du bor - og kanskje blir du en del av gjengen som deltar på fylkesfestivalen i april. Her samles over 200 ungdommer med sine uttrykk for en helg der man møter mange nye venner - får inspirasjon og har det gøy :)\n\nKontaktpersoner\nElisabeth Bjørke Knudsen\nTelefon: 92297525\nE-post: elisabeth.knudsen@musikk.no\n\nJonas Eknes Evenstad\nTelefon: 46613969\nE-post: jonas.evenstad@musikk.no\n\nÅsne Børtnes\nTelefon: 47168828\nE-post: asne.bortnes@musikk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-buskerud-ukm-festivalenibuskerud2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-buskerud-ukm-festivalenibuskerud2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-buskerud-ukm-festivalenibuskerud2027/media\n\nPåmeldingsfrist – delta: 02.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.04.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-buskerud-ukm-festivalenibuskerud2027/files/2026/09/Apningshow_IMG_9662_Foto-Yousef-Rifay-1200x800.jpg",
+      "end": null,
+      "expires": "2027-04-18T16:00:00+02:00",
+      "id": "9867-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "",
+      "parent_uid": "ukm-arrangement-9867@ukm-kalendere",
+      "start": "2027-04-02T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM fylkesfestival Buskerud 2027",
+      "uid": "ukm-bak-scenen-frist-9867@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-buskerud-ukm-festivalenibuskerud2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Fylkesfestivalen i Troms 2027.\nPåmeldingsfrist: 18.03.2027 kl. 23:59 (norsk tid).\n\nFylkesfestivalen i Troms 2027\n\nfredag 16. april kl. 20:30 - søndag 18. april kl. 13:00\n\nKulturhuset Finnsnes (https://www.google.com/maps/search/?api=1&query=Kulturhuset%20Finnsnes)\n\nKulturhuset Finnsnes\n\nFylkesfestivalen gjennomføres på Finnsnes i tiden 26.-18.april 2027. Denne gangen markerer vi 30 års jubileum for fylkesfestivalen i Troms. Vi står klare til å skape personlig vekst for kulturungdom , videreutvikle og vise fram talenter fra hele vår region!\n\nKontaktpersoner\nOdd Halvdan Jakobsen\nDaglig leder UKM Troms\nTelefon: 97193855\nE-post: adm@ukmarctic.no\n\nJulia Sofie Sørum Bjørklund\nInnholdsprodusent\nTelefon: 97896349\nE-post: julia@ukm.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/media\n\nPåmeldingsfrist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 18.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/files/2026/10/Andreas-Olsen.jpg",
+      "end": null,
+      "expires": "2027-04-18T13:00:00+02:00",
+      "id": "9938-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kulturhuset Finnsnes",
+      "parent_uid": "ukm-arrangement-9938@ukm-kalendere",
+      "start": "2027-03-18T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Fylkesfestivalen i Troms 2027",
+      "uid": "ukm-bak-scenen-frist-9938@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Fredrikstadfestivalen 2027.\nPåmeldingsfrist: 11.04.2027 kl. 23:59 (norsk tid).\n\nUKM Fredrikstadfestivalen 2027\n\nlørdag 17. april kl. 18:00 - 22:00\n\nSt.Croix-huset\n\nFredrikstad\n\nVelkommen til vårens vakreste eventyr ! Ung Kultur Møtes til UKM Fredrikstadfestivalen lørdag 17. april. Følg med i sosiale medier. Mer info kommer.\n\nUKM Fredrikstadfestivalen 2027: https://sys.ukm.no/2027-fredrikstad-ukmfredrikstadfestivalen2027/files/2026/10/backdrop-show-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3107-9952/\n\nKontaktpersoner\nLine Eger-Heed\nTelefon: 91835011\nE-post: lhee@fredrikstad.kommune.no\n\nPer-Øivind Johannessen\nTelefon: 90732111\nE-post: pojo@fredrikstad.kommune.no\n\nPåmeldingsfrist – delta: 03.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.04.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027",
+      "end": null,
+      "expires": "2027-04-17T22:00:00+02:00",
+      "id": "9952-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "St.Croix-huset, Fredrikstad",
+      "parent_uid": "ukm-arrangement-9952@ukm-kalendere",
+      "start": "2027-04-11T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Fredrikstadfestivalen 2027",
+      "uid": "ukm-bak-scenen-frist-9952@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Vestland 2027.\nPåmeldingsfrist: 15.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 - søndag 25. april kl. 17:00\n\nKIPO Kultursal Askøy VGS (https://www.google.com/maps/search/?api=1&query=KIPO%20Kultursal%20Ask%C3%B8y%20VGS)\n\nKIPO Kultursal Askøy VGS\n\n23.–25. april 2027 brakar det laust med fylkesfestival i Vestland.\n\nFor å delta på fylkesfestivalen må du bli vidaresend frå det lokale UKM-arrangementet i eigen kommune.\n\nMeir informasjon om festivalen kjem på denne sida.\n\nKontaktpersoner\nTora Herringbotn Theigmann\nFylkeskontakt\nTelefon: 48213866\nE-post: Tora.Herringbotn.Theigmann@vlfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/media\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/violaintenso_Adrians_260621_1-5-1200x800.jpg",
+      "end": null,
+      "expires": "2027-04-25T17:00:00+02:00",
+      "id": "9899-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "KIPO Kultursal Askøy VGS",
+      "parent_uid": "ukm-arrangement-9899@ukm-kalendere",
+      "start": "2027-03-15T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM-festivalen i Vestland 2027",
+      "uid": "ukm-bak-scenen-frist-9899@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "oslo"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Oslo 2027.\nPåmeldingsfrist: 19.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Oslo 2027\n\nlørdag 24. april kl. 10:00 - søndag 25. april kl. 21:00\n\nSentralen (https://www.google.com/maps/search/?api=1&query=Sentralen)\n\nSentralen\n\nVelkommen til UKM-festivalen i Oslo 2027! VI samler ungdommer fra hele Oslo til to dager med aktiviteter, forestillinger, kunstutstilling og ekte lidenskap for ungdomskultur!\n\nKontaktpersoner\nMagnus Nordbekk\nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nMargaret Berger\nTelefon: 97097921\nE-post: margaretukmoslo@gmail.com\n\nProgramProgram: https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-oslo-ukm-festivalenioslo2027/files/2026/09/Forestilling-1_FLAMMESEX_UKM_OSLO_2026_Kasper-Holgersen-5-1200x901.jpg",
+      "end": null,
+      "expires": "2027-04-25T21:00:00+02:00",
+      "id": "9883-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Sentralen",
+      "parent_uid": "ukm-arrangement-9883@ukm-kalendere",
+      "start": "2027-03-19T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM-festivalen i Oslo 2027",
+      "uid": "ukm-bak-scenen-frist-9883@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Østfold 2027.\nPåmeldingsfrist: 16.09.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
+      "end": null,
+      "expires": "2027-10-16T20:00:00+02:00",
+      "id": "9894-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Moss",
+      "parent_uid": "ukm-arrangement-9894@ukm-kalendere",
+      "start": "2027-09-16T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM-festivalen i Østfold 2027",
+      "uid": "ukm-bak-scenen-frist-9894@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-ostfold-festival"
+    }
+  ],
   "events": [
     {
       "event": {
@@ -9300,5 +10797,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-25T11:36:00.482023+00:00"
+  "generated_at": "2026-10-25T12:11:49.898177+00:00"
 }

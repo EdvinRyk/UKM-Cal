@@ -8,6 +8,126 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9793@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20260803T181229Z
+SUMMARY:Påmeldingsfrist bak scenen – Hadsel
+DESCRIPTION:Frist for å melde seg på bak scenen til Hadsel.\nPåmeldingsf
+ rist: 03.08.2026 kl. 20:12 (norsk tid).\n\nHadsel\n\nlørdag 13. mars kl. 
+ 18:00 - 22:00\n\nKontaktpersoner\nChristin Nilsen Long\nTelefon: 48085609\
+ nE-post: christin.nilsen.long@hadsel.kommune.no\n\nMona Løveng\nTelefon: 
+ 95875257\nE-post: mona.loveng@hadsel.kommune.no\n\nStine Sivertsen\nTelefo
+ n: 97075432\nE-post: stine.sivertsen@hadsel.kommune.no\n\nPåmeldingsfrist
+  – delta: 03.08.2026 kl. 20:12\nPåmeldingsfrist – bidra bak scenen: 0
+ 3.08.2026 kl. 20:12\nArrangementsside: https://www.ukm.no/arrangement/2027
+ -hadsel-ukmhadsel
+LOCATION:\, Hadsel
+URL:https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9793@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9897@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270207T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Alstahaug
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Alstahaug.\nPåme
+ ldingsfrist: 07.02.2027 kl. 23:59 (norsk tid).\n\nUKM Alstahaug\n\nsøndag
+  7. mars kl. 12:00 - 15:00\n\nKulturbadet Sandnessjøen\n\nAlstahaug\n\nVe
+ lkommen til Ung Kultur Møtes i Alstahaug i 2027!\n\nØnsker du å være m
+ ed på UKM 2027? Det er mulig å melde seg på i mange ulike kategorier b
+ åde som utøver og som arrangør. Meld deg på og bli med og bidra til en
+  strålende lokalmønstring!\n\nPåmeldingsfrister:\n- 14. Februar: Frist 
+ for påmelding som arrangør/scenetekniker/Konferansier\n- 14. Februar: Fr
+ ist for påmelding for innslag på scenen og/eller utstillingen\n\nDere ka
+ n melde dere på med flere ting til festivalen\, men husk!\n- Musikere kan
+  kun melde seg på med to låter i første omgang\n- Kunstnere\, det er lu
+ rt å liste opp alle verkene deres så vi veit hvor mange kunstverk det bl
+ ir i utstillingen\n- Det er lurt for alle å melde inn tekniske behov! Det
+  kan være alt fra å trenge et staffeli til kunst\, til å ønske en mikr
+ ofon\, et bord\, m.m. - også skriv om dere IKKE har noen tekniske behov 
+ 😊\n\nOBS!\nDatoen er midlertidig! Det kan komme endringer 😊\nMer inf
+ o om tekniske krav som f.eks. format på lydfiler eller videofiler kan kom
+ me etterhvert.\n\nhttps://delta.ukm.no/ukmid/pamelding/1820-9897/\n\nKonta
+ ktpersoner\nSander Johansen\nTelefon: 41462974\nE-post: Sander.Johansen@al
+ stahaug.kommune.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nP
+ åmeldingsfrist – bidra bak scenen: 07.02.2027 kl. 23:59\nArrangementssi
+ de: https://www.ukm.no/arrangement/2027-alstahaug-alstahaug
+LOCATION:Kulturbadet Sandnessjøen\, Alstahaug
+URL:https://www.ukm.no/arrangement/2027-alstahaug-alstahaug
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9897@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9939@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270215T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Fauske
+DESCRIPTION:Frist for å melde seg på bak scenen til Fauske.\nPåmeldingsf
+ rist: 15.02.2027 kl. 23:59 (norsk tid).\n\nFauske\n\nlørdag 13. mars kl. 
+ 16:00 - 18:00\n\nhttps://delta.ukm.no/ukmid/pamelding/1841-9939/\n\nKontak
+ tpersoner\nGunn Lisbeth Pedersen\nTelefon: 91553736\nE-post: gunn.pedersen
+ @fauske.kommune.no\n\nMartine Eidissen Nymo\nTelefon: 95851383\nE-post: ma
+ rtine.nymo@fauske.kommune.no\n\nMerete Hasselbergsen\nTelefon: 48295521\nE
+ -post: merete.hasselbergsen@fauske.kommune.no\n\nThomas Andreassen\nTelefo
+ n: 97037260\nE-post: thomas.andreassen@fauske.kommune.no\n\nPåmeldingsfri
+ st – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen:
+  15.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/20
+ 27-fauske-fauske
+LOCATION:\, Fauske
+URL:https://www.ukm.no/arrangement/2027-fauske-fauske
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9939@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9954@ukm-kalendere
+DTSTAMP:20261025T121149Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261025T121149Z
+SEQUENCE:0
+DTSTART:20270225T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Mo i Rana 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Mo i Rana 2027.\n
+ Påmeldingsfrist: 25.02.2027 kl. 23:59 (norsk tid).\n\nUKM Mo i Rana 2027\
+ n\nonsdag 3. mars kl. 18:00 - 22:00\n\nPark 22\n\nRana\n\nUKM er et arrang
+ ement for deg mellom 13-20 år. Her kan du delta med det du vil som musikk
+ \, dans\, teater\, cosplay\, kunst\, film\, foto\, rigg\, lys\, lyd\, prog
+ ramleder\, backstage\, produksjon – eller noe helt annet du brenner for.
+ \nDette er en unik mulighet til å vise frem sine ferdigheter innen all ty
+ pe kunst og kulturuttrykk\, og der du også vil møte andre ungdommer med 
+ like interesser. Vi skal lage et flott arrangement der ungdom kan møtes o
+ g dele sin entusiasme og interesse for kultur. Vi åpner også opp for ung
+ dom utenfor Rana. Etter at forestillingen er ferdig vil noen av deltagerne
+  bli valgt ut til å delta på fylkesfestivalen i Bodø i april der det og
+ så vil bli workshops innen kunst\, musikk\, dans og lignende. Etter dette
+  kan noen også bli sendt videre til landsfestivalen som er første uken i
+  sommerferien. Denne festivalen er fylt med mulige aktiviteter fra morgen 
+ til kveld hver eneste dag. Der kan du lære og oppleve masse nytt.\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/1833-9954/\n\nKontaktpersoner\nJørgen Kj
+ ærsund-Aasebøstøl\nE-post: jorgen.kjaersund@rana.kommune.no\n\nSusanne 
+ Nystjerne\nTelefon: 91130187\nE-post: susanne.nystjerne@gmail.com\n\nPåme
+ ldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra ba
+ k scenen: 25.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arran
+ gement/2027-rana-ukmmoirana2027
+LOCATION:Park 22\, Rana
+URL:https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9954@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9954@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
