@@ -2,18 +2,20 @@
 
 Én iCalendar-feed for hvert av Norges 15 fylker og én for nasjonale UKM-arrangementer. Alle kommende og pågående offentlige arrangementer i UKMs kilder tas med, også neste kalenderår. Det er ingen egen øvre datogrense i generatoren.
 
+Valgt repository: [EdvinRyk/UKM-Cal](https://github.com/EdvinRyk/UKM-Cal). Publiseringsadressen etter aktivering av GitHub Pages er `https://edvinryk.github.io/UKM-Cal/`.
+
 **Løsningen er ferdig bygget og kan kjøres lokalt. Offentlige abonnementslenker og daglig drift blir aktive først etter publisering på GitHub Pages.**
 
 ## Publisering på GitHub
 
-1. Opprett et offentlig repository med navnet `ukm-kalendere` og standardgren `main`.
+1. Bruk det offentlige repositoryet `EdvinRyk/UKM-Cal` med standardgren `main`.
 2. Legg inn hele innholdet i denne prosjektmappen i repositoryets rot, inkludert `.github/`, `ukm_calendar/`, `tests/`, `pyproject.toml` og `generated/`. En ZIP-fil må pakkes ut før innholdet legges inn. Selve ZIP-filen starter ingen jobb.
 3. Åpne **Settings → Pages → Build and deployment**, og velg **GitHub Actions** som publiseringskilde.
 4. Under **Settings → Actions → General → Workflow permissions** må jobbene kunne skrive repository-innhold. Oppdateringsjobben bruker repositoryets vanlige `GITHUB_TOKEN`; ingen egen API-nøkkel eller Google-tilgang trengs. Standardgrenen må tillate at jobben lagrer genererte data med en commit. Dersom organisasjonen blokkerer dette, må repositoryets eksisterende regler tilpasses av eieren.
 5. Åpne **Actions → Oppdater og publiser UKM-kalendere → Run workflow**. Første automatisk utløste kjøring kan feile hvis Pages ikke var aktivert ennå; kjør den da manuelt etter trinn 3.
 6. Når både `build` og `deploy` er grønne, åpner du adressen i **Settings → Pages**. Nettstedet viser alle 16 abonnementslenkene og knapper for Google Kalender.
 
-Standardadressen blir `https://BRUKERNAVN.github.io/ukm-kalendere/`. Den faktiske adressen hentes automatisk fra GitHub Pages, også ved et konfigurert eget domene. Ingen adresser trenger å endres i koden.
+Den faktiske adressen hentes automatisk fra GitHub Pages, også ved et konfigurert eget domene. Ingen adresser trenger å endres i koden.
 
 Oppdatering er satt til **04.17 UTC hver dag** (05.17 eller 06.17 norsk tid, avhengig av sommertid). GitHub kan forsinke planlagte jobber. Hver vellykkede bygging lagrer nytt datagrunnlag og oppdateringsstatus i repositoryet, også når arrangementsinnholdet er uendret. Det gir historikk og løpende repository-aktivitet. Feil vises som en mislykket Actions-kjøring; forrige publiserte nettsted beholdes.
 
@@ -62,7 +64,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory generated/site
 Angi offentlig adresse ved manuell generering for et allerede publisert nettsted:
 
 ```sh
-python3 -m ukm_calendar --base-url https://BRUKERNAVN.github.io/ukm-kalendere/
+python3 -m ukm_calendar --base-url https://edvinryk.github.io/UKM-Cal/
 ```
 
 Bruk et isolert miljø for testverktøyene:
