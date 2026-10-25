@@ -23,7 +23,9 @@ Kjøring av workflow fra en fork kan måtte aktiveres under Actions først. GitH
 
 ## Bruke kalenderne
 
-Åpne det publiserte nettstedet og velg **Legg til i Google Kalender**, eller kopier en kalenderlenke og bruk **Andre kalendere → Fra nettadresse** i Google Kalender på nett.
+Åpne det publiserte nettstedet og velg **Legg til i Google Kalender**. Knappen viser riktig HTTPS-lenke og åpner en veiledning: kopier lenken, åpne Googles **Fra nettadresse**, lim inn lenken og velg **Legg til kalender**. Dette bruker [Googles dokumenterte abonnementsflyt](https://support.google.com/calendar/answer/37100?hl=no), og unngår snarveier med `cid` som Google kan avvise. Du kan også bruke **Kopier lenke** på kalenderkortet.
+
+Legg til et nytt abonnement i en nettleser på en datamaskin. Google Kalender-appen kan vise abonnementet etterpå, men støtter ikke selve opprettelsen via nettadresse.
 
 En enkelt nedlasting og import av en `.ics`-fil gir en engangskopi. Bruk abonnement for automatiske oppdateringer. Google avgjør selv når abonnementet hentes på nytt; daglig generering gir ikke en garanti for at endringen vises samme dag i Google.
 

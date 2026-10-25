@@ -9,111 +9,139 @@ h1{font-size:clamp(36px,6vw,64px);line-height:1.08;letter-spacing:-.045em;margin
 .how{border-left:4px solid var(--accent-border);padding:4px 22px;margin:32px 0 42px;max-width:820px}.how p{margin:8px 0}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(290px,100%),1fr));gap:16px}.card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:24px;display:flex;flex-direction:column;min-width:0}
 .card.national{grid-column:1/-1;background:var(--national)}.count{margin:0 0 20px;color:var(--muted)}.actions{margin-top:auto;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-.google{display:inline-block;background:var(--green);color:var(--button-ink);border-radius:9px;padding:10px 14px;text-decoration:none;font-size:14px;font-weight:650}
+.google{display:inline-block;background:var(--green);color:var(--button-ink);border:0;border-radius:9px;padding:10px 14px;text-decoration:none;font-family:inherit;font-size:14px;font-weight:650;line-height:inherit;cursor:pointer}
 .copy{border:1px solid var(--accent-border);background:transparent;border-radius:9px;color:var(--ink);padding:9px 12px;font:inherit;font-size:14px;cursor:pointer}
 .file{font-size:14px}.url{margin-top:16px;font-size:12px;overflow-wrap:anywhere;color:var(--muted)}footer{margin-top:44px;border-top:1px solid var(--border);padding-top:24px;font-size:14px}
 a:focus-visible,button:focus-visible{outline:3px solid #e09f24;outline-offset:4px}.preview{padding:12px;background:var(--preview);border-radius:8px}
+dialog{width:560px;max-width:calc(100% - 32px);max-height:calc(100% - 32px);overflow:auto;border:1px solid var(--border);border-radius:18px;padding:28px;background:var(--card);color:var(--ink)}dialog::backdrop{background:rgb(0 0 0 / .75)}.dialog-close{float:right;border:0;background:transparent;color:var(--ink);font:28px/1 system-ui;cursor:pointer;padding:0 0 12px 16px}.steps{padding-left:22px}.steps li{padding-left:4px;margin:18px 0}.feed-input{width:100%;margin:10px 0;padding:12px;border:1px solid var(--border);border-radius:8px;background:var(--paper);color:var(--ink);font:14px/1.5 ui-monospace,monospace}.dialog-note{font-size:14px;color:var(--muted)}
 </style></head><body><main>
 <div class="eyebrow">Uavhengig kalenderoversikt · Data fra UKM</div>
 <h1>Få UKM rett i kalenderen.</h1>
 <p class="intro">Velg fylket ditt eller følg nasjonale arrangementer. Hver oppføring har tid, sted, hele arrangementsbeskrivelsen og relevante lenker.</p>
 <p class="status"><span class="dot" aria-hidden="true">●</span> Kalenderfilene oppdateres daglig · Sist oppdatert 25.10.2026 kl. 12:29 (norsk tid)</p>
-<div class="how"><h2>Slik abonnerer du</h2><p>Bruk «Legg til i Google Kalender», eller kopier lenken og velg <strong>Andre kalendere → Fra nettadresse</strong> i Google Kalender på nett.</p>
+<div class="how"><h2>Slik abonnerer du</h2><p>Velg «Legg til i Google Kalender» under ønsket kalender. Du får riktig lenke og trinnene for å legge den til via <strong>Fra nettadresse</strong>.</p>
 <p class="muted">Google bestemmer når nye opplysninger hentes, så endringer kan vises senere enn tidspunktet ovenfor. Bruk abonnement for løpende oppdateringer; import av en nedlastet fil gir en engangskopi.</p>
 <p class="muted">Fylkeskalenderne inneholder lokale og regionale arrangementer. Den nasjonale kalenderen inneholder bare arrangementer UKM har klassifisert på landsnivå.</p></div>
 <p id="preview" class="preview" hidden>Dette er en lokal forhåndsvisning. Kalenderne må publiseres på en offentlig HTTPS-adresse før Google kan abonnere.</p>
 <div class="grid"><article class="card national">
 <h2>Nasjonale arrangementer</h2><p class="count">0 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/nasjonalt.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fnasjonalt.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/nasjonalt.ics" data-calendar="Nasjonale arrangementer">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/nasjonalt.ics">Kopier lenke</button>
 <a class="file" href="kalendere/nasjonalt.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/nasjonalt.ics">https://edvinryk.github.io/UKM-Cal/kalendere/nasjonalt.ics</div></article><article class="card">
 <h2>Agder</h2><p class="count">10 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/agder.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fagder.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/agder.ics" data-calendar="Agder">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/agder.ics">Kopier lenke</button>
 <a class="file" href="kalendere/agder.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/agder.ics">https://edvinryk.github.io/UKM-Cal/kalendere/agder.ics</div></article><article class="card">
 <h2>Akershus</h2><p class="count">7 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/akershus.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fakershus.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/akershus.ics" data-calendar="Akershus">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/akershus.ics">Kopier lenke</button>
 <a class="file" href="kalendere/akershus.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/akershus.ics">https://edvinryk.github.io/UKM-Cal/kalendere/akershus.ics</div></article><article class="card">
 <h2>Buskerud</h2><p class="count">9 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/buskerud.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fbuskerud.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/buskerud.ics" data-calendar="Buskerud">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/buskerud.ics">Kopier lenke</button>
 <a class="file" href="kalendere/buskerud.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/buskerud.ics">https://edvinryk.github.io/UKM-Cal/kalendere/buskerud.ics</div></article><article class="card">
 <h2>Finnmark</h2><p class="count">3 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/finnmark.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Ffinnmark.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/finnmark.ics" data-calendar="Finnmark">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/finnmark.ics">Kopier lenke</button>
 <a class="file" href="kalendere/finnmark.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/finnmark.ics">https://edvinryk.github.io/UKM-Cal/kalendere/finnmark.ics</div></article><article class="card">
 <h2>Innlandet</h2><p class="count">6 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/innlandet.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Finnlandet.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/innlandet.ics" data-calendar="Innlandet">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/innlandet.ics">Kopier lenke</button>
 <a class="file" href="kalendere/innlandet.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/innlandet.ics">https://edvinryk.github.io/UKM-Cal/kalendere/innlandet.ics</div></article><article class="card">
 <h2>Møre og Romsdal</h2><p class="count">2 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/moreogromsdal.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fmoreogromsdal.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/moreogromsdal.ics" data-calendar="Møre og Romsdal">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/moreogromsdal.ics">Kopier lenke</button>
 <a class="file" href="kalendere/moreogromsdal.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/moreogromsdal.ics">https://edvinryk.github.io/UKM-Cal/kalendere/moreogromsdal.ics</div></article><article class="card">
 <h2>Nordland</h2><p class="count">4 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/nordland.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fnordland.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/nordland.ics" data-calendar="Nordland">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/nordland.ics">Kopier lenke</button>
 <a class="file" href="kalendere/nordland.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/nordland.ics">https://edvinryk.github.io/UKM-Cal/kalendere/nordland.ics</div></article><article class="card">
 <h2>Oslo</h2><p class="count">13 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/oslo.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Foslo.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/oslo.ics" data-calendar="Oslo">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/oslo.ics">Kopier lenke</button>
 <a class="file" href="kalendere/oslo.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/oslo.ics">https://edvinryk.github.io/UKM-Cal/kalendere/oslo.ics</div></article><article class="card">
 <h2>Rogaland</h2><p class="count">7 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/rogaland.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Frogaland.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/rogaland.ics" data-calendar="Rogaland">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/rogaland.ics">Kopier lenke</button>
 <a class="file" href="kalendere/rogaland.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/rogaland.ics">https://edvinryk.github.io/UKM-Cal/kalendere/rogaland.ics</div></article><article class="card">
 <h2>Telemark</h2><p class="count">5 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/telemark.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Ftelemark.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/telemark.ics" data-calendar="Telemark">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/telemark.ics">Kopier lenke</button>
 <a class="file" href="kalendere/telemark.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/telemark.ics">https://edvinryk.github.io/UKM-Cal/kalendere/telemark.ics</div></article><article class="card">
 <h2>Troms</h2><p class="count">5 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/troms.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Ftroms.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/troms.ics" data-calendar="Troms">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/troms.ics">Kopier lenke</button>
 <a class="file" href="kalendere/troms.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/troms.ics">https://edvinryk.github.io/UKM-Cal/kalendere/troms.ics</div></article><article class="card">
 <h2>Trøndelag</h2><p class="count">16 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/trondelag.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Ftrondelag.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/trondelag.ics" data-calendar="Trøndelag">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/trondelag.ics">Kopier lenke</button>
 <a class="file" href="kalendere/trondelag.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/trondelag.ics">https://edvinryk.github.io/UKM-Cal/kalendere/trondelag.ics</div></article><article class="card">
 <h2>Vestfold</h2><p class="count">3 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/vestfold.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fvestfold.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/vestfold.ics" data-calendar="Vestfold">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/vestfold.ics">Kopier lenke</button>
 <a class="file" href="kalendere/vestfold.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/vestfold.ics">https://edvinryk.github.io/UKM-Cal/kalendere/vestfold.ics</div></article><article class="card">
 <h2>Vestland</h2><p class="count">11 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/vestland.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fvestland.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/vestland.ics" data-calendar="Vestland">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/vestland.ics">Kopier lenke</button>
 <a class="file" href="kalendere/vestland.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/vestland.ics">https://edvinryk.github.io/UKM-Cal/kalendere/vestland.ics</div></article><article class="card">
 <h2>Østfold</h2><p class="count">4 kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="kalendere/ostfold.ics" href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fedvinryk.github.io%2FUKM-Cal%2Fkalendere%2Fostfold.ics" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="kalendere/ostfold.ics" data-calendar="Østfold">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="kalendere/ostfold.ics">Kopier lenke</button>
 <a class="file" href="kalendere/ostfold.ics">iCal-fil</a></div>
 <div class="url" data-url="kalendere/ostfold.ics">https://edvinryk.github.io/UKM-Cal/kalendere/ostfold.ics</div></article></div><p id="feedback" role="status" aria-live="polite"></p>
 <footer><p>Kilde: <a href="https://www.ukm.no/arrangement">UKMs offentlige arrangementssider</a>. Oversikten er en uavhengig tjeneste. Kontakt arrangøren via UKM for spørsmål om innholdet.</p>
 <p>Bare kommende og pågående arrangementer tas med. Et tomt abonnement fylles automatisk når UKM publiserer aktuelle arrangementer. <a href="status.json">Oppdateringsstatus</a>.</p></footer>
-</main><script>
+</main>
+<dialog id="subscribe-dialog" aria-labelledby="subscribe-title">
+<form method="dialog"><button class="dialog-close" aria-label="Lukk" type="submit">×</button></form>
+<h2 id="subscribe-title">Legg til kalender</h2>
+<p>Bruk «Fra nettadresse» i Google Kalender for å abonnere på denne kalenderen.</p>
+<ol class="steps">
+<li><label for="subscribe-url">Kopier denne kalenderlenken:</label>
+<input class="feed-input" id="subscribe-url" type="url" readonly spellcheck="false">
+<button id="copy-subscription" class="copy" type="button">Kopier kalenderlenken</button>
+<span id="subscribe-feedback" role="status" aria-live="polite"></span></li>
+<li><a class="google" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noopener">Åpne «Fra nettadresse» i Google Kalender</a></li>
+<li>Lim inn lenken i feltet <strong>Nettadressen til kalenderen</strong>, og velg <strong>Legg til kalender</strong>.</li>
+</ol>
+<p class="dialog-note">Legg til abonnementet i en nettleser på en datamaskin. Deretter vises det også i Google Kalender-appen. <a href="https://support.google.com/calendar/answer/37100?hl=no" target="_blank" rel="noopener">Googles veiledning</a></p>
+</dialog>
+<script>
 const base = new URL('./', location.href);
 const local = !['http:', 'https:'].includes(base.protocol) || ['localhost', '127.0.0.1', '[::1]'].includes(base.hostname);
 const publicBase = "https://edvinryk.github.io/UKM-Cal/";
 function feed(path) { return new URL(path, publicBase || base).href; }
 document.querySelectorAll('[data-url]').forEach(el => { if (!local || publicBase) el.textContent = feed(el.dataset.url); });
+const subscribeDialog = document.querySelector('#subscribe-dialog');
+const subscribeUrl = document.querySelector('#subscribe-url');
 document.querySelectorAll('[data-google]').forEach(el => {
-  if (local && !publicBase) { el.removeAttribute('href'); el.setAttribute('aria-disabled', 'true'); }
-  else el.href = 'https://calendar.google.com/calendar/u/0/r?cid=' + encodeURIComponent(feed(el.dataset.google));
+  if (local && !publicBase) { el.disabled = true; return; }
+  el.addEventListener('click', () => {
+    document.querySelector('#subscribe-title').textContent = 'Legg til ' + el.dataset.calendar;
+    subscribeUrl.value = feed(el.dataset.google);
+    document.querySelector('#subscribe-feedback').textContent = '';
+    subscribeDialog.showModal();
+  });
+});
+document.querySelector('#copy-subscription').addEventListener('click', async () => {
+  const feedback = document.querySelector('#subscribe-feedback');
+  try { await navigator.clipboard.writeText(subscribeUrl.value); feedback.textContent = ' Lenken er kopiert.'; }
+  catch { subscribeUrl.focus(); subscribeUrl.select(); feedback.textContent = ' Kopier den markerte lenken.'; }
 });
 document.querySelectorAll('[data-copy]').forEach(el => el.addEventListener('click', async () => {
   const out = document.querySelector('#feedback');

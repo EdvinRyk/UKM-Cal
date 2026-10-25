@@ -110,10 +110,11 @@ h1{font-size:clamp(36px,6vw,64px);line-height:1.08;letter-spacing:-.045em;margin
 .how{border-left:4px solid var(--accent-border);padding:4px 22px;margin:32px 0 42px;max-width:820px}.how p{margin:8px 0}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(290px,100%),1fr));gap:16px}.card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:24px;display:flex;flex-direction:column;min-width:0}
 .card.national{grid-column:1/-1;background:var(--national)}.count{margin:0 0 20px;color:var(--muted)}.actions{margin-top:auto;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-.google{display:inline-block;background:var(--green);color:var(--button-ink);border-radius:9px;padding:10px 14px;text-decoration:none;font-size:14px;font-weight:650}
+.google{display:inline-block;background:var(--green);color:var(--button-ink);border:0;border-radius:9px;padding:10px 14px;text-decoration:none;font-family:inherit;font-size:14px;font-weight:650;line-height:inherit;cursor:pointer}
 .copy{border:1px solid var(--accent-border);background:transparent;border-radius:9px;color:var(--ink);padding:9px 12px;font:inherit;font-size:14px;cursor:pointer}
 .file{font-size:14px}.url{margin-top:16px;font-size:12px;overflow-wrap:anywhere;color:var(--muted)}footer{margin-top:44px;border-top:1px solid var(--border);padding-top:24px;font-size:14px}
 a:focus-visible,button:focus-visible{outline:3px solid #e09f24;outline-offset:4px}.preview{padding:12px;background:var(--preview);border-radius:8px}
+dialog{width:560px;max-width:calc(100% - 32px);max-height:calc(100% - 32px);overflow:auto;border:1px solid var(--border);border-radius:18px;padding:28px;background:var(--card);color:var(--ink)}dialog::backdrop{background:rgb(0 0 0 / .75)}.dialog-close{float:right;border:0;background:transparent;color:var(--ink);font:28px/1 system-ui;cursor:pointer;padding:0 0 12px 16px}.steps{padding-left:22px}.steps li{padding-left:4px;margin:18px 0}.feed-input{width:100%;margin:10px 0;padding:12px;border:1px solid var(--border);border-radius:8px;background:var(--paper);color:var(--ink);font:14px/1.5 ui-monospace,monospace}.dialog-note{font-size:14px;color:var(--muted)}
 """
 
 
@@ -124,11 +125,10 @@ def index_html(counties, events, generated_at, base_url):
         count = sum(slug in e["calendars"] for e in events)
         file = f"kalendere/{slug}.ics"
         url = base_url.rstrip("/") + "/" + file if base_url else ""
-        google = "https://calendar.google.com/calendar/u/0/r?cid=" + quote(url, safe="") if url else "#"
         esc = html.escape
         cards.append(f'''<article class="card{' national' if slug == 'nasjonalt' else ''}">
 <h2>{esc(title)}</h2><p class="count">{count} kommende og pågående arrangementer</p>
-<div class="actions"><a class="google" data-google="{file}" href="{esc(google, quote=True)}" target="_blank" rel="noopener">Legg til i Google Kalender</a>
+<div class="actions"><button class="google" type="button" data-google="{file}" data-calendar="{esc(title, quote=True)}">Legg til i Google Kalender</button>
 <button class="copy" type="button" data-copy="{file}">Kopier lenke</button>
 <a class="file" href="{file}">iCal-fil</a></div>
 <div class="url" data-url="{file}">{esc(url) if url else 'Abonnementslenken blir tilgjengelig ved publisering.'}</div></article>''')
@@ -140,22 +140,49 @@ def index_html(counties, events, generated_at, base_url):
 <h1>Få UKM rett i kalenderen.</h1>
 <p class="intro">Velg fylket ditt eller følg nasjonale arrangementer. Hver oppføring har tid, sted, hele arrangementsbeskrivelsen og relevante lenker.</p>
 <p class="status"><span class="dot" aria-hidden="true">●</span> Kalenderfilene oppdateres daglig · Sist oppdatert {local} (norsk tid)</p>
-<div class="how"><h2>Slik abonnerer du</h2><p>Bruk «Legg til i Google Kalender», eller kopier lenken og velg <strong>Andre kalendere → Fra nettadresse</strong> i Google Kalender på nett.</p>
+<div class="how"><h2>Slik abonnerer du</h2><p>Velg «Legg til i Google Kalender» under ønsket kalender. Du får riktig lenke og trinnene for å legge den til via <strong>Fra nettadresse</strong>.</p>
 <p class="muted">Google bestemmer når nye opplysninger hentes, så endringer kan vises senere enn tidspunktet ovenfor. Bruk abonnement for løpende oppdateringer; import av en nedlastet fil gir en engangskopi.</p>
 <p class="muted">Fylkeskalenderne inneholder lokale og regionale arrangementer. Den nasjonale kalenderen inneholder bare arrangementer UKM har klassifisert på landsnivå.</p></div>
 <p id="preview" class="preview" hidden>Dette er en lokal forhåndsvisning. Kalenderne må publiseres på en offentlig HTTPS-adresse før Google kan abonnere.</p>
 <div class="grid">{''.join(cards)}</div><p id="feedback" role="status" aria-live="polite"></p>
 <footer><p>Kilde: <a href="https://www.ukm.no/arrangement">UKMs offentlige arrangementssider</a>. Oversikten er en uavhengig tjeneste. Kontakt arrangøren via UKM for spørsmål om innholdet.</p>
 <p>Bare kommende og pågående arrangementer tas med. Et tomt abonnement fylles automatisk når UKM publiserer aktuelle arrangementer. <a href="status.json">Oppdateringsstatus</a>.</p></footer>
-</main><script>
+</main>
+<dialog id="subscribe-dialog" aria-labelledby="subscribe-title">
+<form method="dialog"><button class="dialog-close" aria-label="Lukk" type="submit">×</button></form>
+<h2 id="subscribe-title">Legg til kalender</h2>
+<p>Bruk «Fra nettadresse» i Google Kalender for å abonnere på denne kalenderen.</p>
+<ol class="steps">
+<li><label for="subscribe-url">Kopier denne kalenderlenken:</label>
+<input class="feed-input" id="subscribe-url" type="url" readonly spellcheck="false">
+<button id="copy-subscription" class="copy" type="button">Kopier kalenderlenken</button>
+<span id="subscribe-feedback" role="status" aria-live="polite"></span></li>
+<li><a class="google" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noopener">Åpne «Fra nettadresse» i Google Kalender</a></li>
+<li>Lim inn lenken i feltet <strong>Nettadressen til kalenderen</strong>, og velg <strong>Legg til kalender</strong>.</li>
+</ol>
+<p class="dialog-note">Legg til abonnementet i en nettleser på en datamaskin. Deretter vises det også i Google Kalender-appen. <a href="https://support.google.com/calendar/answer/37100?hl=no" target="_blank" rel="noopener">Googles veiledning</a></p>
+</dialog>
+<script>
 const base = new URL('./', location.href);
 const local = !['http:', 'https:'].includes(base.protocol) || ['localhost', '127.0.0.1', '[::1]'].includes(base.hostname);
 const publicBase = {json.dumps(base_url.rstrip('/') + '/' if base_url else '')};
 function feed(path) {{ return new URL(path, publicBase || base).href; }}
 document.querySelectorAll('[data-url]').forEach(el => {{ if (!local || publicBase) el.textContent = feed(el.dataset.url); }});
+const subscribeDialog = document.querySelector('#subscribe-dialog');
+const subscribeUrl = document.querySelector('#subscribe-url');
 document.querySelectorAll('[data-google]').forEach(el => {{
-  if (local && !publicBase) {{ el.removeAttribute('href'); el.setAttribute('aria-disabled', 'true'); }}
-  else el.href = 'https://calendar.google.com/calendar/u/0/r?cid=' + encodeURIComponent(feed(el.dataset.google));
+  if (local && !publicBase) {{ el.disabled = true; return; }}
+  el.addEventListener('click', () => {{
+    document.querySelector('#subscribe-title').textContent = 'Legg til ' + el.dataset.calendar;
+    subscribeUrl.value = feed(el.dataset.google);
+    document.querySelector('#subscribe-feedback').textContent = '';
+    subscribeDialog.showModal();
+  }});
+}});
+document.querySelector('#copy-subscription').addEventListener('click', async () => {{
+  const feedback = document.querySelector('#subscribe-feedback');
+  try {{ await navigator.clipboard.writeText(subscribeUrl.value); feedback.textContent = ' Lenken er kopiert.'; }}
+  catch {{ subscribeUrl.focus(); subscribeUrl.select(); feedback.textContent = ' Kopier den markerte lenken.'; }}
 }});
 document.querySelectorAll('[data-copy]').forEach(el => el.addEventListener('click', async () => {{
   const out = document.querySelector('#feedback');
