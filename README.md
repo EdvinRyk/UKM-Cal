@@ -4,7 +4,7 @@
 
 Valgt repository: [EdvinRyk/UKM-Cal](https://github.com/EdvinRyk/UKM-Cal). Publiseringsadressen etter aktivering av GitHub Pages er `https://edvinryk.github.io/UKM-Cal/`.
 
-**Løsningen er ferdig bygget og kan kjøres lokalt. Offentlige abonnementslenker og daglig drift blir aktive først etter publisering på GitHub Pages.**
+**Løsningen er publisert på [GitHub Pages](https://edvinryk.github.io/UKM-Cal/), med daglig oppdatering via GitHub Actions. Nettsiden har fast mørk modus.**
 
 ## Publisering på GitHub
 
