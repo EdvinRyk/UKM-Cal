@@ -1,0 +1,48 @@
+{
+  "id": 9883,
+  "navn": "UKM-festivalen i Oslo 2027",
+  "url": "https://sys.ukm.no/2027-oslo-ukm-festivalenioslo2027/",
+  "sted": "Sentralen",
+  "start": 1808560800,
+  "start_date": {
+    "date": "2027-04-24 10:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "stop": 1808686800,
+  "stop_date": {
+    "date": "2027-04-25 21:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "paameldingsfrist_1": 1803945540,
+  "paameldingsfrist_1_date": {
+    "date": "2027-03-01 23:59:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "paameldingsfrist_2": 1805500740,
+  "paameldingsfrist_2_date": {
+    "date": "2027-03-19 23:59:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "type": "fylke",
+  "path": "2027-oslo-ukm-festivalenioslo2027",
+  "kommuner": [],
+  "fylke": {
+    "id": 3,
+    "link": "oslo",
+    "navn": "Oslo",
+    "attributes": null,
+    "kommuner": {
+      "id": null
+    },
+    "nettverk_omrade": null,
+    "fake": false,
+    "active": true
+  },
+  "paamelding_lenker": [],
+  "utvidet_gui": true,
+  "beskrivelse": "Velkommen til UKM-festivalen i Oslo 2027! VI samler ungdommer fra hele Oslo til to dager med aktiviteter, forestillinger, kunstutstilling og ekte lidenskap for ungdomskultur!"
+}

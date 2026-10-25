@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Rogaland
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9940@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270205T130000Z
+DTEND:20270206T210000Z
+SUMMARY:Jæren 2027
+DESCRIPTION:Jæren 2027\n\nfredag 5. februar kl. 14:00 - lørdag 6. februar
+  kl. 22:00\n\nStorstova\n\nHå\, Gjesdal\, Klepp\, Time\n\nUKM FESTIVAL i 
+ Storstova 5. og 6. februar 2027\nFor ungdom fra HÅ\, TIME\, KLEPP og GJES
+ DAL.\n\nTo hele dager til ende med sceneprøver\, forestillinger\, kunstut
+ stilling\, kafe og masse gøy!\n\nPåmeldingsfrist 25. januar\n\nAlle ungd
+ ommer mellom 13 (du må fylle 13 år i 2027) og 20 år kan melde seg på U
+ KM og alle får være med. Påmelding skjer via nettsiden her. Det er inge
+ n begrensning i antall deltakere eller uttrykksform – du kan delta alene
+  eller i en gruppe\, med hva du vil. Du kan kun delta i ett sceneinnslag o
+ g med ett (eller en serie på inntil 3) kunstverk.\n\nDu melder deg på gj
+ ennom den kommunen du bor i.\n\nUKM – består av sceneopptredener\, utst
+ illing og filmvisning.\n\nHver deltaker/gruppe får vanligvis inntil 5 min
+ utter på scenen. Dette gjelder også filminnslag. Teater/Drama -innslag k
+ an være inntil 10 min. De som deltar med utstillingsobjekter (tegninger\,
+  tegneserier\, skulpturer\, etc.) blir presentert på en egen utstilling\,
+  og utstillingslokalet er åpent for publikum under hele UKM.\n\nGjennom h
+ ele festivalen er det arrangement for deltakerne på Møllekjelleren. Her 
+ blir det kafe fredag\, frokost lørdagen og kafe gjennom dagen\, rom for s
+ tyling av hår og sminke\, treffe andre som skal opptre\, afterparty lørd
+ ag kveld. Mye gøy!\n\nFølg UKM JÆREN på facebook\n\nJæren 2027: https
+ ://sys.ukm.no/2027-gjesdal-ha-kleppukmjaren2027/files/2026/10/IMG_0740-120
+ 0x772.jpg\n\nKontaktpersoner\nCamilla Ystanes\nTelefon: 97500968\nE-post: 
+ cey@ha.kommune.no\n\nEspen Nybråten\nTelefon: 91828645\nE-post: espen.nyb
+ raten@time.kommune.no\n\nPåmeldingsfrist – delta: 24.01.2027 kl. 23:59\
+ nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangements
+ side: https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
+LOCATION:Storstova\, Hå\, Gjesdal\, Klepp\, Time
+URL:https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9875@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270227T090000Z
+DTEND:20270227T150000Z
+SUMMARY:Workshop Sokndal 2027
+DESCRIPTION:Workshop Sokndal 2027\n\nlørdag 27. februar kl. 10:00 - 16:00\
+ n\nSkoleveien 2\n\nSokndal\n\nDet vil bli Workshop i forkant av UKM. Du ka
+ n velge mellom gruppene dans\, sang\, kunst og design!\n\nWorkshop Sokndal
+  2027: https://sys.ukm.no/2027-sokndal-workshopsokndal2027/files/2026/09/I
+ MG_0292-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/1111-9875/\n\
+ nKontaktpersoner\nRaimond Mydland\nTelefon: 90772237\nE-post: rmy@sokndal.
+ kommune.no\n\nSelmer Simonsen\nTelefon: 97554794\nE-post: ssi@sokndal.komm
+ une.no\n\nPåmeldingsfrist – delta: 25.02.2027 kl. 23:59\nPåmeldingsfri
+ st – bidra bak scenen: 20.12.2026 kl. 11:48\nArrangementsside: https://w
+ ww.ukm.no/arrangement/2027-sokndal-workshopsokndal2027
+LOCATION:Skoleveien 2\, Sokndal
+URL:https://www.ukm.no/arrangement/2027-sokndal-workshopsokndal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9828@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270227T110000Z
+DTEND:20270227T170000Z
+SUMMARY:Karmøy
+DESCRIPTION:Karmøy\n\nlørdag 27. februar kl. 12:00 - 18:00\n\nKarmøy kul
+ turhus\n\nUKM Karmøy inviterer til en inspirerende dag på Karmøy kultur
+ hus\, fylt med kreativitet\, kunst og sterke unge uttrykk. Her får du opp
+ leve hva ungdom i kommunen skaper innen kunst\, musikk\, scene og kultur.\
+ n\nLørdag 27.februar\nProgram kommer\n\nArrangementet er åpent for alle!
+  Familie\, venner og nysgjerrige publikummere. Velkommen til en dag som fe
+ irer unges skaperglede!\n\nhttps://delta.ukm.no/ukmid/pamelding/1149-9828/
+ \n\nKontaktpersoner\nGlenn Roger Mardal\nTelefon: 45728947\nE-post: grm01@
+ karmoy.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPå
+ meldingsfrist – bidra bak scenen: 30.11.2026 kl. 23:59\nArrangementsside
+ : https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy
+LOCATION:Karmøy kulturhus
+URL:https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9957@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270306T120000Z
+DTEND:20270306T140000Z
+SUMMARY:UKM Eigersund 2027
+DESCRIPTION:UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEger
+ sund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontak
+ tpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrocke
+ klubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsf
+ rist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https:/
+ /www.ukm.no/arrangement/2027-eigersund-eigersund
+LOCATION:Egersund kino\, Eigersund
+URL:https://www.ukm.no/arrangement/2027-eigersund-eigersund
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9814@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270306T160000Z
+DTEND:20270306T190000Z
+SUMMARY:Bjerkreim Lokalmønstring 2027
+DESCRIPTION:Bjerkreim Lokalmønstring 2027\n\nlørdag 6. mars kl. 17:00 - 2
+ 0:00\n\nBjerkreim Sammfunnshus\n\nBjerkreim\n\nVelkommen til UKM Lokalmøn
+ string i Bjerkreim!\nMeld deg på og vis hva du kan! Påmelding åpen for 
+ alle mellom 10 - 20 år. De som fyller 13 år og oppover i 2027\, kan vli 
+ valgt ut til å delta på fylkesmønstring i april.\n\nBjerkreim Lokalmøn
+ string 2027: https://sys.ukm.no/2027-bjerkreim-ukmbjerkreimlokalmonstring2
+ 027/files/2026/08/UKM-2025-bilde-1-1800x985.jpg\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/1114-9814/\n\nKontaktpersoner\nAnne Margrethe Vikeså\nTelef
+ on: 91154670\nE-post: annemavikesa@bjerkreim.kommune.no\n\nAnnette Olden N
+ edrebø\nTelefon: 98880147\nE-post: annette.nedrebo@bjerkreim.kommune.no\n
+ \nPåmeldingsfrist – delta: 19.02.2027 kl. 23:59\nPåmeldingsfrist – b
+ idra bak scenen: 19.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.
+ no/2027-bjerkreim-ukmbjerkreimlokalmonstring2027/files/2026/08/UKM-2025-bi
+ lde-1-1200x657.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ bjerkreim-ukmbjerkreimlokalmonstring2027
+LOCATION:Bjerkreim Sammfunnshus
+URL:https://www.ukm.no/arrangement/2027-bjerkreim-ukmbjerkreimlokalmonstrin
+ g2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9874@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270306T160000Z
+DTEND:20270306T173000Z
+SUMMARY:UKM Sokndal 2027
+DESCRIPTION:UKM Sokndal 2027\n\nlørdag 6. mars kl. 17:00 - 18:30\n\nGamlev
+ eien 20\n\nSokndal\n\nMeld deg på i dag! Vis hva du kan! Sang\, dans\, ku
+ nst\, trylling\, teater\, stand-up\, video eller noe annet du kan? Bli med
+ ! Det er også mulighet til å delta på våre Workshop innen sang\, dans\
+ , kunst og annet som kommer snart!\n\nUKM Sokndal 2027: https://sys.ukm.no
+ /2027-sokndal-sokndal/files/2026/09/13A7880-1200x800.jpg\n\nhttps://delta.
+ ukm.no/ukmid/pamelding/1111-9874/\n\nKontaktpersoner\nRaimond Mydland\nTel
+ efon: 90772237\nE-post: rmy@sokndal.kommune.no\n\nSelmer Simonsen\nTelefon
+ : 97554794\nE-post: ssi@sokndal.kommune.no\n\nPåmeldingsfrist – delta: 
+ 25.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.02.2027 kl
+ . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sokndal-sok
+ ndal
+LOCATION:Gamleveien 20\, Sokndal
+URL:https://www.ukm.no/arrangement/2027-sokndal-sokndal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9892@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270313T170000Z
+DTEND:20270313T190000Z
+SUMMARY:UKM Sandnes 2027
+DESCRIPTION:UKM Sandnes 2027\n\nlørdag 13. mars kl. 18:00 - 20:00\n\nVåge
+ n videregående skole\n\nSandnes\n\nhttps://delta.ukm.no/ukmid/pamelding/1
+ 108-9892/\n\nKontaktpersoner\nAudun Hiis\nTelefon: 91894360\nE-post: audun
+ .hiis@sandnes.kommune.no\n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:
+ 59\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangeme
+ ntsside: https://www.ukm.no/arrangement/2027-sandnes-sandnes
+LOCATION:Vågen videregående skole\, Sandnes
+URL:https://www.ukm.no/arrangement/2027-sandnes-sandnes
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

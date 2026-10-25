@@ -1,0 +1,79 @@
+name: Oppdater og publiser UKM-kalendere
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'ukm_calendar/**'
+      - 'tests/**'
+      - 'pyproject.toml'
+      - '.github/workflows/update.yml'
+
+concurrency:
+  group: ukm-kalendere-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      pages: read
+    outputs:
+      revision: ${{ steps.save.outputs.revision }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Installer testverktøy
+        run: python -m pip install '.[test]'
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Finn publiseringsadresse
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Hent, kontroller og bygg hele utgivelsen
+        env:
+          UKM_SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python -m ukm_calendar --base-url "$UKM_SITE_URL"
+      - name: Kontroller genererte kalenderfiler med uavhengig parser
+        run: python -m unittest discover -s tests -p 'test_release.py' -v
+      - name: Lagre siste vellykkede datagrunnlag
+        id: save
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add generated
+          if ! git diff --cached --quiet; then
+            git commit -m 'Oppdater UKM-kalendere og vellykket oppdateringsstatus'
+            git push origin "HEAD:${{ github.event.repository.default_branch }}"
+          fi
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: generated/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publiser den komplette utgivelsen
+        id: deployment
+        uses: actions/deploy-pages@v4

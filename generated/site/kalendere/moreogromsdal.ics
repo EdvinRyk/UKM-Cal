@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Møre og Romsdal
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9953@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T170000Z
+DTEND:20270213T210000Z
+SUMMARY:Surnadal
+DESCRIPTION:Surnadal\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nSurnadal k
+ ulturhus\n\nSurnadal: https://sys.ukm.no/2027-surnadal-surnadal/files/2026
+ /10/IMG_1709-1350x1800.jpeg\n\nKontaktpersoner\nSiv Torvik\nTelefon: 47875
+ 485\nE-post: siv.torvik@surnadal.kommune.no\n\nPåmeldingsfrist – delta:
+  21.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.01.2027 k
+ l. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-surnadal-surnadal/fil
+ es/2026/10/IMG_1709-900x1200.jpeg\nArrangementsside: https://www.ukm.no/ar
+ rangement/2027-surnadal-surnadal
+LOCATION:Surnadal kulturhus
+URL:https://www.ukm.no/arrangement/2027-surnadal-surnadal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9923@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270313T170000Z
+DTEND:20270313T210000Z
+SUMMARY:UKM Festival Molde - 2027
+DESCRIPTION:UKM Festival Molde - 2027\n\nlørdag 13. mars kl. 18:00 - 22:00
+ \n\nMolde Kulturskole\n\nMolde\n\nhttps://delta.ukm.no/ukmid/pamelding/150
+ 6-9923/\n\nKontaktpersoner\nAnne Berntsen\nTelefon: 94143153\nE-post: anne
+ .berntsen@molde.kommune.no\n\nJan Espen Ramstad\nTelefon: 90941260\nE-post
+ : janespen@lyd1.no\n\nStig-Tore Mayer\nTelefon: 41548478\nE-post: stig-tor
+ e.mayer@molde.kommune.no\n\nTanja Pedersen\nTelefon: 92436305\nE-post: tan
+ ja.pedersen@molde.kommune.no\n\nPåmeldingsfrist – delta: 06.03.2027 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 06.03.2027 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-20
+ 27
+LOCATION:Molde Kulturskole
+URL:https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

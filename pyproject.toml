@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ukm-kalendere"
+version = "1.0.0"
+description = "Daglig oppdaterte iCalendar-abonnementer for UKM"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["icalendar>=6,<8", "PyYAML>=6,<7"]
+
+[project.scripts]
+ukm-kalendere = "ukm_calendar.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["ukm_calendar*"]

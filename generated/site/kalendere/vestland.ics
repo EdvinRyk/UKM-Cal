@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Vestland
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9904@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261001T160000Z
+DTEND:20261101T210000Z
+SUMMARY:Fotokonkurranse for ungdom
+DESCRIPTION:Fotokonkurranse for ungdom\n\ntorsdag 1. oktober kl. 18:00 - s
+ øndag 1. november kl. 22:00\n\nAlver\n\nTa eit bilete ein stad i Alver å
+  bli med i fotokonkurranse.\nKva er Alver for deg?\nSkriv gjerne nokon ord
+  om kva bilete betyr for deg.\n\nUnge arrangørar frå UKM Nordhordland er
+  jury. Dei kårar og kontaktar vinnaren.\nPremien er gåvekort frå Amfi K
+ narvik\n\nKonkurransen er open for ungdom frå 12-20 år. Send inn ditt bi
+ drag på e-post til ungalver@alver.kommune.no (mailto:ungalver@alver.kommu
+ ne.no) eller på mobil 46701596 (tel:46701596) innan sundag 1. november.\n
+ Merk e-post med fotokonkurranse.\nHar du spørsmål eller ynskjer hjelp s
+ å ta gjerne kontakt med oss på ein av ungdomsklubbane eller du kan ta ko
+ ntakt på telefon 46701596 (tel:46701596).\n\nFotokonkurranse for ungdom: 
+ https://sys.ukm.no/2026-alver-fotokonkurranseforungdom/files/2026/10/HAUST
+ EN-2026UNG-ALVER-FOR-UNGDOM-1-1273x1800.png\n\nhttps://delta.ukm.no/ukmid/
+ pamelding/4631-9904/\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\n
+ E-post: hilde.jordal@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelef
+ on: 92046806\nE-post: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatar
+ ina Birkeland Nepstad\nTelefon: 90696931\nE-post: katarina.birkeland@alver
+ .kommune.no\n\nArrangementsbilde: https://sys.ukm.no/2026-alver-fotokonkur
+ ranseforungdom/files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM-1-849x1200.p
+ ng\nArrangementsside: https://www.ukm.no/arrangement/2026-alver-fotokonkur
+ ranseforungdom
+LOCATION:\, Alver
+URL:https://www.ukm.no/arrangement/2026-alver-fotokonkurranseforungdom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9871@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261010T160000Z
+DTEND:20261130T210000Z
+SUMMARY:Kurs i nedskjæring og partering av hjort
+DESCRIPTION:Kurs i nedskjæring og partering av hjort\n\nlørdag 10. oktobe
+ r kl. 18:00 - mandag 30. november kl. 22:00\n\nOlden\n\nStryn\n\nGår du p
+ å ungdomsskule eller vidaregåande og er interessert i jakt?\n\nUKM Stryn
+ \, Stryn Kulturskule og Olden Jaktlag arrangerer\nKURS I NEDSKJÆRING OG P
+ ARTERING AV HJORT\n\nDet vil skje i Olden mellom 10.okt og 30.nov.\nAnsvar
+ leg for kurset blir Kåre Bruvoll Alme og Olden Jaktlag.\n\nNøyaktig tids
+ punkt vil kome seinare\, men er du interessert melder du interessa di no m
+ ed ein gong\, og så får du beskjed når kurset blir.\n\nVed stor interes
+ se kan vi eventuelt arrangere eit ekstra kurs.\n\nDet blir pizza til delta
+ karane.\nDet er svært begrensa plassar\, så ikkje vent med å ta kontakt
+ . Dei første på liste blir kontakta først.\n\nKurs i nedskjæring og pa
+ rtering av hjort: https://sys.ukm.no/2026-stryn-partering-av-hjort/files/2
+ 026/09/PXL_20260829_092030709.PORTRAIT6-1-878x1200.jpg\n\nhttps://delta.uk
+ m.no/ukmid/pamelding/4651-9871/\n\nKontaktpersoner\nElse Brynestad Erdal\n
+ Telefon: 98825376\nE-post: else.brynestad.erdal@stryn.kommune.no\n\nIngrid
+  Heieren\nTelefon: 95826237\nE-post: ingrid.heieren@stryn.kommune.no\n\nIn
+ grid Stuhaug\nTelefon: 90016334\nE-post: ingrid.stuhaug@stryn.kommune.no\n
+ \nKåre Bruvoll Alme\nTelefon: 94277853\nE-post: kare.bruvoll.alme@stryn.k
+ ommune.no\n\nMonica Beate Hesjedal\nTelefon: 95223102\nE-post: monica.beat
+ e.hesjedal@stryn.kommune.no\n\nStine Storevik\nTelefon: 97708430\nE-post: 
+ stine.storevik@stryn.kommune.no\n\nPåmeldingsfrist – delta: 22.10.2026 
+ kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-stryn-par
+ tering-av-hjort
+LOCATION:Olden\, Stryn
+URL:https://www.ukm.no/arrangement/2026-stryn-partering-av-hjort
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9902@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261027T150000Z
+DTEND:20261027T190000Z
+SUMMARY:Workshop: Ivar Aasen snakkar
+DESCRIPTION:Workshop: Ivar Aasen snakkar\n\ntirsdag 27. oktober kl. 16:00 -
+  20:00\n\nVeråsvegen 9\n\nAlver\, Austrheim\, Masfjorden\n\nWorkshop for 
+ ungdom: Lag fargerik pop-art!\nTysdag 27. oktober\nLindås ungdomsklubb\, 
+ Veråsvegen 9\n\nKlokka 16:00-20:00\nAlder: 12-20 år\nBli med biletkunstn
+ ar Sigrid Fivelstad og lag ditt eige pop-art-portrett av Ivar Aasen! Her k
+ an du leike deg med sterke fargar\, kreativ stil og nynorske snakkebobler.
+  Kva ville Ivar Aasen sagt i dag?\n\nVerkstaden er ein del av UKM Nordhord
+ land si satsing på kreative tilbod for ungdom gjennom heile året.\n\nGra
+ tis\n\nWorkshop: Ivar Aasen snakkar: https://sys.ukm.no/2026-alver-austrhe
+ im-workshopivaraasensnakkar/files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM
+ -1273x1800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4631-9902/\n\nKonta
+ ktpersoner\nHilde Jordal\nTelefon: 95066573\nE-post: hilde.jordal@alver.ko
+ mmune.no\n\nIngunn Birkeland Fyllingen\nTelefon: 92046806\nE-post: ingunn.
+ birkeland.fyllingen@alver.kommune.no\n\nKatarina Birkeland Nepstad\nTelefo
+ n: 90696931\nE-post: katarina.birkeland@alver.kommune.no\n\nPåmelding –
+  Austrheim: https://delta.ukm.no/ukmid/pamelding/4632-9902/\nPåmelding 
+ – Masfjorden: https://delta.ukm.no/ukmid/pamelding/4634-9902/\nArrangeme
+ ntsbilde: https://sys.ukm.no/2026-alver-austrheim-workshopivaraasensnakkar
+ /files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM-849x1200.png\nArrangements
+ side: https://www.ukm.no/arrangement/2026-alver-austrheim-workshopivaraase
+ nsnakkar
+LOCATION:Veråsvegen 9\, Alver\, Austrheim\, Masfjorden
+URL:https://www.ukm.no/arrangement/2026-alver-austrheim-workshopivaraasensn
+ akkar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9903@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261029T150000Z
+DTEND:20261029T190000Z
+SUMMARY:Workshop nr2: Ivar Aasen snakkar
+DESCRIPTION:Workshop nr2: Ivar Aasen snakkar\n\ntorsdag 29. oktober kl. 16:
+ 00 - 20:00\n\nKvernhusmyrane 8\n\nAlver\, Austrheim\, Masfjorden\n\nWorksh
+ op for ungdom: Lag fargerik pop-art!\nTorsdag 29. oktober\nKnarvik ungdsom
+ sklubb\, Kvernhusmyrane 8\n\nKlokka 16:00-20:00\nAlder: 12-20 år\n\nBli m
+ ed biletkunstnar Sigrid Fivelstad og lag ditt eige pop-art-portrett av Iva
+ r Aasen! Her kan du leike deg med sterke fargar\, kreativ stil og nynorske
+  snakkebobler. Kva ville Ivar Aasen sagt i dag?\n\nVerkstaden er ein del a
+ v UKM Nordhordland si satsing på kreative tilbod for ungdom gjennom heile
+  året.\n\nGratis\n\nWorkshop nr2: Ivar Aasen snakkar: https://sys.ukm.no/
+ 2026-alver-austrheim-workshopnr2ivaraasensnakkar/files/2026/10/HAUSTEN-202
+ 6UNG-ALVER-FOR-UNGDOM-1273x1800.png\n\nhttps://delta.ukm.no/ukmid/pameldin
+ g/4631-9903/\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\nE-post: 
+ hilde.jordal@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelefon: 9204
+ 6806\nE-post: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatarina Birk
+ eland Nepstad\nTelefon: 90696931\nE-post: katarina.birkeland@alver.kommune
+ .no\n\nPåmelding – Austrheim: https://delta.ukm.no/ukmid/pamelding/4632
+ -9903/\nPåmelding – Masfjorden: https://delta.ukm.no/ukmid/pamelding/46
+ 34-9903/\nArrangementsbilde: https://sys.ukm.no/2026-alver-austrheim-works
+ hopnr2ivaraasensnakkar/files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM-849x
+ 1200.png\nArrangementsside: https://www.ukm.no/arrangement/2026-alver-aust
+ rheim-workshopnr2ivaraasensnakkar
+LOCATION:Kvernhusmyrane 8\, Alver\, Austrheim\, Masfjorden
+URL:https://www.ukm.no/arrangement/2026-alver-austrheim-workshopnr2ivaraase
+ nsnakkar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9900@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270130T110000Z
+DTEND:20270130T180000Z
+SUMMARY:UKM Nordhordland lokalfestival
+DESCRIPTION:UKM Nordhordland lokalfestival\n\nlørdag 30. januar kl. 12:00 
+ - 19:00\n\nLeknes barneskule\n\nAlver\, Austrheim\, Masfjorden\n\nUKM loka
+ lfestival for ungdom i Alver\, Austrheim og Masfjorden\nUKM er ein møtepl
+ ass for ungdom og kultur. Her kan me skape noko saman\, vise fram det me b
+ renn for og hjelpe andre med å bli sett.\n\nDet er gratis å delta på fe
+ stivalen.\n\nKven kan delta?\nFestivalen er for ungdom frå det året dei 
+ fyller 13 år\, til og med det året dei fyller 20 år.\n\nFor unge arrang
+ ørar og mediedeltakarar er aldersgrensa frå det året dei fyller 15 år\
+ , til og med det året dei fyller 20 år.\n\nSceneinnslag\nNytt i år er a
+ t kvar deltakar kan vere med på inntil to ulike sceneinnslag. Du kan til 
+ dømes delta både i eit band og som solist.\n\nKvart sceneinnslag kan ha 
+ éin låt\, slik det har vore tidlegare.\n\nMe har husband.\n\nKunst\nKuns
+ ten må vere laga av kunstnaren sjølv\, anten åleine eller saman med ei 
+ gruppe.\n\nKvar deltakar kan stille ut inntil tre ulike verk. Eitt verk ka
+ n vere ein serie med maksimalt fire delar.\n\nNytt i år er at kunsten ska
+ l leverast inn éi veke før festivalen. Tidspunkt for levering blir avtal
+ t med kommunekontaktane.\n\nhttps://delta.ukm.no/ukmid/pamelding/4631-9900
+ /\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\nE-post: hilde.jorda
+ l@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelefon: 92046806\nE-pos
+ t: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatarina Birkeland Nepst
+ ad\nTelefon: 90696931\nE-post: katarina.birkeland@alver.kommune.no\n\nRobe
+ rt Lorang Hansen\nTelefon: 95522070\nE-post: robert.lorang.hansen@alver.ko
+ mmune.no\n\nPåmelding – Austrheim: https://delta.ukm.no/ukmid/pamelding
+ /4632-9900/\nPåmelding – Masfjorden: https://delta.ukm.no/ukmid/pameldi
+ ng/4634-9900/\nPåmeldingsfrist – delta: 12.01.2027 kl. 23:59\nPåmeldin
+ gsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: http
+ s://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland
+LOCATION:Leknes barneskule\, Alver\, Austrheim\, Masfjorden
+URL:https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9820@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270206T140000Z
+DTEND:20270206T170000Z
+SUMMARY:UKM Årdal 2027
+DESCRIPTION:UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrd
+ al Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise
+  fram det dei brenn for! Her kan du delta med musikk\, dans\, teater\, kun
+ st\, film\, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 1
+ 0 til 20 år\, og du treng ikkje vere profesjonell – det viktigaste er a
+ t du har lyst til å skape\, delta og vere ein del av eit kreativt felless
+ kap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltak
+ arane får også moglegheit til å representere Årdal vidare på UKM sin 
+ fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skap
+ ar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2
+ 026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding
+ /4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-
+ post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal
+  er møteplassen for unge som vil vise fram det dei brenn for! Her kan du 
+ delta med musikk\, dans\, teater\, kunst\, film\, foto eller andre kreativ
+ e uttrykk.\n\nUKM er for ungdom frå 10 til 20 år\, og du treng ikkje ver
+ e profesjonell – det viktigaste er at du har lyst til å skape\, delta o
+ g vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrange
+ rt i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å r
+ epresentere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM 
+ Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 
+ 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl
+ . 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ardal-ukmardal2027/fil
+ es/2026/08/Ardal-kommune-960x1200.jpg\nArrangementsside: https://www.ukm.n
+ o/arrangement/2027-ardal-ukmardal2027
+LOCATION:Årdal Kulturhus
+URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9909@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T110000Z
+DTEND:20270213T120000Z
+SUMMARY:Askøy og Øygarden
+DESCRIPTION:Askøy og Øygarden\n\nlørdag 13. februar kl. 12:00 - 13:00\n\
+ nAskøy\, Øygarden\n\nAskøy og Øygarden: https://sys.ukm.no/2027-askoy-
+ oygarden-askoyogoygarden/files/2026/10/pexels-audio-1851517_1920-1800x1200
+ .jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4627-9909/\n\nKontaktpersoner
+ \nBjørn Andersen\nTelefon: 90656836\nE-post: bjorn.andersen@oygarden.komm
+ une.no\n\nHilde Kristin Egeland\nTelefon: 97585142\nE-post: hilde.egeland@
+ oygarden.kommune.no\n\nNina Mathisen\nTelefon: 90538791\nE-post: nina.math
+ isen@askoy.kommune.no\n\nPåmelding – Øygarden: https://delta.ukm.no/uk
+ mid/pamelding/4626-9909/\nPåmeldingsfrist – delta: 17.01.2027 kl. 23:59
+ \nPåmeldingsfrist – bidra bak scenen: 01.11.2026 kl. 23:59\nArrangement
+ sbilde: https://sys.ukm.no/2027-askoy-oygarden-askoyogoygarden/files/2026/
+ 10/pexels-audio-1851517_1920-1200x800.jpg\nArrangementsside: https://www.u
+ km.no/arrangement/2027-askoy-oygarden-askoyogoygarden
+LOCATION:\, Askøy\, Øygarden
+URL:https://www.ukm.no/arrangement/2027-askoy-oygarden-askoyogoygarden
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9908@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T170000Z
+DTEND:20270213T210000Z
+SUMMARY:Askøy og Øygarden 2027
+DESCRIPTION:Askøy og Øygarden 2027\n\nlørdag 13. februar kl. 18:00 - 22:
+ 00\n\nAskøy\n\nhttps://delta.ukm.no/ukmid/pamelding/4627-9908/\n\nKontakt
+ personer\nBjørn Andersen\nTelefon: 90656836\nE-post: bjorn.andersen@oygar
+ den.kommune.no\n\nHilde Kristin Egeland\nTelefon: 97585142\nE-post: hilde.
+ egeland@oygarden.kommune.no\n\nKaja Linder Henriksen\nTelefon: 97051880\nE
+ -post: kaja.linder.henriksen@askoy.kommune.no\n\nKikkis Holmås\nTelefon: 
+ 41143144\nE-post: kikkis.holmas@askoy.kommune.no\n\nNina Mathisen\nTelefon
+ : 90538791\nE-post: nina.mathisen@askoy.kommune.no\n\nKushtrim Aliu\nFulls
+ tack utvikler\nTelefon: 46516256\nE-post: kushtrim@ukm.no\n\nPåmeldingsfr
+ ist – delta: 02.01.2027 kl. 10:59\nPåmeldingsfrist – bidra bak scenen
+ : 02.01.2027 kl. 10:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-askoy-ukmaskoyogoygarden2027
+LOCATION:\, Askøy
+URL:https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoygarden2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9885@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270216T170000Z
+DTEND:20270216T210000Z
+SUMMARY:Voss\, Eidfjord\, Ulvik
+DESCRIPTION:Voss\, Eidfjord\, Ulvik\n\ntirsdag 16. februar kl. 18:00 - 22:0
+ 0\n\nVoss kulturhus\n\nMinifestival for ungdom i Kulturhuset på Voss. Man
+ ge ungdommer er med både på\, bak og rundt scenen. Du kan delta med musi
+ kk\, kunst\, film\, dikt\, dans\, styling\, sjonglering og alt det mellom 
+ himmel og jord som ungdom driver med. Hva driver du med? Kom og bli med!\n
+ \nhttps://delta.ukm.no/ukmid/pamelding/4621-9885/\n\nKontaktpersoner\nBjø
+ rne Møen\nTelefon: 97071399\nE-post: Bjorne.Moen@eidfjord.kommune.no\n\nE
+ rlend Styve\nTelefon: 40007156\nE-post: Erlend.Styve@ulvik.kommune.no\n\nK
+ ristine Akselberg\nTelefon: 95727224\nE-post: kristine.akselberg@voss.hera
+ d.no\n\nInna Kopyl\nVoss\nTelefon: 48664748\nE-post: inna.kopyl@voss.herad
+ .no\n\nTrude Wiese Bang\nVoss\nTelefon: 95165495\nE-post: trude.wiese-hans
+ en@voss.herad.no\n\nPåmelding – Eidfjord: https://delta.ukm.no/ukmid/pa
+ melding/4619-9885/\nPåmelding – Ulvik: https://delta.ukm.no/ukmid/pamel
+ ding/4620-9885/\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeld
+ ingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: ht
+ tps://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik
+LOCATION:Voss kulturhus\, Eidfjord\, Ulvik
+URL:https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9969@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270305T140000Z
+DTEND:20270305T200000Z
+SUMMARY:Lokalmønstring Sunnfjord 2027
+DESCRIPTION:Lokalmønstring Sunnfjord 2027\n\nfredag 5. mars kl. 15:00 - 21
+ :00\n\nFørdehuset\n\nSunnfjord\n\nPåmeldinga er open!!\nMeld deg på med
+  det du vil og kan\, UKM Sunnfjord lokalmønstring skjer på Førdehuset f
+ redag 5. mars 2027\n\nUKM er ein møteplass der ungdom får høve til å v
+ ise fram sine kulturelle utrykk gjennom ulike sjangrar som t.d musikk\, so
+ ng\, dans\, teater\, kunst og foto i aldersgruppa 13-20 år.\n5. mars blir
+  det lokalmønstring i Førdehuset. Påmeldingsfrist er torsdag 25. februa
+ r.\n( søndag 21. februar er frist for konferansier\, media og arrangør )
+ \n\nFrist for å levere inn kunst er søndag 28. februar. Du leverer kunst
+ en i resepsjonen i Førdehuset.\n\nDet er gratis å vere deltakar på UKM.
+ \n\nVil du være i publikum så kan du kjøpe billett på Førdehuset si h
+ eimeside www.fordehuset.no\n\nProgram:\nKl. 15.00: Registrering av deltaka
+ rar som skal på scene i Festsalen\nKl. 15.30: Lyd/ sceneprøver\nKl. 16.3
+ 0: Registrering av deltakarar på utstilling i Festsalen\nKl. 17.15: Pizza
+  til alle i Festsalen\nkl. 18.00 – Opning av kunstutstilling i Utstillin
+ gssalen.\nkl. 19.00 – 20.30 Sceneinnslag i Storsalen\n\nLokalmønstring 
+ Sunnfjord 2027: https://sys.ukm.no/2027-sunnfjord-lokalmonstringsunnfjord2
+ 027/files/2026/10/gitar.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4647-9
+ 969/\n\nKontaktpersoner\nAnders Bruland\nTelefon: 97196913\nE-post: anders
+ .bruland@sunnfjord.kommune.no\n\nEli Britt Danielsen\nTelefon: 94818440\nE
+ -post: Eli.Britt.Danielsen@sunnfjord.kommune.no\n\nGrete Karin Øen\nTelef
+ on: 91717180\nE-post: grete.karin.oen@sunnfjord.kommune.no\n\nKristin Sand
+ al\nTelefon: 95285015\nE-post: kristin@oncue.no\n\nMai Kristin Tidemansen\
+ nTelefon: 91515912\nE-post: mai.kristin.tidemansen@forde.kommune.no\n\nSti
+ g Kamonen\nTelefon: 90187738\nE-post: stig@oncue.no\n\nPåmeldingsfrist 
+ – delta: 25.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21
+ .02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ sunnfjord-lokalmonstringsunnfjord2027
+LOCATION:Førdehuset\, Sunnfjord
+URL:https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord20
+ 27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9899@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270423T150000Z
+DTEND:20270425T150000Z
+SUMMARY:UKM-festivalen i Vestland 2027
+DESCRIPTION:UKM-festivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 - 
+ søndag 25. april kl. 17:00\n\nKIPO Kultursal Askøy VGS (https://www.goog
+ le.com/maps/search/?api=1&query=KIPO%20Kultursal%20Ask%C3%B8y%20VGS)\n\nKI
+ PO Kultursal Askøy VGS\n\n23.–25. april 2027 brakar det laust med fylke
+ sfestival i Vestland.\n\nFor å delta på fylkesfestivalen må du bli vida
+ resend frå det lokale UKM-arrangementet i eigen kommune.\n\nMeir informas
+ jon om festivalen kjem på denne sida.\n\nKontaktpersoner\nTora Herringbot
+ n Theigmann\nFylkeskontakt\nTelefon: 48213866\nE-post: Tora.Herringbotn.Th
+ eigmann@vlfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ves
+ tland-ukm-festivalenivestland/program\n\nPåmeldtePåmeldte: https://www.u
+ km.no/arrangement/2027-vestland-ukm-festivalenivestland/deltagere\n\nBilde
+ r og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-vestlan
+ d-ukm-festivalenivestland/media\n\nPåmeldingsfrist – delta: 15.03.2027 
+ kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nAr
+ rangementsbilde: https://sys.ukm.no/2027-vestland-ukm-festivalenivestland/
+ files/2026/09/violaintenso_Adrians_260621_1-5-1200x800.jpg
+LOCATION:KIPO Kultursal Askøy VGS
+URL:https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Nordland
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9954@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270303T170000Z
+DTEND:20270303T210000Z
+SUMMARY:UKM Mo i Rana 2027
+DESCRIPTION:UKM Mo i Rana 2027\n\nonsdag 3. mars kl. 18:00 - 22:00\n\nPark 
+ 22\n\nRana\n\nUKM er et arrangement for deg mellom 13-20 år. Her kan du d
+ elta med det du vil som musikk\, dans\, teater\, cosplay\, kunst\, film\, 
+ foto\, rigg\, lys\, lyd\, programleder\, backstage\, produksjon – eller 
+ noe helt annet du brenner for.\nDette er en unik mulighet til å vise frem
+  sine ferdigheter innen all type kunst og kulturuttrykk\, og der du også 
+ vil møte andre ungdommer med like interesser. Vi skal lage et flott arran
+ gement der ungdom kan møtes og dele sin entusiasme og interesse for kultu
+ r. Vi åpner også opp for ungdom utenfor Rana. Etter at forestillingen er
+  ferdig vil noen av deltagerne bli valgt ut til å delta på fylkesfestiva
+ len i Bodø i april der det også vil bli workshops innen kunst\, musikk\,
+  dans og lignende. Etter dette kan noen også bli sendt videre til landsfe
+ stivalen som er første uken i sommerferien. Denne festivalen er fylt med 
+ mulige aktiviteter fra morgen til kveld hver eneste dag. Der kan du lære 
+ og oppleve masse nytt.\n\nhttps://delta.ukm.no/ukmid/pamelding/1833-9954/\
+ n\nKontaktpersoner\nJørgen Kjærsund-Aasebøstøl\nE-post: jorgen.kjaersu
+ nd@rana.kommune.no\n\nSusanne Nystjerne\nTelefon: 91130187\nE-post: susann
+ e.nystjerne@gmail.com\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\
+ nPåmeldingsfrist – bidra bak scenen: 25.02.2027 kl. 23:59\nArrangements
+ side: https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027
+LOCATION:Park 22\, Rana
+URL:https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9897@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270307T110000Z
+DTEND:20270307T140000Z
+SUMMARY:UKM Alstahaug
+DESCRIPTION:UKM Alstahaug\n\nsøndag 7. mars kl. 12:00 - 15:00\n\nKulturbad
+ et Sandnessjøen\n\nAlstahaug\n\nVelkommen til Ung Kultur Møtes i Alstaha
+ ug i 2027!\n\nØnsker du å være med på UKM 2027? Det er mulig å melde 
+ seg på i mange ulike kategorier både som utøver og som arrangør. Meld 
+ deg på og bli med og bidra til en strålende lokalmønstring!\n\nPåmeldi
+ ngsfrister:\n- 14. Februar: Frist for påmelding som arrangør/sceneteknik
+ er/Konferansier\n- 14. Februar: Frist for påmelding for innslag på scene
+ n og/eller utstillingen\n\nDere kan melde dere på med flere ting til fest
+ ivalen\, men husk!\n- Musikere kan kun melde seg på med to låter i førs
+ te omgang\n- Kunstnere\, det er lurt å liste opp alle verkene deres så v
+ i veit hvor mange kunstverk det blir i utstillingen\n- Det er lurt for all
+ e å melde inn tekniske behov! Det kan være alt fra å trenge et staffeli
+  til kunst\, til å ønske en mikrofon\, et bord\, m.m. - også skriv om d
+ ere IKKE har noen tekniske behov 😊\n\nOBS!\nDatoen er midlertidig! Det 
+ kan komme endringer 😊\nMer info om tekniske krav som f.eks. format på 
+ lydfiler eller videofiler kan komme etterhvert.\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/1820-9897/\n\nKontaktpersoner\nSander Johansen\nTelefon: 414
+ 62974\nE-post: Sander.Johansen@alstahaug.kommune.no\n\nPåmeldingsfrist 
+ – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07
+ .02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ alstahaug-alstahaug
+LOCATION:Kulturbadet Sandnessjøen\, Alstahaug
+URL:https://www.ukm.no/arrangement/2027-alstahaug-alstahaug
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9939@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Fauske
+DESCRIPTION:Fauske\n\nlørdag 13. mars kl. 16:00 - 18:00\n\nhttps://delta.u
+ km.no/ukmid/pamelding/1841-9939/\n\nKontaktpersoner\nGunn Lisbeth Pedersen
+ \nTelefon: 91553736\nE-post: gunn.pedersen@fauske.kommune.no\n\nMartine Ei
+ dissen Nymo\nTelefon: 95851383\nE-post: martine.nymo@fauske.kommune.no\n\n
+ Merete Hasselbergsen\nTelefon: 48295521\nE-post: merete.hasselbergsen@faus
+ ke.kommune.no\n\nThomas Andreassen\nTelefon: 97037260\nE-post: thomas.andr
+ eassen@fauske.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:
+ 59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:59\nArrangeme
+ ntsside: https://www.ukm.no/arrangement/2027-fauske-fauske
+LOCATION:\, Fauske
+URL:https://www.ukm.no/arrangement/2027-fauske-fauske
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9793@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270313T170000Z
+DTEND:20270313T210000Z
+SUMMARY:Hadsel
+DESCRIPTION:Hadsel\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nKontaktpersoner
+ \nChristin Nilsen Long\nTelefon: 48085609\nE-post: christin.nilsen.long@ha
+ dsel.kommune.no\n\nMona Løveng\nTelefon: 95875257\nE-post: mona.loveng@ha
+ dsel.kommune.no\n\nStine Sivertsen\nTelefon: 97075432\nE-post: stine.siver
+ tsen@hadsel.kommune.no\n\nPåmeldingsfrist – delta: 03.08.2026 kl. 20:12
+ \nPåmeldingsfrist – bidra bak scenen: 03.08.2026 kl. 20:12\nArrangement
+ sside: https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel
+LOCATION:\, Hadsel
+URL:https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

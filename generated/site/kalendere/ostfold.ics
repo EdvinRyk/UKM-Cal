@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Østfold
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9958@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270305T170000Z
+DTEND:20270305T190000Z
+SUMMARY:Våler (Østfold) 2027
+DESCRIPTION:Våler (Østfold) 2027\n\nfredag 5. mars kl. 18:00 - 20:00\n\nV
+ åler Ungdomsskole\n\nVåler (Østfold)\n\n💥Bli med på UKM Våler 5. m
+ ars 2027💥\nDu kan opptre på scena med dans\, musikk\, teater eller noe
+  annet\, vise frem kunst i utstillingen\neller være med som arrangør ell
+ er konferansier.\nMeld deg på! Aldersgrense 7.trinn til 20 år.\n\nHar du
+  spørsmål?\nTa kontakt med Ida eller Merethe.\n\nVåler (Østfold) 2027:
+  https://sys.ukm.no/2027-valerostfold-ukmvalerostfold2027/files/2026/10/IM
+ G_5390-1350x1800.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/3114-9958/\n
+ \nKontaktpersoner\nIda Løkken Anstensrud\nTelefon: 97762085\nE-post: ida.
+ lokken.anstensrud@valer.kommune.no\n\nMerethe Osufsen\nTelefon: 45439353\n
+ E-post: merethe.osufsen@valer.kommune.no\n\nPåmeldingsfrist – delta: 22
+ .01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 
+ 23:59\nArrangementsbilde: https://sys.ukm.no/2027-valerostfold-ukmvalerost
+ fold2027/files/2026/10/IMG_5390-900x1200.jpeg\nArrangementsside: https://w
+ ww.ukm.no/arrangement/2027-valerostfold-ukmvalerostfold2027
+LOCATION:Våler Ungdomsskole\, Våler (Østfold)
+URL:https://www.ukm.no/arrangement/2027-valerostfold-ukmvalerostfold2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9956@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270312T170000Z
+DTEND:20270312T210000Z
+SUMMARY:SHOW MOSS
+DESCRIPTION:SHOW MOSS\n\nfredag 12. mars kl. 18:00 - 22:00\n\nSamfunnshuset
+ \n\nMoss\n\nFredag 12. mars braker det løs med UKM Show Moss. Nærmere in
+ formasjon kommer\n\nSHOW MOSS: https://sys.ukm.no/2027-moss-showmoss/files
+ /2026/10/Image-2-900x1200.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/310
+ 3-9956/\n\nKontaktpersoner\nArthur Olsen\nTelefon: 93085578\nE-post: arthu
+ r.olsen@moss.kommune.no\n\nBeate Anonsen\nTelefon: 93484735\nE-post: beate
+ .anonsen@moss.kommune.no\n\nJanne Korneliussen\nTelefon: 93044810\nE-post:
+  Janne.Korneliussen@moss.kommune.no\n\nKenneth Manfred Storkås\nTelefon: 
+ 45230909\nE-post: kenneth.manfred.storkas@moss.kommune.no\n\nNicoline-Loui
+ se Kvennsjø\nTelefon: 45167121\nE-post: nicoline-louise.leegaard.kvennsjo
+ @moss.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåm
+ eldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside:
+  https://www.ukm.no/arrangement/2027-moss-showmoss
+LOCATION:Samfunnshuset\, Moss
+URL:https://www.ukm.no/arrangement/2027-moss-showmoss
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9952@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270417T160000Z
+DTEND:20270417T200000Z
+SUMMARY:UKM Fredrikstadfestivalen 2027
+DESCRIPTION:UKM Fredrikstadfestivalen 2027\n\nlørdag 17. april kl. 18:00 -
+  22:00\n\nSt.Croix-huset\n\nFredrikstad\n\nVelkommen til vårens vakreste 
+ eventyr ! Ung Kultur Møtes til UKM Fredrikstadfestivalen lørdag 17. apri
+ l. Følg med i sosiale medier. Mer info kommer.\n\nUKM Fredrikstadfestival
+ en 2027: https://sys.ukm.no/2027-fredrikstad-ukmfredrikstadfestivalen2027/
+ files/2026/10/backdrop-show-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pam
+ elding/3107-9952/\n\nKontaktpersoner\nLine Eger-Heed\nTelefon: 91835011\nE
+ -post: lhee@fredrikstad.kommune.no\n\nPer-Øivind Johannessen\nTelefon: 90
+ 732111\nE-post: pojo@fredrikstad.kommune.no\n\nPåmeldingsfrist – delta:
+  03.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.04.2027 k
+ l. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-fredriksta
+ d-ukmfredrikstadfestivalen2027
+LOCATION:St.Croix-huset\, Fredrikstad
+URL:https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivale
+ n2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9894@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20271016T093000Z
+DTEND:20271016T180000Z
+SUMMARY:UKM-festivalen i Østfold 2027
+DESCRIPTION:UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30
+  - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\
+ nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16.
+  oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfu
+ nnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune\,
+  så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\n
+ Telefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.
+ ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: ht
+ tps://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og 
+ videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-fest
+ ival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmelding
+ sfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: http
+ s://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg
+LOCATION:Moss
+URL:https://www.ukm.no/arrangement/2027-ostfold-festival
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

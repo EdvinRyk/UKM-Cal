@@ -1,0 +1,52 @@
+{
+  "base_url": null,
+  "calendar_count": 16,
+  "calendars": {
+    "agder": 10,
+    "akershus": 7,
+    "buskerud": 9,
+    "finnmark": 3,
+    "innlandet": 6,
+    "moreogromsdal": 2,
+    "nasjonalt": 0,
+    "nordland": 4,
+    "oslo": 13,
+    "ostfold": 4,
+    "rogaland": 7,
+    "telemark": 5,
+    "troms": 5,
+    "trondelag": 16,
+    "vestfold": 3,
+    "vestland": 11
+  },
+  "event_count": 104,
+  "last_success": "2026-10-25T11:16:29.018769+00:00",
+  "sources": {
+    "checked_detail_pages": 105,
+    "search": {
+      "complete": true,
+      "hits": 573,
+      "index": "events_prod",
+      "pages": 6
+    },
+    "skipped": [
+      {
+        "id": 9915,
+        "reason": "UKM markerer fylket som fake"
+      },
+      {
+        "id": 9888,
+        "reason": "UKM markerer fylket som fake"
+      },
+      {
+        "id": 9905,
+        "reason": "UKM markerer fylket som fake"
+      },
+      {
+        "id": 9636,
+        "reason": "avsluttet"
+      }
+    ],
+    "upcoming_api_count": 108
+  }
+}

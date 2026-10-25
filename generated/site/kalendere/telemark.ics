@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Telemark
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9890@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20270313T210000Z
+SUMMARY:CREW - Tokke og Vinje
+DESCRIPTION:CREW - Tokke og Vinje\n\nlørdag 17. oktober kl. 12:00 - lørda
+ g 13. mars kl. 22:00\n\nVinje\, Tokke\n\nUKM-Crew – bli med bak scena!\n
+ \nUKM står for Ung-Kultur-Møtast og UKM-Crew er ei gruppe ungdom som mø
+ test jamleg for å lære korleis ein arrangerer konsertar\, workshops og s
+ ceneproduksjonar. Du treng ikkje kunne noko frå før. Det viktigaste er a
+ t du er nysgjerrig\, har lyst til å lære og vil vere med i eit godt fell
+ esskap.\n\nMe har stort fokus på det sosiale\, samarbeid og å bli trygge
+  på kvarandre. På samlingane jobbar me saman med ulike oppgåver\, lære
+ r nye ting og planlegg UKM i Tokke og Vinje. Målet er at crewet skal vere
+  med og styre heile UKM i mars!\n\nKva kan du gjere i UKM-Crew?\n\nDet fin
+ st mange roller\, og me treng ungdom med ulike interesser og styrkar:\n\n-
+  Lyd og lys\n- Rigging av scene og utstyr\n- Planlegging og organisering\n
+ - Kontakt med deltakarar og workshophaldarar\n- Søknader og økonomi\n- K
+ unstutstillingar og dekor\n- Konferansier og programleiing\n- Praktiske op
+ pgåver under arrangement\n\nKanskje veit du akkurat kva du har lyst til. 
+ Kanskje anar du ikkje kva noko av dette er. Begge delar er heilt greitt! M
+ e finn ei oppgåve som passar for deg.\n\nMen ver førebudd: Du kjem til 
+ å jobbe. Du kjem til å bere\, rigge\, planleggje og stå på når festiv
+ alen går av stabelen. Du kan bli sliten i både rygg og bein\, men du kje
+ m også til å lære mykje\, få nye vener og oppleve ting dei færraste u
+ ngdomar får vere med på. Dette er kanskje det næraste ein ungdom kjem K
+ ompani Lauritzen!\n\nKvifor vere med?\n\nI fjor blei Vinje kåra til Året
+ s UKM-kommune i Telemark på grunn av satsinga på ungdomscrew. Nokre av u
+ ngdomane fekk òg vere med på UKM Landsfestivalen i Trondheim og jobbe i 
+ ei stor profesjonell produksjon.\n\nI år er Tokke med på laget\, og sama
+ n skal me bli endå sterkare!\n\nPraktisk informasjon:\n\nDet er avgrensa 
+ tal på plassar i UKM-Crew\, så du må melde deg på for å vere med.\n\n
+ I haust blir det fire samlingar\, med kick-off på Morgedal Høgfjellshote
+ ll laurdag 17. oktober. Etter påmelding får du tilsendt semesterplan.\n\
+ nSamlingane blir på laurdagar og inneheld:\n\n- Sosiale aktivitetar\n- Ku
+ rs og opplæring\n- Arbeid og planlegging\n- Mat og moro\n\nViktig å vite
+ :\n\n✅ UKM er alltid rusfritt.\n\n✅ Du må vere så sjølvstendig at d
+ u kan overnatte utan føresette.\n\n✅ Du vil få ansvar\, og det er vikt
+ ig at du er villig til å ta det ansvaret.\n\n✅ Det vil alltid vere vaks
+ ne til stades.\n\n✅ Aldersgrense: frå 8. klasse til og med 20 år.\n\nC
+ REW - Tokke og Vinje: https://sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinj
+ e/files/2026/09/1000011069-1.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4
+ 036-9890/\n\nKontaktpersoner\nJardar Østbø Juberg\nTelefon: 99412608\nE-
+ post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine Mondal Ljostad\nTelefo
+ n: 90873194\nE-post: stine.ljostad@vinje.kommune.no\n\nPåmelding – Tokk
+ e: https://delta.ukm.no/ukmid/pamelding/4034-9890/\nPåmeldingsfrist – d
+ elta: 25.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.12.2
+ 026 kl. 11:51\nArrangementsside: https://www.ukm.no/arrangement/2026-tokke
+ -vinje-crew-tokkeogvinje
+LOCATION:\, Vinje\, Tokke
+URL:https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9893@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270206T170000Z
+DTEND:20270206T200000Z
+SUMMARY:UKM BAMBLE
+DESCRIPTION:UKM BAMBLE\n\nlørdag 6. februar kl. 18:00 - 21:00\n\nBamble Un
+ gdomsskole\n\nBamble\n\nUKM BAMBLE: https://sys.ukm.no/2027-bamble-ukmbamb
+ le/files/2026/09/traktor-1200x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamel
+ ding/4012-9893/\n\nKontaktpersoner\nElisabeth Andrea Stormoen\nTelefon: 98
+ 422582\nE-post: elisabeth.andrea.stormoen@bamble.kommune.no\n\nKristian Gr
+ ennes\nTelefon: 40413100\nE-post: kristian.grennes@bamble.kommune.no\n\nP
+ åmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2027-bamble-ukmbamble
+LOCATION:Bamble Ungdomsskole
+URL:https://www.ukm.no/arrangement/2027-bamble-ukmbamble
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9884@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T140000Z
+DTEND:20270213T153000Z
+SUMMARY:UKM Midt-Telemark
+DESCRIPTION:UKM Midt-Telemark\n\nlørdag 13. februar kl. 15:00 - 16:30\n\nG
+ ullbring Kulturhus\n\nMidt-Telemark\n\nEr du mellom 10 og 19 år kan du me
+ lde deg på enten du holder på med musikk\, dans\, teater\, kunst eller n
+ oe annet.\nDu kan også melde deg på som arrangør. I tillegg får du mø
+ te mange flotte mennesker som du kan være sammen med i Gullbring. Det bli
+ r servert mat og drikke hele dagen. Alt er gratis.\nDet blir åpning av ku
+ nstutstilling klokka 14.00. Klokka 15.00 er det forestilling i Storsalen.\
+ n\nUKM Midt-Telemark: https://sys.ukm.no/2026-midt-telemark-ukmmidt-telema
+ rk2027/files/2026/09/Gitar-1800x1200.jpeg\n\nhttps://delta.ukm.no/ukmid/pa
+ melding/4020-9884/\n\nKontaktpersoner\nSverre Jacobsen\nTelefon: 95223342\
+ nE-post: sverja@mt.kommune.no\n\nPåmeldingsfrist – delta: 04.02.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 04.02.2027 kl. 23:59\nArra
+ ngementsbilde: https://sys.ukm.no/2026-midt-telemark-ukmmidt-telemark2027/
+ files/2026/09/Gitar-1200x800.jpeg\nArrangementsside: https://www.ukm.no/ar
+ rangement/2026-midt-telemark-ukmmidt-telemark2027
+LOCATION:Gullbring Kulturhus\, Midt-Telemark
+URL:https://www.ukm.no/arrangement/2026-midt-telemark-ukmmidt-telemark2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9858@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270313T110000Z
+DTEND:20270313T190000Z
+SUMMARY:Tokke og Vinje
+DESCRIPTION:Tokke og Vinje\n\nlørdag 13. mars kl. 12:00 - 20:00\n\nVinjehu
+ set\n\nVinje\, Tokke\n\nUng Kultur Møtast atter ein gong på Vinjehuset. 
+ Velkomen til å melde deg på med det du ynskjer bidra med på ein hei riv
+  dundrande flott konsert eller utstilling av ljod/ljos\, rigging\, song\, 
+ dans\, band\, 3-D-printing\, konferansier\, kunst og alt du måtte ynskje 
+ av kultur!\n\nTokke og Vinje: https://sys.ukm.no/2027-tokke-vinje-tokkeogv
+ inje/files/2026/09/IMG_0284-1-1800x1350.jpg\n\nhttps://delta.ukm.no/ukmid/
+ pamelding/4036-9858/\n\nKontaktpersoner\nJardar Østbø Juberg\nTelefon: 9
+ 9412608\nE-post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine Mondal Ljos
+ tad\nTelefon: 90873194\nE-post: stine.ljostad@vinje.kommune.no\n\nPåmeldi
+ ng – Tokke: https://delta.ukm.no/ukmid/pamelding/4034-9858/\nPåmeldings
+ frist – delta: 08.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scen
+ en: 08.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-tokke
+ -vinje-tokkeogvinje/files/2026/09/IMG_0284-1-1200x900.jpg\nArrangementssid
+ e: https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje
+LOCATION:Vinjehuset\, Tokke
+URL:https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9945@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270409T130000Z
+DTEND:20270411T160000Z
+SUMMARY:UKM-festivalen i Telemark 2027
+DESCRIPTION:UKM-festivalen i Telemark 2027\n\nfredag 9. april kl. 15:00 - s
+ øndag 11. april kl. 18:00\n\nNotodden Teater (https://www.google.com/maps
+ /search/?api=1&query=Notodden%20Teater)\n\nNotodden Teater\n\nI 2027 kjør
+ er vi UKM Telemark i Notodden!\n\nVi skal bruke ulike lokasjoner i byen n
+ år vi inntar bluesbyen i april!\n\n🎭Notodden teater: forestillinger og
+  kunstutstilling\n💥Klubben: Greenroom og hangout\n🎙️Bok og Blueshu
+ set: workshops og kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nKon
+ taktpersoner\nHeidi Bekkevold\nTelefon: 99155531\nE-post: heidi.bekkevold@
+ telemarkfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-te
+ lemark-ukm-festivalenitelemark2027/program\n\nPåmeldtePåmeldte: https://
+ www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/deltagere
+ \n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/202
+ 7-telemark-ukm-festivalenitelemark2027/media\n\nPåmeldingsfrist – delta
+ : 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 
+ kl. 23:59
+LOCATION:Notodden Teater
+URL:https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark202
+ 7
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

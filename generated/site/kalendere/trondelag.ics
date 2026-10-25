@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKM-kalendere//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKM – Trøndelag
+X-WR-TIMEZONE:Europe/Oslo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-arrangement-9920@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261013T163000Z
+DTEND:20270314T210000Z
+SUMMARY:Arrangør Trondheim-Tråante
+DESCRIPTION:Arrangør Trondheim-Tråante\n\ntirsdag 13. oktober kl. 18:30 -
+  søndag 14. mars kl. 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante
+ \n\nBli en arrangør for UKM 2027! 🎉\n\nSom arrangør er du med på å 
+ planlegge UKM 2027 og skape fantastiske minner sammen med resten av arrang
+ ørene.\nDet første arrangement vi planlegger\, er UKM kickoff 13. novemb
+ er 2026. Vi har ungdommer i forskjellige arbeidsgrupper:\n\n-Media\n-Tekni
+ ker\n-Konferansier\n-Dekor\n-og masse mer\n\nArrangør møter: Tirsdager K
+ L: 18:30\nSted: Kultursenter ISAK\n\nSenere får du muligheten til å vær
+ e med på arrangørenes egen kickoff som finner sted i Januar 2027.\n\nJoi
+ n vår Discord chat for mer info :)\nhttps://discord.com/invite/MFKAyv7aq3
+ \n\nArrangør Trondheim-Tråante: https://sys.ukm.no/2026-trondheim-traant
+ e-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1800x1618.jpg\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/5001-9920/\n\nKontaktpersoner\nTrine Arnt
+ zen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trond
+ heim.kommune.no\n\nPåmeldingsfrist – delta: 07.01.2027 kl. 23:59\nPåme
+ ldingsfrist – bidra bak scenen: 07.01.2027 kl. 19:04\nArrangementsbilde:
+  https://sys.ukm.no/2026-trondheim-traante-arrangorukmtrondheim-traante/fi
+ les/2026/10/DSC9385-1200x1079.jpg\nArrangementsside: https://www.ukm.no/ar
+ rangement/2026-trondheim-traante-arrangorukmtrondheim-traante
+LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
+URL:https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondh
+ eim-traante
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9962@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261106T170000Z
+DTEND:20261106T210000Z
+SUMMARY:Kickoff på Oppdal
+DESCRIPTION:Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nO
+ ppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersone
+ r\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nS
+ igurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.n
+ o\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.
+ no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppda
+ l.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-oppd
+ al-kickoffpaoppdal
+LOCATION:\, Oppdal
+URL:https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9964@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+SUMMARY:Oppdal - Kickoff
+DESCRIPTION:Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOpp
+ dal kulturhus\n\nOppdal\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppda
+ l-oppdal-kickoff/files/2026/10/IMG_0371-1800x838.jpeg\n\nKontaktpersoner\n
+ Jørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigu
+ rd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n
+ \nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\
+ n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.k
+ ommune.no\n\nArrangementsbilde: https://sys.ukm.no/2026-oppdal-oppdal-kick
+ off/files/2026/10/IMG_0371-1200x559.jpeg\nArrangementsside: https://www.uk
+ m.no/arrangement/2026-oppdal-oppdal-kickoff
+LOCATION:Oppdal kulturhus
+URL:https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9921@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261113T170000Z
+DTEND:20261113T210000Z
+SUMMARY:Kickoff Trondheim-Tråante
+DESCRIPTION:Kickoff Trondheim-Tråante\n\nfredag 13. november kl. 18:00 - 2
+ 2:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\nMer info kommer :)\
+ n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTri
+ ne Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntze
+ n@trondheim.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement
+ /2026-trondheim-traante-ukmkickofftrondheim-traante
+LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
+URL:https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondhe
+ im-traante
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9917@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20261217T173000Z
+DTEND:20261217T190000Z
+SUMMARY:Torsdagsscenen 17. desember 2026
+DESCRIPTION:Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18
+ :30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n
+ \nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.P
+ aulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-p
+ ost: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 
+ 46878825\nE-post: torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist –
+  delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12
+ .2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-mel
+ hus-torsdagsscenen17desember2026
+LOCATION:\, Melhus
+URL:https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9960@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270128T140000Z
+DTEND:20270131T110000Z
+SUMMARY:Oppdal 2027
+DESCRIPTION:Oppdal 2027\n\ntorsdag 28. januar kl. 15:00 - søndag 31. janua
+ r kl. 12:00\n\nOppdal kulturhus\n\nOppdal\n\nDa er datoen satt for vår lo
+ kalfestival på Oppdal 2027! Spenn dere fast for vi kickstarter året med 
+ kultur og musikk med festival 28.-30. januar. Påmelding åpner samme dag 
+ som vårt kickoff-arrangement på Oppdal Ungdomsklubb den 06. November. Se
+ s der!\nKlikk inn på påmeldingsskjemaet og meld deg på! Man kan enten v
+ ise frem noe\, enten det er teater\, musikk\, kunst eller dans. Eller meld
+ e seg på og bidra til festivalen som arrangør\, media\, konferansierer o
+ sv. Og svaret er JA\, man kan gjøre begge deler!\n\nOppdal 2027: https://
+ sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1800x992.jpeg\
+ n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9960/\n\nKontaktpersoner\nJø
+ rn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd 
+ Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nT
+ one Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\n
+ Ugne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.komm
+ une.no\n\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nPåmeldingsfri
+ st – bidra bak scenen: 15.01.2027 kl. 23:59\nArrangementsbilde: https://
+ sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1200x661.jpeg\
+ nArrangementsside: https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal202
+ 7
+LOCATION:Oppdal kulturhus
+URL:https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9855@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270202T160000Z
+DTEND:20270202T163000Z
+SUMMARY:Ørland kunstutstilling
+DESCRIPTION:Ørland kunstutstilling\n\ntirsdag 2. februar kl. 17:00 - 17:30
+ \n\nBjugn Kulturhus\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/505
+ 7-9855/\n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Jan
+ nicke.olden@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-orland-orlandkunst
+LOCATION:Bjugn Kulturhus\, Ørland
+URL:https://www.ukm.no/arrangement/2027-orland-orlandkunst
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9853@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270202T170000Z
+DTEND:20270202T190000Z
+SUMMARY:UKM Ørland forestilling
+DESCRIPTION:UKM Ørland forestilling\n\ntirsdag 2. februar kl. 18:00 - 20:0
+ 0\n\nBjugn Kulturhus\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/50
+ 57-9853/\n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Ja
+ nnicke.olden@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 22.01.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2027-orland-orland
+LOCATION:Bjugn Kulturhus\, Ørland
+URL:https://www.ukm.no/arrangement/2027-orland-orland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9706@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270206T170000Z
+DTEND:20270206T210000Z
+SUMMARY:UKM Malvik 2027
+DESCRIPTION:UKM Malvik 2027\n\nlørdag 6. februar kl. 18:00 - 22:00\n\nMalv
+ ik\n\nhttps://delta.ukm.no/ukmid/pamelding/5031-9706/\n\nKontaktpersoner\n
+ Ingunn Granli\nTelefon: 93068849\nE-post: ingunn.granli@malvik.kommune.no\
+ n\nPåmeldingsfrist – bidra bak scenen: 01.11.2026 kl. 23:59\nArrangemen
+ tsside: https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027
+LOCATION:\, Malvik
+URL:https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9854@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270209T170000Z
+DTEND:20270209T200000Z
+SUMMARY:Ørland Gaming
+DESCRIPTION:Ørland Gaming\n\ntirsdag 9. februar kl. 18:00 - 21:00\n\nAlf N
+ ebbs gate 1\n\nØrland\n\nhttps://delta.ukm.no/ukmid/pamelding/5057-9854/\
+ n\nKontaktpersoner\nJannicke Olden\nTelefon: 48187869\nE-post: Jannicke.ol
+ den@bjugn.kommune.no\n\nPåmeldingsfrist – delta: 08.02.2027 kl. 23:59\n
+ Påmeldingsfrist – bidra bak scenen: 08.02.2027 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2027-orland-orlandgaming
+LOCATION:Alf Nebbs gate 1\, Ørland
+URL:https://www.ukm.no/arrangement/2027-orland-orlandgaming
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9943@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T163000Z
+DTEND:20270213T210000Z
+SUMMARY:Lokalmønstring Levanger
+DESCRIPTION:Lokalmønstring Levanger\n\nlørdag 13. februar kl. 17:30 - 22:
+ 00\n\nFestiviteten kulturhus – Levanger\n\nLevanger\n\nEr du mellom 10-2
+ 0 år? Har du lyst til å være med på noe gøy? Har du lyst til å vise 
+ hva du kan? Da er UKM noe for deg. UKM er ALT! Alt som kan vises på en sc
+ ene\, utstilling eller film. Eller har du kun lyst til å være konferansi
+ er eller scenearbeider eller crew? Da er det bare å melde seg på\, også
+  hvis dere er en gruppe.\n\nhttps://delta.ukm.no/ukmid/pamelding/5037-9943
+ /\n\nKontaktpersoner\nEva Gunn Eide\nTelefon: 90077139\nE-post: ege@levang
+ er.kommune.no\n\nHåvard Ness\nTelefon: 90033683\nE-post: haanes@levanger.
+ kommune.no\n\nKatrine Ingebrigtsen\nTelefon: 92225170\nE-post: katrine.ing
+ ebrigtsen@levanger.kommune.no\n\nMarius Eide Stjern\nTelefon: 47864662\nE-
+ post: marius.stjern@levanger.kommune.no\n\nMartin Stifjfeld\nTelefon: 9754
+ 1060\nE-post: stifjeldlyd@gmail.com\n\nSiri Okkenhaug Bævre\nTelefon: 969
+ 49811\nE-post: siba@levanger.kommune.no\n\nYlva Almås Haugan\nTelefon: 96
+ 949814\nE-post: ylva.haugan@levanger.kommune.no\n\nPåmeldingsfrist – de
+ lta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.20
+ 27 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-levang
+ er-lokalmonstringlevanger
+LOCATION:Festiviteten kulturhus – Levanger
+URL:https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9838@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270213T170000Z
+DTEND:20270213T190000Z
+SUMMARY:UKM Grong
+DESCRIPTION:UKM Grong\n\nlørdag 13. februar kl. 18:00 - 20:00\n\nKulturhus
+ et Kuben - Grong\n\nGrong\n\nUKM Grong: https://sys.ukm.no/2027-grong-gron
+ g/files/2026/08/3f15bf4ce6c3_False_Stor_cd62e03c-04ae-44df-beb7-378d949d92
+ c7.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5045-9838/\n\nKontaktperson
+ er\nHarald Rossetnes\nE-post: harald.rossetnes@grong.kommune.no\n\nJohanna
+  Kjerstina Seem\nTelefon: 91790267\nE-post: johanna.kjerstina.seem@grong.k
+ ommune.no\n\nKari Annette Sivertsen\nTelefon: 99313561\nE-post: kari.annet
+ te.sivertsen@grong.kommune.no\n\nPåmeldingsfrist – delta: 10.02.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 10.02.2027 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2027-grong-grong
+LOCATION:Kulturhuset Kuben - Grong
+URL:https://www.ukm.no/arrangement/2027-grong-grong
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9718@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270305T160000Z
+DTEND:20270305T183000Z
+SUMMARY:Osen
+DESCRIPTION:Osen\n\nfredag 5. mars kl. 17:00 - 19:30\n\nKontaktpersoner\nAn
+ n Jorid Gåsmo\nTelefon: 41578007\nE-post: 2305ag@fosenskole.no\n\nAstrid 
+ Jakobsen\nTelefon: 91727562\nE-post: Astrid.Jakobsen@osen.kommune.no\n\nMa
+ y-Britt Haldaas\nTelefon: 98166659\nE-post: haldaas@yahoo.no\n\nPåmelding
+ sfrist – delta: 19.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sce
+ nen: 12.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangemen
+ t/2027-osen-osen
+LOCATION:\, Osen
+URL:https://www.ukm.no/arrangement/2027-osen-osen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9891@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270306T150000Z
+DTEND:20270306T180000Z
+SUMMARY:UKM Nærøysund 2027
+DESCRIPTION:UKM Nærøysund 2027\n\nlørdag 6. mars kl. 16:00 - 19:00\n\nN
+ ærøysund kulturhus\n\nNærøysund\n\nUKM Nærøysund 2027 – Påmelding
+ en er ÅPEN!\n\nEr du mellom 10 - 20 år og har lyst til å vise fram det 
+ du brenner for?\nMeld deg på med musikk\, dans\, teater\, kunst\, foto/fi
+ lm\, dikt\, media – eller som arrangør! Scenen og galleriet er ditt!\n\
+ nLørdag 06. mars kl. 16:00\nNærøysund Kulturhus\, Kolvereid\n\nVi glede
+ r oss til å se akkurat DEG på UKM!\n\nFrist for påmelding er 19.02.27\n
+ \nhttps://delta.ukm.no/ukmid/pamelding/5060-9891/\n\nKontaktpersoner\nChas
+ mine Fay Roma Tangen\nTelefon: 97862761\nE-post: chasmine.tangen@naroysund
+ .kommune.no\n\nLars Rune Sporildnes\nTelefon: 47235398\nE-post: lars.spori
+ ldnes@naroysund.kommune.no\n\nStine Barstad Holm\nTelefon: 47687648\nE-pos
+ t: stine.holm@naroysund.kommune.no\n\nPåmeldingsfrist – delta: 19.02.20
+ 27 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.02.2027 kl. 23:59\
+ nArrangementsside: https://www.ukm.no/arrangement/2027-naroysund-ukmnaroys
+ und2027
+LOCATION:Nærøysund kulturhus
+URL:https://www.ukm.no/arrangement/2027-naroysund-ukmnaroysund2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9910@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270311T170000Z
+DTEND:20270311T210000Z
+SUMMARY:Trondheim - Tråante
+DESCRIPTION:Trondheim - Tråante\n\ntorsdag 11. mars kl. 18:00 - 22:00\n\nK
+ ultursenteret ISAK\n\n🎉 UKM Trondheim 2027\, hold av uke 10!\n\nHva lik
+ er DU å lage\, spille\, vise fram eller finne på? I uke 10 fyller vi Kul
+ tursenteret ISAK med ungdomskultur\, og vi vil ha deg med! 🔥\n\nUKM st
+ år for Ung Kultur Møtes\, og er en møteplass der ungdom kan vise fram d
+ et de skaper\, prøve noe nytt og bli kjent med andre som liker å være k
+ reative.\n\nMusikk\, dans\, kunst\, film\, foto\, teater\, tekst\, søm\, 
+ cosplay eller noe vi aldri har sett før? Her er det plass til mange uttry
+ kk og ideer! Du kan delta alene eller sammen med andre\, enten du har gjor
+ t det hundre ganger eller skal prøve for aller første gang.\n\n✨ Del d
+ et du brenner for.\n✨ Møt andre kreative ungdommer.\n✨ Få erfaring o
+ g inspirasjon\, og kanskje oppdage nye muligheter!\n\nDu trenger ikke ha a
+ lt ferdig eller føle deg som en proff. Det starter med en idé og lysten 
+ til å være med. Vil du heller komme og oppleve det andre viser fram? Da 
+ er du også velkommen!\n\nHold av uka\, mer informasjon om program og påm
+ elding kommer! 👀\n\nTrondheim - Tråante: https://sys.ukm.no/2027-trond
+ heim-traante-trondheim-traante/files/2026/10/Kopi-av-UKM-Pameldingsplakat.
+ png\n\nKontaktpersoner\nKim Olve Breistrand\nTelefon: 91532477\nE-post: ki
+ m.olve.breistrand@trondheim.kommune.no\n\nTrine Arntzen\nUKM kontakt Trond
+ heim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPå
+ meldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra 
+ bak scenen: 02.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arr
+ angement/2027-trondheim-traante-trondheim-traante
+LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
+URL:https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9889@ukm-kalendere
+DTSTAMP:20261025T111629Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261025T111629Z
+SEQUENCE:1
+DTSTART:20270314T170000Z
+DTEND:20270314T210000Z
+SUMMARY:UKM Orkland 2027
+DESCRIPTION:UKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfa
+ rveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for 
+ å delta lokalt. Du kan bli med videre til regionssamling det året du fyl
+ ler 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\
+ n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 
+ 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587
+ -1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontak
+ tpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkl
+ and.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: h
+ ttps://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
+LOCATION:Allfarveien 5\, Orkland
+URL:https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,86 @@
+{
+  "id": 9902,
+  "navn": "Workshop: Ivar Aasen snakkar",
+  "url": "https://sys.ukm.no/2026-alver-austrheim-workshopivaraasensnakkar/",
+  "sted": "Veråsvegen 9",
+  "start": 1793116800,
+  "start_date": {
+    "date": "2026-10-27 16:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "stop": 1793131200,
+  "stop_date": {
+    "date": "2026-10-27 20:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "paameldingsfrist_1": 1793145540,
+  "paameldingsfrist_1_date": {
+    "date": "2026-10-27 23:59:00.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "paameldingsfrist_2": 1798810705,
+  "paameldingsfrist_2_date": {
+    "date": "2027-01-01 13:38:25.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "type": "kommune",
+  "path": "2026-alver-austrheim-workshopivaraasensnakkar",
+  "kommuner": [
+    {
+      "id": 4631,
+      "navn": "Alver",
+      "fylke_id": 46,
+      "fylke_navn": "Vestland",
+      "path": "/alver/"
+    },
+    {
+      "id": 4632,
+      "navn": "Austrheim",
+      "fylke_id": 46,
+      "fylke_navn": "Vestland",
+      "path": "/austrheim/"
+    },
+    {
+      "id": 4634,
+      "navn": "Masfjorden",
+      "fylke_id": 46,
+      "fylke_navn": "Vestland",
+      "path": "/masfjorden/"
+    }
+  ],
+  "fylke": {
+    "id": 46,
+    "link": "vestland",
+    "navn": "Vestland",
+    "attributes": null,
+    "kommuner": {
+      "id": null
+    },
+    "nettverk_omrade": null,
+    "fake": false,
+    "active": true
+  },
+  "paamelding_lenker": [
+    {
+      "id": 4631,
+      "type": "kommune",
+      "lenke": "https://delta.ukm.no/ukmid/pamelding/4631-9902/"
+    },
+    {
+      "id": 4632,
+      "type": "kommune",
+      "lenke": "https://delta.ukm.no/ukmid/pamelding/4632-9902/"
+    },
+    {
+      "id": 4634,
+      "type": "kommune",
+      "lenke": "https://delta.ukm.no/ukmid/pamelding/4634-9902/"
+    }
+  ],
+  "utvidet_gui": false,
+  "beskrivelse": "Workshop for ungdom: Lag fargerik pop-art!\r\nTysdag 27. oktober\r\nLindås ungdomsklubb, Veråsvegen 9\r\n\r\nKlokka 16:00-20:00\r\nAlder: 12-20 år\r\nBli med biletkunstnar Sigrid Fivelstad og lag ditt eige pop-art-portrett av Ivar Aasen! Her kan du leike deg med sterke fargar, kreativ stil og nynorske snakkebobler. Kva ville Ivar Aasen sagt i dag? \r\n\r\nVerkstaden er ein del av UKM Nordhordland si satsing på kreative tilbod for ungdom gjennom heile året.\r\n\r\nGratis"
+}
