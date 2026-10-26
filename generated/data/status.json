@@ -1,5 +1,5 @@
 {
-  "base_url": "https://edvinryk.github.io/UKM-Cal/",
+  "base_url": "https://edvinryk.github.io/UKM-Cal",
   "calendar_count": 16,
   "calendars": {
     "agder": 17,
@@ -40,7 +40,7 @@
   "deadline_count": 91,
   "entry_count": 203,
   "event_count": 112,
-  "last_success": "2026-10-26T11:13:19.724099+00:00",
+  "last_success": "2026-10-26T11:15:52.284726+00:00",
   "sources": {
     "checked_detail_pages": 113,
     "search": {
