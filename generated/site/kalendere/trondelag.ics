@@ -662,6 +662,41 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9891@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9971@ukm-kalendere
+DTSTAMP:20261026T045449Z
+CREATED:20261026T045449Z
+LAST-MODIFIED:20261026T045449Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Regionfestival Trøndelag 2027 
+ - Ørland
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Regionfestival Tr
+ øndelag 2027 - Ørland.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk ti
+ d).\n\nUKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april kl.
+  15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.googl
+ e.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nVe
+ lkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert
+  UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye 
+ og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner\nAn
+ na Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.
+ no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.n
+ o\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndela
+ ge-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte: ht
+ tps://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltro
+ ndelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: https:/
+ /www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondela
+ g2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nP
+ åmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbi
+ lde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondela
+ g2026-orland/files/2026/10/ukm-bilde-2027.jpg
+LOCATION:Bjugn Kulturhus
+URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
+ altrondelag2026-orland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9971@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9718@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -770,6 +805,38 @@ DESCRIPTION:UKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfa
  ttps://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
 LOCATION:Allfarveien 5\, Orkland
 URL:https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9971@ukm-kalendere
+DTSTAMP:20261026T045449Z
+CREATED:20261026T045449Z
+LAST-MODIFIED:20261026T045449Z
+SEQUENCE:0
+DTSTART:20270409T130000Z
+DTEND:20270411T140000Z
+SUMMARY:UKM Regionfestival Trøndelag 2027 - Ørland
+DESCRIPTION:UKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april
+  kl. 15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.g
+ oogle.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n
+ \nVelkommen til Bjugn kulturhus og Fosen videregående skole. De har arran
+ gert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot 
+ nye og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner
+ \nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfy
+ lke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfyl
+ ke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trn
+ delage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte
+ : https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiva
+ ltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: htt
+ ps://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltron
+ delag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59
+ \nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangement
+ sbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrond
+ elag2026-orland/files/2026/10/ukm-bilde-2027.jpg
+LOCATION:Bjugn Kulturhus
+URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
+ altrondelag2026-orland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

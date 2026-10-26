@@ -1524,6 +1524,24 @@
     {
       "all_day": false,
       "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Regionfestival Trøndelag 2027 - Ørland.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april kl. 15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.google.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nVelkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/files/2026/10/ukm-bilde-2027.jpg",
+      "end": null,
+      "expires": "2027-04-11T16:00:00+02:00",
+      "id": "9971-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bjugn Kulturhus",
+      "parent_uid": "ukm-arrangement-9971@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Regionfestival Trøndelag 2027 - Ørland",
+      "uid": "ukm-bak-scenen-frist-9971@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "agder"
       ],
       "description": "Frist for å melde seg på bak scenen til UKM festivalen i Agder 2027.\nPåmeldingsfrist: 19.03.2027 kl. 23:59 (norsk tid).\n\nUKM festivalen i Agder 2027\n\nfredag 9. april kl. 18:00 - søndag 11. april kl. 16:00\n\nTeateret (https://www.google.com/maps/search/?api=1&query=Teateret)\n\nTeateret\n\nUKM-deltakere fra hele Agder samles i Kristiansand for fylkesfestivalen 2026! To dager med overnatting, show, kunst, workshops og aktiviteter - helt gratis selvfølgelig! Vil du være med, må du først delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åpen, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktpersoner\nTonje Eikrem Jacobsen\nFylkeskontakt\nTelefon: 47381761\nE-post: Tonje.Eikrem.Jacobsen@agderfk.no\n\nHarald Stensland\nSceneprodusent\nTelefon: 90975600\nE-post: harald.stensland@agderfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027/media\n\nPåmeldingsfrist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-agder-ukm-festivaleniagder2027/files/2026/10/scene-1200x900.jpg",
@@ -1857,7 +1875,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -2611,7 +2631,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -2697,7 +2719,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -3113,7 +3137,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -3897,7 +3923,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -4509,7 +4537,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -4793,7 +4823,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -4879,7 +4911,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -5330,7 +5364,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -5690,7 +5726,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -5964,7 +6002,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -6050,7 +6090,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -7338,7 +7380,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -7762,7 +7806,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -8106,7 +8152,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -9793,7 +9841,9 @@
           "attributes": null,
           "fake": false,
           "id": 50,
-          "kommuner": null,
+          "kommuner": {
+            "id": null
+          },
           "link": "trondelag",
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
@@ -10262,6 +10312,80 @@
         },
         "type": "fylke",
         "url": "https://sys.ukm.no/2027-telemark-ukm-festivalenitelemark2027/",
+        "utvidet_gui": true
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "trondelag"
+        ],
+        "description": "UKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april kl. 15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.google.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nVelkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/files/2026/10/ukm-bilde-2027.jpg",
+        "end": "2027-04-11T16:00:00+02:00",
+        "expires": "2027-04-11T16:00:00+02:00",
+        "id": "9971",
+        "location": "Bjugn Kulturhus",
+        "start": "2027-04-09T15:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "UKM Regionfestival Trøndelag 2027 - Ørland",
+        "uid": "ukm-arrangement-9971@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland"
+      },
+      "page": {
+        "displayed_times": [
+          "15:00",
+          "16:00"
+        ],
+        "text": "UKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april kl. 15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.google.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nVelkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/media",
+        "title": "UKM Regionfestival Trøndelag 2027 - Ørland"
+      },
+      "raw": {
+        "beskrivelse": "Velkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye og gamle fjes. Her skjer det meste under samme tak.",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 50,
+          "kommuner": {
+            "id": null
+          },
+          "link": "trondelag",
+          "navn": "Trøndelag - Trööndelage",
+          "nettverk_omrade": null
+        },
+        "id": 9971,
+        "kommuner": [],
+        "navn": "UKM Regionfestival Trøndelag 2027 - Ørland",
+        "paamelding_lenker": [],
+        "paameldingsfrist_1": 1803945540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1803945540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland",
+        "start": 1807282800,
+        "start_date": {
+          "date": "2027-04-09 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Bjugn Kulturhus",
+        "stop": 1807459200,
+        "stop_date": {
+          "date": "2027-04-11 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "fylke",
+        "url": "https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2026-orland/",
         "utvidet_gui": true
       }
     },
@@ -10797,5 +10921,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-25T12:13:20.177221+00:00"
+  "generated_at": "2026-10-26T04:54:49.072835+00:00"
 }
