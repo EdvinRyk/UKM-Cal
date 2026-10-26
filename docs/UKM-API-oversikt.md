@@ -53,6 +53,14 @@ I eksporten velges disse feltene eksplisitt:
 
 `antall_deltakernavn_i_innslag` teller navneforekomster i innslagene, ikke unike personer. Én person kan være med i flere innslag. En tom liste betyr at den offentlige innslagslisten svarte uten treff; det betyr ikke nødvendigvis at ingen er påmeldt arrangementet.
 
+### Programmet som alternativ kilde
+
+`arrangement_program?arrangement_id=…` har innslag under `innslag` i hver programhendelse. `arrangement_program_new` bruker `items` og kan også inneholde aktiviteter. Begge kan vise grupper som media og konferansierer. Samme innslag kan opptre i flere programhendelser, så telling og eksport må bruke innslags-ID til å fjerne gjentakelser.
+
+Kontroll 26. oktober 2026 av [programmet for festivalen 9636](https://api.ukm.no/nettside:arrangement_program?arrangement_id=9636): begge programformatene ga 158 unike innslag. [Den samlede innslagslisten](https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9636) ga 221 og inkluderte samtlige 158. Derfor bruker prosjektet den samlede innslagslisten som kilde til påmeldte; programmet gir i tillegg koblingen til programgrupper og hendelser. Dette er en kontroll av dette arrangementet, ikke en garanti om identiske resultater for alle fremtidige API-svar.
+
+Programhendelsene har egne synlighetsflagg, blant annet `er_intern`, `synlig_i_rammeprogram` og `synlig_detaljprogram`. Disse må tas hensyn til ved en egen programvisning. Eksporten i dette prosjektet gjelder innslag, ikke interne programhendelser. Festivalen 9636 ble avsluttet 24. juni 2026 og inngår ikke i uttrekket som følger kalenderens kommende og pågående arrangementer.
+
 ## Eldre v2-grensesnitt
 
 Repositoryet har også en eldre `/2.0/…`-struktur. Rutene nedenfor er funnet i kildekoden, men er ikke hentet som datakilde for dette prosjektet. Noen er ufullstendige; tilgang må kontrolleres per rute. Beskyttede data er ikke hentet.
