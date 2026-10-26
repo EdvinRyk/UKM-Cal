@@ -10,6 +10,16 @@ Valgt repository: [EdvinRyk/UKM-Cal](https://github.com/EdvinRyk/UKM-Cal). Publi
 
 **Løsningen er publisert på [GitHub Pages](https://edvinryk.github.io/UKM-Cal/), med daglig oppdatering via GitHub Actions. Nettsiden har fast mørk modus.**
 
+## Påmeldte innslag lagret i GitHub
+
+Den daglige jobben lagrer offentlige påmeldte innslag for kommende og pågående arrangementer i [`generated/data/paameldte.json`](generated/data/paameldte.json). Hvert arrangement har navn, ID, arrangementslenke og kilde. Hvert innslag inneholder bare innslags-ID, innslagsnavn, full beskrivelse og offentlig publiserte deltakernavn. Telefon, e-post, alder og andre deltakerfelt kopieres ikke fra API-et.
+
+Uttrekket lagres bare i repositoryets datamappe. Det legges ikke i iCalendar-filene eller GitHub Pages-nettstedet. Repositoryet er offentlig. Når et arrangement er avsluttet, tas det ikke med i neste uttrekk; tidligere versjoner ligger fortsatt i Git-historikken.
+
+Dette er en oversikt over **offentlig påmeldte innslag**, ikke en komplett personliste over alle påmeldte. UKMs offentlige aktivitets-API viser ikke hvem som har meldt seg på aktiviteter. Hver vellykkede uthenting inkluderer også arrangementer med en tom innslagsliste. Ved feil under innhenting beholdes forrige utgivelse og uttrekk.
+
+Se [oversikten over UKM-API-et](docs/UKM-API-oversikt.md) for de øvrige endepunktene, parametere og tilgjengelige data.
+
 ## Publisering på GitHub
 
 1. Bruk det offentlige repositoryet `EdvinRyk/UKM-Cal` med standardgren `main`.

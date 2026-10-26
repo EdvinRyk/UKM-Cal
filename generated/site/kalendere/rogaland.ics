@@ -103,6 +103,34 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9940@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9973@ukm-kalendere
+DTSTAMP:20261026T111319Z
+CREATED:20261026T111319Z
+LAST-MODIFIED:20261026T111319Z
+SEQUENCE:0
+DTSTART:20270201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Sola 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Sola 2027.\nPåmeldin
+ gsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nSola 2027\n\nlørdag 6. febr
+ uar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM p
+ å Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon
+ : 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen
+ \nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel G
+ ood\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Forne
+ s Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommun
+ e.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kom
+ mune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.k
+ ommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottos
+ en@sola.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nP
+ åmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementssi
+ de: https://www.ukm.no/arrangement/2027-sola-ukmsola2027
+LOCATION:Kongshaugvegen 32\, Sola
+URL:https://www.ukm.no/arrangement/2027-sola-ukmsola2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9973@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9940@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -139,6 +167,33 @@ DESCRIPTION:Jæren 2027\n\nfredag 5. februar kl. 14:00 - lørdag 6. februar
  side: https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
 LOCATION:Storstova\, Hå\, Gjesdal\, Klepp\, Time
 URL:https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9973@ukm-kalendere
+DTSTAMP:20261026T111319Z
+CREATED:20261026T111319Z
+LAST-MODIFIED:20261026T111319Z
+SEQUENCE:0
+DTSTART:20270206T140000Z
+DTEND:20270206T153000Z
+SUMMARY:Sola 2027
+DESCRIPTION:Sola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugv
+ egen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKon
+ taktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@
+ sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas
+ .christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feel
+ good@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-pos
+ t: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 944
+ 38096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 
+ 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon:
+  40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no\n\nPåmeldingsfri
+ st – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen:
+  01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/20
+ 27-sola-ukmsola2027
+LOCATION:Kongshaugvegen 32\, Sola
+URL:https://www.ukm.no/arrangement/2027-sola-ukmsola2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

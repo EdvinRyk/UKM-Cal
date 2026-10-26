@@ -12,6 +12,7 @@ from pathlib import Path
 from urllib.parse import quote, urljoin, urlparse
 
 from .calendar import OSLO, backstage_deadline, is_test_county, make_calendar, normalize, revisions, short_name
+from .registrations import public_entries, snapshot as registration_snapshot
 from .source import Client, Document, SourceError, WEB, event_page, search_all, search_credentials
 
 
@@ -83,7 +84,8 @@ def load(client, now, workers=4, progress=print):
         normalized = normalize(raw, page, counties, hit_by_path.get(path))
         if datetime.fromisoformat(normalized["expires"]) <= now:
             return None, {"id": raw["id"], "reason": "avsluttet"}
-        return {"raw": raw, "page": page, "event": normalized}, None
+        entries = public_entries(client.api("arrangement_innslag", arrangement_id=raw["id"]), normalized["url"])
+        return {"raw": raw, "page": page, "event": normalized, "registrations": entries}, None
 
     records, skipped = [], []
     with ThreadPoolExecutor(max_workers=workers) as pool:
@@ -218,6 +220,9 @@ def build(output, counties, records, metadata, now, base_url="", allow_empty=Fal
     previous_state = read_json(output / "data/events-state.json", {})
     state = revisions(events, previous_state, now)
     stamp = now.astimezone(UTC).isoformat()
+    registrations = registration_snapshot(records, stamp)
+    if registrations is None and (output / "data/paameldte.json").exists():
+        raise SourceError("Påmeldingsdata mangler. Forrige lagrede uttrekk beholdes.")
     names = {c["link"]: "UKM – " + short_name(c["navn"]) for c in counties}
     names["nasjonalt"] = "UKM – Nasjonale arrangementer"
     status = {"last_success": stamp, "event_count": len(arrangements),
@@ -240,8 +245,15 @@ def build(output, counties, records, metadata, now, base_url="", allow_empty=Fal
         write_json(site / "status.json", status)
         write_json(stage / "data/status.json", status)
         write_json(stage / "data/events-state.json", state)
+        # Keep participant names in their one requested export, rather than
+        # duplicating them throughout the calendar's source snapshot.
+        calendar_records = [{key: value for key, value in record.items() if key != "registrations"}
+                            for record in records]
         write_json(stage / "data/latest.json", {"generated_at": stamp, "counties": counties,
-                                                "events": records, "deadline_events": deadlines})
+                                                "events": calendar_records, "deadline_events": deadlines})
+        if registrations is not None:
+            # Repository data only. GitHub Pages uploads generated/site, never data/.
+            write_json(stage / "data/paameldte.json", registrations)
         # Only this final replacement mutates the last successful release.
         backup = Path(temp) / "previous"
         if output.exists():

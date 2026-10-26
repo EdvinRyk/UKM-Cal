@@ -8,6 +8,66 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9977@ukm-kalendere
+DTSTAMP:20261026T111319Z
+CREATED:20261026T111319Z
+LAST-MODIFIED:20261026T111319Z
+SEQUENCE:0
+DTSTART:20270110T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Aure og Smøla 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Aure og Smøla 2027.\
+ nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nAure og Smøla 202
+ 7\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure\, Smøla\n
+ \nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og
+  Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet\, båd
+ e på scenen\, i utstilling og som arrangører.\nArrangører og konferansi
+ erer møtes allerede fredag kveld for å forberede det store showet.\n\nAu
+ re og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/f
+ iles/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1
+ 576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-pos
+ t: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92
+ 087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes
+ \nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding 
+ – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfr
+ ist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
+ : 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-aure-smola-ukmaureogsmola2027
+LOCATION:Aure Arena\, Smøla
+URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9977@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9977@ukm-kalendere
+DTSTAMP:20261026T111319Z
+CREATED:20261026T111319Z
+LAST-MODIFIED:20261026T111319Z
+SEQUENCE:0
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Aure og Smøla 2027
+DESCRIPTION:Aure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\n
+ Aure Arena\n\nAure\, Smøla\n\nLørdag 16. januar er det duket for UKM-sho
+ w for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer ba
+ k alle deler av showet\, både på scenen\, i utstilling og som arrangøre
+ r.\nArrangører og konferansierer møtes allerede fredag kveld for å forb
+ erede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-au
+ re-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamn
+ sve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSig
+ rid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aur
+ e.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@au
+ re.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pameldi
+ ng/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldin
+ gsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: http
+ s://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
+LOCATION:Aure Arena\, Smøla
+URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9953@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

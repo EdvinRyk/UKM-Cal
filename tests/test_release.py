@@ -13,6 +13,29 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ReleaseTests(unittest.TestCase):
+    @unittest.skipUnless((ROOT / "generated/data/paameldte.json").exists(), "Ingen påmeldingseksport ennå")
+    def test_registration_export_is_complete_and_limited_to_requested_fields(self):
+        root = ROOT / "generated"
+        export = json.loads((root / "data/paameldte.json").read_text())
+        snapshot = json.loads((root / "data/latest.json").read_text())
+        self.assertEqual({e["arrangement_id"] for e in export["arrangementer"]},
+                         {r["event"]["id"] for r in snapshot["events"]})
+        self.assertEqual(export["antall_arrangementer"], len(export["arrangementer"]))
+        self.assertEqual(export["antall_innslag"], sum(len(e["innslag"]) for e in export["arrangementer"]))
+        occurrences = 0
+        for event in export["arrangementer"]:
+            self.assertEqual(event["antall_innslag"], len(event["innslag"]))
+            self.assertEqual(len(event["innslag"]), len({e["id"] for e in event["innslag"]}))
+            for entry in event["innslag"]:
+                self.assertEqual(set(entry), {"id", "navn", "beskrivelse", "deltakernavn"})
+                self.assertIsInstance(entry["beskrivelse"], str)
+                self.assertTrue(all(isinstance(n, str) and n.strip() for n in entry["deltakernavn"]))
+                occurrences += len(entry["deltakernavn"])
+        self.assertEqual(export["antall_deltakernavn_i_innslag"], occurrences)
+        self.assertTrue(all("registrations" not in r for r in snapshot["events"]))
+        self.assertFalse((root / "site/paameldte.json").exists())
+        self.assertFalse((root / "site/data/paameldte.json").exists())
+
     @unittest.skipUnless(Calendar and (ROOT / "generated/data/status.json").exists(), "Ingen utgivelse eller .[test] mangler")
     def test_all_published_files_match_snapshot(self):
         root = ROOT / "generated"

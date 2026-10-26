@@ -371,6 +371,24 @@
     {
       "all_day": false,
       "calendars": [
+        "moreogromsdal"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Aure og Smøla 2027.\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nAure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
+      "end": null,
+      "expires": "2027-01-16T18:00:00+01:00",
+      "id": "9977-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Aure Arena, Smøla",
+      "parent_uid": "ukm-arrangement-9977@ukm-kalendere",
+      "start": "2027-01-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Aure og Smøla 2027",
+      "uid": "ukm-bak-scenen-frist-9977@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "trondelag"
       ],
       "description": "Frist for å melde seg på bak scenen til Oppdal 2027.\nPåmeldingsfrist: 15.01.2027 kl. 23:59 (norsk tid).\n\nOppdal 2027\n\ntorsdag 28. januar kl. 15:00 - søndag 31. januar kl. 12:00\n\nOppdal kulturhus\n\nOppdal\n\nDa er datoen satt for vår lokalfestival på Oppdal 2027! Spenn dere fast for vi kickstarter året med kultur og musikk med festival 28.-30. januar. Påmelding åpner samme dag som vårt kickoff-arrangement på Oppdal Ungdomsklubb den 06. November. Ses der!\nKlikk inn på påmeldingsskjemaet og meld deg på! Man kan enten vise frem noe, enten det er teater, musikk, kunst eller dans. Eller melde seg på og bidra til festivalen som arrangør, media, konferansierer osv. Og svaret er JA, man kan gjøre begge deler!\n\nOppdal 2027: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1800x992.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9960/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1200x661.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
@@ -529,6 +547,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Årdal 2027",
       "uid": "ukm-bak-scenen-frist-9820@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Sola 2027.\nPåmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nSola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
+      "end": null,
+      "expires": "2027-02-06T16:30:00+01:00",
+      "id": "9973-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Kongshaugvegen 32, Sola",
+      "parent_uid": "ukm-arrangement-9973@ukm-kalendere",
+      "start": "2027-02-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Sola 2027",
+      "uid": "ukm-bak-scenen-frist-9973@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027"
     },
     {
       "all_day": false,
@@ -1578,6 +1614,42 @@
     {
       "all_day": false,
       "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Regionfestival Trøndelag 2027 - Steinkjer.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM Regionfestival Trøndelag 2027 - Steinkjer\n\nfredag 16. april kl. 15:00 - søndag 18. april kl. 15:00\n\nSteinkjer Kulturhus (https://www.google.com/maps/search/?api=1&query=Steinkjer%20Kulturhus)\n\nSteinkjer Kulturhus\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/files/2026/10/ukm-bilde-2027.jpg",
+      "end": null,
+      "expires": "2027-04-18T15:00:00+02:00",
+      "id": "9976-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Steinkjer Kulturhus",
+      "parent_uid": "ukm-arrangement-9976@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Regionfestival Trøndelag 2027 - Steinkjer",
+      "uid": "ukm-bak-scenen-frist-9976@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Råde.\nPåmeldingsfrist: 26.01.2027 kl. 23:59 (norsk tid).\n\nUKM Råde\n\nfredag 16. april kl. 19:00 - 20:00\n\nAllaktivitetshuset\n\nRåde\n\nBli med på UKM Råde fredag 16. april 2027 på Allaktivitetshuset.\nDu kan opptre på scena med musikk eller noe annet som får plass på scenen vår.\nØnsker du å vise frem kunst så lager vi en utstilling i lokalene og det går også an å melde seg på som arrangør eller konferansier.\n\nMeld deg på ved å klikke på «Meld deg på!» eller ta kontakt med Dennis👇\n\nUKM Råde: https://sys.ukm.no/2027-rade-ukm/files/2026/10/672452166_1401442992024383_1587402283235461253_n-1800x1350.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3112-9974/\n\nKontaktpersoner\nDennis Dahl\nTelefon: 90974667\nE-post: dennis.dahl@rade.kommune.no\n\nPåmeldingsfrist – delta: 26.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-rade-ukm/files/2026/10/672452166_1401442992024383_1587402283235461253_n-1200x900.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-rade-ukm",
+      "end": null,
+      "expires": "2027-04-16T20:00:00+02:00",
+      "id": "9974-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Allaktivitetshuset, Råde",
+      "parent_uid": "ukm-arrangement-9974@ukm-kalendere",
+      "start": "2027-01-26T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Råde",
+      "uid": "ukm-bak-scenen-frist-9974@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-rade-ukm"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "troms"
       ],
       "description": "Frist for å melde seg på bak scenen til Fylkesfestivalen i Troms 2027.\nPåmeldingsfrist: 18.03.2027 kl. 23:59 (norsk tid).\n\nFylkesfestivalen i Troms 2027\n\nfredag 16. april kl. 20:30 - søndag 18. april kl. 13:00\n\nKulturhuset Finnsnes (https://www.google.com/maps/search/?api=1&query=Kulturhuset%20Finnsnes)\n\nKulturhuset Finnsnes\n\nFylkesfestivalen gjennomføres på Finnsnes i tiden 26.-18.april 2027. Denne gangen markerer vi 30 års jubileum for fylkesfestivalen i Troms. Vi står klare til å skape personlig vekst for kulturungdom , videreutvikle og vise fram talenter fra hele vår region!\n\nKontaktpersoner\nOdd Halvdan Jakobsen\nDaglig leder UKM Troms\nTelefon: 97193855\nE-post: adm@ukmarctic.no\n\nJulia Sofie Sørum Bjørklund\nInnholdsprodusent\nTelefon: 97896349\nE-post: julia@ukm.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/media\n\nPåmeldingsfrist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 18.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/files/2026/10/Andreas-Olsen.jpg",
@@ -1614,6 +1686,24 @@
     {
       "all_day": false,
       "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM-Halden 2027.\nPåmeldingsfrist: 01.04.2027 kl. 23:59 (norsk tid).\n\nUKM-Halden 2027\n\nsøndag 18. april kl. 15:00 - 19:00\n\nBrygga Kultursal Halden\n\nHalden\n\nUKM-Halden 2027: https://sys.ukm.no/2027-halden-ukmhalden2027/files/2026/10/615529943_1339095821573539_1113187787722767863_n-1800x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3101-9978/\n\nKontaktpersoner\nAlexander Hofstad Berby\nE-post: alexander.hofstad.berby@halden.kommune.no\n\nDaniel Bort Castello\nTelefon: 41235040\nE-post: danielbortcastello@gmail.com\n\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nLinn Andersen\nTelefon: 95336369\nE-post: linn.andersen@halden.kommune.no\n\nLotte Storhaug\nE-post: lottestorhaug@gmail.com\n\nMagdalena Sendrowicz\nTelefon: 47786074\nE-post: magdalena.katarzyna.sendrowicz@halden.kommune.no\n\nØyvind Høyem\nE-post: oyvind.hoyem@halden.kommune.no\n\nPåmeldingsfrist – delta: 01.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.04.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-halden-ukmhalden2027/files/2026/10/615529943_1339095821573539_1113187787722767863_n-1200x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-halden-ukmhalden2027",
+      "end": null,
+      "expires": "2027-04-18T19:00:00+02:00",
+      "id": "9978-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Brygga Kultursal Halden",
+      "parent_uid": "ukm-arrangement-9978@ukm-kalendere",
+      "start": "2027-04-01T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM-Halden 2027",
+      "uid": "ukm-bak-scenen-frist-9978@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-halden-ukmhalden2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "vestland"
       ],
       "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Vestland 2027.\nPåmeldingsfrist: 15.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 - søndag 25. april kl. 17:00\n\nKIPO Kultursal Askøy VGS (https://www.google.com/maps/search/?api=1&query=KIPO%20Kultursal%20Ask%C3%B8y%20VGS)\n\nKIPO Kultursal Askøy VGS\n\n23.–25. april 2027 brakar det laust med fylkesfestival i Vestland.\n\nFor å delta på fylkesfestivalen må du bli vidaresend frå det lokale UKM-arrangementet i eigen kommune.\n\nMeir informasjon om festivalen kjem på denne sida.\n\nKontaktpersoner\nTora Herringbotn Theigmann\nFylkeskontakt\nTelefon: 48213866\nE-post: Tora.Herringbotn.Theigmann@vlfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/media\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/violaintenso_Adrians_260621_1-5-1200x800.jpg",
@@ -1646,6 +1736,42 @@
       "title": "Påmeldingsfrist bak scenen – UKM-festivalen i Oslo 2027",
       "uid": "ukm-bak-scenen-frist-9883@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-oslo-ukm-festivalenioslo2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Aremark UKM forestilling og utstilling.\nPåmeldingsfrist: 29.03.2027 kl. 23:59 (norsk tid).\n\nAremark UKM forestilling og utstilling\n\nonsdag 28. april kl. 18:00 - 20:30\n\nAremark\n\nhttps://delta.ukm.no/ukmid/pamelding/3124-9975/\n\nKontaktpersoner\nMerete Lund\nTelefon: 99455035\nE-post: mfange@online.no\n\nTrine Lise Thue\nTelefon: 45722501\nE-post: Trine-Lise.Thue@aremark.kommune.no\n\nPåmeldingsfrist – delta: 12.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 29.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aremark-aremarkukmforestillingogutstilling",
+      "end": null,
+      "expires": "2027-04-28T20:30:00+02:00",
+      "id": "9975-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Aremark",
+      "parent_uid": "ukm-arrangement-9975@ukm-kalendere",
+      "start": "2027-03-29T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Aremark UKM forestilling og utstilling",
+      "uid": "ukm-bak-scenen-frist-9975@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-aremark-aremarkukmforestillingogutstilling"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Sarpsborg 2027.\nPåmeldingsfrist: 16.05.2027 kl. 23:59 (norsk tid).\n\nUKM Sarpsborg 2027\n\nsøndag 23. mai kl. 15:00 - 20:00\n\nSarpsborg scene\n\nSarpsborg\n\nSøndag 23. mai arrangerer vi show og utstilling på Sarpsborg Scene!\n\nAlle ungdommer (13-20 år) kan delta med det de ønsker, enten alene eller sammen med andre.\n\nHar du et kunstverk eller en dans du vil vise frem, en sang du vil synge, eller noe annet du vil opptre med? Eller tror du det kunne vært kult å jobbe som arrangør, ta bilder, være konferansier eller hjelpe til på andre måter? UKM har en plass for alle :)\n\nDet er selvfølgelig også åpent for å bare komme å se på - både ungdommer, venner, familie og andre som vil oppleve UKM er velkomne som publikum (ingen påmelding)\n\nMer info kommer\n\nTa kontakt ved spørsmål 😊\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nUKM Sarpsborg 2027: https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/files/2026/10/DSC06617-scaled-e1793002392224-1800x953.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3105-9972/\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com\n\nPåmeldingsfrist – delta: 16.05.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.05.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/files/2026/10/DSC06617-scaled-e1793002392224-1200x636.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-sarpsborg-ukmsarpsborg2027",
+      "end": null,
+      "expires": "2027-05-23T20:00:00+02:00",
+      "id": "9972-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Sarpsborg scene",
+      "parent_uid": "ukm-arrangement-9972@ukm-kalendere",
+      "start": "2027-05-16T23:59:00+02:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Sarpsborg 2027",
+      "uid": "ukm-bak-scenen-frist-9972@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-sarpsborg-ukmsarpsborg2027"
     },
     {
       "all_day": false,
@@ -2605,15 +2731,15 @@
         "calendars": [
           "trondelag"
         ],
-        "description": "Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nOppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal",
+        "description": "Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nOppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nPåmelding – Oppdal: https://delta.ukm.no/ukmid/pamelding/5021-9963/\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal",
         "end": "2026-11-06T22:00:00+01:00",
         "expires": "2026-11-06T22:00:00+01:00",
-        "id": "9962",
+        "id": "9963",
         "location": ", Oppdal",
         "start": "2026-11-06T18:00:00+01:00",
         "status": "CONFIRMED",
         "title": "Kickoff på Oppdal",
-        "uid": "ukm-arrangement-9962@ukm-kalendere",
+        "uid": "ukm-arrangement-9963@ukm-kalendere",
         "url": "https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal"
       },
       "page": {
@@ -2638,7 +2764,7 @@
           "navn": "Trøndelag - Trööndelage",
           "nettverk_omrade": null
         },
-        "id": 9962,
+        "id": 9963,
         "kommuner": [
           {
             "fylke_id": 50,
@@ -2652,19 +2778,19 @@
         "paamelding_lenker": [
           {
             "id": 5021,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/5021-9962/",
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5021-9963/",
             "type": "kommune"
           }
         ],
-        "paameldingsfrist_1": 1800623672,
+        "paameldingsfrist_1": 1800623675,
         "paameldingsfrist_1_date": {
-          "date": "2027-01-22 13:14:32.000000",
+          "date": "2027-01-22 13:14:35.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
-        "paameldingsfrist_2": 1800623672,
+        "paameldingsfrist_2": 1800623675,
         "paameldingsfrist_2_date": {
-          "date": "2027-01-22 13:14:32.000000",
+          "date": "2027-01-22 13:14:35.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
@@ -4509,6 +4635,104 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "moreogromsdal"
+        ],
+        "description": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
+        "end": "2027-01-16T18:00:00+01:00",
+        "expires": "2027-01-16T18:00:00+01:00",
+        "id": "9977",
+        "location": "Aure Arena, Smøla",
+        "start": "2027-01-16T16:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Aure og Smøla 2027",
+        "uid": "ukm-arrangement-9977@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
+      },
+      "page": {
+        "displayed_times": [
+          "16:00",
+          "18:00"
+        ],
+        "text": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no",
+        "title": "Aure og Smøla 2027"
+      },
+      "raw": {
+        "beskrivelse": "Lørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\r\n\r\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\r\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 15,
+          "kommuner": null,
+          "link": "moreogromsdal",
+          "navn": "Møre og Romsdal",
+          "nettverk_omrade": null
+        },
+        "id": 9977,
+        "kommuner": [
+          {
+            "fylke_id": 15,
+            "fylke_navn": "Møre og Romsdal",
+            "id": 1576,
+            "navn": "Aure",
+            "path": "/aure/"
+          },
+          {
+            "fylke_id": 15,
+            "fylke_navn": "Møre og Romsdal",
+            "id": 1573,
+            "navn": "Smøla",
+            "path": "/smola/"
+          }
+        ],
+        "navn": "Aure og Smøla 2027",
+        "paamelding_lenker": [
+          {
+            "id": 1576,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1576-9977/",
+            "type": "kommune"
+          },
+          {
+            "id": 1573,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1573-9977/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1799625540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1799625540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-aure-smola-ukmaureogsmola2027",
+        "start": 1800115200,
+        "start_date": {
+          "date": "2027-01-16 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Aure Arena",
+        "stop": 1800122400,
+        "stop_date": {
+          "date": "2027-01-16 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "trondelag"
         ],
         "description": "Oppdal 2027\n\ntorsdag 28. januar kl. 15:00 - søndag 31. januar kl. 12:00\n\nOppdal kulturhus\n\nOppdal\n\nDa er datoen satt for vår lokalfestival på Oppdal 2027! Spenn dere fast for vi kickstarter året med kultur og musikk med festival 28.-30. januar. Påmelding åpner samme dag som vårt kickoff-arrangement på Oppdal Ungdomsklubb den 06. November. Ses der!\nKlikk inn på påmeldingsskjemaet og meld deg på! Man kan enten vise frem noe, enten det er teater, musikk, kunst eller dans. Eller melde seg på og bidra til festivalen som arrangør, media, konferansierer osv. Og svaret er JA, man kan gjøre begge deler!\n\nOppdal 2027: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1800x992.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9960/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-oppdal-ukmoppdal2027/files/2026/10/IMG_0370-1200x661.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
@@ -5329,6 +5553,86 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-ardal-ukmardal2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "rogaland"
+        ],
+        "description": "Sola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
+        "end": "2027-02-06T16:30:00+01:00",
+        "expires": "2027-02-06T16:30:00+01:00",
+        "id": "9973",
+        "location": "Kongshaugvegen 32, Sola",
+        "start": "2027-02-06T15:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Sola 2027",
+        "uid": "ukm-arrangement-9973@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027"
+      },
+      "page": {
+        "displayed_times": [
+          "15:00",
+          "16:30"
+        ],
+        "text": "Sola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no",
+        "title": "Sola 2027"
+      },
+      "raw": {
+        "beskrivelse": "Velkommen til UKM på Sola kulturhus 6. februar!",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 11,
+          "kommuner": null,
+          "link": "rogaland",
+          "navn": "Rogaland",
+          "nettverk_omrade": null
+        },
+        "id": 9973,
+        "kommuner": [
+          {
+            "fylke_id": 11,
+            "fylke_navn": "Rogaland",
+            "id": 1124,
+            "navn": "Sola",
+            "path": "/sola/"
+          }
+        ],
+        "navn": "Sola 2027",
+        "paamelding_lenker": [],
+        "paameldingsfrist_1": 1801526340,
+        "paameldingsfrist_1_date": {
+          "date": "2027-02-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801526340,
+        "paameldingsfrist_2_date": {
+          "date": "2027-02-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-sola-ukmsola2027",
+        "start": 1801926000,
+        "start_date": {
+          "date": "2027-02-06 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Kongshaugvegen 32",
+        "stop": 1801931400,
+        "stop_date": {
+          "date": "2027-02-06 16:30:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-sola-ukmsola2027/",
         "utvidet_gui": false
       }
     },
@@ -10541,6 +10845,167 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "trondelag"
+        ],
+        "description": "UKM Regionfestival Trøndelag 2027 - Steinkjer\n\nfredag 16. april kl. 15:00 - søndag 18. april kl. 15:00\n\nSteinkjer Kulturhus (https://www.google.com/maps/search/?api=1&query=Steinkjer%20Kulturhus)\n\nSteinkjer Kulturhus\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/files/2026/10/ukm-bilde-2027.jpg",
+        "end": "2027-04-18T15:00:00+02:00",
+        "expires": "2027-04-18T15:00:00+02:00",
+        "id": "9976",
+        "location": "Steinkjer Kulturhus",
+        "start": "2027-04-16T15:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "UKM Regionfestival Trøndelag 2027 - Steinkjer",
+        "uid": "ukm-arrangement-9976@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer"
+      },
+      "page": {
+        "displayed_times": [
+          "15:00"
+        ],
+        "text": "UKM Regionfestival Trøndelag 2027 - Steinkjer\n\nfredag 16. april kl. 15:00 - søndag 18. april kl. 15:00\n\nSteinkjer Kulturhus (https://www.google.com/maps/search/?api=1&query=Steinkjer%20Kulturhus)\n\nSteinkjer Kulturhus\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/media",
+        "title": "UKM Regionfestival Trøndelag 2027 - Steinkjer"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 50,
+          "kommuner": {
+            "id": null
+          },
+          "link": "trondelag",
+          "navn": "Trøndelag - Trööndelage",
+          "nettverk_omrade": null
+        },
+        "id": 9976,
+        "kommuner": [],
+        "navn": "UKM Regionfestival Trøndelag 2027 - Steinkjer",
+        "paamelding_lenker": [],
+        "paameldingsfrist_1": 1803945540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1803945540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer",
+        "start": 1807887600,
+        "start_date": {
+          "date": "2027-04-16 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Steinkjer Kulturhus",
+        "stop": 1808060400,
+        "stop_date": {
+          "date": "2027-04-18 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "fylke",
+        "url": "https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/",
+        "utvidet_gui": true
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "ostfold"
+        ],
+        "description": "UKM Råde\n\nfredag 16. april kl. 19:00 - 20:00\n\nAllaktivitetshuset\n\nRåde\n\nBli med på UKM Råde fredag 16. april 2027 på Allaktivitetshuset.\nDu kan opptre på scena med musikk eller noe annet som får plass på scenen vår.\nØnsker du å vise frem kunst så lager vi en utstilling i lokalene og det går også an å melde seg på som arrangør eller konferansier.\n\nMeld deg på ved å klikke på «Meld deg på!» eller ta kontakt med Dennis👇\n\nUKM Råde: https://sys.ukm.no/2027-rade-ukm/files/2026/10/672452166_1401442992024383_1587402283235461253_n-1800x1350.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3112-9974/\n\nKontaktpersoner\nDennis Dahl\nTelefon: 90974667\nE-post: dennis.dahl@rade.kommune.no\n\nPåmeldingsfrist – delta: 26.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-rade-ukm/files/2026/10/672452166_1401442992024383_1587402283235461253_n-1200x900.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-rade-ukm",
+        "end": "2027-04-16T20:00:00+02:00",
+        "expires": "2027-04-16T20:00:00+02:00",
+        "id": "9974",
+        "location": "Allaktivitetshuset, Råde",
+        "start": "2027-04-16T19:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "UKM Råde",
+        "uid": "ukm-arrangement-9974@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-rade-ukm"
+      },
+      "page": {
+        "displayed_times": [
+          "19:00",
+          "20:00"
+        ],
+        "text": "UKM Råde\n\nfredag 16. april kl. 19:00 - 20:00\n\nAllaktivitetshuset\n\nRåde\n\nBli med på UKM Råde fredag 16. april 2027 på Allaktivitetshuset.\nDu kan opptre på scena med musikk eller noe annet som får plass på scenen vår.\nØnsker du å vise frem kunst så lager vi en utstilling i lokalene og det går også an å melde seg på som arrangør eller konferansier.\n\nMeld deg på ved å klikke på «Meld deg på!» eller ta kontakt med Dennis👇\n\nUKM Råde: https://sys.ukm.no/2027-rade-ukm/files/2026/10/672452166_1401442992024383_1587402283235461253_n-1800x1350.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3112-9974/\n\nKontaktpersoner\nDennis Dahl\nTelefon: 90974667\nE-post: dennis.dahl@rade.kommune.no",
+        "title": "UKM Råde"
+      },
+      "raw": {
+        "beskrivelse": "Bli med på UKM Råde fredag 16. april 2027 på Allaktivitetshuset.\r\nDu kan opptre på scena med musikk eller noe annet som får plass på scenen vår.\r\nØnsker du å vise frem kunst så lager vi en utstilling i lokalene og det går også an å melde seg på som arrangør eller konferansier.\r\n\r\nMeld deg på ved å klikke på «Meld deg på!» eller ta kontakt med Dennis👇",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 31,
+          "kommuner": {
+            "id": null
+          },
+          "link": "ostfold",
+          "navn": "Østfold",
+          "nettverk_omrade": null
+        },
+        "id": 9974,
+        "kommuner": [
+          {
+            "fylke_id": 31,
+            "fylke_navn": "Østfold",
+            "id": 3112,
+            "navn": "Råde",
+            "path": "/rade/"
+          }
+        ],
+        "navn": "UKM Råde",
+        "paamelding_lenker": [
+          {
+            "id": 3112,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3112-9974/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1801007940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-26 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801007940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-26 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-rade-ukm",
+        "start": 1807902000,
+        "start_date": {
+          "date": "2027-04-16 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Allaktivitetshuset",
+        "stop": 1807905600,
+        "stop_date": {
+          "date": "2027-04-16 20:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-rade-ukm/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "troms"
         ],
         "description": "Fylkesfestivalen i Troms 2027\n\nfredag 16. april kl. 20:30 - søndag 18. april kl. 13:00\n\nKulturhuset Finnsnes (https://www.google.com/maps/search/?api=1&query=Kulturhuset%20Finnsnes)\n\nKulturhuset Finnsnes\n\nFylkesfestivalen gjennomføres på Finnsnes i tiden 26.-18.april 2027. Denne gangen markerer vi 30 års jubileum for fylkesfestivalen i Troms. Vi står klare til å skape personlig vekst for kulturungdom , videreutvikle og vise fram talenter fra hele vår region!\n\nKontaktpersoner\nOdd Halvdan Jakobsen\nDaglig leder UKM Troms\nTelefon: 97193855\nE-post: adm@ukmarctic.no\n\nJulia Sofie Sørum Bjørklund\nInnholdsprodusent\nTelefon: 97896349\nE-post: julia@ukm.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/media\n\nPåmeldingsfrist – delta: 19.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 18.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-troms-romsa-tromssa-ukm-festivalenitroms2027/files/2026/10/Andreas-Olsen.jpg",
@@ -10703,6 +11168,94 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "ostfold"
+        ],
+        "description": "UKM-Halden 2027\n\nsøndag 18. april kl. 15:00 - 19:00\n\nBrygga Kultursal Halden\n\nHalden\n\nUKM-Halden 2027: https://sys.ukm.no/2027-halden-ukmhalden2027/files/2026/10/615529943_1339095821573539_1113187787722767863_n-1800x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3101-9978/\n\nKontaktpersoner\nAlexander Hofstad Berby\nE-post: alexander.hofstad.berby@halden.kommune.no\n\nDaniel Bort Castello\nTelefon: 41235040\nE-post: danielbortcastello@gmail.com\n\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nLinn Andersen\nTelefon: 95336369\nE-post: linn.andersen@halden.kommune.no\n\nLotte Storhaug\nE-post: lottestorhaug@gmail.com\n\nMagdalena Sendrowicz\nTelefon: 47786074\nE-post: magdalena.katarzyna.sendrowicz@halden.kommune.no\n\nØyvind Høyem\nE-post: oyvind.hoyem@halden.kommune.no\n\nPåmeldingsfrist – delta: 01.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.04.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-halden-ukmhalden2027/files/2026/10/615529943_1339095821573539_1113187787722767863_n-1200x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-halden-ukmhalden2027",
+        "end": "2027-04-18T19:00:00+02:00",
+        "expires": "2027-04-18T19:00:00+02:00",
+        "id": "9978",
+        "location": "Brygga Kultursal Halden",
+        "start": "2027-04-18T15:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "UKM-Halden 2027",
+        "uid": "ukm-arrangement-9978@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-halden-ukmhalden2027"
+      },
+      "page": {
+        "displayed_times": [
+          "15:00",
+          "19:00"
+        ],
+        "text": "UKM-Halden 2027\n\nsøndag 18. april kl. 15:00 - 19:00\n\nBrygga Kultursal Halden\n\nHalden\n\nUKM-Halden 2027: https://sys.ukm.no/2027-halden-ukmhalden2027/files/2026/10/615529943_1339095821573539_1113187787722767863_n-1800x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3101-9978/\n\nKontaktpersoner\nAlexander Hofstad Berby\nE-post: alexander.hofstad.berby@halden.kommune.no\n\nDaniel Bort Castello\nTelefon: 41235040\nE-post: danielbortcastello@gmail.com\n\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nLinn Andersen\nTelefon: 95336369\nE-post: linn.andersen@halden.kommune.no\n\nLotte Storhaug\nE-post: lottestorhaug@gmail.com\n\nMagdalena Sendrowicz\nTelefon: 47786074\nE-post: magdalena.katarzyna.sendrowicz@halden.kommune.no\n\nØyvind Høyem\nE-post: oyvind.hoyem@halden.kommune.no",
+        "title": "UKM-Halden 2027"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 31,
+          "kommuner": {
+            "id": null
+          },
+          "link": "ostfold",
+          "navn": "Østfold",
+          "nettverk_omrade": null
+        },
+        "id": 9978,
+        "kommuner": [
+          {
+            "fylke_id": 31,
+            "fylke_navn": "Østfold",
+            "id": 3101,
+            "navn": "Halden",
+            "path": "/halden/"
+          }
+        ],
+        "navn": "UKM-Halden 2027",
+        "paamelding_lenker": [
+          {
+            "id": 3101,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3101-9978/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1806623940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-04-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1806623940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-04-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-halden-ukmhalden2027",
+        "start": 1808060400,
+        "start_date": {
+          "date": "2027-04-18 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Brygga Kultursal Halden",
+        "stop": 1808074800,
+        "stop_date": {
+          "date": "2027-04-18 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-halden-ukmhalden2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "vestland"
         ],
         "description": "UKM-festivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 - søndag 25. april kl. 17:00\n\nKIPO Kultursal Askøy VGS (https://www.google.com/maps/search/?api=1&query=KIPO%20Kultursal%20Ask%C3%B8y%20VGS)\n\nKIPO Kultursal Askøy VGS\n\n23.–25. april 2027 brakar det laust med fylkesfestival i Vestland.\n\nFor å delta på fylkesfestivalen må du bli vidaresend frå det lokale UKM-arrangementet i eigen kommune.\n\nMeir informasjon om festivalen kjem på denne sida.\n\nKontaktpersoner\nTora Herringbotn Theigmann\nFylkeskontakt\nTelefon: 48213866\nE-post: Tora.Herringbotn.Theigmann@vlfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/media\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/violaintenso_Adrians_260621_1-5-1200x800.jpg",
@@ -10852,6 +11405,182 @@
         "calendars": [
           "ostfold"
         ],
+        "description": "Aremark UKM forestilling og utstilling\n\nonsdag 28. april kl. 18:00 - 20:30\n\nAremark\n\nhttps://delta.ukm.no/ukmid/pamelding/3124-9975/\n\nKontaktpersoner\nMerete Lund\nTelefon: 99455035\nE-post: mfange@online.no\n\nTrine Lise Thue\nTelefon: 45722501\nE-post: Trine-Lise.Thue@aremark.kommune.no\n\nPåmeldingsfrist – delta: 12.04.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 29.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aremark-aremarkukmforestillingogutstilling",
+        "end": "2027-04-28T20:30:00+02:00",
+        "expires": "2027-04-28T20:30:00+02:00",
+        "id": "9975",
+        "location": ", Aremark",
+        "start": "2027-04-28T18:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "Aremark UKM forestilling og utstilling",
+        "uid": "ukm-arrangement-9975@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-aremark-aremarkukmforestillingogutstilling"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "20:30"
+        ],
+        "text": "Aremark UKM forestilling og utstilling\n\nonsdag 28. april kl. 18:00 - 20:30\n\nAremark\n\nhttps://delta.ukm.no/ukmid/pamelding/3124-9975/\n\nKontaktpersoner\nMerete Lund\nTelefon: 99455035\nE-post: mfange@online.no\n\nTrine Lise Thue\nTelefon: 45722501\nE-post: Trine-Lise.Thue@aremark.kommune.no",
+        "title": "Aremark UKM forestilling og utstilling"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 31,
+          "kommuner": {
+            "id": null
+          },
+          "link": "ostfold",
+          "navn": "Østfold",
+          "nettverk_omrade": null
+        },
+        "id": 9975,
+        "kommuner": [
+          {
+            "fylke_id": 31,
+            "fylke_navn": "Østfold",
+            "id": 3124,
+            "navn": "Aremark",
+            "path": "/aremark/"
+          }
+        ],
+        "navn": "Aremark UKM forestilling og utstilling",
+        "paamelding_lenker": [
+          {
+            "id": 3124,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3124-9975/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1807574340,
+        "paameldingsfrist_1_date": {
+          "date": "2027-04-12 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1806364740,
+        "paameldingsfrist_2_date": {
+          "date": "2027-03-29 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-aremark-aremarkukmforestillingogutstilling",
+        "start": 1808935200,
+        "start_date": {
+          "date": "2027-04-28 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "",
+        "stop": 1808944200,
+        "stop_date": {
+          "date": "2027-04-28 20:30:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-aremark-aremarkukmforestillingogutstilling/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "ostfold"
+        ],
+        "description": "UKM Sarpsborg 2027\n\nsøndag 23. mai kl. 15:00 - 20:00\n\nSarpsborg scene\n\nSarpsborg\n\nSøndag 23. mai arrangerer vi show og utstilling på Sarpsborg Scene!\n\nAlle ungdommer (13-20 år) kan delta med det de ønsker, enten alene eller sammen med andre.\n\nHar du et kunstverk eller en dans du vil vise frem, en sang du vil synge, eller noe annet du vil opptre med? Eller tror du det kunne vært kult å jobbe som arrangør, ta bilder, være konferansier eller hjelpe til på andre måter? UKM har en plass for alle :)\n\nDet er selvfølgelig også åpent for å bare komme å se på - både ungdommer, venner, familie og andre som vil oppleve UKM er velkomne som publikum (ingen påmelding)\n\nMer info kommer\n\nTa kontakt ved spørsmål 😊\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nUKM Sarpsborg 2027: https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/files/2026/10/DSC06617-scaled-e1793002392224-1800x953.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3105-9972/\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com\n\nPåmeldingsfrist – delta: 16.05.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.05.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/files/2026/10/DSC06617-scaled-e1793002392224-1200x636.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-sarpsborg-ukmsarpsborg2027",
+        "end": "2027-05-23T20:00:00+02:00",
+        "expires": "2027-05-23T20:00:00+02:00",
+        "id": "9972",
+        "location": "Sarpsborg scene",
+        "start": "2027-05-23T15:00:00+02:00",
+        "status": "CONFIRMED",
+        "title": "UKM Sarpsborg 2027",
+        "uid": "ukm-arrangement-9972@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-sarpsborg-ukmsarpsborg2027"
+      },
+      "page": {
+        "displayed_times": [
+          "15:00",
+          "20:00"
+        ],
+        "text": "UKM Sarpsborg 2027\n\nsøndag 23. mai kl. 15:00 - 20:00\n\nSarpsborg scene\n\nSarpsborg\n\nSøndag 23. mai arrangerer vi show og utstilling på Sarpsborg Scene!\n\nAlle ungdommer (13-20 år) kan delta med det de ønsker, enten alene eller sammen med andre.\n\nHar du et kunstverk eller en dans du vil vise frem, en sang du vil synge, eller noe annet du vil opptre med? Eller tror du det kunne vært kult å jobbe som arrangør, ta bilder, være konferansier eller hjelpe til på andre måter? UKM har en plass for alle :)\n\nDet er selvfølgelig også åpent for å bare komme å se på - både ungdommer, venner, familie og andre som vil oppleve UKM er velkomne som publikum (ingen påmelding)\n\nMer info kommer\n\nTa kontakt ved spørsmål 😊\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nUKM Sarpsborg 2027: https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/files/2026/10/DSC06617-scaled-e1793002392224-1800x953.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3105-9972/\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com",
+        "title": "UKM Sarpsborg 2027"
+      },
+      "raw": {
+        "beskrivelse": "Søndag 23. mai arrangerer vi show og utstilling på Sarpsborg Scene!\r\n\r\nAlle ungdommer (13-20 år) kan delta med det de ønsker, enten alene eller sammen med andre.\r\n\r\nHar du et kunstverk eller en dans du vil vise frem, en sang du vil synge, eller noe annet du vil opptre med? Eller tror du det kunne vært kult å jobbe som arrangør, ta bilder, være konferansier eller hjelpe til på andre måter? UKM har en plass for alle :)\r\n\r\nDet er selvfølgelig også åpent for å bare komme å se på - både ungdommer, venner, familie og andre som vil oppleve UKM er velkomne som publikum (ingen påmelding)\r\n\r\nMer info kommer\r\n\r\n\r\nTa kontakt ved spørsmål 😊\r\n\r\nFølg oss på sosiale medier!\r\nFacebook: UKM Sarpsborg\r\nInstagram: @ukmsarp",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 31,
+          "kommuner": {
+            "id": null
+          },
+          "link": "ostfold",
+          "navn": "Østfold",
+          "nettverk_omrade": null
+        },
+        "id": 9972,
+        "kommuner": [
+          {
+            "fylke_id": 31,
+            "fylke_navn": "Østfold",
+            "id": 3105,
+            "navn": "Sarpsborg",
+            "path": "/sarpsborg/"
+          }
+        ],
+        "navn": "UKM Sarpsborg 2027",
+        "paamelding_lenker": [
+          {
+            "id": 3105,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3105-9972/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1810511940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-05-16 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1810511940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-05-16 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-sarpsborg-ukmsarpsborg2027",
+        "start": 1811084400,
+        "start_date": {
+          "date": "2027-05-23 15:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Sarpsborg scene",
+        "stop": 1811102400,
+        "stop_date": {
+          "date": "2027-05-23 20:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-sarpsborg-ukmsarpsborg2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "ostfold"
+        ],
         "description": "UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
         "end": "2027-10-16T20:00:00+02:00",
         "expires": "2027-10-16T20:00:00+02:00",
@@ -10921,5 +11650,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T04:54:49.072835+00:00"
+  "generated_at": "2026-10-26T11:13:19.724099+00:00"
 }
