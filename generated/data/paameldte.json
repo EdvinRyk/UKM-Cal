@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 112,
-  "antall_deltakernavn_i_innslag": 95,
-  "antall_innslag": 199,
+  "antall_arrangementer": 116,
+  "antall_deltakernavn_i_innslag": 97,
+  "antall_innslag": 202,
   "arrangementer": [
     {
       "antall_innslag": 1,
@@ -332,11 +332,27 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9979",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9979",
+      "navn": "band workshop med orkland 2026"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9950",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9950",
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9872",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9872",
+      "navn": "Ung kulturfestival"
     },
     {
       "antall_innslag": 1,
@@ -664,19 +680,19 @@
     },
     {
       "antall_innslag": 0,
-      "arrangement_id": "9901",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-ringebu-ringebu",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9901",
-      "navn": "UKM Ringebu"
-    },
-    {
-      "antall_innslag": 0,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9977",
       "navn": "Aure og Smøla 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9901",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ringebu-ringebu",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9901",
+      "navn": "UKM Ringebu"
     },
     {
       "antall_innslag": 0,
@@ -774,7 +790,7 @@
       "navn": "UKM Asker 2027"
     },
     {
-      "antall_innslag": 10,
+      "antall_innslag": 12,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
@@ -795,12 +811,28 @@
           "navn": "Elise Knudsen Håvik"
         },
         {
+          "beskrivelse": "Eg har ikke vert med på ukm som ung arangsgør",
+          "deltakernavn": [
+            "Hanne Meland"
+          ],
+          "id": "261982",
+          "navn": "Hanne Meland"
+        },
+        {
           "beskrivelse": "Eg er en 16 åring og dette er mitt fjerde år på UKM! Eg spiller i ett band som heter Ambivalent der vi holder på å lage musikk. Eg går på musikklinjen på BPG og elsker musikk.",
           "deltakernavn": [
             "Julian Strøm-Brekke"
           ],
           "id": "261922",
           "navn": "Julian Strøm-Brekke"
+        },
+        {
+          "beskrivelse": "Eg har ikke vert med på ukm før som ung arrangør",
+          "deltakernavn": [
+            "Karete Stall Osmundsen"
+          ],
+          "id": "261907",
+          "navn": "Karete Stall Osmundsen"
         },
         {
           "beskrivelse": "Mitt 5. år på UKM",
@@ -865,6 +897,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9900",
       "navn": "UKM Nordhordland lokalfestival"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9980",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9980",
+      "navn": "Kvitsøy og Randaberg"
     },
     {
       "antall_innslag": 0,
@@ -1205,22 +1245,15 @@
       "navn": "Voss, Eidfjord, Ulvik"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 0,
       "arrangement_id": "9815",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
-      "innslag": [
-        {
-          "beskrivelse": "For gammel for UKM. Tester bare påmeldingen.",
-          "deltakernavn": [],
-          "id": "261929",
-          "navn": "Noe annet på scene innslag"
-        }
-      ],
+      "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9815",
       "navn": "Hole, Modum og Ringerike"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 6,
       "arrangement_id": "9851",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten",
       "innslag": [
@@ -1252,6 +1285,12 @@
           "beskrivelse": "MUSPELHEIM er en black metal-kvartett fra Gjøvik med medlemmer i alderen 13-16 år. Bandet ble startet vinteren 2025/2026 og vi har allerede gitt ut to singler som finnes på Spotify. Denne høsten er vi i Studio Studio Nyhagen (v/Ronni Le Tekrø) og spiller inn vårt første album med 7 egenkomponerte låter. Vi har spilt 5 konserter, deriblant på Musikkfest Gjøvik i september og Garasjefestivalen på Reinsvoll i juni. Gjennom livespilling og sosiale medier har vi fått masse tilhengere, lyttere og følgere som venter utålmodig på mer musikk og flere konserter!",
           "deltakernavn": [],
           "id": "261969",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Spiller piano og synger",
+          "deltakernavn": [],
+          "id": "261992",
           "navn": "Musikk innslag"
         }
       ],
@@ -1695,7 +1734,7 @@
       "navn": "Trondheim - Tråante"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9934",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvinesdal",
       "innslag": [
@@ -1703,6 +1742,12 @@
           "beskrivelse": "Hei, jeg var konferansier på UKM 2026 og ble fortalt jeg var kjempe god. Jeg har masse erfaring med det å stå på scenen å snakke foran folk. Jeg har jobbet på Inner10er og deltatt på mange andre frivillige arrangementer. Jeg jobber i kung og trives med å stå på scene. Jeg håper dere velger meg til denne jobben :)",
           "deltakernavn": [],
           "id": "261966",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Hei,jeg var konferansier i fjor og synes det var kjempegøy.\nAndre erfaringer jeg har er kung og frivillige arrangementer.\nJeg synes det var veldig gøy og i fjor ved at jeg kom ut av min komfårsone og jeg lærte mye.",
+          "deltakernavn": [],
+          "id": "261990",
           "navn": "Konferansier innslag"
         }
       ],
@@ -2028,14 +2073,6 @@
       "navn": "UKM Festival Molde - 2027"
     },
     {
-      "antall_innslag": 0,
-      "arrangement_id": "9821",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-trysil-trysil",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9821",
-      "navn": "UKM 2027 TRYSIL"
-    },
-    {
       "antall_innslag": 5,
       "arrangement_id": "9889",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
@@ -2076,6 +2113,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9821",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-trysil-trysil",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9821",
+      "navn": "UKM 2027 TRYSIL"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9951",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-stovner-ukmpastovner2027",
       "innslag": [],
@@ -2097,6 +2142,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9941",
       "navn": "UKM Harstad 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9981",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-indreostfold-indreostfold",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9981",
+      "navn": "Indre Østfold"
     },
     {
       "antall_innslag": 10,
@@ -2302,5 +2355,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-10-26T11:15:52.284726+00:00"
+  "oppdatert": "2026-10-27T04:52:22.683010+00:00"
 }

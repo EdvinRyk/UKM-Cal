@@ -11,11 +11,11 @@
     "nasjonalt": 0,
     "nordland": 8,
     "oslo": 17,
-    "ostfold": 16,
-    "rogaland": 16,
+    "ostfold": 18,
+    "rogaland": 18,
     "telemark": 10,
     "troms": 10,
-    "trondelag": 33,
+    "trondelag": 35,
     "vestfold": 6,
     "vestland": 18
   },
@@ -29,23 +29,23 @@
     "nasjonalt": 0,
     "nordland": 4,
     "oslo": 4,
-    "ostfold": 8,
-    "rogaland": 8,
+    "ostfold": 9,
+    "rogaland": 9,
     "telemark": 5,
     "troms": 5,
     "trondelag": 15,
     "vestfold": 3,
     "vestland": 7
   },
-  "deadline_count": 91,
-  "entry_count": 203,
-  "event_count": 112,
-  "last_success": "2026-10-26T11:15:52.284726+00:00",
+  "deadline_count": 93,
+  "entry_count": 209,
+  "event_count": 116,
+  "last_success": "2026-10-27T04:52:22.683010+00:00",
   "sources": {
-    "checked_detail_pages": 113,
+    "checked_detail_pages": 117,
     "search": {
       "complete": true,
-      "hits": 580,
+      "hits": 584,
       "index": "events_prod",
       "pages": 6
     },
@@ -67,6 +67,6 @@
         "reason": "avsluttet"
       }
     ],
-    "upcoming_api_count": 115
+    "upcoming_api_count": 119
   }
 }

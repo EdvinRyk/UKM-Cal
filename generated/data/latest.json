@@ -353,6 +353,24 @@
     {
       "all_day": false,
       "calendars": [
+        "moreogromsdal"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Aure og Smøla 2027.\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nAure og Smøla 2027\n\nlørdag 16. januar kl. 12:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nUKM Aure og Smøla blir festival – med to arrangementer!\n\nLørdag 16. januar 2027 fylles Aure Arena med ungdom, kreativitet og kultur når UKM Aure og Smøla går av stabelen!\nI år deler vi arrangementet i to for å gi enda bedre plass til alle deltakerne.\n• Kl. 12.00: UKM junior – for elever på 4.–6. trinn\n• Kl. 16.00: UKM – for ungdom fra 7. trinn til og med 20 år\n\nUKM er mye mer enn sang og dans! Her kan du stå på scenen, stille ut kunst du har laget, vise frem film og fotografier eller bidra med lyd, lys og andre oppgaver bak scenen. Kanskje lager du TikTok-videoer, bygger imponerende verdener i Minecraft eller har en kreativ idé du har lyst til å vise frem? På UKM er det plass til mange slags interesser og uttrykk. Ungdom fra Aure og Smøla skaper festivalen sammen. Aure Arena fylles med scene, lyd og lys, kunstutstilling, kafé og greenroom for artistene. Det blir liv både på, bak og rundt scenen!\n\nVed å dele UKM i to ønsker vi å skape gode opplevelser for både de yngste og de eldste deltakerne. Juniorene får sin egen arena der de kan prøve seg og vise frem det de kan, mens de eldre ungdommene får sitt eget arrangement å fylle med kreativitet, energi og nye uttrykk.\n\nHar du noe du vil vise frem, eller har du lyst til å være med på å lage festival? Du trenger ikke å være ekspert. Det viktigste er at du har lyst til å delta, prøve noe nytt eller lære noe sammen med andre.\n\nDu kan delta på scenen eller stille ut kunst og andre kreative arbeider fra det året du fyller 10 år. For å være arrangør må du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fylkesfestivalen.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
+      "end": null,
+      "expires": "2027-01-16T18:00:00+01:00",
+      "id": "9977-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Aure Arena, Smøla",
+      "parent_uid": "ukm-arrangement-9977@ukm-kalendere",
+      "start": "2027-01-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Aure og Smøla 2027",
+      "uid": "ukm-bak-scenen-frist-9977@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "innlandet"
       ],
       "description": "Frist for å melde seg på bak scenen til UKM Ringebu.\nPåmeldingsfrist: 01.01.2027 kl. 23:59 (norsk tid).\n\nUKM Ringebu\n\nlørdag 16. januar kl. 15:00 - 19:00\n\nKaupanger Ringebu\n\nRingebu\n\nUKM Ringebu 2027 – bli med! 🎤🎨🎸\nHar du noe du liker å holde på med – musikk, dans, kunst, foto, film, teater eller noe helt annet? Da er UKM stedet for deg!\nHer kan du vise fram det du driver med, prøve noe nytt, møte andre ungdommer og være en del av et kreativt og sosialt fellesskap. Du trenger ikke å være proff – det viktigste er at du har lyst til å bli med!\nUKM Ringebu arrangeres 16. januar 2027.\nPåmeldingsfrist er 10. januar 2027.\nTa med deg kreativiteten, motet – og gjerne en venn.\nVi sees på UKM Ringebu!\n\nhttps://delta.ukm.no/ukmid/pamelding/3439-9901/\n\nKontaktpersoner\nBrede Vestby\nTelefon: 48290415\nE-post: brede.vestby@ringebu.kommune.no\n\nErika Urbute\nTelefon: 96856605\nE-post: Erika.Urbute@ringebu.kommune.no\n\nPåmeldingsfrist – delta: 01.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ringebu-ringebu",
@@ -367,24 +385,6 @@
       "title": "Påmeldingsfrist bak scenen – UKM Ringebu",
       "uid": "ukm-bak-scenen-frist-9901@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-ringebu-ringebu"
-    },
-    {
-      "all_day": false,
-      "calendars": [
-        "moreogromsdal"
-      ],
-      "description": "Frist for å melde seg på bak scenen til Aure og Smøla 2027.\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nAure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
-      "end": null,
-      "expires": "2027-01-16T18:00:00+01:00",
-      "id": "9977-bak-scenen-frist",
-      "kind": "backstage_deadline",
-      "location": "Aure Arena, Smøla",
-      "parent_uid": "ukm-arrangement-9977@ukm-kalendere",
-      "start": "2027-01-10T23:59:00+01:00",
-      "status": "CONFIRMED",
-      "title": "Påmeldingsfrist bak scenen – Aure og Smøla 2027",
-      "uid": "ukm-bak-scenen-frist-9977@ukm-kalendere",
-      "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
     },
     {
       "all_day": false,
@@ -439,6 +439,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Nordhordland lokalfestival",
       "uid": "ukm-bak-scenen-frist-9900@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "rogaland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Kvitsøy og Randaberg.\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nKvitsøy og Randaberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n\nVaren Randaberg kulturscene\n\nRandaberg, Kvitsøy\n\nUKM 2027 – Randaberg & Kvitsøy\nUKM er en arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner for. Enten du synger, rapper, danser, maler, skriver, lager film eller skaper noe helt nytt, er det plass til alle uttrykk her!\n\nKom som du er, og vis verden hva du kan!\n\nVidere til fylkesfestivalen?\nNoen av deltakerne fra UKM Randaberg & Kvitsøy blir sendt videre til fylkesfestivalen. Går du videre, må du ha med deg en reiseleder som er over 18 år, for eksempel en forelder, et annet familiemedlem eller en voksen du stoler på.\n\nEr dette vanskelig å få til? Ta kontakt med oss, så finner vi alltid en løsning.\n\nhttps://delta.ukm.no/ukmid/pamelding/1127-9980/\n\nKontaktpersoner\nIda Haugerud Dahl\nTelefon: 45246602\nE-post: ida.haugerud.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nTelefon: 91395991\nE-post: simon.leirvik@randaberg.kommune.no\n\nPåmelding – Kvitsøy: https://delta.ukm.no/ukmid/pamelding/1144-9980/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
+      "end": null,
+      "expires": "2027-01-30T22:00:00+01:00",
+      "id": "9980-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Varen Randaberg kulturscene, Kvitsøy",
+      "parent_uid": "ukm-arrangement-9980@ukm-kalendere",
+      "start": "2027-01-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Kvitsøy og Randaberg",
+      "uid": "ukm-bak-scenen-frist-9980@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg"
     },
     {
       "all_day": false,
@@ -805,7 +823,7 @@
       "calendars": [
         "buskerud"
       ],
-      "description": "Frist for å melde seg på bak scenen til Hole, Modum og Ringerike.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nHole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\n\nInfo om arrangementet kommer fortløpende gjennom høsten. Men det vil bli:\n- Workshops\n- Sceneshow\n- Hang out: Gaming i stua, strikke/sy-hjørne/fikse-hjørne, mingling, spill og moro\n- Mulighet for å være frivillig/arrangør på arrangementet\n- Mat\nOG ALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nPÅMELDINGEN ER ÅPEN :)\nDet går an å melde seg på HANG OUT eller WORKSHOP 11-16 og være publikum på kunstutstilling-åpningen og sceneshowet 17-21.\nDa må du velge alternativet NOE ANNET PÅ EN SCENE. Skriv så inn navnet ditt under artistnavn, en funfact om deg selv under beskriv deg selv, og viktigst av alt: under SJANGER, skriv HANG OUT eller navn på ønsket workshop (du kan velge ulike ting før/etter lunsj også).\n\nPS: HUSK Å HUKE AV FOR KOMMUNEN DU KOMMER FRA I PÅMELDINGEN. Modum, Hole eller Ringerike.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/08/0.1-Velkommen-1-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no\n\nPåmelding – Modum: https://delta.ukm.no/ukmid/pamelding/3316-9815/\nPåmelding – Ringerike: https://delta.ukm.no/ukmid/pamelding/3305-9815/\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
+      "description": "Frist for å melde seg på bak scenen til Hole, Modum og Ringerike.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nHole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\nMelder du deg på, så må du holde av hele lørdag 20.februar: 1030-2100.\n\nUKM 2027 VIL INNEHOLDE:\n- Hang out: Gaming, strikke/sy/fikse-hjørne, mingling, spill og moro... (Bli med som arrangør - og vær med å bestemme innholdet!)\n- Digg mat\n- Workshops\n- Kunstutstilling med vernissasje\n- Sceneshow\nALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nDet går an å være med på UKM uten å ha et scene-bidrag eller kunstverk. Viktigste er at du melder deg på - slik at vi får bestilt inn nok mat til alle som ønsker å delta!\n\nDu har to muligheter:\n1) Melde deg på som en som jobber på arrangementet (ung arrangør). Da velger du mellom rollene: KONFERANSIER, MEDIA eller ARRANGØR ved påmeldingen (Disse må holde av 19.februar for forberedelser og selvsagt 20.februar).\nVelger du ARRANGØR får du også opp ulike valg: lyd, lys, artist-vert, scenearbeider, info og koordinator. Kryss av det som er aktuelt for deg.\n2) Melde deg på en WORKSHOP eller å være sosial i HANGOUT-området. (Disse deltar som tilskuere på vernissasje og sceneshow - og holder av lørdag 20.februar).\n\nOPPSKRIFT PÅMELDING WORKSHOP/HANGOUT:\n1) Velg: NOE ANNET PÅ EN SCENE\n2) OM DEG DERE: Skriv navnet ditt under artistnavn, en funfact om deg selv, og under SJANGER: skriv hangout eller ønsket workshop (du kan velge ulikt før og etter lunsj om du vil).\n3) ROLLE I GRUPPA: Deltaker hangout / workshop\n4) INNSLAG/TEKNISKE BEHOV: Skriv hvilken kommune du er fra (Modum, Hole eller Ringerike). Tekniske behov: Ingen.\n\nPS: Er påmeldingen din uferdig, tar vi kontakt med deg for å hjelpe å fullføre den eller slette den.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/10/1.2-Bakgrunn-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no\n\nPåmelding – Modum: https://delta.ukm.no/ukmid/pamelding/3316-9815/\nPåmelding – Ringerike: https://delta.ukm.no/ukmid/pamelding/3305-9815/\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
       "end": null,
       "expires": "2027-02-20T21:00:00+01:00",
       "id": "9815-bak-scenen-frist",
@@ -1434,6 +1452,24 @@
     {
       "all_day": false,
       "calendars": [
+        "trondelag"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Orkland 2027.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
+      "end": null,
+      "expires": "2027-03-14T16:00:00+01:00",
+      "id": "9889-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Allfarveien 5, Orkland",
+      "parent_uid": "ukm-arrangement-9889@ukm-kalendere",
+      "start": "2026-12-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Orkland 2027",
+      "uid": "ukm-bak-scenen-frist-9889@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "innlandet"
       ],
       "description": "Frist for å melde seg på bak scenen til UKM 2027 TRYSIL.\nPåmeldingsfrist: 17.11.2026 kl. 23:59 (norsk tid).\n\nUKM 2027 TRYSIL\n\nsøndag 14. mars kl. 16:00 - 19:00\n\nKulturhuset Hagelund\n\nTrysil\n\nUKM 2027 TRYSIL: https://sys.ukm.no/2027-trysil-trysil/files/2026/10/Insitula-2-fotograf-Monika-Soberg-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3421-9821/\n\nKontaktpersoner\nAnne Norderhaug Sætre\nTelefon: 90515159\nE-post: ase@trysil.kommune.no\n\nBeathe Sande - Hovedkontakt UKM TRYSIL\nTelefon: 47456499\nE-post: beathe.helen.sande@trysil.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-trysil-trysil",
@@ -1448,24 +1484,6 @@
       "title": "Påmeldingsfrist bak scenen – UKM 2027 TRYSIL",
       "uid": "ukm-bak-scenen-frist-9821@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-trysil-trysil"
-    },
-    {
-      "all_day": false,
-      "calendars": [
-        "trondelag"
-      ],
-      "description": "Frist for å melde seg på bak scenen til UKM Orkland 2027.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
-      "end": null,
-      "expires": "2027-03-14T22:00:00+01:00",
-      "id": "9889-bak-scenen-frist",
-      "kind": "backstage_deadline",
-      "location": "Allfarveien 5, Orkland",
-      "parent_uid": "ukm-arrangement-9889@ukm-kalendere",
-      "start": "2026-12-01T23:59:00+01:00",
-      "status": "CONFIRMED",
-      "title": "Påmeldingsfrist bak scenen – UKM Orkland 2027",
-      "uid": "ukm-bak-scenen-frist-9889@ukm-kalendere",
-      "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
     },
     {
       "all_day": false,
@@ -1520,6 +1538,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Harstad 2027",
       "uid": "ukm-bak-scenen-frist-9941@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "ostfold"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Indre Østfold.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nIndre Østfold\n\nlørdag 3. april kl. 17:30 - 19:00\n\nFestiviteten Kino Mysen\n\nUKM 2027! Mer informasjon kommer.\n\nhttps://delta.ukm.no/ukmid/pamelding/3118-9981/\n\nKontaktpersoner\nJannicke Hauge Jansen\nTelefon: 95490522\nE-post: jannicke.jansen@io.kommune.no\n\nOle Petter Aas\nTelefon: 46456065\nE-post: ole.petter.aas@io.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-indreostfold-indreostfold",
+      "end": null,
+      "expires": "2027-04-03T19:00:00+02:00",
+      "id": "9981-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Festiviteten Kino Mysen, Indre Østfold",
+      "parent_uid": "ukm-arrangement-9981@ukm-kalendere",
+      "start": "2027-03-01T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Indre Østfold",
+      "uid": "ukm-bak-scenen-frist-9981@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-indreostfold-indreostfold"
     },
     {
       "all_day": false,
@@ -1778,7 +1814,7 @@
       "calendars": [
         "ostfold"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Østfold 2027.\nPåmeldingsfrist: 16.09.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
+      "description": "Frist for å melde seg på bak scenen til UKM-festivalen i Østfold 2027.\nPåmeldingsfrist: 16.09.2027 kl. 23:59 (norsk tid).\n\nUKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/arrangement/2027-ostfold-festival/info/deltager\n\nInfo til reiselederInfo til reiseleder: https://www.ukm.no/arrangement/2027-ostfold-festival/info/reiseleder\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
       "end": null,
       "expires": "2027-10-16T20:00:00+02:00",
       "id": "9894-bak-scenen-frist",
@@ -3411,6 +3447,94 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "trondelag"
+        ],
+        "description": "band workshop med orkland 2026\n\nmandag 16. november kl. 18:00 - 22:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9979/\n\nKontaktpersoner\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026",
+        "end": "2026-11-16T22:00:00+01:00",
+        "expires": "2026-11-16T22:00:00+01:00",
+        "id": "9979",
+        "location": ", Melhus",
+        "start": "2026-11-16T18:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "band workshop med orkland 2026",
+        "uid": "ukm-arrangement-9979@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "22:00"
+        ],
+        "text": "band workshop med orkland 2026\n\nmandag 16. november kl. 18:00 - 22:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9979/\n\nKontaktpersoner\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no",
+        "title": "band workshop med orkland 2026"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 50,
+          "kommuner": {
+            "id": null
+          },
+          "link": "trondelag",
+          "navn": "Trøndelag - Trööndelage",
+          "nettverk_omrade": null
+        },
+        "id": 9979,
+        "kommuner": [
+          {
+            "fylke_id": 50,
+            "fylke_navn": "Trøndelag - Trööndelage",
+            "id": 5028,
+            "navn": "Melhus",
+            "path": "/melhus/"
+          }
+        ],
+        "navn": "band workshop med orkland 2026",
+        "paamelding_lenker": [
+          {
+            "id": 5028,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5028-9979/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1800968025,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-26 12:53:45.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1800968025,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-26 12:53:45.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-melhus-bandworkshopmedorkland2026",
+        "start": 1794852000,
+        "start_date": {
+          "date": "2026-11-16 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "",
+        "stop": 1794866400,
+        "stop_date": {
+          "date": "2026-11-16 22:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-melhus-bandworkshopmedorkland2026/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "oslo"
         ],
         "description": "Workshop i musikkproduksjon med Marcel Basima\n\ntorsdag 19. november kl. 17:00 - 19:30\n\nHuset på Haugen\n\nSt.Hanshaugen\n\nhttps://delta.ukm.no/ukmid/pamelding/303-9950/\n\nKontaktpersoner\nØystein Hauso\nE-post: oystein.hauso@bsh.oslo.kommune.no\n\nPåmeldingsfrist – delta: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
@@ -3492,6 +3616,88 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "trondelag"
+        ],
+        "description": "Ung kulturfestival\n\nlørdag 21. november kl. 11:00 - 20:00\n\nMøllegata 6\n\nVerdal\n\nUng kulturfestival er et gratis arrangement (UKM hele året) for ungdom i Verdal født mellom 2007-2014.\nMålet er å skape en arena for fellesskap og utvikling.\nVed kapasitet og ledig plass får ungdom fra Inderøy plass på arbeidsverkstedene.\n\nWorkshops!\nAlle skal delta på to ulike, en før lunsj og en etter lunsj.\nLink til påmelding til workshopene finner du nederst.\nWorkshops foregår i lokalene på Tindved kulturhage.\n\nPanzer!\nPå kvelden blir det liv på ungdomshuset Panzer for deltakerne.\nVi starter med gratis pizza, før det etterpå arrangeres åpen scene.\nAlle som ønsker kan få fremføre noe fra scenen.\n\nDagsplan lørdag 21. november\n\n11.00 Oppmøte deltakere workshops\n11.30 Workshop 1\n13.00 Lunsj i Møllehagen\n14.00 Workshop 2\n15.30 Fritid på Tindved/mulig bingo\n17.00 Panzer åpner for alle – PIZZA\n17.30 Åpen scene\n20.00 Panzer stenger\n\nWorkshops\n\nBand\nBandworkshop med kulturskolelærere Roger og Magnus. Du trenger ingen forkunnskaper for å bli med her. Når vi deler inn band ser vi på alder, nivå og instrument. Kanskje har du spilt før? Kanskje du bare vil møte noen å spille med? Kanskje dere er et band fra før som vil melde dere på? Øve inn låter til UKM i februar? Har du instrument kan du ta det med eller låne av kulturskolen. Sted: Bandrom 3 etg.\n\nKunstverksted\nLag et trykk! Linotrykk er en grafisk teknikk der bildet skjæres ut i en linoplate og trykkes over på papir. Nesten som et stort stempel. Linotrykk er en veldig fin billedteknikk og blir kanskje noe du kan delta i UKM med?\nI verkstedet skal vi først finne motiver, enten med collage eller tegning. Så skjærer vi ut motivet. Til slutt valser vi på trykksverte og presser det på papir. Lærer i visuelle kunstfag, Solveig Viken hjelper til hele veien.\nDu kan ha med tegninger du vil lage trykk av eller inspirasjonsbilder, men dette er ikke et krav. Sted: Møterommet 2. etg.\n\nDramaverksted\nDramaworkshop m/Synne. Vi kommer til å leke oss med ulike dramaformer. Utforske drama gjennom lek, øvelser, improvisasjon og samarbeid. Målet er å ha det gøy, samtidig å oppdage at drama ikke trenger å være så skummelt som mange kanskje tror. Du trenger ingen erfaring med drama fra tidligere, kun et ønske om å prøve noe nytt. Du er også selvfølgelig velkommen om du har tidligere erfaring med drama.\nTa med: Bevegelige klær, vannflaske, åpent sinn. Sted: Dansesal 3. etg\n\nHIP HOP med Huldance\nBli med på et energisk danseverksted med utgangspunkt i hip hop og streetdance! Her får du utforske ulike bevegelser, grooves og uttrykk fra streetdance-miljøet, med masse energi, musikk og danseglede. Ingen forkunnskaper er nødvendig – verkstedet passer for alle som har lyst til å prøve seg på dans! Sted: Dansesal 4. etg\n\nRollespill\n(Mer info kommer senere)\n\nLink påmeldingsskjema workshops:\n\nhttps://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=--e6v6x5mkyRQDznnv3YHiGuYYfJdZxMrCvMtOWQtipUOTlRN0Q0M0NJOThDWFFRQjBJTE1CTU9YTC4u\n\nPåmeldingsfrist søndag 8. november\n\nUng kulturfestival: https://sys.ukm.no/2026-verdal-ungkulturfestival/files/2026/10/463-666x1200.jpg\n\nKontaktpersoner\nRoger Amund Olsen\nTelefon: 97485021\nE-post: roger.amund.olsen@verdal.kommune.no\n\nPåmeldingsfrist – delta: 08.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
+        "end": "2026-11-21T20:00:00+01:00",
+        "expires": "2026-11-21T20:00:00+01:00",
+        "id": "9872",
+        "location": "Møllegata 6, Verdal",
+        "start": "2026-11-21T11:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Ung kulturfestival",
+        "uid": "ukm-arrangement-9872@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival"
+      },
+      "page": {
+        "displayed_times": [
+          "11:00",
+          "20:00"
+        ],
+        "text": "Ung kulturfestival\n\nlørdag 21. november kl. 11:00 - 20:00\n\nMøllegata 6\n\nVerdal\n\nUng kulturfestival er et gratis arrangement (UKM hele året) for ungdom i Verdal født mellom 2007-2014.\nMålet er å skape en arena for fellesskap og utvikling.\nVed kapasitet og ledig plass får ungdom fra Inderøy plass på arbeidsverkstedene.\n\nWorkshops!\nAlle skal delta på to ulike, en før lunsj og en etter lunsj.\nLink til påmelding til workshopene finner du nederst.\nWorkshops foregår i lokalene på Tindved kulturhage.\n\nPanzer!\nPå kvelden blir det liv på ungdomshuset Panzer for deltakerne.\nVi starter med gratis pizza, før det etterpå arrangeres åpen scene.\nAlle som ønsker kan få fremføre noe fra scenen.\n\nDagsplan lørdag 21. november\n\n11.00 Oppmøte deltakere workshops\n11.30 Workshop 1\n13.00 Lunsj i Møllehagen\n14.00 Workshop 2\n15.30 Fritid på Tindved/mulig bingo\n17.00 Panzer åpner for alle – PIZZA\n17.30 Åpen scene\n20.00 Panzer stenger\n\nWorkshops\n\nBand\nBandworkshop med kulturskolelærere Roger og Magnus. Du trenger ingen forkunnskaper for å bli med her. Når vi deler inn band ser vi på alder, nivå og instrument. Kanskje har du spilt før? Kanskje du bare vil møte noen å spille med? Kanskje dere er et band fra før som vil melde dere på? Øve inn låter til UKM i februar? Har du instrument kan du ta det med eller låne av kulturskolen. Sted: Bandrom 3 etg.\n\nKunstverksted\nLag et trykk! Linotrykk er en grafisk teknikk der bildet skjæres ut i en linoplate og trykkes over på papir. Nesten som et stort stempel. Linotrykk er en veldig fin billedteknikk og blir kanskje noe du kan delta i UKM med?\nI verkstedet skal vi først finne motiver, enten med collage eller tegning. Så skjærer vi ut motivet. Til slutt valser vi på trykksverte og presser det på papir. Lærer i visuelle kunstfag, Solveig Viken hjelper til hele veien.\nDu kan ha med tegninger du vil lage trykk av eller inspirasjonsbilder, men dette er ikke et krav. Sted: Møterommet 2. etg.\n\nDramaverksted\nDramaworkshop m/Synne. Vi kommer til å leke oss med ulike dramaformer. Utforske drama gjennom lek, øvelser, improvisasjon og samarbeid. Målet er å ha det gøy, samtidig å oppdage at drama ikke trenger å være så skummelt som mange kanskje tror. Du trenger ingen erfaring med drama fra tidligere, kun et ønske om å prøve noe nytt. Du er også selvfølgelig velkommen om du har tidligere erfaring med drama.\nTa med: Bevegelige klær, vannflaske, åpent sinn. Sted: Dansesal 3. etg\n\nHIP HOP med Huldance\nBli med på et energisk danseverksted med utgangspunkt i hip hop og streetdance! Her får du utforske ulike bevegelser, grooves og uttrykk fra streetdance-miljøet, med masse energi, musikk og danseglede. Ingen forkunnskaper er nødvendig – verkstedet passer for alle som har lyst til å prøve seg på dans! Sted: Dansesal 4. etg\n\nRollespill\n(Mer info kommer senere)\n\nLink påmeldingsskjema workshops:\n\nhttps://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=--e6v6x5mkyRQDznnv3YHiGuYYfJdZxMrCvMtOWQtipUOTlRN0Q0M0NJOThDWFFRQjBJTE1CTU9YTC4u\n\nPåmeldingsfrist søndag 8. november\n\nUng kulturfestival: https://sys.ukm.no/2026-verdal-ungkulturfestival/files/2026/10/463-666x1200.jpg\n\nKontaktpersoner\nRoger Amund Olsen\nTelefon: 97485021\nE-post: roger.amund.olsen@verdal.kommune.no",
+        "title": "Ung kulturfestival"
+      },
+      "raw": {
+        "beskrivelse": "Ung kulturfestival er et gratis arrangement (UKM hele året) for ungdom i Verdal født mellom 2007-2014.\r\nMålet er å skape en arena for fellesskap og utvikling. \r\nVed kapasitet og ledig plass får ungdom fra Inderøy plass på arbeidsverkstedene.\r\n\r\nWorkshops! \r\nAlle skal delta på to ulike, en før lunsj og en etter lunsj. \r\nLink til påmelding til workshopene finner du nederst. \r\nWorkshops foregår i lokalene på Tindved kulturhage. \r\n\r\nPanzer! \r\nPå kvelden blir det liv på ungdomshuset Panzer for deltakerne. \r\nVi starter med gratis pizza, før det etterpå arrangeres åpen scene. \r\nAlle som ønsker kan få fremføre noe fra scenen. \r\n\r\nDagsplan lørdag 21. november \r\n\r\n11.00 Oppmøte deltakere workshops\r\n11.30 Workshop 1  \r\n13.00 Lunsj i Møllehagen \r\n14.00 Workshop 2  \r\n15.30 Fritid på Tindved/mulig bingo \r\n17.00 Panzer åpner for alle – PIZZA  \r\n17.30 Åpen scene \r\n20.00 Panzer stenger  \r\n\r\nWorkshops \r\n\r\nBand \r\nBandworkshop med kulturskolelærere Roger og Magnus. Du trenger ingen forkunnskaper for å bli med her. Når vi deler inn band ser vi på alder, nivå og instrument. Kanskje har du spilt før? Kanskje du bare vil møte noen å spille med? Kanskje dere er et band fra før som vil melde dere på? Øve inn låter til UKM i februar? Har du instrument kan du ta det med eller låne av kulturskolen. Sted: Bandrom 3 etg. \r\n\r\nKunstverksted \r\nLag et trykk! Linotrykk er en grafisk teknikk der bildet skjæres ut i en linoplate og trykkes over på papir. Nesten som et stort stempel. Linotrykk er en veldig fin billedteknikk og blir kanskje noe du kan delta i UKM med?  \r\nI verkstedet skal vi først finne motiver, enten med collage eller tegning. Så skjærer vi ut motivet. Til slutt valser vi på trykksverte og presser det på papir. Lærer i visuelle kunstfag, Solveig Viken hjelper til hele veien.  \r\nDu kan ha med tegninger du vil lage trykk av eller inspirasjonsbilder, men dette er ikke et krav. Sted: Møterommet 2. etg. \r\n\r\nDramaverksted \r\nDramaworkshop m/Synne. Vi kommer til å leke oss med ulike dramaformer. Utforske drama gjennom lek, øvelser, improvisasjon og samarbeid. Målet er å ha det gøy, samtidig å oppdage at drama ikke trenger å være så skummelt som mange kanskje tror. Du trenger ingen erfaring med drama fra tidligere, kun et ønske om å prøve noe nytt. Du er også selvfølgelig velkommen om du har tidligere erfaring med drama.  \r\nTa med: Bevegelige klær, vannflaske, åpent sinn. Sted: Dansesal 3. etg \r\n\r\nHIP HOP med Huldance \r\nBli med på et energisk danseverksted med utgangspunkt i hip hop og streetdance! Her får du utforske ulike bevegelser, grooves og uttrykk fra streetdance-miljøet, med masse energi, musikk og danseglede. Ingen forkunnskaper er nødvendig – verkstedet passer for alle som har lyst til å prøve seg på dans! Sted: Dansesal 4. etg\r\n\r\nRollespill \r\n(Mer info kommer senere)\r\n\r\nLink påmeldingsskjema workshops:\r\n\r\nhttps://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=--e6v6x5mkyRQDznnv3YHiGuYYfJdZxMrCvMtOWQtipUOTlRN0Q0M0NJOThDWFFRQjBJTE1CTU9YTC4u\r\n\r\nPåmeldingsfrist søndag 8. november",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 50,
+          "kommuner": {
+            "id": null
+          },
+          "link": "trondelag",
+          "navn": "Trøndelag - Trööndelage",
+          "nettverk_omrade": null
+        },
+        "id": 9872,
+        "kommuner": [
+          {
+            "fylke_id": 50,
+            "fylke_navn": "Trøndelag - Trööndelage",
+            "id": 5038,
+            "navn": "Verdal",
+            "path": "/verdal/"
+          }
+        ],
+        "navn": "Ung kulturfestival",
+        "paamelding_lenker": [],
+        "paameldingsfrist_1": 1794182340,
+        "paameldingsfrist_1_date": {
+          "date": "2026-11-08 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1797604978,
+        "paameldingsfrist_2_date": {
+          "date": "2026-12-18 14:42:58.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-verdal-ungkulturfestival",
+        "start": 1795258800,
+        "start_date": {
+          "date": "2026-11-21 11:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Møllegata 6",
+        "stop": 1795291200,
+        "stop_date": {
+          "date": "2026-11-21 20:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-verdal-ungkulturfestival/",
         "utvidet_gui": false
       }
     },
@@ -4549,6 +4755,104 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "moreogromsdal"
+        ],
+        "description": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 12:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nUKM Aure og Smøla blir festival – med to arrangementer!\n\nLørdag 16. januar 2027 fylles Aure Arena med ungdom, kreativitet og kultur når UKM Aure og Smøla går av stabelen!\nI år deler vi arrangementet i to for å gi enda bedre plass til alle deltakerne.\n• Kl. 12.00: UKM junior – for elever på 4.–6. trinn\n• Kl. 16.00: UKM – for ungdom fra 7. trinn til og med 20 år\n\nUKM er mye mer enn sang og dans! Her kan du stå på scenen, stille ut kunst du har laget, vise frem film og fotografier eller bidra med lyd, lys og andre oppgaver bak scenen. Kanskje lager du TikTok-videoer, bygger imponerende verdener i Minecraft eller har en kreativ idé du har lyst til å vise frem? På UKM er det plass til mange slags interesser og uttrykk. Ungdom fra Aure og Smøla skaper festivalen sammen. Aure Arena fylles med scene, lyd og lys, kunstutstilling, kafé og greenroom for artistene. Det blir liv både på, bak og rundt scenen!\n\nVed å dele UKM i to ønsker vi å skape gode opplevelser for både de yngste og de eldste deltakerne. Juniorene får sin egen arena der de kan prøve seg og vise frem det de kan, mens de eldre ungdommene får sitt eget arrangement å fylle med kreativitet, energi og nye uttrykk.\n\nHar du noe du vil vise frem, eller har du lyst til å være med på å lage festival? Du trenger ikke å være ekspert. Det viktigste er at du har lyst til å delta, prøve noe nytt eller lære noe sammen med andre.\n\nDu kan delta på scenen eller stille ut kunst og andre kreative arbeider fra det året du fyller 10 år. For å være arrangør må du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fylkesfestivalen.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
+        "end": "2027-01-16T18:00:00+01:00",
+        "expires": "2027-01-16T18:00:00+01:00",
+        "id": "9977",
+        "location": "Aure Arena, Smøla",
+        "start": "2027-01-16T12:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Aure og Smøla 2027",
+        "uid": "ukm-arrangement-9977@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
+      },
+      "page": {
+        "displayed_times": [
+          "12:00",
+          "18:00"
+        ],
+        "text": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 12:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nUKM Aure og Smøla blir festival – med to arrangementer!\n\nLørdag 16. januar 2027 fylles Aure Arena med ungdom, kreativitet og kultur når UKM Aure og Smøla går av stabelen!\nI år deler vi arrangementet i to for å gi enda bedre plass til alle deltakerne.\n• Kl. 12.00: UKM junior – for elever på 4.–6. trinn\n• Kl. 16.00: UKM – for ungdom fra 7. trinn til og med 20 år\n\nUKM er mye mer enn sang og dans! Her kan du stå på scenen, stille ut kunst du har laget, vise frem film og fotografier eller bidra med lyd, lys og andre oppgaver bak scenen. Kanskje lager du TikTok-videoer, bygger imponerende verdener i Minecraft eller har en kreativ idé du har lyst til å vise frem? På UKM er det plass til mange slags interesser og uttrykk. Ungdom fra Aure og Smøla skaper festivalen sammen. Aure Arena fylles med scene, lyd og lys, kunstutstilling, kafé og greenroom for artistene. Det blir liv både på, bak og rundt scenen!\n\nVed å dele UKM i to ønsker vi å skape gode opplevelser for både de yngste og de eldste deltakerne. Juniorene får sin egen arena der de kan prøve seg og vise frem det de kan, mens de eldre ungdommene får sitt eget arrangement å fylle med kreativitet, energi og nye uttrykk.\n\nHar du noe du vil vise frem, eller har du lyst til å være med på å lage festival? Du trenger ikke å være ekspert. Det viktigste er at du har lyst til å delta, prøve noe nytt eller lære noe sammen med andre.\n\nDu kan delta på scenen eller stille ut kunst og andre kreative arbeider fra det året du fyller 10 år. For å være arrangør må du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fylkesfestivalen.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no",
+        "title": "Aure og Smøla 2027"
+      },
+      "raw": {
+        "beskrivelse": "UKM Aure og Smøla blir festival – med to arrangementer!\r\n\r\nLørdag 16. januar 2027 fylles Aure Arena med ungdom, kreativitet og kultur når UKM Aure og Smøla går av stabelen! \r\nI år deler vi arrangementet i to for å gi enda bedre plass til alle deltakerne.\r\n•\tKl. 12.00: UKM junior – for elever på 4.–6. trinn\r\n•\tKl. 16.00: UKM – for ungdom fra 7. trinn til og med 20 år\r\n\r\nUKM er mye mer enn sang og dans! Her kan du stå på scenen, stille ut kunst du har laget, vise frem film og fotografier eller bidra med lyd, lys og andre oppgaver bak scenen. Kanskje lager du TikTok-videoer, bygger imponerende verdener i Minecraft eller har en kreativ idé du har lyst til å vise frem? På UKM er det plass til mange slags interesser og uttrykk. Ungdom fra Aure og Smøla skaper festivalen sammen. Aure Arena fylles med scene, lyd og lys, kunstutstilling, kafé og greenroom for artistene. Det blir liv både på, bak og rundt scenen!\r\n\r\nVed å dele UKM i to ønsker vi å skape gode opplevelser for både de yngste og de eldste deltakerne. Juniorene får sin egen arena der de kan prøve seg og vise frem det de kan, mens de eldre ungdommene får sitt eget arrangement å fylle med kreativitet, energi og nye uttrykk.\r\n\r\nHar du noe du vil vise frem, eller har du lyst til å være med på å lage festival? Du trenger ikke å være ekspert. Det viktigste er at du har lyst til å delta, prøve noe nytt eller lære noe sammen med andre.\r\n\r\nDu kan delta på scenen eller stille ut kunst og andre kreative arbeider fra det året du fyller 10 år. For å være arrangør må du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fylkesfestivalen.\r\n\r\nBli med og lag UKM Aure og Smøla 2027!",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 15,
+          "kommuner": null,
+          "link": "moreogromsdal",
+          "navn": "Møre og Romsdal",
+          "nettverk_omrade": null
+        },
+        "id": 9977,
+        "kommuner": [
+          {
+            "fylke_id": 15,
+            "fylke_navn": "Møre og Romsdal",
+            "id": 1576,
+            "navn": "Aure",
+            "path": "/aure/"
+          },
+          {
+            "fylke_id": 15,
+            "fylke_navn": "Møre og Romsdal",
+            "id": 1573,
+            "navn": "Smøla",
+            "path": "/smola/"
+          }
+        ],
+        "navn": "Aure og Smøla 2027",
+        "paamelding_lenker": [
+          {
+            "id": 1576,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1576-9977/",
+            "type": "kommune"
+          },
+          {
+            "id": 1573,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1573-9977/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1799625540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1799625540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-aure-smola-ukmaureogsmola2027",
+        "start": 1800100800,
+        "start_date": {
+          "date": "2027-01-16 12:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Aure Arena",
+        "stop": 1800122400,
+        "stop_date": {
+          "date": "2027-01-16 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "innlandet"
         ],
         "description": "UKM Ringebu\n\nlørdag 16. januar kl. 15:00 - 19:00\n\nKaupanger Ringebu\n\nRingebu\n\nUKM Ringebu 2027 – bli med! 🎤🎨🎸\nHar du noe du liker å holde på med – musikk, dans, kunst, foto, film, teater eller noe helt annet? Da er UKM stedet for deg!\nHer kan du vise fram det du driver med, prøve noe nytt, møte andre ungdommer og være en del av et kreativt og sosialt fellesskap. Du trenger ikke å være proff – det viktigste er at du har lyst til å bli med!\nUKM Ringebu arrangeres 16. januar 2027.\nPåmeldingsfrist er 10. januar 2027.\nTa med deg kreativiteten, motet – og gjerne en venn.\nVi sees på UKM Ringebu!\n\nhttps://delta.ukm.no/ukmid/pamelding/3439-9901/\n\nKontaktpersoner\nBrede Vestby\nTelefon: 48290415\nE-post: brede.vestby@ringebu.kommune.no\n\nErika Urbute\nTelefon: 96856605\nE-post: Erika.Urbute@ringebu.kommune.no\n\nPåmeldingsfrist – delta: 01.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ringebu-ringebu",
@@ -4628,104 +4932,6 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-ringebu-ringebu/",
-        "utvidet_gui": false
-      }
-    },
-    {
-      "event": {
-        "all_day": false,
-        "calendars": [
-          "moreogromsdal"
-        ],
-        "description": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
-        "end": "2027-01-16T18:00:00+01:00",
-        "expires": "2027-01-16T18:00:00+01:00",
-        "id": "9977",
-        "location": "Aure Arena, Smøla",
-        "start": "2027-01-16T16:00:00+01:00",
-        "status": "CONFIRMED",
-        "title": "Aure og Smøla 2027",
-        "uid": "ukm-arrangement-9977@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027"
-      },
-      "page": {
-        "displayed_times": [
-          "16:00",
-          "18:00"
-        ],
-        "text": "Aure og Smøla 2027\n\nlørdag 16. januar kl. 16:00 - 18:00\n\nAure Arena\n\nAure, Smøla\n\nLørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\n\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no",
-        "title": "Aure og Smøla 2027"
-      },
-      "raw": {
-        "beskrivelse": "Lørdag 16. januar er det duket for UKM-show for ungdommer fra Smøla og Aure i Aure Arena!\r\n\r\nHer står ungdommer bak alle deler av showet, både på scenen, i utstilling og som arrangører.\r\nArrangører og konferansierer møtes allerede fredag kveld for å forberede det store showet.",
-        "fylke": {
-          "active": true,
-          "attributes": null,
-          "fake": false,
-          "id": 15,
-          "kommuner": null,
-          "link": "moreogromsdal",
-          "navn": "Møre og Romsdal",
-          "nettverk_omrade": null
-        },
-        "id": 9977,
-        "kommuner": [
-          {
-            "fylke_id": 15,
-            "fylke_navn": "Møre og Romsdal",
-            "id": 1576,
-            "navn": "Aure",
-            "path": "/aure/"
-          },
-          {
-            "fylke_id": 15,
-            "fylke_navn": "Møre og Romsdal",
-            "id": 1573,
-            "navn": "Smøla",
-            "path": "/smola/"
-          }
-        ],
-        "navn": "Aure og Smøla 2027",
-        "paamelding_lenker": [
-          {
-            "id": 1576,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/1576-9977/",
-            "type": "kommune"
-          },
-          {
-            "id": 1573,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/1573-9977/",
-            "type": "kommune"
-          }
-        ],
-        "paameldingsfrist_1": 1799625540,
-        "paameldingsfrist_1_date": {
-          "date": "2027-01-10 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "paameldingsfrist_2": 1799625540,
-        "paameldingsfrist_2_date": {
-          "date": "2027-01-10 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "path": "2027-aure-smola-ukmaureogsmola2027",
-        "start": 1800115200,
-        "start_date": {
-          "date": "2027-01-16 16:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "sted": "Aure Arena",
-        "stop": 1800122400,
-        "stop_date": {
-          "date": "2027-01-16 18:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "type": "kommune",
-        "url": "https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/",
         "utvidet_gui": false
       }
     },
@@ -5012,6 +5218,104 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-alver-austrheim-ukmnordhordland/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "rogaland"
+        ],
+        "description": "Kvitsøy og Randaberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n\nVaren Randaberg kulturscene\n\nRandaberg, Kvitsøy\n\nUKM 2027 – Randaberg & Kvitsøy\nUKM er en arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner for. Enten du synger, rapper, danser, maler, skriver, lager film eller skaper noe helt nytt, er det plass til alle uttrykk her!\n\nKom som du er, og vis verden hva du kan!\n\nVidere til fylkesfestivalen?\nNoen av deltakerne fra UKM Randaberg & Kvitsøy blir sendt videre til fylkesfestivalen. Går du videre, må du ha med deg en reiseleder som er over 18 år, for eksempel en forelder, et annet familiemedlem eller en voksen du stoler på.\n\nEr dette vanskelig å få til? Ta kontakt med oss, så finner vi alltid en løsning.\n\nhttps://delta.ukm.no/ukmid/pamelding/1127-9980/\n\nKontaktpersoner\nIda Haugerud Dahl\nTelefon: 45246602\nE-post: ida.haugerud.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nTelefon: 91395991\nE-post: simon.leirvik@randaberg.kommune.no\n\nPåmelding – Kvitsøy: https://delta.ukm.no/ukmid/pamelding/1144-9980/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
+        "end": "2027-01-30T22:00:00+01:00",
+        "expires": "2027-01-30T22:00:00+01:00",
+        "id": "9980",
+        "location": "Varen Randaberg kulturscene, Kvitsøy",
+        "start": "2027-01-30T18:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Kvitsøy og Randaberg",
+        "uid": "ukm-arrangement-9980@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "22:00"
+        ],
+        "text": "Kvitsøy og Randaberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n\nVaren Randaberg kulturscene\n\nRandaberg, Kvitsøy\n\nUKM 2027 – Randaberg & Kvitsøy\nUKM er en arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner for. Enten du synger, rapper, danser, maler, skriver, lager film eller skaper noe helt nytt, er det plass til alle uttrykk her!\n\nKom som du er, og vis verden hva du kan!\n\nVidere til fylkesfestivalen?\nNoen av deltakerne fra UKM Randaberg & Kvitsøy blir sendt videre til fylkesfestivalen. Går du videre, må du ha med deg en reiseleder som er over 18 år, for eksempel en forelder, et annet familiemedlem eller en voksen du stoler på.\n\nEr dette vanskelig å få til? Ta kontakt med oss, så finner vi alltid en løsning.\n\nhttps://delta.ukm.no/ukmid/pamelding/1127-9980/\n\nKontaktpersoner\nIda Haugerud Dahl\nTelefon: 45246602\nE-post: ida.haugerud.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nTelefon: 91395991\nE-post: simon.leirvik@randaberg.kommune.no",
+        "title": "Kvitsøy og Randaberg"
+      },
+      "raw": {
+        "beskrivelse": "UKM 2027 – Randaberg & Kvitsøy\r\nUKM er en arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner for. Enten du synger, rapper, danser, maler, skriver, lager film eller skaper noe helt nytt, er det plass til alle uttrykk her!\r\n\r\nKom som du er, og vis verden hva du kan!\r\n\r\nVidere til fylkesfestivalen?\r\nNoen av deltakerne fra UKM Randaberg & Kvitsøy blir sendt videre til fylkesfestivalen. Går du videre, må du ha med deg en reiseleder som er over 18 år, for eksempel en forelder, et annet familiemedlem eller en voksen du stoler på.\r\n\r\nEr dette vanskelig å få til? Ta kontakt med oss, så finner vi alltid en løsning.",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 11,
+          "kommuner": null,
+          "link": "rogaland",
+          "navn": "Rogaland",
+          "nettverk_omrade": null
+        },
+        "id": 9980,
+        "kommuner": [
+          {
+            "fylke_id": 11,
+            "fylke_navn": "Rogaland",
+            "id": 1127,
+            "navn": "Randaberg",
+            "path": "/randaberg/"
+          },
+          {
+            "fylke_id": 11,
+            "fylke_navn": "Rogaland",
+            "id": 1144,
+            "navn": "Kvitsøy",
+            "path": "/kvitsoy/"
+          }
+        ],
+        "navn": "Kvitsøy og Randaberg",
+        "paamelding_lenker": [
+          {
+            "id": 1127,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1127-9980/",
+            "type": "kommune"
+          },
+          {
+            "id": 1144,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1144-9980/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1799625540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1799625540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-kvitsoy-randaberkvitsoyograndaberg",
+        "start": 1801332000,
+        "start_date": {
+          "date": "2027-01-30 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Varen Randaberg kulturscene",
+        "stop": 1801346400,
+        "stop_date": {
+          "date": "2027-01-30 22:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-kvitsoy-randaberkvitsoyograndaberg/",
         "utvidet_gui": false
       }
     },
@@ -6816,7 +7120,7 @@
         "calendars": [
           "buskerud"
         ],
-        "description": "Hole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\n\nInfo om arrangementet kommer fortløpende gjennom høsten. Men det vil bli:\n- Workshops\n- Sceneshow\n- Hang out: Gaming i stua, strikke/sy-hjørne/fikse-hjørne, mingling, spill og moro\n- Mulighet for å være frivillig/arrangør på arrangementet\n- Mat\nOG ALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nPÅMELDINGEN ER ÅPEN :)\nDet går an å melde seg på HANG OUT eller WORKSHOP 11-16 og være publikum på kunstutstilling-åpningen og sceneshowet 17-21.\nDa må du velge alternativet NOE ANNET PÅ EN SCENE. Skriv så inn navnet ditt under artistnavn, en funfact om deg selv under beskriv deg selv, og viktigst av alt: under SJANGER, skriv HANG OUT eller navn på ønsket workshop (du kan velge ulike ting før/etter lunsj også).\n\nPS: HUSK Å HUKE AV FOR KOMMUNEN DU KOMMER FRA I PÅMELDINGEN. Modum, Hole eller Ringerike.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/08/0.1-Velkommen-1-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no\n\nPåmelding – Modum: https://delta.ukm.no/ukmid/pamelding/3316-9815/\nPåmelding – Ringerike: https://delta.ukm.no/ukmid/pamelding/3305-9815/\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
+        "description": "Hole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\nMelder du deg på, så må du holde av hele lørdag 20.februar: 1030-2100.\n\nUKM 2027 VIL INNEHOLDE:\n- Hang out: Gaming, strikke/sy/fikse-hjørne, mingling, spill og moro... (Bli med som arrangør - og vær med å bestemme innholdet!)\n- Digg mat\n- Workshops\n- Kunstutstilling med vernissasje\n- Sceneshow\nALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nDet går an å være med på UKM uten å ha et scene-bidrag eller kunstverk. Viktigste er at du melder deg på - slik at vi får bestilt inn nok mat til alle som ønsker å delta!\n\nDu har to muligheter:\n1) Melde deg på som en som jobber på arrangementet (ung arrangør). Da velger du mellom rollene: KONFERANSIER, MEDIA eller ARRANGØR ved påmeldingen (Disse må holde av 19.februar for forberedelser og selvsagt 20.februar).\nVelger du ARRANGØR får du også opp ulike valg: lyd, lys, artist-vert, scenearbeider, info og koordinator. Kryss av det som er aktuelt for deg.\n2) Melde deg på en WORKSHOP eller å være sosial i HANGOUT-området. (Disse deltar som tilskuere på vernissasje og sceneshow - og holder av lørdag 20.februar).\n\nOPPSKRIFT PÅMELDING WORKSHOP/HANGOUT:\n1) Velg: NOE ANNET PÅ EN SCENE\n2) OM DEG DERE: Skriv navnet ditt under artistnavn, en funfact om deg selv, og under SJANGER: skriv hangout eller ønsket workshop (du kan velge ulikt før og etter lunsj om du vil).\n3) ROLLE I GRUPPA: Deltaker hangout / workshop\n4) INNSLAG/TEKNISKE BEHOV: Skriv hvilken kommune du er fra (Modum, Hole eller Ringerike). Tekniske behov: Ingen.\n\nPS: Er påmeldingen din uferdig, tar vi kontakt med deg for å hjelpe å fullføre den eller slette den.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/10/1.2-Bakgrunn-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no\n\nPåmelding – Modum: https://delta.ukm.no/ukmid/pamelding/3316-9815/\nPåmelding – Ringerike: https://delta.ukm.no/ukmid/pamelding/3305-9815/\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
         "end": "2027-02-20T21:00:00+01:00",
         "expires": "2027-02-20T21:00:00+01:00",
         "id": "9815",
@@ -6832,11 +7136,11 @@
           "10:30",
           "21:00"
         ],
-        "text": "Hole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\n\nInfo om arrangementet kommer fortløpende gjennom høsten. Men det vil bli:\n- Workshops\n- Sceneshow\n- Hang out: Gaming i stua, strikke/sy-hjørne/fikse-hjørne, mingling, spill og moro\n- Mulighet for å være frivillig/arrangør på arrangementet\n- Mat\nOG ALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nPÅMELDINGEN ER ÅPEN :)\nDet går an å melde seg på HANG OUT eller WORKSHOP 11-16 og være publikum på kunstutstilling-åpningen og sceneshowet 17-21.\nDa må du velge alternativet NOE ANNET PÅ EN SCENE. Skriv så inn navnet ditt under artistnavn, en funfact om deg selv under beskriv deg selv, og viktigst av alt: under SJANGER, skriv HANG OUT eller navn på ønsket workshop (du kan velge ulike ting før/etter lunsj også).\n\nPS: HUSK Å HUKE AV FOR KOMMUNEN DU KOMMER FRA I PÅMELDINGEN. Modum, Hole eller Ringerike.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/08/0.1-Velkommen-1-1200x675.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no",
+        "text": "Hole, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21:00\n\nAlles Kulturhus\n\nHole, Modum, Ringerike\n\nVERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;)\nMelder du deg på, så må du holde av hele lørdag 20.februar: 1030-2100.\n\nUKM 2027 VIL INNEHOLDE:\n- Hang out: Gaming, strikke/sy/fikse-hjørne, mingling, spill og moro... (Bli med som arrangør - og vær med å bestemme innholdet!)\n- Digg mat\n- Workshops\n- Kunstutstilling med vernissasje\n- Sceneshow\nALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\n\nDet går an å være med på UKM uten å ha et scene-bidrag eller kunstverk. Viktigste er at du melder deg på - slik at vi får bestilt inn nok mat til alle som ønsker å delta!\n\nDu har to muligheter:\n1) Melde deg på som en som jobber på arrangementet (ung arrangør). Da velger du mellom rollene: KONFERANSIER, MEDIA eller ARRANGØR ved påmeldingen (Disse må holde av 19.februar for forberedelser og selvsagt 20.februar).\nVelger du ARRANGØR får du også opp ulike valg: lyd, lys, artist-vert, scenearbeider, info og koordinator. Kryss av det som er aktuelt for deg.\n2) Melde deg på en WORKSHOP eller å være sosial i HANGOUT-området. (Disse deltar som tilskuere på vernissasje og sceneshow - og holder av lørdag 20.februar).\n\nOPPSKRIFT PÅMELDING WORKSHOP/HANGOUT:\n1) Velg: NOE ANNET PÅ EN SCENE\n2) OM DEG DERE: Skriv navnet ditt under artistnavn, en funfact om deg selv, og under SJANGER: skriv hangout eller ønsket workshop (du kan velge ulikt før og etter lunsj om du vil).\n3) ROLLE I GRUPPA: Deltaker hangout / workshop\n4) INNSLAG/TEKNISKE BEHOV: Skriv hvilken kommune du er fra (Modum, Hole eller Ringerike). Tekniske behov: Ingen.\n\nPS: Er påmeldingen din uferdig, tar vi kontakt med deg for å hjelpe å fullføre den eller slette den.\n\nHole, Modum og Ringerike: https://sys.ukm.no/2027-hole-modum-ringeholemodumogringerike/files/2026/10/1.2-Bakgrunn-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3310-9815/\n\nKontaktpersoner\nEndre Solhjem Knutsen\nTelefon: 95795973\nE-post: endre.solhjem.knutsen@ringerike.kommune.no\n\nIne Strand Caspersen\nTelefon: 90189575\nE-post: ine.strand.caspersen@modum.kommune.no\n\nMarthe Haugan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.kommune.no",
         "title": "Hole, Modum og Ringerike"
       },
       "raw": {
-        "beskrivelse": "VERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\r\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;) \r\n\r\nInfo om arrangementet kommer fortløpende gjennom høsten. Men det vil bli:\r\n- Workshops\r\n- Sceneshow\r\n- Hang out: Gaming i stua, strikke/sy-hjørne/fikse-hjørne, mingling, spill og moro\r\n- Mulighet for å være frivillig/arrangør på arrangementet\r\n- Mat\r\nOG ALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\r\n\r\nPÅMELDINGEN ER ÅPEN :)\r\nDet går an å melde seg på HANG OUT eller WORKSHOP 11-16 og være publikum på kunstutstilling-åpningen og sceneshowet 17-21.\r\nDa må du velge alternativet NOE ANNET PÅ EN SCENE. Skriv så inn navnet ditt under artistnavn, en funfact om deg selv under beskriv deg selv, og viktigst av alt: under SJANGER, skriv HANG OUT eller navn på ønsket workshop (du kan velge ulike ting før/etter lunsj også). \r\n\r\nPS: HUSK Å HUKE AV FOR KOMMUNEN DU KOMMER FRA I PÅMELDINGEN. Modum, Hole eller Ringerike.",
+        "beskrivelse": "VERDENS BESTE lokale UKM-festival er å finne på Alles Kulturhus i Hønefoss helgen 19.-20.februar 2027.\r\nVi har alltid UKM-festivalen vår i uke 7 - så hold av den helgen - hvert år ;) \r\nMelder du deg på, så må du holde av hele lørdag 20.februar: 1030-2100.\r\n\r\nUKM 2027 VIL INNEHOLDE:\r\n- Hang out: Gaming, strikke/sy/fikse-hjørne, mingling, spill og moro... (Bli med som arrangør - og vær med å bestemme innholdet!)\r\n- Digg mat\r\n- Workshops\r\n- Kunstutstilling med vernissasje\r\n- Sceneshow\r\nALT ER GRATIS FOR UNGDOM I ALDEREN 13-20 ÅR.\r\n\r\nDet går an å være med på UKM uten å ha et scene-bidrag eller kunstverk. Viktigste er at du melder deg på - slik at vi får bestilt inn nok mat til alle som ønsker å delta! \r\n\r\nDu har to muligheter:\r\n1) Melde deg på som en som jobber på arrangementet (ung arrangør). Da velger du mellom rollene: KONFERANSIER, MEDIA eller ARRANGØR ved påmeldingen (Disse må holde av 19.februar for forberedelser og selvsagt 20.februar).\r\nVelger du ARRANGØR får du også opp ulike valg: lyd, lys, artist-vert, scenearbeider, info og koordinator. Kryss av det som er aktuelt for deg. \r\n2) Melde deg på en WORKSHOP eller å være sosial i HANGOUT-området. (Disse deltar som tilskuere på vernissasje og sceneshow - og holder av lørdag 20.februar). \r\n\r\nOPPSKRIFT PÅMELDING WORKSHOP/HANGOUT:\r\n1) Velg: NOE ANNET PÅ EN SCENE\r\n2) OM DEG DERE: Skriv navnet ditt under artistnavn, en funfact om deg selv, og under SJANGER: skriv hangout eller ønsket workshop (du kan velge ulikt før og etter lunsj om du vil).\r\n3) ROLLE I GRUPPA: Deltaker hangout / workshop\r\n4) INNSLAG/TEKNISKE BEHOV: Skriv hvilken kommune du er fra (Modum, Hole eller Ringerike). Tekniske behov: Ingen.\r\n\r\nPS: Er påmeldingen din uferdig, tar vi kontakt med deg for å hjelpe å fullføre den eller slette den.",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -10031,6 +10335,94 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "trondelag"
+        ],
+        "description": "UKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
+        "end": "2027-03-14T16:00:00+01:00",
+        "expires": "2027-03-14T16:00:00+01:00",
+        "id": "9889",
+        "location": "Allfarveien 5, Orkland",
+        "start": "2027-03-14T12:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM Orkland 2027",
+        "uid": "ukm-arrangement-9889@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
+      },
+      "page": {
+        "displayed_times": [
+          "12:00",
+          "16:00"
+        ],
+        "text": "UKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no",
+        "title": "UKM Orkland 2027"
+      },
+      "raw": {
+        "beskrivelse": "Er du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året. \r\n\r\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 50,
+          "kommuner": {
+            "id": null
+          },
+          "link": "trondelag",
+          "navn": "Trøndelag - Trööndelage",
+          "nettverk_omrade": null
+        },
+        "id": 9889,
+        "kommuner": [
+          {
+            "fylke_id": 50,
+            "fylke_navn": "Trøndelag - Trööndelage",
+            "id": 5059,
+            "navn": "Orkland",
+            "path": "/orkland/"
+          }
+        ],
+        "navn": "UKM Orkland 2027",
+        "paamelding_lenker": [
+          {
+            "id": 5059,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5059-9889/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1804463940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-03-07 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1796169540,
+        "paameldingsfrist_2_date": {
+          "date": "2026-12-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-orkland-ukmorkland2027",
+        "start": 1805025600,
+        "start_date": {
+          "date": "2027-03-14 12:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Allfarveien 5",
+        "stop": 1805040000,
+        "stop_date": {
+          "date": "2027-03-14 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-orkland-ukmorkland2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "innlandet"
         ],
         "description": "UKM 2027 TRYSIL\n\nsøndag 14. mars kl. 16:00 - 19:00\n\nKulturhuset Hagelund\n\nTrysil\n\nUKM 2027 TRYSIL: https://sys.ukm.no/2027-trysil-trysil/files/2026/10/Insitula-2-fotograf-Monika-Soberg-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3421-9821/\n\nKontaktpersoner\nAnne Norderhaug Sætre\nTelefon: 90515159\nE-post: ase@trysil.kommune.no\n\nBeathe Sande - Hovedkontakt UKM TRYSIL\nTelefon: 47456499\nE-post: beathe.helen.sande@trysil.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-trysil-trysil",
@@ -10110,94 +10502,6 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-trysil-trysil/",
-        "utvidet_gui": false
-      }
-    },
-    {
-      "event": {
-        "all_day": false,
-        "calendars": [
-          "trondelag"
-        ],
-        "description": "UKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
-        "end": "2027-03-14T22:00:00+01:00",
-        "expires": "2027-03-14T22:00:00+01:00",
-        "id": "9889",
-        "location": "Allfarveien 5, Orkland",
-        "start": "2027-03-14T18:00:00+01:00",
-        "status": "CONFIRMED",
-        "title": "UKM Orkland 2027",
-        "uid": "ukm-arrangement-9889@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
-      },
-      "page": {
-        "displayed_times": [
-          "18:00",
-          "22:00"
-        ],
-        "text": "UKM Orkland 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no",
-        "title": "UKM Orkland 2027"
-      },
-      "raw": {
-        "beskrivelse": "Er du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året. \r\n\r\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)",
-        "fylke": {
-          "active": true,
-          "attributes": null,
-          "fake": false,
-          "id": 50,
-          "kommuner": {
-            "id": null
-          },
-          "link": "trondelag",
-          "navn": "Trøndelag - Trööndelage",
-          "nettverk_omrade": null
-        },
-        "id": 9889,
-        "kommuner": [
-          {
-            "fylke_id": 50,
-            "fylke_navn": "Trøndelag - Trööndelage",
-            "id": 5059,
-            "navn": "Orkland",
-            "path": "/orkland/"
-          }
-        ],
-        "navn": "UKM Orkland 2027",
-        "paamelding_lenker": [
-          {
-            "id": 5059,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/5059-9889/",
-            "type": "kommune"
-          }
-        ],
-        "paameldingsfrist_1": 1804463940,
-        "paameldingsfrist_1_date": {
-          "date": "2027-03-07 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "paameldingsfrist_2": 1796169540,
-        "paameldingsfrist_2_date": {
-          "date": "2026-12-01 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "path": "2027-orkland-ukmorkland2027",
-        "start": 1805047200,
-        "start_date": {
-          "date": "2027-03-14 18:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "sted": "Allfarveien 5",
-        "stop": 1805061600,
-        "stop_date": {
-          "date": "2027-03-14 22:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "type": "kommune",
-        "url": "https://sys.ukm.no/2027-orkland-ukmorkland2027/",
         "utvidet_gui": false
       }
     },
@@ -10456,6 +10760,94 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-harstad-hrsttk-ukmharstad2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "ostfold"
+        ],
+        "description": "Indre Østfold\n\nlørdag 3. april kl. 17:30 - 19:00\n\nFestiviteten Kino Mysen\n\nUKM 2027! Mer informasjon kommer.\n\nhttps://delta.ukm.no/ukmid/pamelding/3118-9981/\n\nKontaktpersoner\nJannicke Hauge Jansen\nTelefon: 95490522\nE-post: jannicke.jansen@io.kommune.no\n\nOle Petter Aas\nTelefon: 46456065\nE-post: ole.petter.aas@io.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-indreostfold-indreostfold",
+        "end": "2027-04-03T19:00:00+02:00",
+        "expires": "2027-04-03T19:00:00+02:00",
+        "id": "9981",
+        "location": "Festiviteten Kino Mysen, Indre Østfold",
+        "start": "2027-04-03T17:30:00+02:00",
+        "status": "CONFIRMED",
+        "title": "Indre Østfold",
+        "uid": "ukm-arrangement-9981@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-indreostfold-indreostfold"
+      },
+      "page": {
+        "displayed_times": [
+          "17:30",
+          "19:00"
+        ],
+        "text": "Indre Østfold\n\nlørdag 3. april kl. 17:30 - 19:00\n\nFestiviteten Kino Mysen\n\nUKM 2027! Mer informasjon kommer.\n\nhttps://delta.ukm.no/ukmid/pamelding/3118-9981/\n\nKontaktpersoner\nJannicke Hauge Jansen\nTelefon: 95490522\nE-post: jannicke.jansen@io.kommune.no\n\nOle Petter Aas\nTelefon: 46456065\nE-post: ole.petter.aas@io.kommune.no",
+        "title": "Indre Østfold"
+      },
+      "raw": {
+        "beskrivelse": "UKM 2027! Mer informasjon kommer.",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 31,
+          "kommuner": {
+            "id": null
+          },
+          "link": "ostfold",
+          "navn": "Østfold",
+          "nettverk_omrade": null
+        },
+        "id": 9981,
+        "kommuner": [
+          {
+            "fylke_id": 31,
+            "fylke_navn": "Østfold",
+            "id": 3118,
+            "navn": "Indre Østfold",
+            "path": "/indreostfold/"
+          }
+        ],
+        "navn": "Indre Østfold",
+        "paamelding_lenker": [
+          {
+            "id": 3118,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3118-9981/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1803945540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1803945540,
+        "paameldingsfrist_2_date": {
+          "date": "2027-03-01 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-indreostfold-indreostfold",
+        "start": 1806773400,
+        "start_date": {
+          "date": "2027-04-03 17:30:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Festiviteten Kino Mysen",
+        "stop": 1806778800,
+        "stop_date": {
+          "date": "2027-04-03 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-indreostfold-indreostfold/",
         "utvidet_gui": false
       }
     },
@@ -11581,7 +11973,7 @@
         "calendars": [
           "ostfold"
         ],
-        "description": "UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
+        "description": "UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/arrangement/2027-ostfold-festival/info/deltager\n\nInfo til reiselederInfo til reiseleder: https://www.ukm.no/arrangement/2027-ostfold-festival/info/reiseleder\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg",
         "end": "2027-10-16T20:00:00+02:00",
         "expires": "2027-10-16T20:00:00+02:00",
         "id": "9894",
@@ -11597,7 +11989,7 @@
           "11:30",
           "20:00"
         ],
-        "text": "UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media",
+        "text": "UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30 - 20:00\n\nMoss (https://www.google.com/maps/search/?api=1&query=Moss)\n\nMoss\n\n🌟 UKM-festivalen i Østfold 2027 arrangeres i Moss lørdag 16. oktober!\nRundt 200 ungdommer samles på blant annet Parkteatret og Samfunnshuset for en innholdsrik festivaldag.\nMeld deg på UKM i din kommune, så kanskje vi ses i Moss! 🎉\n\nKontaktpersoner\nHenrik Næss Diesen\nTelefon: 90216555\nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/arrangement/2027-ostfold-festival/info/deltager\n\nInfo til reiselederInfo til reiseleder: https://www.ukm.no/arrangement/2027-ostfold-festival/info/reiseleder",
         "title": "UKM-festivalen i Østfold 2027"
       },
       "raw": {
@@ -11650,5 +12042,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T11:15:52.284726+00:00"
+  "generated_at": "2026-10-27T04:52:22.683010+00:00"
 }

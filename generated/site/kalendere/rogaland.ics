@@ -61,6 +61,40 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9875@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9980@ukm-kalendere
+DTSTAMP:20261027T045222Z
+CREATED:20261027T045222Z
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:0
+DTSTART:20270110T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Kvitsøy og Randaberg
+DESCRIPTION:Frist for å melde seg på bak scenen til Kvitsøy og Randaberg
+ .\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nKvitsøy og Rand
+ aberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n\nVaren Randaberg kultursce
+ ne\n\nRandaberg\, Kvitsøy\n\nUKM 2027 – Randaberg & Kvitsøy\nUKM er en
+  arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner 
+ for. Enten du synger\, rapper\, danser\, maler\, skriver\, lager film elle
+ r skaper noe helt nytt\, er det plass til alle uttrykk her!\n\nKom som du 
+ er\, og vis verden hva du kan!\n\nVidere til fylkesfestivalen?\nNoen av de
+ ltakerne fra UKM Randaberg & Kvitsøy blir sendt videre til fylkesfestival
+ en. Går du videre\, må du ha med deg en reiseleder som er over 18 år\, 
+ for eksempel en forelder\, et annet familiemedlem eller en voksen du stole
+ r på.\n\nEr dette vanskelig å få til? Ta kontakt med oss\, så finner v
+ i alltid en løsning.\n\nhttps://delta.ukm.no/ukmid/pamelding/1127-9980/\n
+ \nKontaktpersoner\nIda Haugerud Dahl\nTelefon: 45246602\nE-post: ida.hauge
+ rud.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nTelefon: 91395991\nE-post: s
+ imon.leirvik@randaberg.kommune.no\n\nPåmelding – Kvitsøy: https://delt
+ a.ukm.no/ukmid/pamelding/1144-9980/\nPåmeldingsfrist – delta: 10.01.202
+ 7 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\n
+ Arrangementsside: https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvit
+ soyograndaberg
+LOCATION:Varen Randaberg kulturscene\, Kvitsøy
+URL:https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9980@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9940@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -101,6 +135,38 @@ URL:https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9940@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9980@ukm-kalendere
+DTSTAMP:20261027T045222Z
+CREATED:20261027T045222Z
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:0
+DTSTART:20270130T170000Z
+DTEND:20270130T210000Z
+SUMMARY:Kvitsøy og Randaberg
+DESCRIPTION:Kvitsøy og Randaberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n
+ \nVaren Randaberg kulturscene\n\nRandaberg\, Kvitsøy\n\nUKM 2027 – Rand
+ aberg & Kvitsøy\nUKM er en arena der ungdom fra Randaberg og Kvitsøy få
+ r vise fram det de brenner for. Enten du synger\, rapper\, danser\, maler\
+ , skriver\, lager film eller skaper noe helt nytt\, er det plass til alle 
+ uttrykk her!\n\nKom som du er\, og vis verden hva du kan!\n\nVidere til fy
+ lkesfestivalen?\nNoen av deltakerne fra UKM Randaberg & Kvitsøy blir send
+ t videre til fylkesfestivalen. Går du videre\, må du ha med deg en reise
+ leder som er over 18 år\, for eksempel en forelder\, et annet familiemedl
+ em eller en voksen du stoler på.\n\nEr dette vanskelig å få til? Ta kon
+ takt med oss\, så finner vi alltid en løsning.\n\nhttps://delta.ukm.no/u
+ kmid/pamelding/1127-9980/\n\nKontaktpersoner\nIda Haugerud Dahl\nTelefon: 
+ 45246602\nE-post: ida.haugerud.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nT
+ elefon: 91395991\nE-post: simon.leirvik@randaberg.kommune.no\n\nPåmelding
+  – Kvitsøy: https://delta.ukm.no/ukmid/pamelding/1144-9980/\nPåmelding
+ sfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sce
+ nen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangemen
+ t/2027-kvitsoy-randaberkvitsoyograndaberg
+LOCATION:Varen Randaberg kulturscene\, Kvitsøy
+URL:https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9973@ukm-kalendere

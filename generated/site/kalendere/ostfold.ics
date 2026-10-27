@@ -98,6 +98,29 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9956@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9981@ukm-kalendere
+DTSTAMP:20261027T045222Z
+CREATED:20261027T045222Z
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Indre Østfold
+DESCRIPTION:Frist for å melde seg på bak scenen til Indre Østfold.\nPåm
+ eldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nIndre Østfold\n\nlørd
+ ag 3. april kl. 17:30 - 19:00\n\nFestiviteten Kino Mysen\n\nUKM 2027! Mer 
+ informasjon kommer.\n\nhttps://delta.ukm.no/ukmid/pamelding/3118-9981/\n\n
+ Kontaktpersoner\nJannicke Hauge Jansen\nTelefon: 95490522\nE-post: jannick
+ e.jansen@io.kommune.no\n\nOle Petter Aas\nTelefon: 46456065\nE-post: ole.p
+ etter.aas@io.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:5
+ 9\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangemen
+ tsside: https://www.ukm.no/arrangement/2027-indreostfold-indreostfold
+LOCATION:Festiviteten Kino Mysen\, Indre Østfold
+URL:https://www.ukm.no/arrangement/2027-indreostfold-indreostfold
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9981@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9958@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -209,6 +232,28 @@ URL:https://www.ukm.no/arrangement/2027-halden-ukmhalden2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9978@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9981@ukm-kalendere
+DTSTAMP:20261027T045222Z
+CREATED:20261027T045222Z
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:0
+DTSTART:20270403T153000Z
+DTEND:20270403T170000Z
+SUMMARY:Indre Østfold
+DESCRIPTION:Indre Østfold\n\nlørdag 3. april kl. 17:30 - 19:00\n\nFestivi
+ teten Kino Mysen\n\nUKM 2027! Mer informasjon kommer.\n\nhttps://delta.ukm
+ .no/ukmid/pamelding/3118-9981/\n\nKontaktpersoner\nJannicke Hauge Jansen\n
+ Telefon: 95490522\nE-post: jannicke.jansen@io.kommune.no\n\nOle Petter Aas
+ \nTelefon: 46456065\nE-post: ole.petter.aas@io.kommune.no\n\nPåmeldingsfr
+ ist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
+ : 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-indreostfold-indreostfold
+LOCATION:Festiviteten Kino Mysen\, Indre Østfold
+URL:https://www.ukm.no/arrangement/2027-indreostfold-indreostfold
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9952@ukm-kalendere
@@ -421,10 +466,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9894@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261027T045222Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:1
 DTSTART:20270916T215900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Østfold 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Øst
@@ -438,10 +483,13 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Øst
  nE-post: henrikdi@ofk.no\n\nProgramProgram: https://www.ukm.no/arrangement
  /2027-ostfold-festival/program\n\nPåmeldtePåmeldte: https://www.ukm.no/a
  rrangement/2027-ostfold-festival/deltagere\n\nBilder og videoerBilder og v
- ideoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nPåm
- eldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra b
- ak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/202
- 7-ostfold-festival/files/2026/10/2.jpg
+ ideoer: https://www.ukm.no/arrangement/2027-ostfold-festival/media\n\nInfo
+  til deltagereInfo til deltagere: https://www.ukm.no/arrangement/2027-ostf
+ old-festival/info/deltager\n\nInfo til reiselederInfo til reiseleder: http
+ s://www.ukm.no/arrangement/2027-ostfold-festival/info/reiseleder\n\nPåmel
+ dingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsfrist – bidra bak
+  scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-
+ ostfold-festival/files/2026/10/2.jpg
 LOCATION:Moss
 URL:https://www.ukm.no/arrangement/2027-ostfold-festival
 STATUS:CONFIRMED
@@ -450,10 +498,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9894@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9894@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261027T045222Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261027T045222Z
+SEQUENCE:2
 DTSTART:20271016T093000Z
 DTEND:20271016T180000Z
 SUMMARY:UKM-festivalen i Østfold 2027
@@ -467,9 +515,12 @@ DESCRIPTION:UKM-festivalen i Østfold 2027\n\nlørdag 16. oktober kl. 11:30
  ukm.no/arrangement/2027-ostfold-festival/program\n\nPåmeldtePåmeldte: ht
  tps://www.ukm.no/arrangement/2027-ostfold-festival/deltagere\n\nBilder og 
  videoerBilder og videoer: https://www.ukm.no/arrangement/2027-ostfold-fest
- ival/media\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmelding
- sfrist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: http
- s://sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg
+ ival/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/arr
+ angement/2027-ostfold-festival/info/deltager\n\nInfo til reiselederInfo ti
+ l reiseleder: https://www.ukm.no/arrangement/2027-ostfold-festival/info/re
+ iseleder\n\nPåmeldingsfrist – delta: 16.09.2027 kl. 23:59\nPåmeldingsf
+ rist – bidra bak scenen: 16.09.2027 kl. 23:59\nArrangementsbilde: https:
+ //sys.ukm.no/2027-ostfold-festival/files/2026/10/2.jpg
 LOCATION:Moss
 URL:https://www.ukm.no/arrangement/2027-ostfold-festival
 STATUS:CONFIRMED
