@@ -7,4 +7,58 @@ X-WR-CALNAME:UKM – Nasjonale arrangementer
 X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9983@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20270101T225959Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-Festivalen 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-Festivalen 2027.\
+ nPåmeldingsfrist: 01.01.2027 kl. 23:59 (norsk tid).\n\nUKM-Festivalen 202
+ 7\n\nlørdag 19. juni kl. 00:00 - onsdag 23. juni kl. 00:00\n\nKristiansan
+ d (https://www.google.com/maps/search/?api=1&query=Kristiansand)\n\nKristi
+ ansand\n\nProgramProgram: https://www.ukm.no/arrangement/festivalen2027/pr
+ ogram\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/festivalen2027
+ /deltagere\n\nInfo til publikumInfo til publikum: https://www.ukm.no/arran
+ gement/festivalen2027/info/publikum\n\nBilder og videoerBilder og videoer:
+  https://www.ukm.no/arrangement/festivalen2027/media\n\nInfo til deltagere
+ Info til deltagere: https://www.ukm.no/arrangement/festivalen2027/info/del
+ tager\n\nInfo til reiselederInfo til reiseleder: https://www.ukm.no/arrang
+ ement/festivalen2027/info/reiseleder\n\nPåmeldingsfrist – delta: 01.01.
+ 2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.01.2027 kl. 23:5
+ 9
+LOCATION:Kristiansand
+URL:https://www.ukm.no/arrangement/festivalen2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9983@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9983@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20270618T220000Z
+DTEND:20270622T220000Z
+SUMMARY:UKM-Festivalen 2027
+DESCRIPTION:UKM-Festivalen 2027\n\nlørdag 19. juni kl. 00:00 - onsdag 23. 
+ juni kl. 00:00\n\nKristiansand (https://www.google.com/maps/search/?api=1&
+ query=Kristiansand)\n\nKristiansand\n\nProgramProgram: https://www.ukm.no/
+ arrangement/festivalen2027/program\n\nPåmeldtePåmeldte: https://www.ukm.
+ no/arrangement/festivalen2027/deltagere\n\nInfo til publikumInfo til publi
+ kum: https://www.ukm.no/arrangement/festivalen2027/info/publikum\n\nBilder
+  og videoerBilder og videoer: https://www.ukm.no/arrangement/festivalen202
+ 7/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/arrang
+ ement/festivalen2027/info/deltager\n\nInfo til reiselederInfo til reiseled
+ er: https://www.ukm.no/arrangement/festivalen2027/info/reiseleder\n\nPåme
+ ldingsfrist – delta: 01.01.2027 kl. 23:59\nPåmeldingsfrist – bidra ba
+ k scenen: 01.01.2027 kl. 23:59
+LOCATION:Kristiansand
+URL:https://www.ukm.no/arrangement/festivalen2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

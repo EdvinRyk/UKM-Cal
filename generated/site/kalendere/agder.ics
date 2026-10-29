@@ -8,6 +8,80 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9986@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20261106T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Bykle og Valle
+DESCRIPTION:Frist for å melde seg på bak scenen til Bykle og Valle.\nPåm
+ eldingsfrist: 06.11.2026 kl. 23:59 (norsk tid).\n\nBykle og Valle\n\nlørd
+ ag 6. mars kl. 14:00 - 18:00\n\nHovden grendehus og bibliotek\n\nBykle\, V
+ alle\n\nVelkommen til UKM BYKLE og VALLE !\n\n2027`s begivenhet nærmere s
+ eg fort! Det blir sceneshow og kunst fra Bykle og Valle. Vi gleder oss til
+  å ta imot alle sammen\, og få se hva våre fantastiske barn og ungdom k
+ ommer med i år:)\n\nEr du mellom 10 og 20 år\, BLI MED!\n\nI år blir de
+ t UNDERVANNS TEMA!🙂\n\nUKM Scene går av stabelen 05. og 06. mars på H
+ ovden grendehus som fordeler seg slik:\n\nFredag 05. mars: TEKNISKE PRØVE
+ R AV SCENEINNSLAG (Hovden)\n\nLørdag 06. mars: Tekniske prøver Bykle og 
+ Valle\, SCENEINNSLAG\, konserter\, dans\, kunst m.m. Alle er hjertelig vel
+ komne til en fantastisk oppvisning.\n\nUKM KUNST! Vi ønsker at det kommer
+  inn mange bidrag i år til kunstutstillingen som vi har på Hovden grende
+ hus i foajeen. Frist for innlevering av kunst er 1. mars\,\n\nHUSK RAMME E
+ LLER PASSEPARTOUT\n\nUNG ARRANGØR: Har du lyst til å bidra å bygge opp 
+ UKM? Jobbe med arrangementet\, være med å bestemme TEMA\, og hvordan tin
+ g skal bli gjort? Liker du å ta bilder\, er du en journalist spire\, øns
+ ker du å lære mer om om prosessene rundt et arrangement\, ønsker du å 
+ være aktivitetsleder\, motivator? Vi har så mange muligheter 🙂 Meld d
+ eg på som ung arrangør\, og bli en del av denne fine gjengen\, her er de
+ t plass til deg!\n\nFrist 06. november 😊\n\nMELD DERE PÅ så skal vi l
+ age tidenes festival! SAMMEN ER VI GODE! 😊\n\nhttps://delta.ukm.no/ukmi
+ d/pamelding/4222-9986/\n\nKontaktpersoner\nBirthe Thomsen\nTelefon: 481568
+ 84\nE-post: birthe.thomsen@bykle.kommune.no\n\nHelga Jacobsen\nTelefon: 45
+ 273218\nE-post: helga.jacobsen@bykle.kommune.no\n\nIda Olsen-Sund\nTelefon
+ : 95823738\nE-post: ida.olsen-sund@bykle.kommune.no\n\nKaroline Margrethe 
+ Tveiten\nTelefon: 41045397\nE-post: karoline.margrethe.tveiten@bykle.kommu
+ ne.no\n\nLine Jørgensen\nTelefon: 40868959\nE-post: line.jorgensen@bykle.
+ kommune.no\n\nMari Allenda Bolstad\nE-post: mari.bolstad@bykle.kommune.no\
+ n\nPavlina Kirilova Sikjova\nTelefon: 95154989\nE-post: Pavlina.kirilova.s
+ ikjova@bykle.kommune.no\n\nPåmelding – Valle: https://delta.ukm.no/ukmi
+ d/pamelding/4221-9986/\nPåmeldingsfrist – delta: 06.02.2027 kl. 23:59\n
+ Påmeldingsfrist – bidra bak scenen: 06.11.2026 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
+LOCATION:Hovden grendehus og bibliotek\, Bykle\, Valle
+URL:https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9986@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9984@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20261112T143000Z
+DTEND:20261112T173000Z
+SUMMARY:workshop: Nail Art
+DESCRIPTION:workshop: Nail Art\n\ntorsdag 12. november kl. 15:30 - 18:30\n\
+ nLindesnesbibliotekene Øyslebø\n\nLindesnes\n\nTorsdag 12. november blir
+  det workshop innen Gel Nail Art her på Øyslebø i Marnar Aula. vi har m
+ asse forskjellige farger og flere type former for negler. så hvis du har 
+ lyst til å lære litt mer om nail art eller om du bare vil prøve deg lit
+ t fram så meld deg på! det blir servert pizza og det er selvsagt gratis 
+ å delta.\n\nworkshop: Nail Art: https://sys.ukm.no/2026-lindesnes-worksho
+ pnailart/files/2026/10/Design-uten-navn-2.png\n\nhttps://delta.ukm.no/ukmi
+ d/pamelding/4205-9984/\n\nKontaktpersoner\nKeth Andersen\nTelefon: 9530789
+ 3\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 902
+ 43405\nE-post: mona.harbak@lindesnes.kommune.no\n\nArrangementsside: https
+ ://www.ukm.no/arrangement/2026-lindesnes-workshopnailart
+LOCATION:Lindesnesbibliotekene Øyslebø
+URL:https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9947@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -94,10 +168,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9887@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9942@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261029T050319Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:1
 DTSTART:20270116T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Grimstad
 DESCRIPTION:Frist for å melde seg på bak scenen til Grimstad.\nPåmelding
@@ -114,12 +188,13 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Grimstad.\nPåmelding
  s://delta.ukm.no/ukmid/pamelding/4202-9942/\n\nKontaktpersoner\nIrene Håh
  eim\nTelefon: 91386511\nE-post: Irene.Haheim@grimstad.kommune.no\n\nKevin 
  Kvåle\nTelefon: 92891349\nE-post: kevin.kvale@grimstad.kommune.no\n\nMagn
- us Tornensis\nTelefon: 95197456\nE-post: magtor@alta.kommune.no\n\nSimon M
- eyer Tallaksen\nTelefon: 95946629\nE-post: simon.meyer.tallaksen@gmail.com
- \n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist –
-  bidra bak scenen: 16.01.2027 kl. 23:59\nArrangementsbilde: https://sys.uk
- m.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1200x800.jpg\nArrangemen
- tsside: https://www.ukm.no/arrangement/2027-grimstad-grimstad
+ us Tornensis\nTelefon: 95197456\nE-post: magnus.tornensis@grimstad.kommune
+ .no\n\nSimon Meyer Tallaksen\nTelefon: 95946629\nE-post: simon.meyer.talla
+ ksen@gmail.com\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 16.01.2027 kl. 23:59\nArrangementsbilde: 
+ https://sys.ukm.no/2027-grimstad-grimstad/files/2026/10/UKM-goy-1200x800.j
+ pg\nArrangementsside: https://www.ukm.no/arrangement/2027-grimstad-grimsta
+ d
 LOCATION:Grimstad Kulturhus og kino
 URL:https://www.ukm.no/arrangement/2027-grimstad-grimstad
 STATUS:CONFIRMED
@@ -355,6 +430,53 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-9986@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20270306T130000Z
+DTEND:20270306T170000Z
+SUMMARY:Bykle og Valle
+DESCRIPTION:Bykle og Valle\n\nlørdag 6. mars kl. 14:00 - 18:00\n\nHovden g
+ rendehus og bibliotek\n\nBykle\, Valle\n\nVelkommen til UKM BYKLE og VALLE
+  !\n\n2027`s begivenhet nærmere seg fort! Det blir sceneshow og kunst fra
+  Bykle og Valle. Vi gleder oss til å ta imot alle sammen\, og få se hva 
+ våre fantastiske barn og ungdom kommer med i år:)\n\nEr du mellom 10 og 
+ 20 år\, BLI MED!\n\nI år blir det UNDERVANNS TEMA!🙂\n\nUKM Scene går
+  av stabelen 05. og 06. mars på Hovden grendehus som fordeler seg slik:\n
+ \nFredag 05. mars: TEKNISKE PRØVER AV SCENEINNSLAG (Hovden)\n\nLørdag 06
+ . mars: Tekniske prøver Bykle og Valle\, SCENEINNSLAG\, konserter\, dans\
+ , kunst m.m. Alle er hjertelig velkomne til en fantastisk oppvisning.\n\nU
+ KM KUNST! Vi ønsker at det kommer inn mange bidrag i år til kunstutstill
+ ingen som vi har på Hovden grendehus i foajeen. Frist for innlevering av 
+ kunst er 1. mars\,\n\nHUSK RAMME ELLER PASSEPARTOUT\n\nUNG ARRANGØR: Har 
+ du lyst til å bidra å bygge opp UKM? Jobbe med arrangementet\, være med
+  å bestemme TEMA\, og hvordan ting skal bli gjort? Liker du å ta bilder\
+ , er du en journalist spire\, ønsker du å lære mer om om prosessene run
+ dt et arrangement\, ønsker du å være aktivitetsleder\, motivator? Vi ha
+ r så mange muligheter 🙂 Meld deg på som ung arrangør\, og bli en del
+  av denne fine gjengen\, her er det plass til deg!\n\nFrist 06. november 
+ 😊\n\nMELD DERE PÅ så skal vi lage tidenes festival! SAMMEN ER VI GODE
+ ! 😊\n\nhttps://delta.ukm.no/ukmid/pamelding/4222-9986/\n\nKontaktperson
+ er\nBirthe Thomsen\nTelefon: 48156884\nE-post: birthe.thomsen@bykle.kommun
+ e.no\n\nHelga Jacobsen\nTelefon: 45273218\nE-post: helga.jacobsen@bykle.ko
+ mmune.no\n\nIda Olsen-Sund\nTelefon: 95823738\nE-post: ida.olsen-sund@bykl
+ e.kommune.no\n\nKaroline Margrethe Tveiten\nTelefon: 41045397\nE-post: kar
+ oline.margrethe.tveiten@bykle.kommune.no\n\nLine Jørgensen\nTelefon: 4086
+ 8959\nE-post: line.jorgensen@bykle.kommune.no\n\nMari Allenda Bolstad\nE-p
+ ost: mari.bolstad@bykle.kommune.no\n\nPavlina Kirilova Sikjova\nTelefon: 9
+ 5154989\nE-post: Pavlina.kirilova.sikjova@bykle.kommune.no\n\nPåmelding 
+ – Valle: https://delta.ukm.no/ukmid/pamelding/4221-9986/\nPåmeldingsfri
+ st – delta: 06.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen:
+  06.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/20
+ 27-bykle-valle-bykleogvalle
+LOCATION:Hovden grendehus og bibliotek\, Bykle\, Valle
+URL:https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9805@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -433,10 +555,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9942@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261029T050319Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:2
 DTSTART:20270312T163000Z
 DTEND:20270312T200000Z
 SUMMARY:Grimstad
@@ -453,12 +575,12 @@ DESCRIPTION:Grimstad\n\nfredag 12. mars kl. 17:30 - 21:00\n\nGrimstad Kultu
  202-9942/\n\nKontaktpersoner\nIrene Håheim\nTelefon: 91386511\nE-post: Ir
  ene.Haheim@grimstad.kommune.no\n\nKevin Kvåle\nTelefon: 92891349\nE-post:
   kevin.kvale@grimstad.kommune.no\n\nMagnus Tornensis\nTelefon: 95197456\nE
- -post: magtor@alta.kommune.no\n\nSimon Meyer Tallaksen\nTelefon: 95946629\
- nE-post: simon.meyer.tallaksen@gmail.com\n\nPåmeldingsfrist – delta: 01
- .03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.01.2027 kl. 
- 23:59\nArrangementsbilde: https://sys.ukm.no/2027-grimstad-grimstad/files/
- 2026/10/UKM-goy-1200x800.jpg\nArrangementsside: https://www.ukm.no/arrange
- ment/2027-grimstad-grimstad
+ -post: magnus.tornensis@grimstad.kommune.no\n\nSimon Meyer Tallaksen\nTele
+ fon: 95946629\nE-post: simon.meyer.tallaksen@gmail.com\n\nPåmeldingsfrist
+  – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 1
+ 6.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-grimstad-g
+ rimstad/files/2026/10/UKM-goy-1200x800.jpg\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-grimstad-grimstad
 LOCATION:Grimstad Kulturhus og kino
 URL:https://www.ukm.no/arrangement/2027-grimstad-grimstad
 STATUS:CONFIRMED

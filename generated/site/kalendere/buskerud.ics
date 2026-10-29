@@ -178,6 +178,39 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9815@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9982@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20270117T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Øvre Eikers festival 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Øvre Eikers festival
+  2027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nØvre Eiker
+ s festival 2027\n\nlørdag 20. februar kl. 12:00 - 16:00\n\nHokksund ungdo
+ msskole (HUS)\n\nØvre Eiker\n\nUKM er for deg mellom 13 og 20 år som dri
+ ver med noe kreativt\, uansett nivå. Her kan du vise frem musikk\, dans\,
+  kunst\, film\, foto\, dikt\, kostymer\, tegning\, egentlig alt som er kre
+ ativt og laget av deg.\n\nHos UKM handler det ikke om å være “best”\
+ , men om å bli sett\, møtes og teste nye ting sammen. Du kan stille alen
+ e eller med venner\, på scenen\, bak kamera\, i kulissene eller i kunstut
+ stillingen.\n\nMeld deg på\, vis frem det du driver med!\nVelkommen til U
+ KM Øvre Eiker!\n\nhttps://delta.ukm.no/ukmid/pamelding/3314-9982/\n\nKont
+ aktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.
+ klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTelefon: 91365177\nE-post
+ : marisundsaasen.innervik@ovre-eiker.kommune.no\n\nSebastian Lindland\nTel
+ efon: 48269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune
+ .no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinnereim@oe
+ iker.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfr
+ ist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://
+ www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
+LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9982@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9815@ukm-kalendere
 DTSTAMP:20261027T045222Z
 CREATED:20261025T111128Z
@@ -228,6 +261,38 @@ DESCRIPTION:Hole\, Modum og Ringerike\n\nlørdag 20. februar kl. 10:30 - 21
 LOCATION:Alles Kulturhus\, Hole\, Modum\, Ringerike
 URL:https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerik
  e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9982@ukm-kalendere
+DTSTAMP:20261029T050319Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:0
+DTSTART:20270220T110000Z
+DTEND:20270220T150000Z
+SUMMARY:Øvre Eikers festival 2027
+DESCRIPTION:Øvre Eikers festival 2027\n\nlørdag 20. februar kl. 12:00 - 1
+ 6:00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nUKM er for deg mello
+ m 13 og 20 år som driver med noe kreativt\, uansett nivå. Her kan du vis
+ e frem musikk\, dans\, kunst\, film\, foto\, dikt\, kostymer\, tegning\, e
+ gentlig alt som er kreativt og laget av deg.\n\nHos UKM handler det ikke o
+ m å være “best”\, men om å bli sett\, møtes og teste nye ting samm
+ en. Du kan stille alene eller med venner\, på scenen\, bak kamera\, i kul
+ issene eller i kunstutstillingen.\n\nMeld deg på\, vis frem det du driver
+  med!\nVelkommen til UKM Øvre Eiker!\n\nhttps://delta.ukm.no/ukmid/pameld
+ ing/3314-9982/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 9022074
+ 4\nE-post: annegrethe.klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTel
+ efon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kommune.no\n\nS
+ ebastian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindl
+ and@ovre-eiker.kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post
+ : asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmf
+ estival2027
+LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

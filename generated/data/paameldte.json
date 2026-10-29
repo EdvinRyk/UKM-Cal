@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 116,
-  "antall_deltakernavn_i_innslag": 97,
-  "antall_innslag": 202,
+  "antall_arrangementer": 119,
+  "antall_deltakernavn_i_innslag": 103,
+  "antall_innslag": 216,
   "arrangementer": [
     {
       "antall_innslag": 1,
@@ -139,14 +139,6 @@
     },
     {
       "antall_innslag": 0,
-      "arrangement_id": "9902",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-alver-austrheim-workshopivaraasensnakkar",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9902",
-      "navn": "Workshop: Ivar Aasen snakkar"
-    },
-    {
-      "antall_innslag": 0,
       "arrangement_id": "9903",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-alver-austrheim-workshopnr2ivaraasensnakkar",
       "innslag": [],
@@ -229,6 +221,21 @@
       "navn": "Filmworkshop Kortfilm"
     },
     {
+      "antall_innslag": 1,
+      "arrangement_id": "9984",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261998",
+          "navn": "Person innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9984",
+      "navn": "workshop: Nail Art"
+    },
+    {
       "antall_innslag": 8,
       "arrangement_id": "9925",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26",
@@ -301,7 +308,7 @@
       "navn": "Utstilling: Bird set free"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9921",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
       "innslag": [
@@ -309,6 +316,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "261980",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262005",
           "navn": "Person innslag"
         }
       ],
@@ -595,21 +608,6 @@
       "navn": "Workshop; maske i leire"
     },
     {
-      "antall_innslag": 1,
-      "arrangement_id": "9844",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-ullensaker-skriveworkshopmedjawad",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261456",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9844",
-      "navn": "Skrive workshop med Jawad"
-    },
-    {
       "antall_innslag": 2,
       "arrangement_id": "9826",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta",
@@ -703,7 +701,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 13,
+      "antall_innslag": 16,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -750,9 +748,21 @@
           "navn": "Arrangør innslag"
         },
         {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261810",
+          "navn": "Arrangør innslag"
+        },
+        {
           "beskrivelse": "Hei, jeg vil være med i UA PUNKTUM",
           "deltakernavn": [],
           "id": "261948",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Hei",
+          "deltakernavn": [],
+          "id": "262003",
           "navn": "Arrangør innslag"
         },
         {
@@ -760,6 +770,12 @@
           "deltakernavn": [],
           "id": "261835",
           "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Jeg har brukt kamera i 5+ år har jobbet på nesten alle askerfestivalene og i heggedal. Knutta, emely og anna kjener meg godt",
+          "deltakernavn": [],
+          "id": "262021",
+          "navn": "Media innslag"
         },
         {
           "beskrivelse": "Vi er et jenteband på fire stk fra 10. trinn på risenga ungdomsskole. Vi ble et band i Vinter 2025/26!",
@@ -790,7 +806,7 @@
       "navn": "UKM Asker 2027"
     },
     {
-      "antall_innslag": 12,
+      "antall_innslag": 13,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
@@ -817,6 +833,14 @@
           ],
           "id": "261982",
           "navn": "Hanne Meland"
+        },
+        {
+          "beskrivelse": "Eg var med i fjor på UKM, eg arbeida med å lage klar lokale og å ta i mot gjester og deltakarare",
+          "deltakernavn": [
+            "Ingrid Stien"
+          ],
+          "id": "262009",
+          "navn": "Ingrid Stien"
         },
         {
           "beskrivelse": "Eg er en 16 åring og dette er mitt fjerde år på UKM! Eg spiller i ett band som heter Ambivalent der vi holder på å lage musikk. Eg går på musikklinjen på BPG og elsker musikk.",
@@ -915,10 +939,16 @@
       "navn": "Ørland kunstutstilling"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9853",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-orland-orland",
       "innslag": [
+        {
+          "beskrivelse": "Hei, jeg heter Adrian Alexander og jeg har vært med som arrangør et par år tidligere, og ønsker å være med igjen",
+          "deltakernavn": [],
+          "id": "262006",
+          "navn": "Arrangør innslag"
+        },
         {
           "beskrivelse": "Vi spiller raske, harde riffer og sanger.",
           "deltakernavn": [],
@@ -977,7 +1007,7 @@
       "navn": "Sola 2027"
     },
     {
-      "antall_innslag": 20,
+      "antall_innslag": 23,
       "arrangement_id": "9706",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027",
       "innslag": [
@@ -1060,6 +1090,12 @@
           "navn": "Arrangør innslag"
         },
         {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262004",
+          "navn": "Arrangør innslag"
+        },
+        {
           "beskrivelse": "3 år i UKM",
           "deltakernavn": [],
           "id": "261461",
@@ -1100,6 +1136,18 @@
           "deltakernavn": [],
           "id": "261465",
           "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261481",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261993",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9706",
@@ -1246,11 +1294,27 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9985",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-midtregauldal-midtregauldal",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9985",
+      "navn": "Midtre Gauldal"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9815",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9815",
       "navn": "Hole, Modum og Ringerike"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9982",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9982",
+      "navn": "Øvre Eikers festival 2027"
     },
     {
       "antall_innslag": 6,
@@ -1298,10 +1362,18 @@
       "navn": "UKM Gjøvikregionen"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 3,
       "arrangement_id": "9931",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm",
       "innslag": [
+        {
+          "beskrivelse": "Jeg har vært med å jobbe med ukm de to siste årene med foto og syntes det er veldig gøy.",
+          "deltakernavn": [
+            "Andreas Christensen Bråthen"
+          ],
+          "id": "262015",
+          "navn": "Andreas Christensen Bråthen"
+        },
         {
           "beskrivelse": "Jeg er en 15 år gammel jente som var med som konferansier ifjor under UKM tvedestrand og kom videre til Fylkesfestivalen i kristiansand. Jeg har vært konferansier på småting i tvedestrand og elsker jobben. Utenfor UKM driver jeg med folkemusikk og jeg har 4 hunder. Gleder meg til UKM 2027",
           "deltakernavn": [
@@ -1309,6 +1381,14 @@
           ],
           "id": "261914",
           "navn": "Ingrid Sofie Sagen Monrad"
+        },
+        {
+          "beskrivelse": "jeg var scene ansvarlig i fjor på tvedestrand og lillesand, og ble videre sendt til fylkes der jeg var co-inspisent.",
+          "deltakernavn": [
+            "Sofie Jørgensen"
+          ],
+          "id": "261960",
+          "navn": "Sofie Jørgensen"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9931",
@@ -1645,6 +1725,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9957",
       "navn": "UKM Eigersund 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9986",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9986",
+      "navn": "Bykle og Valle"
     },
     {
       "antall_innslag": 5,
@@ -2050,10 +2138,23 @@
       "navn": "Lyngdal"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 2,
       "arrangement_id": "9892",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sandnes-sandnes",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Har vært en del konferansier nå de siste 2 årene for arrangement som Barnas by og sandveparkfestivalen, og UKM Sola og Rogaland, i tillegg til fjorårets Solafestivalen. Jeg synes det er sykt gøy og vil igjen",
+          "deltakernavn": [],
+          "id": "261996",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Hei! Jeg heter Anton og jeg er 17 år gammel, jeg bor i Sandnes og var med på UKM 40 i 2025 og konferansierte for kommune, fylke og landsfestival. I fjor hadde jeg lyst å være med men det kom litt rollekonflikt og jeg endte opp med å takke nei til muligheten til å stå på scenen. Jeg husker best hvor gøy det var å planlegge, lage og framføre scriptet for et publikum, spesielt med min gode venn Martin ved siden av meg, vi to er en konferansier duo som konferansierte også for avslutningen vår i 10.trinn 2025. Jeg opplever nå at det har gått litt lenge uten å stå på en scene, jeg finner ikke andre steder hvor jeg kan være konferansier, og for å vær helt ærlig er UKM et sted hvor jeg virkelig kan uttrykke meg selv foran et publikum, selv om det er \"bare\" konferansiering. Fordi, jeg får vist min personlighet til alle sammen, møte nye folk, og rett og slett bare vær meg selv.",
+          "deltakernavn": [],
+          "id": "261997",
+          "navn": "Konferansier innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9892",
       "navn": "UKM Sandnes 2027"
     },
@@ -2149,10 +2250,10 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-indreostfold-indreostfold",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9981",
-      "navn": "Indre Østfold"
+      "navn": "UKM Indre Østfold 2027"
     },
     {
-      "antall_innslag": 10,
+      "antall_innslag": 11,
       "arrangement_id": "9906",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027",
       "innslag": [
@@ -2219,6 +2320,16 @@
           ],
           "id": "261762",
           "navn": "Sturla Rølsåsen"
+        },
+        {
+          "beskrivelse": "Vi er et punk band fra Elverum som driter i hva du mener om musikken vår, vi har det drit gøy selv uten deg så FAKK OFF!!!",
+          "deltakernavn": [
+            "Emil Fredriksen",
+            "Marius Brunes",
+            "Micael Lindbald"
+          ],
+          "id": "262018",
+          "navn": "TimmyTurtles"
         },
         {
           "beskrivelse": "Jeg heter Tristan",
@@ -2302,7 +2413,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9952",
-      "navn": "UKM Fredrikstadfestivalen 2027"
+      "navn": "UKM Fredrikstad-    festivalen 2027"
     },
     {
       "antall_innslag": 0,
@@ -2334,7 +2445,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aremark-aremarkukmforestillingogutstilling",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9975",
-      "navn": "Aremark UKM forestilling og utstilling"
+      "navn": "Aremark UKM 2027"
     },
     {
       "antall_innslag": 0,
@@ -2343,6 +2454,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9972",
       "navn": "UKM Sarpsborg 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9983",
+      "arrangement_url": "https://www.ukm.no/arrangement/festivalen2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9983",
+      "navn": "UKM-Festivalen 2027"
     },
     {
       "antall_innslag": 0,
@@ -2355,5 +2474,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-10-27T04:52:22.683010+00:00"
+  "oppdatert": "2026-10-29T05:03:19.916166+00:00"
 }

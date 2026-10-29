@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9798@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261029T050319Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:1
 DTSTART:20260811T110425Z
 SUMMARY:Påmeldingsfrist bak scenen – Utstilling: Bird set free
 DESCRIPTION:Frist for å melde seg på bak scenen til Utstilling: Bird set 
@@ -24,10 +24,9 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Utstilling: Bird set
  \n-> Kom med kunstverket ditt den 13. November nede i Sundet for å bidra 
  i utstillingen 😊\n\nhttps://delta.ukm.no/ukmid/pamelding/3240-9798/\n\n
  Kontaktpersoner\nM. Anastasia Lampidoni\nTelefon: 48865155\nE-post: mara.a
- nastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldingsfrist – delta: 09.1
- 1.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.08.2026 kl. 13
- :04\nArrangementsside: https://www.ukm.no/arrangement/2026-eidsvoll-utstil
- ling001
+ nastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldingsfrist – bidra bak s
+ cenen: 11.08.2026 kl. 13:04\nArrangementsside: https://www.ukm.no/arrangem
+ ent/2026-eidsvoll-utstilling001
 LOCATION:Sundet\, Eidsvoll
 URL:https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
 STATUS:CONFIRMED
@@ -77,10 +76,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9732@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9798@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261029T050319Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261029T050319Z
+SEQUENCE:2
 DTSTART:20261113T150000Z
 DTEND:20261113T190000Z
 SUMMARY:Utstilling: Bird set free
@@ -92,95 +91,12 @@ DESCRIPTION:Utstilling: Bird set free\n\nfredag 13. november kl. 16:00 - 20
   i Sundet for å bidra i utstillingen 😊\n\nhttps://delta.ukm.no/ukmid/p
  amelding/3240-9798/\n\nKontaktpersoner\nM. Anastasia Lampidoni\nTelefon: 4
  8865155\nE-post: mara.anastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldin
- gsfrist – delta: 09.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak sc
- enen: 11.08.2026 kl. 13:04\nArrangementsside: https://www.ukm.no/arrangeme
- nt/2026-eidsvoll-utstilling001
+ gsfrist – bidra bak scenen: 11.08.2026 kl. 13:04\nArrangementsside: http
+ s://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
 LOCATION:Sundet\, Eidsvoll
 URL:https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9844@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261130T160000Z
-DTEND:20261211T190000Z
-SUMMARY:Skrive workshop med Jawad
-DESCRIPTION:Skrive workshop med Jawad\n\nmandag 30. november kl. 17:00 - fr
- edag 11. desember kl. 20:00\n\nUllensaker\n\nVi repeterer suksessen fra fe
- bruar med ny (og større) skrive-workshop! Denne gangen blir det fem dager
-  man kan delta på og vi åpner for flere deltakere. Du deltar på dagene 
- du har mulighet til å delta på\, vi tilpasser opplegget til deltakerne. 
- Ta kontakt med Malin om du har spørsmål (kontaktinfo nederst på siden)\
- , eller på vår instagram @ukmullensaker.\n\nDatoene er:\n\n30. november\
- n3. desember\n7. desember\n9. desember\n11. desember\n\nTidspunkt kommer f
- ortløpende\, workshopen holdes etter skoletid mot kveldstid. Begrensede p
- lasser så meld deg på her så fort du kan:)\n\nMer info kommer!\n\nOm wo
- rkshop-leder Jawad:\nJawad Aziz er en prisvinnende skuespiller\, poet og i
- nstruktør fra Oslo øst. Med røtter i rap\, rim\, breakdance og scenekun
- st har han stått på scenen over 100 ganger\, gitt ut en egen diktbok og 
- vunnet både Oslomesterskapet i slampoesi og Gulljerven – Årets nykomme
- r 2025.\n\nSom gründer av SlamShake har Jawad jobbet med mennesker i alle
-  aldre – fra barn til voksne. Han er kjent for sin smittende energi\, hu
- mor og evne til å få folk til å senke skuldrene\, finne kreativiteten o
- g tørre å uttrykke seg.\n\nPå skrivekurset får du leke med ord\, rytme
-  og historiefortelling – enten du skriver hele tiden eller aldri har skr
- evet en tekst før. For Jawad handler skriving ikke om å være perfekt\, 
- men om å finne din egen stemme og tørre å bruke den.\n\nhttps://delta.u
- km.no/ukmid/pamelding/3209-9844/\n\nKontaktpersoner\nMalin Louise Nyhagen\
- nTelefon: 94161637\nE-post: malin.l.nyhagen@ullensaker.kommune.no\n\nPåme
- ldingsfrist – delta: 13.11.2026 kl. 23:59\nPåmeldingsfrist – bidra ba
- k scenen: 02.12.2026 kl. 11:05\nArrangementsside: https://www.ukm.no/arran
- gement/2026-ullensaker-skriveworkshopmedjawad
-LOCATION:\, Ullensaker
-URL:https://www.ukm.no/arrangement/2026-ullensaker-skriveworkshopmedjawad
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9844@ukm-kalendere
-DTSTAMP:20261025T121149Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
-DTSTART:20261202T100547Z
-SUMMARY:Påmeldingsfrist bak scenen – Skrive workshop med Jawad
-DESCRIPTION:Frist for å melde seg på bak scenen til Skrive workshop med J
- awad.\nPåmeldingsfrist: 02.12.2026 kl. 11:05 (norsk tid).\n\nSkrive works
- hop med Jawad\n\nmandag 30. november kl. 17:00 - fredag 11. desember kl. 2
- 0:00\n\nUllensaker\n\nVi repeterer suksessen fra februar med ny (og størr
- e) skrive-workshop! Denne gangen blir det fem dager man kan delta på og v
- i åpner for flere deltakere. Du deltar på dagene du har mulighet til å 
- delta på\, vi tilpasser opplegget til deltakerne. Ta kontakt med Malin om
-  du har spørsmål (kontaktinfo nederst på siden)\, eller på vår instag
- ram @ukmullensaker.\n\nDatoene er:\n\n30. november\n3. desember\n7. desemb
- er\n9. desember\n11. desember\n\nTidspunkt kommer fortløpende\, workshope
- n holdes etter skoletid mot kveldstid. Begrensede plasser så meld deg på
-  her så fort du kan:)\n\nMer info kommer!\n\nOm workshop-leder Jawad:\nJa
- wad Aziz er en prisvinnende skuespiller\, poet og instruktør fra Oslo øs
- t. Med røtter i rap\, rim\, breakdance og scenekunst har han stått på s
- cenen over 100 ganger\, gitt ut en egen diktbok og vunnet både Oslomester
- skapet i slampoesi og Gulljerven – Årets nykommer 2025.\n\nSom gründer
-  av SlamShake har Jawad jobbet med mennesker i alle aldre – fra barn til
-  voksne. Han er kjent for sin smittende energi\, humor og evne til å få 
- folk til å senke skuldrene\, finne kreativiteten og tørre å uttrykke se
- g.\n\nPå skrivekurset får du leke med ord\, rytme og historiefortelling 
- – enten du skriver hele tiden eller aldri har skrevet en tekst før. For
-  Jawad handler skriving ikke om å være perfekt\, men om å finne din ege
- n stemme og tørre å bruke den.\n\nhttps://delta.ukm.no/ukmid/pamelding/3
- 209-9844/\n\nKontaktpersoner\nMalin Louise Nyhagen\nTelefon: 94161637\nE-p
- ost: malin.l.nyhagen@ullensaker.kommune.no\n\nPåmeldingsfrist – delta: 
- 13.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.12.2026 kl
- . 11:05\nArrangementsside: https://www.ukm.no/arrangement/2026-ullensaker-
- skriveworkshopmedjawad
-LOCATION:\, Ullensaker
-URL:https://www.ukm.no/arrangement/2026-ullensaker-skriveworkshopmedjawad
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9844@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9868@ukm-kalendere
