@@ -478,14 +478,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9805@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:1
 DTSTART:20270307T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Lyngdal
 DESCRIPTION:Frist for å melde seg på bak scenen til Lyngdal.\nPåmeldings
- frist: 07.03.2027 kl. 23:59 (norsk tid).\n\nLyngdal\n\nlørdag 13. mars kl
+ frist: 07.03.2027 kl. 23:59 (norsk tid).\n\nLyngdal\n\nsøndag 14. mars kl
  . 18:00 - 20:00\n\nLyngdal kulturhus\n\nEtter å ha samarbeidet to år med
   Farsund om UKM\, er Lyngdal nå tilbake og vil arrangere UKM på egenhån
  d. Med Lyngdal kulturskole med på laget har vi klokketro på at det komme
@@ -588,14 +588,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9805@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20270313T170000Z
-DTEND:20270313T190000Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:2
+DTSTART:20270314T170000Z
+DTEND:20270314T190000Z
 SUMMARY:Lyngdal
-DESCRIPTION:Lyngdal\n\nlørdag 13. mars kl. 18:00 - 20:00\n\nLyngdal kultur
+DESCRIPTION:Lyngdal\n\nsøndag 14. mars kl. 18:00 - 20:00\n\nLyngdal kultur
  hus\n\nEtter å ha samarbeidet to år med Farsund om UKM\, er Lyngdal nå 
  tilbake og vil arrangere UKM på egenhånd. Med Lyngdal kulturskole med p
  å laget har vi klokketro på at det kommer til å bli helt nydelig!\n\nUK
@@ -632,10 +632,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9918@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:1
 DTSTART:20270319T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM festivalen i Agder 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM festivalen i Agde
@@ -643,7 +643,7 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM festivalen i Agde
  alen i Agder 2027\n\nfredag 9. april kl. 18:00 - søndag 11. april kl. 16:
  00\n\nTeateret (https://www.google.com/maps/search/?api=1&query=Teateret)\
  n\nTeateret\n\nUKM-deltakere fra hele Agder samles i Kristiansand for fylk
- esfestivalen 2026! To dager med overnatting\, show\, kunst\, workshops og 
+ esfestivalen 2027! To dager med overnatting\, show\, kunst\, workshops og 
  aktiviteter - helt gratis selvfølgelig! Vil du være med\, må du først 
  delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åp
  en\, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktpe
@@ -665,17 +665,17 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9918@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9918@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:2
 DTSTART:20270409T160000Z
 DTEND:20270411T140000Z
 SUMMARY:UKM festivalen i Agder 2027
 DESCRIPTION:UKM festivalen i Agder 2027\n\nfredag 9. april kl. 18:00 - søn
  dag 11. april kl. 16:00\n\nTeateret (https://www.google.com/maps/search/?a
  pi=1&query=Teateret)\n\nTeateret\n\nUKM-deltakere fra hele Agder samles i 
- Kristiansand for fylkesfestivalen 2026! To dager med overnatting\, show\, 
+ Kristiansand for fylkesfestivalen 2027! To dager med overnatting\, show\, 
  kunst\, workshops og aktiviteter - helt gratis selvfølgelig! Vil du være
   med\, må du først delta på en UKM-festival i din egen kommune. Sjekk o
  m påmeldingen er åpen\, eller ta kontakt hvis du ikke finner noe UKM der

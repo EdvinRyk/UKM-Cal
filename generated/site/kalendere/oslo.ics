@@ -8,97 +8,26 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-9882@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261029T160000Z
-DTEND:20261029T180000Z
-SUMMARY:Dance Workshop
-DESCRIPTION:Dance Workshop\n\ntorsdag 29. oktober kl. 17:00 - 19:00\n\nUngd
- omshuset B7\n\nVestre Aker\n\nUKM HIPHOP SESSIONS\n\nBli med på 8 torsdag
- er i oktober\, november og desember med hip hop- dans. Workshopen ledes av
-  hiphop-danser Naomi (2026) fra dansekolletivet B16.\n\nFor deg mellom 13
- –20 år. Alle nivåer er velkomne!\n📅 Hver torsdag i 2 måneder 17:00
- -19:00( Fra 29 oktober til 17. desember)\n⚡ Begrenset plass – førstem
- ann til mølla!\n\nDance Workshop: https://sys.ukm.no/2026-vestreaker-ukmd
- anceworkshop/files/2026/09/Naomi-1200x1200.png\n\nhttps://delta.ukm.no/ukm
- id/pamelding/324-9882/\n\nKontaktpersoner\nBalita Serge Buhendwa\nTelefon:
-  99866660\nE-post: villagepointproduction@gmail.com\n\nNaimo Abdulkadir Sh
- iiq Omar\nTelefon: 41213779\nE-post: naciimonora@gmail.com\n\nPåmeldingsf
- rist – delta: 28.10.2026 kl. 23:59\nArrangementsside: https://www.ukm.no
- /arrangement/2026-vestreaker-ukmdanceworkshop
-LOCATION:Ungdomshuset B7\, Vestre Aker
-URL:https://www.ukm.no/arrangement/2026-vestreaker-ukmdanceworkshop
+UID:ukm-bak-scenen-frist-9991@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20260301T225959Z
+SUMMARY:Påmeldingsfrist bak scenen – Kick off Oslo
+DESCRIPTION:Frist for å melde seg på bak scenen til Kick off Oslo.\nPåme
+ ldingsfrist: 01.03.2026 kl. 23:59 (norsk tid).\n\nKick off Oslo\n\ntorsdag
+  3. desember kl. 17:00 - 21:00\n\nDeichman Grünerløkka\n\nKontaktpersone
+ r\nCelin Solstad\nTelefon: 91795353\nE-post: celin.solstad@musikk.no\n\nMa
+ gnus Nordbekk\nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nPå
+ meldingsfrist – delta: 01.03.2026 kl. 23:59\nPåmeldingsfrist – bidra 
+ bak scenen: 01.03.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arr
+ angement/2026-oslo-kickoffukmoslo
+LOCATION:Deichman Grünerløkka
+URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9907@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261029T160000Z
-DTEND:20261029T183000Z
-SUMMARY:Møt Zsófia – og utforsk de fire elementene i Kreativt Verksted
-DESCRIPTION:Møt Zsófia – og utforsk de fire elementene i Kreativt Verks
- ted\n\ntorsdag 29. oktober kl. 17:00 - 19:30\n\nVestre Aker\n\nZsófia Bó
- ta har bakgrunn innen interiør- og produktdesign fra Budapest\, Ungarn\, 
- og har gjennom flere år utforsket sammenhengen mellom kreativitet\, kropp
- \, selvbevissthet og velvære.\n\nI workshopene hennes får du utforske di
- sse temaene gjennom lek\, kreativitet og enkle øvelser – alene og samme
- n med andre.\nMålet er å skape et trygt og inspirerende rom hvor du kan 
- være nysgjerrig\, uttrykke deg kreativt og lære mer om deg selv og andre
- .\n\nHer handler det ikke om å være flink – men om å utforske\, leke 
- og lære sammen.\n\nFor deg mellom 13–20 år. Alle nivåer er velkomne!\
- n\nTidspunkt\nHver torsdag fra 29 oktober fra 17:00 - 1900 til Torsdag 17 
- desember fra 17:00 - 1900\n\nMøt Zsófia – og utforsk de fire elementen
- e i Kreativt Verksted: https://sys.ukm.no/2026-vestreaker-motzsfiaogutfors
- kdefireelementenekreativ/files/2026/10/PHOTO-2026-10-01-16-20-32.jpg\n\nht
- tps://delta.ukm.no/ukmid/pamelding/324-9907/\n\nKontaktpersoner\nBalita Se
- rge Buhendwa\nTelefon: 99866660\nE-post: villagepointproduction@gmail.com\
- n\nNaimo Abdulkadir Shiiq Omar\nTelefon: 41213779\nE-post: naciimonora@gma
- il.com\n\nPåmeldingsfrist – delta: 28.10.2026 kl. 23:59\nArrangementssi
- de: https://www.ukm.no/arrangement/2026-vestreaker-motzsfiaogutforskdefire
- elementenekreativ
-LOCATION:\, Vestre Aker
-URL:https://www.ukm.no/arrangement/2026-vestreaker-motzsfiaogutforskdefiree
- lementenekreativ
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9914@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261029T160000Z
-DTEND:20261029T183000Z
-SUMMARY:HIP HOP WORKSHOP: FRA TEKST TIL LÅT MED DANIEL OBEDE
-DESCRIPTION:HIP HOP WORKSHOP: FRA TEKST TIL LÅT MED DANIEL OBEDE\n\ntorsda
- g 29. oktober kl. 17:00 - 19:30\n\nVestre Aker\n\nBli med på en kreativ h
- iphop-workshop med danile Obede! Her får deltakerne utforske tekstskrivin
- g\, rytme og musikk\, og lære hvordan egne ideer og ord kan bli til en l
- åt. En inspirerende Workshop med fokus på kreativitet\, uttrykk og mestr
- ing.\n\nTidspunkt\nHver torsdag fra 29 oktober fra 17:00 - 1930 til Torsda
- g 17 desember fra 17:00 - 1930\n\nFor deg mellom 13–20 år. Alle nivåer
-  er velkomne!\n\nBegrenset plass!\n\nHIP HOP WORKSHOP: FRA TEKST TIL LÅT 
- MED DANIEL OBEDE: https://sys.ukm.no/2026-vestreaker-hiphopworkshopfrateks
- ttillatmeddanielobe/files/2026/10/studio-0041-1200x960.jpg\n\nhttps://delt
- a.ukm.no/ukmid/pamelding/324-9914/\n\nKontaktpersoner\nBalita Serge Buhend
- wa\nTelefon: 99866660\nE-post: villagepointproduction@gmail.com\n\nNaimo A
- bdulkadir Shiiq Omar\nTelefon: 41213779\nE-post: naciimonora@gmail.com\n\n
- Påmeldingsfrist – delta: 21.10.2026 kl. 23:59\nArrangementsside: https:
- //www.ukm.no/arrangement/2026-vestreaker-hiphopworkshopfrateksttillatmedda
- nielobe
-LOCATION:\, Vestre Aker
-URL:https://www.ukm.no/arrangement/2026-vestreaker-hiphopworkshopfratekstti
- llatmeddanielobe
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9991@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9950@ukm-kalendere
@@ -118,6 +47,26 @@ DESCRIPTION:Workshop i musikkproduksjon med Marcel Basima\n\ntorsdag 19. no
 LOCATION:Huset på Haugen\, St.Hanshaugen
 URL:https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduks
  jonmedmarcelbasima
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9991@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20261203T160000Z
+DTEND:20261203T200000Z
+SUMMARY:Kick off Oslo
+DESCRIPTION:Kick off Oslo\n\ntorsdag 3. desember kl. 17:00 - 21:00\n\nDeich
+ man Grünerløkka\n\nKontaktpersoner\nCelin Solstad\nTelefon: 91795353\nE-
+ post: celin.solstad@musikk.no\n\nMagnus Nordbekk\nTelefon: 45002286\nE-pos
+ t: magnus.nordbekk@musikk.no\n\nPåmeldingsfrist – delta: 01.03.2026 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2026 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
+LOCATION:Deichman Grünerløkka
+URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

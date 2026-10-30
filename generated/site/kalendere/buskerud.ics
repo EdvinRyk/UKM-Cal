@@ -122,6 +122,66 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-9990@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20261114T110000Z
+DTEND:20261114T150000Z
+SUMMARY:Kræsjkurs i band Hvittingfoss
+DESCRIPTION:Kræsjkurs i band Hvittingfoss\n\nlørdag 14. november kl. 12:0
+ 0 - 16:00\n\nTuftveien 1\n\nKongsberg\n\nMer info kommer snart\n\nhttps://
+ delta.ukm.no/ukmid/pamelding/3303-9990/\n\nKontaktpersoner\nRobert Omholt 
+ Opsahl\nTelefon: 99102606\nE-post: robert.opsahl@kongsberg.kommune.no\n\nT
+ or Olav Moskvil\nTelefon: 92069587\nE-post: tor.olav.moskvil@kongsberg.kom
+ mune.no\n\nPåmeldingsfrist – delta: 13.11.2026 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2026-kongsberg-krasjkursibandhvittingf
+ oss
+LOCATION:Tuftveien 1\, Kongsberg
+URL:https://www.ukm.no/arrangement/2026-kongsberg-krasjkursibandhvittingfos
+ s
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9988@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20270109T120000Z
+DTEND:20270109T160000Z
+SUMMARY:Lær å streame – fra scratch!
+DESCRIPTION:Lær å streame – fra scratch!\n\nlørdag 9. januar kl. 13:00
+  - 17:00\n\nKongsberg\n\nHar du noen gang hatt lyst til å begynne å stre
+ ame\, men vært usikker på hvordan du kommer i gang? Da er denne workshop
+ pen for deg!\n\nPå denne workshoppen lærer du hvordan du setter opp din 
+ egen stream helt fra bunnen av! Vi går gjennom alt du trenger å vite for
+  å komme i gang\, enten du vil streame gaming\, kreativt innhold eller no
+ e helt annet.\n\nDette lærer du:\n\n- Hvilket utstyr du trenger\, og hva 
+ som er kjekt å ha.\n\n- Hvordan du laster ned og installerer programmer f
+ or streaming.\n\n- Hvordan du setter opp og tilpasser din egen stream.\n\n
+ - Hvordan du kobler deg til en streamingplattform.\n\n- Hvordan du gjør d
+ eg klar til å gå live!\n\nDu trenger ingen erfaring med streaming fra f
+ ør. Vi tar det steg for steg!\n\n!!VIKTIG!! Ta med en e-postadresse du ha
+ r tilgang til\, og som du kjenner passordet til. Du kan få bruk for den n
+ år vi skal opprette kontoer og sette opp streamingplattformen.\n\nWorksho
+ ppen ledes av Tord Moe Wendelborg\, som går i 9. klasse. Tord har allered
+ e mye praktisk erfaring med teknologi og IT. Han har blant annet holdt wor
+ kshop under sommerskolen og satt opp en Minecraft-turneringsserver for ove
+ r 80 deltakere! Nå gleder han seg til å dele kunnskapen sin og hjelpe de
+ g med å komme i gang med streaming.\n\nAlder: 12–18 år\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/3303-9988/\n\nKontaktpersoner\nRobert Omholt Opsa
+ hl\nTelefon: 99102606\nE-post: robert.opsahl@kongsberg.kommune.no\n\nPåme
+ ldingsfrist – delta: 08.01.2027 kl. 23:59\nArrangementsside: https://www
+ .ukm.no/arrangement/2026-kongsberg-workshopistreaming
+LOCATION:\, Kongsberg
+URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopistreaming
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9815@ukm-kalendere
 DTSTAMP:20261027T045222Z
 CREATED:20261025T121149Z
@@ -209,6 +269,54 @@ URL:https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9982@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9992@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20270129T184623Z
+SUMMARY:Påmeldingsfrist bak scenen – Workshop i Improvisasjonsteater
+DESCRIPTION:Frist for å melde seg på bak scenen til Workshop i Improvisas
+ jonsteater.\nPåmeldingsfrist: 29.01.2027 kl. 19:46 (norsk tid).\n\nWorksh
+ op i Improvisasjonsteater\n\nlørdag 6. februar kl. 13:00 - 17:00\n\nNymoe
+ ns Torg 3\n\nKongsberg\n\nWorkshopen ledes av Sebastian Sommerstad. Mer in
+ formasjon om innhold og program kommer snart!\n\nhttps://delta.ukm.no/ukmi
+ d/pamelding/3303-9992/\n\nKontaktpersoner\nRobert Omholt Opsahl\nTelefon: 
+ 99102606\nE-post: robert.opsahl@kongsberg.kommune.no\n\nPåmeldingsfrist 
+ – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 29
+ .01.2027 kl. 19:46\nArrangementsside: https://www.ukm.no/arrangement/2026-
+ kongsberg-workshopiimprovisasjonsteater
+LOCATION:Nymoens Torg 3\, Kongsberg
+URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonste
+ ater
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9992@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9992@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20270206T120000Z
+DTEND:20270206T160000Z
+SUMMARY:Workshop i Improvisasjonsteater
+DESCRIPTION:Workshop i Improvisasjonsteater\n\nlørdag 6. februar kl. 13:00
+  - 17:00\n\nNymoens Torg 3\n\nKongsberg\n\nWorkshopen ledes av Sebastian S
+ ommerstad. Mer informasjon om innhold og program kommer snart!\n\nhttps://
+ delta.ukm.no/ukmid/pamelding/3303-9992/\n\nKontaktpersoner\nRobert Omholt 
+ Opsahl\nTelefon: 99102606\nE-post: robert.opsahl@kongsberg.kommune.no\n\nP
+ åmeldingsfrist – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 29.01.2027 kl. 19:46\nArrangementsside: https://www.ukm.no/a
+ rrangement/2026-kongsberg-workshopiimprovisasjonsteater
+LOCATION:Nymoens Torg 3\, Kongsberg
+URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonste
+ ater
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9815@ukm-kalendere

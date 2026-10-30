@@ -8,6 +8,50 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-arrangement-9970@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20261121T110000Z
+DTEND:20261121T140000Z
+SUMMARY:Bandworkshop
+DESCRIPTION:Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdo
+ mmens Kulturhus sarpsborg\n\nSarpsborg\n\nPåmelding: https://forms.cloud.
+ microsoft/e/VU9yzejjJZ\n\nSpiller du et instrument - alene eller i band - 
+ og vil få veiledning\, tips og innsikt fra erfarne musikere som jobber i 
+ bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio!\n\nAdrian 
+ Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist)\, Torstein
+  Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på m
+ ed musikk i nesten 20 år\, og jobber med det enten på deltid eller fast.
+ \n\nPå workshopen vil trioen spille et par låter for dere\, før dere se
+ tter dere ned og får spille med dem og lære noen triks.\n\nWorkshopen er
+  åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi 
+ tilpasser veiledningen til hver enkelt deltaker\, så hvor mye du kan fra 
+ før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspir
+ ere og hjelpe de som har valgt å plukke opp et instrument og synes at det
+ te er gøy!\n\nDet er også en fin mulighet til å treffe andre som driver
+  med musikk - kanskje møter du ditt nye band 👀\n\nTa gjerne med eget i
+ nstrument hvis du har (gitar eller bass)\, hvis ikke kan du låne av oss.\
+ n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kultur
+ hus (St. Marie gate 38\, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser
+ : 15\nMat: pizza\n\nDu vil få bekreftelse på sms om du har fått plass. 
+ Hvis det er fullt\, blir du satt på venteliste.\n\n-----\n\nTa gjerne kon
+ takt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook:
+  UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/20
+ 26-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1800x1800.png\n\nK
+ ontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\
+ nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.c
+ om\n\nPåmeldingsfrist – delta: 20.11.2026 kl. 23:59\nArrangementsbilde:
+  https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadra
+ t-1-1200x1200.png\nArrangementsside: https://www.ukm.no/arrangement/2026-s
+ arpsborg-bandworkshop
+LOCATION:Ungdommens Kulturhus sarpsborg
+URL:https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9958@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

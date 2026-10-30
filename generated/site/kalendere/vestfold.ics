@@ -9,76 +9,38 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9813@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:2
 DTSTART:20261015T100000Z
 DTEND:20261130T113000Z
 SUMMARY:Larvik høst 26
 DESCRIPTION:Larvik høst 26\n\ntorsdag 15. oktober kl. 12:00 - mandag 30. n
- ovember kl. 12:30\n\nLarvik\n\nUKM\\'ere mellom 13-20 år!\n\nDenne høste
- n blir UKM Larvik litt annerledes - istedenfor å samle alle til en UKM-da
- g\, har vi bestemt oss for å heller komme ut til dere!\n\nSå hvis du spi
- ller i band\, er soloartist\, lager kunst\, er fotograf eller tekniker\, e
- ller andre ting - inviter oss til der DU viser frem!\nDermed er du med på
-  å kunne bli trukket ut som Larviks bidrag til fylkesmønstringen (16.-17
- .JANUAR \\'27)\n\nFor å melde seg på må du ta kontakt med Sara (UKM-kon
- takt i Larvik)\, enten pr. mail (sara.gjeterud@larvik.kommune.no (mailto:s
- ara.gjeterud@larvik.kommune.no))\, eller komme innom på Fabrikken Ungdoms
- hus for en prat. Det viktigste er at vi får greie på hvor og når du ska
- l vise frem kunsten\, musikken\, dansen eller showet ditt :)\n\nDette må 
- vi vite:\n- Hva skal du/dere gjøre? (feks\, \\"vi skal spille med bandet 
- vårt på juleavslutninga på skolen\\"\, eller \\"vi har utstilling med k
- unstgruppa på kulturskolen\\")\n- Når og hvor skjer det?\n- Navnet ditt\
- , og alder på de som er med?\n\nBidrag blir plukket ut denne høsten\, og
-  siste frist for å vise oss er 5. desember.\n\nLarvik har masse talent\, 
- og UKM gir deg muligheten for å vise det frem!\n\nKontaktpersoner\nSara H
- åkonsdatter Gjeterud\nE-post: sara.gjeterud@larvik.kommune.no\n\nPåmeldi
- ngsfrist – delta: 15.10.2026 kl. 23:59\nPåmeldingsfrist – bidra bak s
- cenen: 15.10.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangem
- ent/2026-larvik-ukmlarvikhost26
+ ovember kl. 12:30\n\nLarvik\n\nUKM\\\\\\'ere mellom 13-20 år!\n\nDenne h
+ østen blir UKM Larvik litt annerledes - istedenfor å samle alle til en U
+ KM-dag\, har vi bestemt oss for å heller komme ut til dere!\n\nSå hvis d
+ u spiller i band\, er soloartist\, lager kunst\, er fotograf eller teknike
+ r\, eller andre ting - inviter oss til der DU viser frem!\nDermed er du me
+ d på å kunne bli trukket ut som Larviks bidrag til fylkesmønstringen (1
+ 6.-17.JANUAR \\\\\\'27)\n\nFor å melde seg på må du ta kontakt med Sara
+  (UKM-kontakt i Larvik)\, enten pr. mail (sara.gjeterud@larvik.kommune.no 
+ (mailto:sara.gjeterud@larvik.kommune.no))\, eller komme innom på Fabrikke
+ n Ungdomshus for en prat. Det viktigste er at vi får greie på hvor og n
+ år du skal vise frem kunsten\, musikken\, dansen eller showet ditt :)\n\n
+ Dette må vi vite:\n- Hva skal du/dere gjøre? (feks\, \\\\\\"vi skal spil
+ le med bandet vårt på juleavslutninga på skolen\\\\\\"\, eller \\\\\\"v
+ i har utstilling med kunstgruppa på kulturskolen\\\\\\")\n- Når og hvor 
+ skjer det?\n- Navnet ditt\, og alder på de som er med?\n\nBidrag blir plu
+ kket ut denne høsten\, og siste frist for å vise oss er 5. desember.\n\n
+ Larvik har masse talent\, og UKM gir deg muligheten for å vise det frem!\
+ n\nKontaktpersoner\nSara Håkonsdatter Gjeterud\nE-post: sara.gjeterud@lar
+ vik.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-la
+ rvik-ukmlarvikhost26
 LOCATION:\, Larvik
 URL:https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9813@ukm-kalendere
-DTSTAMP:20261025T121149Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
-DTSTART:20261015T215900Z
-SUMMARY:Påmeldingsfrist bak scenen – Larvik høst 26
-DESCRIPTION:Frist for å melde seg på bak scenen til Larvik høst 26.\nPå
- meldingsfrist: 15.10.2026 kl. 23:59 (norsk tid).\n\nLarvik høst 26\n\ntor
- sdag 15. oktober kl. 12:00 - mandag 30. november kl. 12:30\n\nLarvik\n\nUK
- M\\'ere mellom 13-20 år!\n\nDenne høsten blir UKM Larvik litt annerledes
-  - istedenfor å samle alle til en UKM-dag\, har vi bestemt oss for å hel
- ler komme ut til dere!\n\nSå hvis du spiller i band\, er soloartist\, lag
- er kunst\, er fotograf eller tekniker\, eller andre ting - inviter oss til
-  der DU viser frem!\nDermed er du med på å kunne bli trukket ut som Larv
- iks bidrag til fylkesmønstringen (16.-17.JANUAR \\'27)\n\nFor å melde se
- g på må du ta kontakt med Sara (UKM-kontakt i Larvik)\, enten pr. mail (
- sara.gjeterud@larvik.kommune.no (mailto:sara.gjeterud@larvik.kommune.no))\
- , eller komme innom på Fabrikken Ungdomshus for en prat. Det viktigste er
-  at vi får greie på hvor og når du skal vise frem kunsten\, musikken\, 
- dansen eller showet ditt :)\n\nDette må vi vite:\n- Hva skal du/dere gjø
- re? (feks\, \\"vi skal spille med bandet vårt på juleavslutninga på sko
- len\\"\, eller \\"vi har utstilling med kunstgruppa på kulturskolen\\")\n
- - Når og hvor skjer det?\n- Navnet ditt\, og alder på de som er med?\n\n
- Bidrag blir plukket ut denne høsten\, og siste frist for å vise oss er 5
- . desember.\n\nLarvik har masse talent\, og UKM gir deg muligheten for å 
- vise det frem!\n\nKontaktpersoner\nSara Håkonsdatter Gjeterud\nE-post: sa
- ra.gjeterud@larvik.kommune.no\n\nPåmeldingsfrist – delta: 15.10.2026 kl
- . 23:59\nPåmeldingsfrist – bidra bak scenen: 15.10.2026 kl. 23:59\nArra
- ngementsside: https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26
-LOCATION:\, Larvik
-URL:https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9813@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9881@ukm-kalendere

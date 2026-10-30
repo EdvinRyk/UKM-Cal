@@ -80,42 +80,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9903@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261029T150000Z
-DTEND:20261029T190000Z
-SUMMARY:Workshop nr2: Ivar Aasen snakkar
-DESCRIPTION:Workshop nr2: Ivar Aasen snakkar\n\ntorsdag 29. oktober kl. 16:
- 00 - 20:00\n\nKvernhusmyrane 8\n\nAlver\, Austrheim\, Masfjorden\n\nWorksh
- op for ungdom: Lag fargerik pop-art!\nTorsdag 29. oktober\nKnarvik ungdsom
- sklubb\, Kvernhusmyrane 8\n\nKlokka 16:00-20:00\nAlder: 12-20 år\n\nBli m
- ed biletkunstnar Sigrid Fivelstad og lag ditt eige pop-art-portrett av Iva
- r Aasen! Her kan du leike deg med sterke fargar\, kreativ stil og nynorske
-  snakkebobler. Kva ville Ivar Aasen sagt i dag?\n\nVerkstaden er ein del a
- v UKM Nordhordland si satsing på kreative tilbod for ungdom gjennom heile
-  året.\n\nGratis\n\nWorkshop nr2: Ivar Aasen snakkar: https://sys.ukm.no/
- 2026-alver-austrheim-workshopnr2ivaraasensnakkar/files/2026/10/HAUSTEN-202
- 6UNG-ALVER-FOR-UNGDOM-1273x1800.png\n\nhttps://delta.ukm.no/ukmid/pameldin
- g/4631-9903/\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\nE-post: 
- hilde.jordal@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelefon: 9204
- 6806\nE-post: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatarina Birk
- eland Nepstad\nTelefon: 90696931\nE-post: katarina.birkeland@alver.kommune
- .no\n\nPåmelding – Austrheim: https://delta.ukm.no/ukmid/pamelding/4632
- -9903/\nPåmelding – Masfjorden: https://delta.ukm.no/ukmid/pamelding/46
- 34-9903/\nArrangementsbilde: https://sys.ukm.no/2026-alver-austrheim-works
- hopnr2ivaraasensnakkar/files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM-849x
- 1200.png\nArrangementsside: https://www.ukm.no/arrangement/2026-alver-aust
- rheim-workshopnr2ivaraasensnakkar
-LOCATION:Kvernhusmyrane 8\, Alver\, Austrheim\, Masfjorden
-URL:https://www.ukm.no/arrangement/2026-alver-austrheim-workshopnr2ivaraase
- nsnakkar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9909@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -214,6 +178,47 @@ URL:https://www.ukm.no/arrangement/2027-askoy-ukmaskoyogoygarden2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9908@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9987@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20270129T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Samnanger 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Samnanger 2027.\n
+ Påmeldingsfrist: 29.01.2027 kl. 23:59 (norsk tid).\n\nUKM Samnanger 2027\
+ n\nlørdag 6. februar kl. 17:00 - 18:00\n\nSamnanger barneskule\n\nSamnang
+ er\n\nEr du mellom 10 og 20 år? Då kan du melda deg på UKM no. UKM stå
+ r for Ung kultur møtes og er ein møteplass for ungdom og kultur kor ein 
+ skapar noko saman. Kvart år arrangerer me UKM lokalfestival i Samnanger. 
+ Her kan du visa fram det du brenn for og det du syns er kjekt.\n\nI UKM er
+  alle kulturelle uttrykk velkomne\, anten det er innan musikk\, dans\, tea
+ ter\, litteratur\, film\, foto\, kunst\, matkultur\, elle anna som kan vis
+ ast fram på scena eller i ei utstilling. Ein kan også melda seg på som 
+ konferansier\, og vel sjølv om ein vil melda seg på som enkeltperson ell
+ er saman med ei gruppe.\n\nVil du vera med? Då er du kome til rett plass.
+  Frist for påmelding er søndag 31. januar!\n\nUKM-fylkesfestival:\nNokon
+  av deltakarane på lokalfestivalen i Samnanger vil i etterkant få tilbod
+  om å delta på UKM-fylkesfestivalen. Aldersgrensa for å delta på UKM-f
+ estivalen er 13-20 år. Det vil sei at ein kan delta på festivalen frå d
+ et året ein fyller 13 til det året ein fyller 20. Meir informasjon om fy
+ lkesfestivalen vil komme frå fylkeskommunen.\n\nAldersgrense:\nAldersgren
+ sa for UKM-lokalfestival i Samnanger er 10-20 år. Det vil sei at ein kan 
+ delta på festivalen frå det året ein fyller 10 til det året ein fyller
+  20. For å få tilbod om å bli sendt vidare til fylkesfestivalen må ein
+  vera mellom 13 og 20.\n\nKontakt oss gjerne om du har spørsmål.\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/4623-9987/\n\nKontaktpersoner\nKarianne K
+ ayser\nTelefon: 47379247\nE-post: karianne.kayser@samnanger.kommune.no\n\n
+ Påmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bid
+ ra bak scenen: 29.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/
+ arrangement/2027-samnanger-ukmsamnanger2027
+LOCATION:Samnanger barneskule
+URL:https://www.ukm.no/arrangement/2027-samnanger-ukmsamnanger2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9987@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9900@ukm-kalendere
@@ -365,6 +370,45 @@ DESCRIPTION:UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrd
  o/arrangement/2027-ardal-ukmardal2027
 LOCATION:Årdal Kulturhus
 URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9987@ukm-kalendere
+DTSTAMP:20261030T050327Z
+CREATED:20261030T050327Z
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:0
+DTSTART:20270206T160000Z
+DTEND:20270206T170000Z
+SUMMARY:UKM Samnanger 2027
+DESCRIPTION:UKM Samnanger 2027\n\nlørdag 6. februar kl. 17:00 - 18:00\n\nS
+ amnanger barneskule\n\nSamnanger\n\nEr du mellom 10 og 20 år? Då kan du 
+ melda deg på UKM no. UKM står for Ung kultur møtes og er ein møteplass
+  for ungdom og kultur kor ein skapar noko saman. Kvart år arrangerer me U
+ KM lokalfestival i Samnanger. Her kan du visa fram det du brenn for og det
+  du syns er kjekt.\n\nI UKM er alle kulturelle uttrykk velkomne\, anten de
+ t er innan musikk\, dans\, teater\, litteratur\, film\, foto\, kunst\, mat
+ kultur\, elle anna som kan visast fram på scena eller i ei utstilling. Ei
+ n kan også melda seg på som konferansier\, og vel sjølv om ein vil meld
+ a seg på som enkeltperson eller saman med ei gruppe.\n\nVil du vera med? 
+ Då er du kome til rett plass. Frist for påmelding er søndag 31. januar!
+ \n\nUKM-fylkesfestival:\nNokon av deltakarane på lokalfestivalen i Samnan
+ ger vil i etterkant få tilbod om å delta på UKM-fylkesfestivalen. Alder
+ sgrensa for å delta på UKM-festivalen er 13-20 år. Det vil sei at ein k
+ an delta på festivalen frå det året ein fyller 13 til det året ein fyl
+ ler 20. Meir informasjon om fylkesfestivalen vil komme frå fylkeskommunen
+ .\n\nAldersgrense:\nAldersgrensa for UKM-lokalfestival i Samnanger er 10-2
+ 0 år. Det vil sei at ein kan delta på festivalen frå det året ein fyll
+ er 10 til det året ein fyller 20. For å få tilbod om å bli sendt vidar
+ e til fylkesfestivalen må ein vera mellom 13 og 20.\n\nKontakt oss gjerne
+  om du har spørsmål.\n\nhttps://delta.ukm.no/ukmid/pamelding/4623-9987/\
+ n\nKontaktpersoner\nKarianne Kayser\nTelefon: 47379247\nE-post: karianne.k
+ ayser@samnanger.kommune.no\n\nPåmeldingsfrist – delta: 31.01.2027 kl. 2
+ 3:59\nPåmeldingsfrist – bidra bak scenen: 29.01.2027 kl. 23:59\nArrange
+ mentsside: https://www.ukm.no/arrangement/2027-samnanger-ukmsamnanger2027
+LOCATION:Samnanger barneskule
+URL:https://www.ukm.no/arrangement/2027-samnanger-ukmsamnanger2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -541,10 +585,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9899@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:1
 DTSTART:20270315T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Vestland 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Vest
@@ -561,10 +605,12 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Vest
  enivestland/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/
  2027-vestland-ukm-festivalenivestland/deltagere\n\nBilder og videoerBilder
   og videoer: https://www.ukm.no/arrangement/2027-vestland-ukm-festivaleniv
- estland/media\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeld
- ingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: h
- ttps://sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/viol
- aintenso_Adrians_260621_1-5-1200x800.jpg
+ estland/media\n\nInfo til deltagereInfo til deltagere: https://www.ukm.no/
+ arrangement/2027-vestland-ukm-festivalenivestland/info/deltager\n\nPåmeld
+ ingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak 
+ scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-v
+ estland-ukm-festivalenivestland/files/2026/09/violaintenso_Adrians_260621_
+ 1-5-1200x800.jpg
 LOCATION:KIPO Kultursal Askøy VGS
 URL:https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland
 STATUS:CONFIRMED
@@ -573,10 +619,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9899@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9899@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261030T050327Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261030T050327Z
+SEQUENCE:2
 DTSTART:20270423T150000Z
 DTEND:20270425T150000Z
 SUMMARY:UKM-festivalen i Vestland 2027
@@ -592,10 +638,12 @@ DESCRIPTION:UKM-festivalen i Vestland 2027\n\nfredag 23. april kl. 17:00 -
  tland-ukm-festivalenivestland/program\n\nPåmeldtePåmeldte: https://www.u
  km.no/arrangement/2027-vestland-ukm-festivalenivestland/deltagere\n\nBilde
  r og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-vestlan
- d-ukm-festivalenivestland/media\n\nPåmeldingsfrist – delta: 15.03.2027 
- kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.03.2027 kl. 23:59\nAr
- rangementsbilde: https://sys.ukm.no/2027-vestland-ukm-festivalenivestland/
- files/2026/09/violaintenso_Adrians_260621_1-5-1200x800.jpg
+ d-ukm-festivalenivestland/media\n\nInfo til deltagereInfo til deltagere: h
+ ttps://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland/info/d
+ eltager\n\nPåmeldingsfrist – delta: 15.03.2027 kl. 23:59\nPåmeldingsfr
+ ist – bidra bak scenen: 15.03.2027 kl. 23:59\nArrangementsbilde: https:/
+ /sys.ukm.no/2027-vestland-ukm-festivalenivestland/files/2026/09/violainten
+ so_Adrians_260621_1-5-1200x800.jpg
 LOCATION:KIPO Kultursal Askøy VGS
 URL:https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland
 STATUS:CONFIRMED

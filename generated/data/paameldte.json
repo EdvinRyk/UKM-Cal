@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 119,
-  "antall_deltakernavn_i_innslag": 103,
-  "antall_innslag": 216,
+  "antall_arrangementer": 121,
+  "antall_deltakernavn_i_innslag": 115,
+  "antall_innslag": 220,
   "arrangementer": [
     {
       "antall_innslag": 1,
@@ -61,10 +61,46 @@
       "navn": "Arrangør Trondheim-Tråante"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 4,
       "arrangement_id": "9813",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Har vært med før, er ei pottitt, er tech først og fremst, men Sara sier jeg kan brukes til nesten alt ;) Hvis jeg får velge vil jeg helst IKKE jobbe som scenearbeider.",
+          "deltakernavn": [
+            "Jessica Ravn Paulsen"
+          ],
+          "id": "262027",
+          "navn": "Jessica Ravn Paulsen"
+        },
+        {
+          "beskrivelse": "UKM lands 2 ganger som scenearbeider. Har også vært trommetekniker mange ganger for lokale band i Larvik.",
+          "deltakernavn": [
+            "Jonathan Kjørven"
+          ],
+          "id": "262028",
+          "navn": "Jonathan Kjørven"
+        },
+        {
+          "beskrivelse": "Vi er 4 gutter fra musikklinja i Larvik som spiller hard-rock med en moderne vri. Vi spilte på minifestivalen Blåbråk i oktober, og har siden hatt fokus på å skrive nye låter og å forbedre de gamle.",
+          "deltakernavn": [
+            "Christoffer Høiseth",
+            "Håvard Sølvik",
+            "Jonathan Kjørven",
+            "Mykhailo Topchii"
+          ],
+          "id": "262029",
+          "navn": "SLAKT"
+        },
+        {
+          "beskrivelse": "Har vært med før, lands x 2, har eget kamera. Har tatt masse bilder av band og scene og stemninger før. Er rutta.",
+          "deltakernavn": [
+            "Teodor Emil Einarsen Skeie"
+          ],
+          "id": "262026",
+          "navn": "Teodor Emil Einarsen Skeie"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9813",
       "navn": "Larvik høst 26"
     },
@@ -136,57 +172,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
       "navn": "CREW - Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9903",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-alver-austrheim-workshopnr2ivaraasensnakkar",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9903",
-      "navn": "Workshop nr2: Ivar Aasen snakkar"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9882",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-vestreaker-ukmdanceworkshop",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9882",
-      "navn": "Dance Workshop"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9907",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-vestreaker-motzsfiaogutforskdefireelementenekreativ",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9907",
-      "navn": "Møt Zsófia – og utforsk de fire elementene i Kreativt Verksted"
-    },
-    {
-      "antall_innslag": 3,
-      "arrangement_id": "9914",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-vestreaker-hiphopworkshopfrateksttillatmeddanielobe",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261862",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261870",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261871",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9914",
-      "navn": "HIP HOP WORKSHOP: FRA TEKST TIL LÅT MED DANIEL OBEDE"
     },
     {
       "antall_innslag": 0,
@@ -345,6 +330,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9990",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-krasjkursibandhvittingfoss",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9990",
+      "navn": "Kræsjkurs i band Hvittingfoss"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9979",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026",
       "innslag": [],
@@ -386,10 +379,30 @@
       "navn": "Holmestrand"
     },
     {
-      "antall_innslag": 23,
+      "antall_innslag": 0,
+      "arrangement_id": "9970",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9970",
+      "navn": "Bandworkshop"
+    },
+    {
+      "antall_innslag": 24,
       "arrangement_id": "9847",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
       "innslag": [
+        {
+          "beskrivelse": "Vi er 4 ivrige 7.klassinger fra 3 forskjellige korps som på kulturskolen har dannet en klarinettkvartett hvor vi øver og spiller sammen hver uke. Vi startet i høst og synes det er utrolig gøy å spille sammen. Det er første gang vi er med i UKM som kvartett.",
+          "deltakernavn": [
+            "David Birkedal",
+            "Erla Pedersen",
+            "Ida Fuglerud",
+            "Martin Himberg",
+            "Sarah Oline Hvidsten"
+          ],
+          "id": "262023",
+          "navn": "2014 kvartetten"
+        },
         {
           "beskrivelse": "Jeg er en sosial og blid jente, som brenner for teater, dans og sang. Og går på musikk dans og drama på Greveskogen i Tønsberg. Og har drevet med dette hele livet. Jeg holder på med min første musikal på hjertes nå «folkeeventyrene the musikal» og har veldig lyst til og bli bedre på og synge for andre mennesker.",
           "deltakernavn": [
@@ -608,6 +621,14 @@
       "navn": "Workshop; maske i leire"
     },
     {
+      "antall_innslag": 0,
+      "arrangement_id": "9991",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9991",
+      "navn": "Kick off Oslo"
+    },
+    {
       "antall_innslag": 2,
       "arrangement_id": "9826",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta",
@@ -675,6 +696,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9967",
       "navn": "GAMING KVELD PÅ B/"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9988",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-workshopistreaming",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9988",
+      "navn": "Lær å streame – fra scratch!"
     },
     {
       "antall_innslag": 0,
@@ -992,6 +1021,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9992",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonsteater",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9992",
+      "navn": "Workshop i Improvisasjonsteater"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9820",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
       "innslag": [],
@@ -1005,6 +1042,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9973",
       "navn": "Sola 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9987",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-samnanger-ukmsamnanger2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9987",
+      "navn": "UKM Samnanger 2027"
     },
     {
       "antall_innslag": 23,
@@ -1162,7 +1207,7 @@
       "navn": "UKM BAMBLE"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9911",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
       "innslag": [
@@ -1188,6 +1233,12 @@
           "beskrivelse": "4 jenter fra Gausdal som har gått på dans siden vi var 3år. Vi elsker og danse turne osv. vi går i klasse sammen.",
           "deltakernavn": [],
           "id": "261783",
+          "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Vi er to jenter på 14 år som elsker musikk og dans. Vi liker å være kreative, opptre sammen og ha det gøy. Vi gleder oss til å vise fram dansen vår på UKM!",
+          "deltakernavn": [],
+          "id": "262031",
           "navn": "Dans innslag"
         },
         {
@@ -2041,10 +2092,17 @@
       "navn": "UKM Balsfjord 2027!"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9937",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-vestreaker-lokalmonstringvestreaker2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Vi er et nyoppstartet band fra Oslo som ser fram til å lage musikk og ha konserter med masse andre kule folk!",
+          "deltakernavn": [],
+          "id": "262032",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9937",
       "navn": "Lokal mønstring Vestre Aker 2027"
     },
@@ -2130,14 +2188,6 @@
       "navn": "Hadeland 2027"
     },
     {
-      "antall_innslag": 0,
-      "arrangement_id": "9805",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-lyngdal-lyngdal",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9805",
-      "navn": "Lyngdal"
-    },
-    {
       "antall_innslag": 2,
       "arrangement_id": "9892",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sandnes-sandnes",
@@ -2219,6 +2269,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9821",
       "navn": "UKM 2027 TRYSIL"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9805",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-lyngdal-lyngdal",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9805",
+      "navn": "Lyngdal"
     },
     {
       "antall_innslag": 0,
@@ -2474,5 +2532,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-10-29T05:03:19.916166+00:00"
+  "oppdatert": "2026-10-30T05:03:27.979301+00:00"
 }
