@@ -40,6 +40,33 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9830@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-9995@ukm-kalendere
+DTSTAMP:20261031T045920Z
+CREATED:20261031T045920Z
+LAST-MODIFIED:20261031T045920Z
+SEQUENCE:0
+DTSTART:20261205T100000Z
+DTEND:20261206T170000Z
+SUMMARY:Kick-off i Harstad
+DESCRIPTION:Kick-off i Harstad\n\nlørdag 5. desember kl. 11:00 - søndag 6
+ . desember kl. 18:00\n\nHarstad Fritidssenter\n\nHarstad - Hárstták\n\nE
+ t påfyll med inspirasjon til hva du kan melde på UKM 2027!\n\nVær samme
+ n med andre og bli inspirert til å melde deg på UKM. Det blir flere verk
+ steder du kan delta på og i tillegg lover vi god stemning og gratis mat!\
+ n\nKick-off i Harstad: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offi
+ harstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-1210x1800.jpeg\
+ n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9995/\n\nKontaktpersoner\nArn
+ e-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.k
+ ommune.no\n\nPåmeldingsfrist – delta: 30.11.2026 kl. 23:59\nArrangement
+ sbilde: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/files/2
+ 026/10/0BAA783B-736C-40F9-9990-35745536DF15-807x1200.jpeg\nArrangementssid
+ e: https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad
+LOCATION:Harstad Fritidssenter\, Harstad - Hárstták
+URL:https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9830@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z

@@ -295,15 +295,15 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9885@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9820@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261031T045920Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261031T045920Z
+SEQUENCE:1
 DTSTART:20270205T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Årdal 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPå
  meldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Årdal 2027\n\nlø
- rdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM År
+ rdag 6. februar kl. 17:00 - 19:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM År
  dal er møteplassen for unge som vil vise fram det dei brenn for! Her kan 
  du delta med musikk\, dans\, teater\, kunst\, film\, foto eller andre krea
  tive uttrykk.\n\nUKM er for ungdom frå 10 til 20 år\, og du treng ikkje 
@@ -312,22 +312,20 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPå
  ngert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til 
  å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på U
  KM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://
- sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.j
- pg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\n
- Thor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.k
- ommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vi
- l vise fram det dei brenn for! Her kan du delta med musikk\, dans\, teater
- \, kunst\, film\, foto eller andre kreative uttrykk.\n\nUKM er for ungdom 
- frå 10 til 20 år\, og du treng ikkje vere profesjonell – det viktigast
- e er at du har lyst til å skape\, delta og vere ein del av eit kreativt f
- ellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av 
- deltakarane får også moglegheit til å representere Årdal vidare på UK
- M sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva d
- u skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldings
- frist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsbilde: https
- ://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200
- .jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal
- 2027
+ sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jp
+ g\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nT
+ hor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.ko
+ mmune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil
+  vise fram det dei brenn for! Her kan du delta med musikk\, dans\, teater\
+ , kunst\, film\, foto eller andre kreative uttrykk.\n\nUKM er for ungdom f
+ rå 10 til 20 år\, og du treng ikkje vere profesjonell – det viktigaste
+  er at du har lyst til å skape\, delta og vere ein del av eit kreativt fe
+ llesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av d
+ eltakarane får også moglegheit til å representere Årdal vidare på UKM
+  sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du
+  skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsf
+ rist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https:/
+ /www.ukm.no/arrangement/2027-ardal-ukmardal2027
 LOCATION:Årdal Kulturhus
 URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
 STATUS:CONFIRMED
@@ -336,14 +334,14 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9820@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9820@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261031T045920Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20270206T140000Z
-DTEND:20270206T170000Z
+LAST-MODIFIED:20261031T045920Z
+SEQUENCE:2
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
 SUMMARY:UKM Årdal 2027
-DESCRIPTION:UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrd
+DESCRIPTION:UKM Årdal 2027\n\nlørdag 6. februar kl. 17:00 - 19:00\n\nÅrd
  al Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise
   fram det dei brenn for! Her kan du delta med musikk\, dans\, teater\, kun
  st\, film\, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 1
@@ -353,21 +351,20 @@ DESCRIPTION:UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrd
  arane får også moglegheit til å representere Årdal vidare på UKM sin 
  fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skap
  ar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2
- 026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding
- /4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-
- post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal
-  er møteplassen for unge som vil vise fram det dei brenn for! Her kan du 
- delta med musikk\, dans\, teater\, kunst\, film\, foto eller andre kreativ
- e uttrykk.\n\nUKM er for ungdom frå 10 til 20 år\, og du treng ikkje ver
- e profesjonell – det viktigaste er at du har lyst til å skape\, delta o
- g vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrange
- rt i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å r
- epresentere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM 
- Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 
- 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl
- . 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ardal-ukmardal2027/fil
- es/2026/08/Ardal-kommune-960x1200.jpg\nArrangementsside: https://www.ukm.n
- o/arrangement/2027-ardal-ukmardal2027
+ 026/08/Ardal-kommune-960x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/
+ 4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-p
+ ost: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal 
+ er møteplassen for unge som vil vise fram det dei brenn for! Her kan du d
+ elta med musikk\, dans\, teater\, kunst\, film\, foto eller andre kreative
+  uttrykk.\n\nUKM er for ungdom frå 10 til 20 år\, og du treng ikkje vere
+  profesjonell – det viktigaste er at du har lyst til å skape\, delta og
+  vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arranger
+ t i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å re
+ presentere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Å
+ rdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16
+ .01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 
+ 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmarda
+ l2027
 LOCATION:Årdal Kulturhus
 URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
 STATUS:CONFIRMED

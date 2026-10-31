@@ -63,47 +63,27 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9706@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9963@ukm-kalendere
-DTSTAMP:20261026T111319Z
-CREATED:20261026T111319Z
-LAST-MODIFIED:20261026T111319Z
-SEQUENCE:0
-DTSTART:20261106T170000Z
-DTEND:20261106T210000Z
-SUMMARY:Kickoff på Oppdal
-DESCRIPTION:Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nO
- ppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersone
- r\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nS
- igurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.n
- o\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.
- no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppda
- l.kommune.no\n\nPåmelding – Oppdal: https://delta.ukm.no/ukmid/pameldin
- g/5021-9963/\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal
- -kickoffpaoppdal
-LOCATION:\, Oppdal
-URL:https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9964@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261031T045920Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261031T045920Z
+SEQUENCE:2
 DTSTART:20261106T180000Z
 DTEND:20261106T200000Z
 SUMMARY:Oppdal - Kickoff
 DESCRIPTION:Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOpp
- dal kulturhus\n\nOppdal\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppda
- l-oppdal-kickoff/files/2026/10/IMG_0371-1800x838.jpeg\n\nKontaktpersoner\n
- Jørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigu
- rd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n
- \nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\
- n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.k
- ommune.no\n\nArrangementsbilde: https://sys.ukm.no/2026-oppdal-oppdal-kick
- off/files/2026/10/IMG_0371-1200x559.jpeg\nArrangementsside: https://www.uk
- m.no/arrangement/2026-oppdal-oppdal-kickoff
+ dal kulturhus\n\nOppdal\n\nVelkommen til UKM Kickoff på Oppdal! Vi starte
+ r 2027 med et pangstart med lokal festival 28.-30. januar! Vi ses på Ungd
+ omsklubben den 6. November for info\, morsomheter og litt snacks. Her får
+  du også hjelp til å melde deg på\, muligheter til å knytte kontakter 
+ og tid til å forme mulige innslag🥳\n\nOppdal - Kickoff: https://sys.uk
+ m.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1200x559.jpeg\n\nKo
+ ntaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kom
+ mune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppd
+ al.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@opp
+ dal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.f
+ urunes@oppdal.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangeme
+ nt/2026-oppdal-oppdal-kickoff
 LOCATION:Oppdal kulturhus
 URL:https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff
 STATUS:CONFIRMED

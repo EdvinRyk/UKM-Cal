@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 121,
-  "antall_deltakernavn_i_innslag": 115,
-  "antall_innslag": 220,
+  "antall_arrangementer": 124,
+  "antall_deltakernavn_i_innslag": 117,
+  "antall_innslag": 224,
   "arrangementer": [
     {
       "antall_innslag": 1,
@@ -175,14 +175,6 @@
     },
     {
       "antall_innslag": 0,
-      "arrangement_id": "9963",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9963",
-      "navn": "Kickoff på Oppdal"
-    },
-    {
-      "antall_innslag": 0,
       "arrangement_id": "9964",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff",
       "innslag": [],
@@ -293,6 +285,33 @@
       "navn": "Utstilling: Bird set free"
     },
     {
+      "antall_innslag": 3,
+      "arrangement_id": "9826",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta",
+      "innslag": [
+        {
+          "beskrivelse": "Jeg er kul, jeg har jobbet som scenearbeider i honningsvåg UKM 26. jeg søiller trommer, og var med på open airjam 26 som en promotør til A.C.T",
+          "deltakernavn": [],
+          "id": "261354",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261455",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261518",
+          "navn": "Musikk innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9826",
+      "navn": "Band Tour Alta"
+    },
+    {
       "antall_innslag": 2,
       "arrangement_id": "9921",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
@@ -335,6 +354,30 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9990",
       "navn": "Kræsjkurs i band Hvittingfoss"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9994",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-nordkapp-nordkapp",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9994",
+      "navn": "UKM Band Tour Nordkapp"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9997",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9997",
+      "navn": "Band Tour Lakselv"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9996",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9996",
+      "navn": "Porsanger - Porsángu - Porsanki"
     },
     {
       "antall_innslag": 0,
@@ -629,25 +672,12 @@
       "navn": "Kick off Oslo"
     },
     {
-      "antall_innslag": 2,
-      "arrangement_id": "9826",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta",
-      "innslag": [
-        {
-          "beskrivelse": "Jeg er kul, jeg har jobbet som scenearbeider i honningsvåg UKM 26. jeg søiller trommer, og var med på open airjam 26 som en promotør til A.C.T",
-          "deltakernavn": [],
-          "id": "261354",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Vi er Arvelaus, 4-piece band",
-          "deltakernavn": [],
-          "id": "261848",
-          "navn": "Musikk innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9826",
-      "navn": "Band Tour Alta"
+      "antall_innslag": 0,
+      "arrangement_id": "9995",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9995",
+      "navn": "Kick-off i Harstad"
     },
     {
       "antall_innslag": 0,
@@ -1029,19 +1059,19 @@
     },
     {
       "antall_innslag": 0,
-      "arrangement_id": "9820",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9820",
-      "navn": "UKM Årdal 2027"
-    },
-    {
-      "antall_innslag": 0,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9973",
       "navn": "Sola 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9820",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9820",
+      "navn": "UKM Årdal 2027"
     },
     {
       "antall_innslag": 0,
@@ -1207,7 +1237,7 @@
       "navn": "UKM BAMBLE"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 9,
       "arrangement_id": "9911",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
       "innslag": [
@@ -1258,6 +1288,12 @@
           "deltakernavn": [],
           "id": "261978",
           "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg synger aleine på scenen, jeg sang ifjord med vennina mi Ida men i år skal jeg synge aleine",
+          "deltakernavn": [],
+          "id": "262036",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9911",
@@ -1296,10 +1332,19 @@
       "navn": "UKM Midt-Telemark"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9943",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Gutt som liker dansing og g pop",
+          "deltakernavn": [
+            "Stine Mari Sundet Elgseter"
+          ],
+          "id": "262038",
+          "navn": "Matthew"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9943",
       "navn": "Lokalmønstring Levanger"
     },
@@ -2466,10 +2511,19 @@
       "navn": "Fylkesfestivalen i Troms 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9952",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg har synget siden jeg var 8, synget på st croix i sann 4 ish år? Det er en sterk lidenskap jeg har",
+          "deltakernavn": [
+            "Fiona Karlsen Remvik"
+          ],
+          "id": "262041",
+          "navn": "Fiona"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9952",
       "navn": "UKM Fredrikstad-    festivalen 2027"
     },
@@ -2532,5 +2586,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-10-30T05:03:27.979301+00:00"
+  "oppdatert": "2026-10-31T04:59:20.083362+00:00"
 }

@@ -245,6 +245,42 @@
     {
       "all_day": false,
       "calendars": [
+        "finnmark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Band Tour Nordkapp.\nPåmeldingsfrist: 10.11.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour Nordkapp\n\nlørdag 14. november kl. 16:00 - 22:00\n\nHonningsvåg Samfunnshus\n\nNordkapp\n\n🎸 UKM BAND TOUR KOMMER TIL HONNINGSVÅG!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Honningsvåg! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Honningsvåg, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 20 minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5620-9994/\n\nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.borvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: thomas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190\nE-post: oystein.skarset@nordkapp.kommune.no\n\nPåmeldingsfrist – delta: 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-nordkapp-nordkapp",
+      "end": null,
+      "expires": "2026-11-14T22:00:00+01:00",
+      "id": "9994-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Honningsvåg Samfunnshus, Nordkapp",
+      "parent_uid": "ukm-arrangement-9994@ukm-kalendere",
+      "start": "2026-11-10T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Band Tour Nordkapp",
+      "uid": "ukm-bak-scenen-frist-9994@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-nordkapp-nordkapp"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "finnmark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Band Tour Lakselv.\nPåmeldingsfrist: 12.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Lakselv\n\nsøndag 15. november kl. 12:30 - 16:30\n\nHos Magnus\n\nPorsanger - Porsángu - Porsanki\n\n🎸 UKM BAND TOUR KOMMER TIL LAKSELV!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Lakselv! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Lakselv, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 15minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9997/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nPer Inge Heitmann Olsen\nTelefon: 40440544\nE-post: per.olsen@nesseby.kommune.no\n\nPåmeldingsfrist – delta: 11.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
+      "end": null,
+      "expires": "2026-11-15T16:30:00+01:00",
+      "id": "9997-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Hos Magnus, Porsanger - Porsángu - Porsanki",
+      "parent_uid": "ukm-arrangement-9997@ukm-kalendere",
+      "start": "2026-11-12T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Band Tour Lakselv",
+      "uid": "ukm-bak-scenen-frist-9997@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "vestfold"
       ],
       "description": "Frist for å melde seg på bak scenen til Holmestrand.\nPåmeldingsfrist: 07.11.2026 kl. 23:59 (norsk tid).\n\nHolmestrand\n\nlørdag 21. november kl. 12:00 - 16:00\n\nUKM HOLMESTRAND\nBli med oss ​​på årets viktigste kulturarrangement for ungdom. I tillegg til forestillingen vil det være mange workshops.\n\nPåmeldingsfrist: 07. november klokken 23.59\n\nHolmestrand: https://sys.ukm.no/2026-holmestrand-holmestrand27/files/2026/09/Banner27_Hvit.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3903-9881/\n\nKontaktpersoner\nLars-Erik Revdal\nTelefon: 92096519\nE-post: lars.erik.revdal@steinkjer.kommune.no\n\nPåmeldingsfrist – delta: 07.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27",
@@ -295,24 +331,6 @@
       "title": "Påmeldingsfrist bak scenen – Kick off Oslo",
       "uid": "ukm-bak-scenen-frist-9991@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo"
-    },
-    {
-      "all_day": false,
-      "calendars": [
-        "finnmark"
-      ],
-      "description": "Frist for å melde seg på bak scenen til Band Tour Alta.\nPåmeldingsfrist: 21.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfredag 11. desember kl. 18:00 - 20:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist – delta: 21.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-bandtouralta",
-      "end": null,
-      "expires": "2026-12-11T20:00:00+01:00",
-      "id": "9826-bak-scenen-frist",
-      "kind": "backstage_deadline",
-      "location": "Skoleveien 14, Alta",
-      "parent_uid": "ukm-arrangement-9826@ukm-kalendere",
-      "start": "2026-11-21T23:59:00+01:00",
-      "status": "CONFIRMED",
-      "title": "Påmeldingsfrist bak scenen – Band Tour Alta",
-      "uid": "ukm-bak-scenen-frist-9826@ukm-kalendere",
-      "url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta"
     },
     {
       "all_day": false,
@@ -551,24 +569,6 @@
     {
       "all_day": false,
       "calendars": [
-        "vestland"
-      ],
-      "description": "Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPåmeldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
-      "end": null,
-      "expires": "2027-02-06T18:00:00+01:00",
-      "id": "9820-bak-scenen-frist",
-      "kind": "backstage_deadline",
-      "location": "Årdal Kulturhus",
-      "parent_uid": "ukm-arrangement-9820@ukm-kalendere",
-      "start": "2027-02-05T23:59:00+01:00",
-      "status": "CONFIRMED",
-      "title": "Påmeldingsfrist bak scenen – UKM Årdal 2027",
-      "uid": "ukm-bak-scenen-frist-9820@ukm-kalendere",
-      "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
-    },
-    {
-      "all_day": false,
-      "calendars": [
         "rogaland"
       ],
       "description": "Frist for å melde seg på bak scenen til Sola 2027.\nPåmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nSola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
@@ -583,6 +583,24 @@
       "title": "Påmeldingsfrist bak scenen – Sola 2027",
       "uid": "ukm-bak-scenen-frist-9973@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Årdal 2027.\nPåmeldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Årdal 2027\n\nlørdag 6. februar kl. 17:00 - 19:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
+      "end": null,
+      "expires": "2027-02-06T19:00:00+01:00",
+      "id": "9820-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Årdal Kulturhus",
+      "parent_uid": "ukm-arrangement-9820@ukm-kalendere",
+      "start": "2027-02-05T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Årdal 2027",
+      "uid": "ukm-bak-scenen-frist-9820@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
     },
     {
       "all_day": false,
@@ -805,7 +823,7 @@
       "calendars": [
         "akershus"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM Nittedal 2027.\nPåmeldingsfrist: 24.01.2027 kl. 23:59 (norsk tid).\n\nUKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no\n\nPåmeldingsfrist – delta: 06.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
+      "description": "Frist for å melde seg på bak scenen til UKM Nittedal 2027.\nPåmeldingsfrist: 24.01.2027 kl. 23:59 (norsk tid).\n\nUKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nUKM Nittedal 2027finner sted i Kulturverket Flammen søndag 14.februar med prøver i dagene før.\nAlle ungdommer født 2008-2016 inviteres til å ta steget opp på scenen med alt vi kan putte på en scene. Danse alene eller i gruppe, spille teater, synge eller spille med husbandet vårt eller akkompagnatør, fremføre egne låter med bandet ditt, gjøre standup, spille med ensemblet ditt, fotballtriksing/turnoppvisning etc, er du kunstner som vil bidra på utstillingen, eller er du den fødte konferansier. Alt er mulig. Bli med og vær artist på Nittedals største scene med profesjonelt lyd og lys.\nDet er mulig også å bidra bak scenen, men sceneteknikk, lyd/lys, mentor for deltakerne. Så mange muligheter. Meld deg på senest 24.januar 2027.\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no\n\nPåmeldingsfrist – delta: 06.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
       "end": null,
       "expires": "2027-02-14T22:00:00+01:00",
       "id": "9919-bak-scenen-frist",
@@ -2369,95 +2387,7 @@
         "calendars": [
           "trondelag"
         ],
-        "description": "Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nOppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nPåmelding – Oppdal: https://delta.ukm.no/ukmid/pamelding/5021-9963/\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal",
-        "end": "2026-11-06T22:00:00+01:00",
-        "expires": "2026-11-06T22:00:00+01:00",
-        "id": "9963",
-        "location": ", Oppdal",
-        "start": "2026-11-06T18:00:00+01:00",
-        "status": "CONFIRMED",
-        "title": "Kickoff på Oppdal",
-        "uid": "ukm-arrangement-9963@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2026-oppdal-kickoffpaoppdal"
-      },
-      "page": {
-        "displayed_times": [
-          "18:00",
-          "22:00"
-        ],
-        "text": "Kickoff på Oppdal\n\nfredag 6. november kl. 18:00 - 22:00\n\nOppdal\n\nhttps://delta.ukm.no/ukmid/pamelding/5021-9962/\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no",
-        "title": "Kickoff på Oppdal"
-      },
-      "raw": {
-        "beskrivelse": "",
-        "fylke": {
-          "active": true,
-          "attributes": null,
-          "fake": false,
-          "id": 50,
-          "kommuner": {
-            "id": null
-          },
-          "link": "trondelag",
-          "navn": "Trøndelag - Trööndelage",
-          "nettverk_omrade": null
-        },
-        "id": 9963,
-        "kommuner": [
-          {
-            "fylke_id": 50,
-            "fylke_navn": "Trøndelag - Trööndelage",
-            "id": 5021,
-            "navn": "Oppdal",
-            "path": "/oppdal/"
-          }
-        ],
-        "navn": "Kickoff på Oppdal",
-        "paamelding_lenker": [
-          {
-            "id": 5021,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/5021-9963/",
-            "type": "kommune"
-          }
-        ],
-        "paameldingsfrist_1": 1800623675,
-        "paameldingsfrist_1_date": {
-          "date": "2027-01-22 13:14:35.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "paameldingsfrist_2": 1800623675,
-        "paameldingsfrist_2_date": {
-          "date": "2027-01-22 13:14:35.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "path": "2026-oppdal-kickoffpaoppdal",
-        "start": 1793988000,
-        "start_date": {
-          "date": "2026-11-06 18:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "sted": "",
-        "stop": 1794002400,
-        "stop_date": {
-          "date": "2026-11-06 22:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "type": "kommune",
-        "url": "https://sys.ukm.no/2026-oppdal-kickoffpaoppdal/",
-        "utvidet_gui": false
-      }
-    },
-    {
-      "event": {
-        "all_day": false,
-        "calendars": [
-          "trondelag"
-        ],
-        "description": "Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOppdal kulturhus\n\nOppdal\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1800x838.jpeg\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nArrangementsbilde: https://sys.ukm.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1200x559.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff",
+        "description": "Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOppdal kulturhus\n\nOppdal\n\nVelkommen til UKM Kickoff på Oppdal! Vi starter 2027 med et pangstart med lokal festival 28.-30. januar! Vi ses på Ungdomsklubben den 6. November for info, morsomheter og litt snacks. Her får du også hjelp til å melde deg på, muligheter til å knytte kontakter og tid til å forme mulige innslag🥳\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1200x559.jpeg\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff",
         "end": "2026-11-06T21:00:00+01:00",
         "expires": "2026-11-06T21:00:00+01:00",
         "id": "9964",
@@ -2473,11 +2403,11 @@
           "19:00",
           "21:00"
         ],
-        "text": "Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOppdal kulturhus\n\nOppdal\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1800x838.jpeg\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no",
+        "text": "Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOppdal kulturhus\n\nOppdal\n\nVelkommen til UKM Kickoff på Oppdal! Vi starter 2027 med et pangstart med lokal festival 28.-30. januar! Vi ses på Ungdomsklubben den 6. November for info, morsomheter og litt snacks. Her får du også hjelp til å melde deg på, muligheter til å knytte kontakter og tid til å forme mulige innslag🥳\n\nOppdal - Kickoff: https://sys.ukm.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1200x559.jpeg\n\nKontaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kommune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppdal.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@oppdal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.furunes@oppdal.kommune.no",
         "title": "Oppdal - Kickoff"
       },
       "raw": {
-        "beskrivelse": "",
+        "beskrivelse": "Velkommen til UKM Kickoff på Oppdal! Vi starter 2027 med et pangstart med lokal festival 28.-30. januar! Vi ses på Ungdomsklubben den 6. November for info, morsomheter og litt snacks. Her får du også hjelp til å melde deg på, muligheter til å knytte kontakter og tid til å forme mulige innslag🥳",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -2961,6 +2891,94 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "finnmark"
+        ],
+        "description": "Band Tour Alta\n\nfredag 13. november kl. 16:00 - 21:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-bandtouralta",
+        "end": "2026-11-13T21:00:00+01:00",
+        "expires": "2026-11-13T21:00:00+01:00",
+        "id": "9826",
+        "location": "Skoleveien 14, Alta",
+        "start": "2026-11-13T16:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Band Tour Alta",
+        "uid": "ukm-arrangement-9826@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta"
+      },
+      "page": {
+        "displayed_times": [
+          "16:00",
+          "21:00"
+        ],
+        "text": "Band Tour Alta\n\nfredag 13. november kl. 16:00 - 21:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no",
+        "title": "Band Tour Alta"
+      },
+      "raw": {
+        "beskrivelse": "🎸 UKM BAND TOUR KOMMER TIL ALTA!\r\n\r\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\r\n\r\n🎶 BLI MED LOKALT I ALTA\r\nNår UKM Band Tour kommer til Huset, trenger vi deg!\r\n\r\nVi søker deg som ønsker å være med som:\r\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min. \r\n🎥 Media (foto, film og innhold til sosiale medier)\r\n🛠️ Arrangør (markedsføring/gjennomføring)\r\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\r\n🎤 Konferansier\r\n\r\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\r\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\r\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen. \r\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\r\n\r\n🤘Vi gleder oss til å se deg! 🎶🔥",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 56,
+          "kommuner": {
+            "id": null
+          },
+          "link": "finnmark",
+          "navn": "Finnmark - Finnmárku - Finmarkku",
+          "nettverk_omrade": null
+        },
+        "id": 9826,
+        "kommuner": [
+          {
+            "fylke_id": 56,
+            "fylke_navn": "Finnmark - Finnmárku - Finmarkku",
+            "id": 5601,
+            "navn": "Alta",
+            "path": "/alta/"
+          }
+        ],
+        "navn": "Band Tour Alta",
+        "paamelding_lenker": [
+          {
+            "id": 5601,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5601-9826/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1795305540,
+        "paameldingsfrist_1_date": {
+          "date": "2026-11-21 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1795305540,
+        "paameldingsfrist_2_date": {
+          "date": "2026-11-21 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-alta-bandtouralta",
+        "start": 1794585600,
+        "start_date": {
+          "date": "2026-11-13 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Skoleveien 14",
+        "stop": 1794603600,
+        "stop_date": {
+          "date": "2026-11-13 21:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-alta-bandtouralta/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "trondelag"
         ],
         "description": "Kickoff Trondheim-Tråante\n\nfredag 13. november kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\nMer info kommer :)\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
@@ -3218,6 +3236,270 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2026-kongsberg-krasjkursibandhvittingfoss/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "finnmark"
+        ],
+        "description": "UKM Band Tour Nordkapp\n\nlørdag 14. november kl. 16:00 - 22:00\n\nHonningsvåg Samfunnshus\n\nNordkapp\n\n🎸 UKM BAND TOUR KOMMER TIL HONNINGSVÅG!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Honningsvåg! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Honningsvåg, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 20 minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5620-9994/\n\nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.borvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: thomas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190\nE-post: oystein.skarset@nordkapp.kommune.no\n\nPåmeldingsfrist – delta: 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-nordkapp-nordkapp",
+        "end": "2026-11-14T22:00:00+01:00",
+        "expires": "2026-11-14T22:00:00+01:00",
+        "id": "9994",
+        "location": "Honningsvåg Samfunnshus, Nordkapp",
+        "start": "2026-11-14T16:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM Band Tour Nordkapp",
+        "uid": "ukm-arrangement-9994@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-nordkapp-nordkapp"
+      },
+      "page": {
+        "displayed_times": [
+          "16:00",
+          "22:00"
+        ],
+        "text": "UKM Band Tour Nordkapp\n\nlørdag 14. november kl. 16:00 - 22:00\n\nHonningsvåg Samfunnshus\n\nNordkapp\n\n🎸 UKM BAND TOUR KOMMER TIL HONNINGSVÅG!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Honningsvåg! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Honningsvåg, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 20 minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5620-9994/\n\nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.borvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: thomas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190\nE-post: oystein.skarset@nordkapp.kommune.no",
+        "title": "UKM Band Tour Nordkapp"
+      },
+      "raw": {
+        "beskrivelse": "🎸 UKM BAND TOUR KOMMER TIL HONNINGSVÅG!\r\n\r\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Honningsvåg! 🔥\r\n\r\n🎶 BLI MED LOKALT\r\nNår UKM Band Tour kommer til Honningsvåg, trenger vi folk som vil bidra til å gjennomføre arrangementet.\r\n\r\nVi søker deg som ønsker å være med som:\r\n🎤 Musiker eller band\r\n🎥 Media (foto, film og innhold til sosiale medier)\r\n🛠️ Arrangør\r\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\r\n\r\nVIKTIG! For å være med som band må dere ha minimum 20 minutter med låter.\r\n\r\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\r\n\r\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\r\n\r\nVi gleder oss til å se deg! 🎶🔥",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 56,
+          "kommuner": {
+            "id": null
+          },
+          "link": "finnmark",
+          "navn": "Finnmark - Finnmárku - Finmarkku",
+          "nettverk_omrade": null
+        },
+        "id": 9994,
+        "kommuner": [
+          {
+            "fylke_id": 56,
+            "fylke_navn": "Finnmark - Finnmárku - Finmarkku",
+            "id": 5620,
+            "navn": "Nordkapp",
+            "path": "/nordkapp/"
+          }
+        ],
+        "navn": "UKM Band Tour Nordkapp",
+        "paamelding_lenker": [
+          {
+            "id": 5620,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5620-9994/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1794355140,
+        "paameldingsfrist_1_date": {
+          "date": "2026-11-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1794355140,
+        "paameldingsfrist_2_date": {
+          "date": "2026-11-10 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-nordkapp-nordkapp",
+        "start": 1794672000,
+        "start_date": {
+          "date": "2026-11-14 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Honningsvåg Samfunnshus",
+        "stop": 1794693600,
+        "stop_date": {
+          "date": "2026-11-14 22:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-nordkapp-nordkapp/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "finnmark"
+        ],
+        "description": "Band Tour Lakselv\n\nsøndag 15. november kl. 12:30 - 16:30\n\nHos Magnus\n\nPorsanger - Porsángu - Porsanki\n\n🎸 UKM BAND TOUR KOMMER TIL LAKSELV!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Lakselv! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Lakselv, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 15minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9997/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nPer Inge Heitmann Olsen\nTelefon: 40440544\nE-post: per.olsen@nesseby.kommune.no\n\nPåmeldingsfrist – delta: 11.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
+        "end": "2026-11-15T16:30:00+01:00",
+        "expires": "2026-11-15T16:30:00+01:00",
+        "id": "9997",
+        "location": "Hos Magnus, Porsanger - Porsángu - Porsanki",
+        "start": "2026-11-15T12:30:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Band Tour Lakselv",
+        "uid": "ukm-arrangement-9997@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv"
+      },
+      "page": {
+        "displayed_times": [
+          "12:30",
+          "16:30"
+        ],
+        "text": "Band Tour Lakselv\n\nsøndag 15. november kl. 12:30 - 16:30\n\nHos Magnus\n\nPorsanger - Porsángu - Porsanki\n\n🎸 UKM BAND TOUR KOMMER TIL LAKSELV!\n\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Lakselv! 🔥\n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Lakselv, trenger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere ha minimum 15minutter med låter.\n\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9997/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nPer Inge Heitmann Olsen\nTelefon: 40440544\nE-post: per.olsen@nesseby.kommune.no",
+        "title": "Band Tour Lakselv"
+      },
+      "raw": {
+        "beskrivelse": "🎸 UKM BAND TOUR KOMMER TIL LAKSELV!\r\n\r\nUKM Band Tour er en turné der unge musikere fra Finnmark reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Lakselv! 🔥\r\n\r\n🎶 BLI MED LOKALT\r\nNår UKM Band Tour kommer til Lakselv, trenger vi folk som vil bidra til å gjennomføre arrangementet.\r\n\r\nVi søker deg som ønsker å være med som:\r\n🎤 Musiker eller band\r\n🎥 Media (foto, film og innhold til sosiale medier)\r\n🛠️ Arrangør\r\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\r\n\r\nVIKTIG! For å være med som band må dere ha minimum 15minutter med låter.\r\n\r\nDette er en unik mulighet til å spille konsert på en profesjonell scene, møte nye folk og bidra til å skape en bra opplevelse!\r\n\r\nEnten du vil stå på scenen, jobbe med lyd og lys, lage innhold eller bidra som arrangør, håper vi du blir med når UKM Band Tour kommer til dere.\r\n\r\nVi gleder oss til å se deg! 🎶🔥",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 56,
+          "kommuner": {
+            "id": null
+          },
+          "link": "finnmark",
+          "navn": "Finnmark - Finnmárku - Finmarkku",
+          "nettverk_omrade": null
+        },
+        "id": 9997,
+        "kommuner": [
+          {
+            "fylke_id": 56,
+            "fylke_navn": "Finnmark - Finnmárku - Finmarkku",
+            "id": 5622,
+            "navn": "Porsanger - Porsángu - Porsanki",
+            "path": "/porsanger-porsgu-porsanki/"
+          }
+        ],
+        "navn": "Band Tour Lakselv",
+        "paamelding_lenker": [
+          {
+            "id": 5622,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5622-9997/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1794441540,
+        "paameldingsfrist_1_date": {
+          "date": "2026-11-11 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1794527940,
+        "paameldingsfrist_2_date": {
+          "date": "2026-11-12 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
+        "start": 1794745800,
+        "start_date": {
+          "date": "2026-11-15 12:30:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Hos Magnus",
+        "stop": 1794760200,
+        "stop_date": {
+          "date": "2026-11-15 16:30:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "finnmark"
+        ],
+        "description": "Porsanger - Porsángu - Porsanki\n\nsøndag 15. november kl. 18:00 - 22:00\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9996/\n\nKontaktpersoner\nKristine Thomassen\nTelefon: 41385044\nE-post: kristine.thomassen@porsanger.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki",
+        "end": "2026-11-15T22:00:00+01:00",
+        "expires": "2026-11-15T22:00:00+01:00",
+        "id": "9996",
+        "location": ", Porsanger - Porsángu - Porsanki",
+        "start": "2026-11-15T18:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Porsanger - Porsángu - Porsanki",
+        "uid": "ukm-arrangement-9996@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "22:00"
+        ],
+        "text": "Porsanger - Porsángu - Porsanki\n\nsøndag 15. november kl. 18:00 - 22:00\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9996/\n\nKontaktpersoner\nKristine Thomassen\nTelefon: 41385044\nE-post: kristine.thomassen@porsanger.kommune.no",
+        "title": "Porsanger - Porsángu - Porsanki"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 56,
+          "kommuner": {
+            "id": null
+          },
+          "link": "finnmark",
+          "navn": "Finnmark - Finnmárku - Finmarkku",
+          "nettverk_omrade": null
+        },
+        "id": 9996,
+        "kommuner": [
+          {
+            "fylke_id": 56,
+            "fylke_navn": "Finnmark - Finnmárku - Finmarkku",
+            "id": 5622,
+            "navn": "Porsanger - Porsángu - Porsanki",
+            "path": "/porsanger-porsgu-porsanki/"
+          }
+        ],
+        "navn": "Porsanger - Porsángu - Porsanki",
+        "paamelding_lenker": [
+          {
+            "id": 5622,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5622-9996/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1801316650,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-30 13:44:10.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801316650,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-30 13:44:10.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki",
+        "start": 1794765600,
+        "start_date": {
+          "date": "2026-11-15 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "",
+        "stop": 1794780000,
+        "stop_date": {
+          "date": "2026-11-15 22:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki/",
         "utvidet_gui": false
       }
     },
@@ -3987,87 +4269,87 @@
       "event": {
         "all_day": false,
         "calendars": [
-          "finnmark"
+          "troms"
         ],
-        "description": "Band Tour Alta\n\nfredag 11. desember kl. 18:00 - 20:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist – delta: 21.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-bandtouralta",
-        "end": "2026-12-11T20:00:00+01:00",
-        "expires": "2026-12-11T20:00:00+01:00",
-        "id": "9826",
-        "location": "Skoleveien 14, Alta",
-        "start": "2026-12-11T18:00:00+01:00",
+        "description": "Kick-off i Harstad\n\nlørdag 5. desember kl. 11:00 - søndag 6. desember kl. 18:00\n\nHarstad Fritidssenter\n\nHarstad - Hárstták\n\nEt påfyll med inspirasjon til hva du kan melde på UKM 2027!\n\nVær sammen med andre og bli inspirert til å melde deg på UKM. Det blir flere verksteder du kan delta på og i tillegg lover vi god stemning og gratis mat!\n\nKick-off i Harstad: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-1210x1800.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9995/\n\nKontaktpersoner\nArne-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.kommune.no\n\nPåmeldingsfrist – delta: 30.11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-807x1200.jpeg\nArrangementsside: https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
+        "end": "2026-12-06T18:00:00+01:00",
+        "expires": "2026-12-06T18:00:00+01:00",
+        "id": "9995",
+        "location": "Harstad Fritidssenter, Harstad - Hárstták",
+        "start": "2026-12-05T11:00:00+01:00",
         "status": "CONFIRMED",
-        "title": "Band Tour Alta",
-        "uid": "ukm-arrangement-9826@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta"
+        "title": "Kick-off i Harstad",
+        "uid": "ukm-arrangement-9995@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad"
       },
       "page": {
         "displayed_times": [
-          "18:00",
-          "20:00"
+          "11:00",
+          "18:00"
         ],
-        "text": "Band Tour Alta\n\nfredag 11. desember kl. 18:00 - 20:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til Huset, trenger vi deg!\n\nVi søker deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no",
-        "title": "Band Tour Alta"
+        "text": "Kick-off i Harstad\n\nlørdag 5. desember kl. 11:00 - søndag 6. desember kl. 18:00\n\nHarstad Fritidssenter\n\nHarstad - Hárstták\n\nEt påfyll med inspirasjon til hva du kan melde på UKM 2027!\n\nVær sammen med andre og bli inspirert til å melde deg på UKM. Det blir flere verksteder du kan delta på og i tillegg lover vi god stemning og gratis mat!\n\nKick-off i Harstad: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-1210x1800.jpeg\n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9995/\n\nKontaktpersoner\nArne-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.kommune.no",
+        "title": "Kick-off i Harstad"
       },
       "raw": {
-        "beskrivelse": "🎸 UKM BAND TOUR KOMMER TIL ALTA!\r\n\r\nUKM Band Tour er en turné der band reiser sammen på buss, spiller konserter, møter andre musikkinteresserte og får oppleve hvordan det er å være på turné. Band Tour besøker flere steder i Finnmark, og turneen kommer også til Alta! 🔥\r\n\r\n🎶 BLI MED LOKALT I ALTA\r\nNår UKM Band Tour kommer til Huset, trenger vi deg!\r\n\r\nVi søker deg som ønsker å være med som:\r\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min. \r\n🎥 Media (foto, film og innhold til sosiale medier)\r\n🛠️ Arrangør (markedsføring/gjennomføring)\r\n🔊 Teknikk og rigg (scene, lyd, lys og praktisk gjennomføring)\r\n🎤 Konferansier\r\n\r\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSEN?\r\nDersom du ønsker å være med på hele turneen og reise mellom flere steder i Finnmark, må du melde deg på UKM Band Tour 2026.\r\n👉 Søk opp UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen. \r\nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour\r\n\r\n🤘Vi gleder oss til å se deg! 🎶🔥",
+        "beskrivelse": "Et påfyll med inspirasjon til hva du kan melde på UKM 2027!\r\n\r\nVær sammen med andre og bli inspirert til å melde deg på UKM. Det blir flere verksteder du kan delta på og i tillegg lover vi god stemning og gratis mat!",
         "fylke": {
           "active": true,
           "attributes": null,
           "fake": false,
-          "id": 56,
+          "id": 55,
           "kommuner": {
             "id": null
           },
-          "link": "finnmark",
-          "navn": "Finnmark - Finnmárku - Finmarkku",
+          "link": "troms",
+          "navn": "Troms - Romsa - Tromssa",
           "nettverk_omrade": null
         },
-        "id": 9826,
+        "id": 9995,
         "kommuner": [
           {
-            "fylke_id": 56,
-            "fylke_navn": "Finnmark - Finnmárku - Finmarkku",
-            "id": 5601,
-            "navn": "Alta",
-            "path": "/alta/"
+            "fylke_id": 55,
+            "fylke_navn": "Troms - Romsa - Tromssa",
+            "id": 5503,
+            "navn": "Harstad - Hárstták",
+            "path": "/harstad/"
           }
         ],
-        "navn": "Band Tour Alta",
+        "navn": "Kick-off i Harstad",
         "paamelding_lenker": [
           {
-            "id": 5601,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/5601-9826/",
+            "id": 5503,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5503-9995/",
             "type": "kommune"
           }
         ],
-        "paameldingsfrist_1": 1795305540,
+        "paameldingsfrist_1": 1796083140,
         "paameldingsfrist_1_date": {
-          "date": "2026-11-21 23:59:00.000000",
+          "date": "2026-11-30 23:59:00.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
-        "paameldingsfrist_2": 1795305540,
+        "paameldingsfrist_2": 1801316403,
         "paameldingsfrist_2_date": {
-          "date": "2026-11-21 23:59:00.000000",
+          "date": "2027-01-30 13:40:03.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
-        "path": "2026-alta-bandtouralta",
-        "start": 1797012000,
+        "path": "2026-harstad-hrsttk-ukmkick-offiharstad",
+        "start": 1796468400,
         "start_date": {
-          "date": "2026-12-11 18:00:00.000000",
+          "date": "2026-12-05 11:00:00.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
-        "sted": "Skoleveien 14",
-        "stop": 1797019200,
+        "sted": "Harstad Fritidssenter",
+        "stop": 1796580000,
         "stop_date": {
-          "date": "2026-12-11 20:00:00.000000",
+          "date": "2026-12-06 18:00:00.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
         "type": "kommune",
-        "url": "https://sys.ukm.no/2026-alta-bandtouralta/",
+        "url": "https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/",
         "utvidet_gui": false
       }
     },
@@ -5800,94 +6082,6 @@
       "event": {
         "all_day": false,
         "calendars": [
-          "vestland"
-        ],
-        "description": "UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
-        "end": "2027-02-06T18:00:00+01:00",
-        "expires": "2027-02-06T18:00:00+01:00",
-        "id": "9820",
-        "location": "Årdal Kulturhus",
-        "start": "2027-02-06T15:00:00+01:00",
-        "status": "CONFIRMED",
-        "title": "UKM Årdal 2027",
-        "uid": "ukm-arrangement-9820@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
-      },
-      "page": {
-        "displayed_times": [
-          "15:00",
-          "18:00"
-        ],
-        "text": "UKM Årdal 2027\n\nlørdag 6. februar kl. 15:00 - 18:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-1441x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no",
-        "title": "UKM Årdal 2027"
-      },
-      "raw": {
-        "beskrivelse": "UKM Årdal 2027\r\n\r\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\r\n\r\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\r\n\r\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\r\n\r\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!",
-        "fylke": {
-          "active": true,
-          "attributes": null,
-          "fake": false,
-          "id": 46,
-          "kommuner": {
-            "id": null
-          },
-          "link": "vestland",
-          "navn": "Vestland",
-          "nettverk_omrade": null
-        },
-        "id": 9820,
-        "kommuner": [
-          {
-            "fylke_id": 46,
-            "fylke_navn": "Vestland",
-            "id": 4643,
-            "navn": "Årdal",
-            "path": "/ardal/"
-          }
-        ],
-        "navn": "UKM Årdal 2027",
-        "paamelding_lenker": [
-          {
-            "id": 4643,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/4643-9820/",
-            "type": "kommune"
-          }
-        ],
-        "paameldingsfrist_1": 1800143940,
-        "paameldingsfrist_1_date": {
-          "date": "2027-01-16 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "paameldingsfrist_2": 1801871940,
-        "paameldingsfrist_2_date": {
-          "date": "2027-02-05 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "path": "2027-ardal-ukmardal2027",
-        "start": 1801926000,
-        "start_date": {
-          "date": "2027-02-06 15:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "sted": "Årdal Kulturhus",
-        "stop": 1801936800,
-        "stop_date": {
-          "date": "2027-02-06 18:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "type": "kommune",
-        "url": "https://sys.ukm.no/2027-ardal-ukmardal2027/",
-        "utvidet_gui": false
-      }
-    },
-    {
-      "event": {
-        "all_day": false,
-        "calendars": [
           "rogaland"
         ],
         "description": "Sola 2027\n\nlørdag 6. februar kl. 15:00 - 16:30\n\nKongshaugvegen 32\n\nSola\n\nVelkommen til UKM på Sola kulturhus 6. februar!\n\nKontaktpersoner\nAlma Engelsvoll\nTelefon: 48148601\nE-post: alma.engelsvoll@sola.kommune.no\n\nAndreas Christensen\nTelefon: 92410527\nE-post: andreas.christensen@sola.kommune.no\n\nFeel Good\nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nKristian Fornes Høiland\nTelefon: 40600945\nE-post: kristian.fornes.hoiland@sola.kommune.no\n\nLive Marie Osa\nTelefon: 94438096\nE-post: live.marie.osa@sola.kommune.no\n\nMartin Løland\nTelefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nTrine Ottosen\nTelefon: 40471848\nE-post: trine.royrhus.ottosen@sola.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
@@ -5961,6 +6155,94 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-sola-ukmsola2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "vestland"
+        ],
+        "description": "UKM Årdal 2027\n\nlørdag 6. februar kl. 17:00 - 19:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no\n\nUKM Årdal 2027\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nPåmeldingsfrist – delta: 16.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
+        "end": "2027-02-06T19:00:00+01:00",
+        "expires": "2027-02-06T19:00:00+01:00",
+        "id": "9820",
+        "location": "Årdal Kulturhus",
+        "start": "2027-02-06T17:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM Årdal 2027",
+        "uid": "ukm-arrangement-9820@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027"
+      },
+      "page": {
+        "displayed_times": [
+          "17:00",
+          "19:00"
+        ],
+        "text": "UKM Årdal 2027\n\nlørdag 6. februar kl. 17:00 - 19:00\n\nÅrdal Kulturhus\n\nÅrdal\n\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\n\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\n\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\n\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!\n\nUKM Årdal 2027: https://sys.ukm.no/2027-ardal-ukmardal2027/files/2026/08/Ardal-kommune-960x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4643-9820/\n\nKontaktpersoner\nThor Øyvind Nordby\nTelefon: 47036380\nE-post: thor.oyvind.nordby@ardal.kommune.no",
+        "title": "UKM Årdal 2027"
+      },
+      "raw": {
+        "beskrivelse": "UKM Årdal 2027\r\n\r\nUKM Årdal er møteplassen for unge som vil vise fram det dei brenn for! Her kan du delta med musikk, dans, teater, kunst, film, foto eller andre kreative uttrykk.\r\n\r\nUKM er for ungdom frå 10 til 20 år, og du treng ikkje vere profesjonell – det viktigaste er at du har lyst til å skape, delta og vere ein del av eit kreativt fellesskap.\r\n\r\nUKM Årdal 2027 blir arrangert i Årdal kulturhus. Nokre av deltakarane får også moglegheit til å representere Årdal vidare på UKM sin fylkesfestival.\r\n\r\nBli med på UKM Årdal 2027 – vi vil sjå kva du skapar!",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 46,
+          "kommuner": {
+            "id": null
+          },
+          "link": "vestland",
+          "navn": "Vestland",
+          "nettverk_omrade": null
+        },
+        "id": 9820,
+        "kommuner": [
+          {
+            "fylke_id": 46,
+            "fylke_navn": "Vestland",
+            "id": 4643,
+            "navn": "Årdal",
+            "path": "/ardal/"
+          }
+        ],
+        "navn": "UKM Årdal 2027",
+        "paamelding_lenker": [
+          {
+            "id": 4643,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/4643-9820/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1800143940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-16 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801871940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-02-05 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-ardal-ukmardal2027",
+        "start": 1801933200,
+        "start_date": {
+          "date": "2027-02-06 17:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Årdal Kulturhus",
+        "stop": 1801940400,
+        "stop_date": {
+          "date": "2027-02-06 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-ardal-ukmardal2027/",
         "utvidet_gui": false
       }
     },
@@ -7040,7 +7322,7 @@
         "calendars": [
           "akershus"
         ],
-        "description": "UKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no\n\nPåmeldingsfrist – delta: 06.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
+        "description": "UKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nUKM Nittedal 2027finner sted i Kulturverket Flammen søndag 14.februar med prøver i dagene før.\nAlle ungdommer født 2008-2016 inviteres til å ta steget opp på scenen med alt vi kan putte på en scene. Danse alene eller i gruppe, spille teater, synge eller spille med husbandet vårt eller akkompagnatør, fremføre egne låter med bandet ditt, gjøre standup, spille med ensemblet ditt, fotballtriksing/turnoppvisning etc, er du kunstner som vil bidra på utstillingen, eller er du den fødte konferansier. Alt er mulig. Bli med og vær artist på Nittedals største scene med profesjonelt lyd og lys.\nDet er mulig også å bidra bak scenen, men sceneteknikk, lyd/lys, mentor for deltakerne. Så mange muligheter. Meld deg på senest 24.januar 2027.\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no\n\nPåmeldingsfrist – delta: 06.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
         "end": "2027-02-14T22:00:00+01:00",
         "expires": "2027-02-14T22:00:00+01:00",
         "id": "9919",
@@ -7056,11 +7338,11 @@
           "16:00",
           "22:00"
         ],
-        "text": "UKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no",
+        "text": "UKM Nittedal 2027\n\nsøndag 14. februar kl. 16:00 - 22:00\n\nNittedal\n\nUKM Nittedal 2027finner sted i Kulturverket Flammen søndag 14.februar med prøver i dagene før.\nAlle ungdommer født 2008-2016 inviteres til å ta steget opp på scenen med alt vi kan putte på en scene. Danse alene eller i gruppe, spille teater, synge eller spille med husbandet vårt eller akkompagnatør, fremføre egne låter med bandet ditt, gjøre standup, spille med ensemblet ditt, fotballtriksing/turnoppvisning etc, er du kunstner som vil bidra på utstillingen, eller er du den fødte konferansier. Alt er mulig. Bli med og vær artist på Nittedals største scene med profesjonelt lyd og lys.\nDet er mulig også å bidra bak scenen, men sceneteknikk, lyd/lys, mentor for deltakerne. Så mange muligheter. Meld deg på senest 24.januar 2027.\n\nKontaktpersoner\nAnne Mette Johannesen\nTelefon: 97069596\nE-post: anne.mette.johannesen@nittedal.kommune.no\n\nChristina Dølven\nTelefon: 47867823\nE-post: christina.dolven@nittedal.kommune.no\n\nKari Moland\nKonferansier-ansvarlig\nTelefon: 41603727\nE-post: kari.moland@nittedal.kommune.no",
         "title": "UKM Nittedal 2027"
       },
       "raw": {
-        "beskrivelse": "",
+        "beskrivelse": "UKM Nittedal 2027finner sted i Kulturverket Flammen søndag 14.februar med prøver i dagene før. \r\nAlle ungdommer født 2008-2016 inviteres til å ta steget opp på scenen med alt vi kan putte på en scene. Danse alene eller i gruppe, spille teater, synge eller spille med husbandet vårt eller akkompagnatør, fremføre egne låter med bandet ditt, gjøre standup, spille med ensemblet ditt, fotballtriksing/turnoppvisning etc, er du kunstner som vil bidra på utstillingen, eller er du den fødte konferansier. Alt er mulig. Bli med og vær artist på Nittedals største scene med profesjonelt lyd og lys.\r\nDet er mulig også å bidra bak scenen, men sceneteknikk, lyd/lys, mentor for deltakerne. Så mange muligheter. Meld deg på senest 24.januar 2027.",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -12501,5 +12783,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-30T05:03:27.979301+00:00"
+  "generated_at": "2026-10-31T04:59:20.083362+00:00"
 }
