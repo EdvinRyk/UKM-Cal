@@ -163,6 +163,35 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9911@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9998@ukm-kalendere
+DTSTAMP:20261101T050556Z
+CREATED:20261101T050556Z
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:0
+DTSTART:20270131T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Valdres
+DESCRIPTION:Frist for å melde seg på bak scenen til Valdres.\nPåmeldings
+ frist: 31.01.2027 kl. 23:59 (norsk tid).\n\nValdres\n\nlørdag 6. mars kl.
+  18:00 - 22:00\n\nNord-Aurdal\, Etnedal\, Sør-Aurdal\, Vang\, Vestre Slid
+ re\, Øystre Slidre\n\nhttps://delta.ukm.no/ukmid/pamelding/3451-9998/\n\n
+ Kontaktpersoner\nØystein Hovrud\nTelefon: 98018229\nE-post: oystein.hovru
+ d@nord-aurdal.kommune.no\n\nPåmelding – Etnedal: https://delta.ukm.no/u
+ kmid/pamelding/3450-9998/\nPåmelding – Sør-Aurdal: https://delta.ukm.n
+ o/ukmid/pamelding/3449-9998/\nPåmelding – Vang: https://delta.ukm.no/uk
+ mid/pamelding/3454-9998/\nPåmelding – Vestre Slidre: https://delta.ukm.
+ no/ukmid/pamelding/3452-9998/\nPåmelding – Øystre Slidre: https://delt
+ a.ukm.no/ukmid/pamelding/3453-9998/\nPåmeldingsfrist – delta: 31.01.202
+ 7 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\n
+ Arrangementsside: https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmv
+ aldres
+LOCATION:\, Nord-Aurdal\, Etnedal\, Sør-Aurdal\, Vang\, Vestre Slidre\, Ø
+ ystre Slidre
+URL:https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9998@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9911@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -298,6 +327,33 @@ URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9802@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9998@ukm-kalendere
+DTSTAMP:20261101T050556Z
+CREATED:20261101T050556Z
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:0
+DTSTART:20270306T170000Z
+DTEND:20270306T210000Z
+SUMMARY:Valdres
+DESCRIPTION:Valdres\n\nlørdag 6. mars kl. 18:00 - 22:00\n\nNord-Aurdal\, E
+ tnedal\, Sør-Aurdal\, Vang\, Vestre Slidre\, Øystre Slidre\n\nhttps://de
+ lta.ukm.no/ukmid/pamelding/3451-9998/\n\nKontaktpersoner\nØystein Hovrud\
+ nTelefon: 98018229\nE-post: oystein.hovrud@nord-aurdal.kommune.no\n\nPåme
+ lding – Etnedal: https://delta.ukm.no/ukmid/pamelding/3450-9998/\nPåmel
+ ding – Sør-Aurdal: https://delta.ukm.no/ukmid/pamelding/3449-9998/\nPå
+ melding – Vang: https://delta.ukm.no/ukmid/pamelding/3454-9998/\nPåmeld
+ ing – Vestre Slidre: https://delta.ukm.no/ukmid/pamelding/3452-9998/\nP
+ åmelding – Øystre Slidre: https://delta.ukm.no/ukmid/pamelding/3453-99
+ 98/\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres
+LOCATION:\, Nord-Aurdal\, Etnedal\, Sør-Aurdal\, Vang\, Vestre Slidre\, Ø
+ ystre Slidre
+URL:https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9802@ukm-kalendere

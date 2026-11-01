@@ -297,20 +297,20 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9814@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9957@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261101T050556Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:1
 DTSTART:20270221T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Eigersund 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Eigersund 2027.\n
  Påmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nUKM Eigersund 2027\
  n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåm
- elding åpner søndag 1. november.\n\nKontaktpersoner\nRasmus Henriksen\nT
- elefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist 
- – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21
- .02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
- eigersund-eigersund
+ eldingen er åpen :)\n\nhttps://delta.ukm.no/ukmid/pamelding/1101-9957/\n\
+ nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersu
+ ndrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåme
+ ldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: 
+ https://www.ukm.no/arrangement/2027-eigersund-eigersund
 LOCATION:Egersund kino\, Eigersund
 URL:https://www.ukm.no/arrangement/2027-eigersund-eigersund
 STATUS:CONFIRMED
@@ -417,19 +417,20 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9892@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9957@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261101T050556Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:2
 DTSTART:20270306T120000Z
 DTEND:20270306T140000Z
 SUMMARY:UKM Eigersund 2027
 DESCRIPTION:UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEger
- sund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontak
- tpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrocke
- klubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsf
- rist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https:/
- /www.ukm.no/arrangement/2027-eigersund-eigersund
+ sund kino\n\nEigersund\n\nPåmeldingen er åpen :)\n\nhttps://delta.ukm.no
+ /ukmid/pamelding/1101-9957/\n\nKontaktpersoner\nRasmus Henriksen\nTelefon:
+  45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delt
+ a: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027
+  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersun
+ d-eigersund
 LOCATION:Egersund kino\, Eigersund
 URL:https://www.ukm.no/arrangement/2027-eigersund-eigersund
 STATUS:CONFIRMED

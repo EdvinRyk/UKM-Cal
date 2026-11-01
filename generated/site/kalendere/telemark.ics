@@ -149,6 +149,33 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9893@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9999@ukm-kalendere
+DTSTAMP:20261101T050556Z
+CREATED:20261101T050556Z
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:0
+DTSTART:20270131T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM TINN 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM TINN 2027.\nPåme
+ ldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nUKM TINN 2027\n\nlørdag
+  13. mars kl. 18:00 - 21:00\n\nRjukanhuset\n\nTinn\n\nUKM arrangement på 
+ Kinoscenen på Rjukanhuset.\n\nUKM TINN 2027: https://sys.ukm.no/2027-tinn
+ -ukmtinn2027/files/2026/10/Foto-til-inmeldingsplakat-1200x800.png\n\nhttps
+ ://delta.ukm.no/ukmid/pamelding/4026-9999/\n\nKontaktpersoner\nSigne Eira\
+ nTelefon: 45667207\nE-post: signeeira@kamerina.no\n\nKnut Nyheim\nArrangø
+ r\nTelefon: 97502693\nE-post: knutnyheim@kamerina.no\n\nJostein Dullum\nMe
+ darrangør\nTelefon: 46445464\nE-post: jostein.dullum@gmail.com\n\nMathias
+  Anderson\nMedarrangør\nTelefon: 48151388\nE-post: pixithepika@icloud.com
+ \n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist –
+  bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm
+ .no/arrangement/2027-tinn-ukmtinn2027
+LOCATION:Rjukanhuset\, Tinn
+URL:https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9999@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9884@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -319,6 +346,31 @@ DESCRIPTION:Tokke og Vinje\n\nlørdag 13. mars kl. 12:00 - 20:00\n\nVinjehu
  e: https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje
 LOCATION:Vinjehuset\, Tokke
 URL:https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9999@ukm-kalendere
+DTSTAMP:20261101T050556Z
+CREATED:20261101T050556Z
+LAST-MODIFIED:20261101T050556Z
+SEQUENCE:0
+DTSTART:20270313T170000Z
+DTEND:20270313T200000Z
+SUMMARY:UKM TINN 2027
+DESCRIPTION:UKM TINN 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nRjukanhu
+ set\n\nTinn\n\nUKM arrangement på Kinoscenen på Rjukanhuset.\n\nUKM TINN
+  2027: https://sys.ukm.no/2027-tinn-ukmtinn2027/files/2026/10/Foto-til-inm
+ eldingsplakat-1200x800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4026-99
+ 99/\n\nKontaktpersoner\nSigne Eira\nTelefon: 45667207\nE-post: signeeira@k
+ amerina.no\n\nKnut Nyheim\nArrangør\nTelefon: 97502693\nE-post: knutnyhei
+ m@kamerina.no\n\nJostein Dullum\nMedarrangør\nTelefon: 46445464\nE-post: 
+ jostein.dullum@gmail.com\n\nMathias Anderson\nMedarrangør\nTelefon: 48151
+ 388\nE-post: pixithepika@icloud.com\n\nPåmeldingsfrist – delta: 28.02.2
+ 027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59
+ \nArrangementsside: https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027
+LOCATION:Rjukanhuset\, Tinn
+URL:https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

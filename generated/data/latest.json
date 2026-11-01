@@ -1111,7 +1111,7 @@
       "calendars": [
         "rogaland"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM Eigersund 2027.\nPåmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nUKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersund-eigersund",
+      "description": "Frist for å melde seg på bak scenen til UKM Eigersund 2027.\nPåmeldingsfrist: 21.02.2027 kl. 23:59 (norsk tid).\n\nUKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmeldingen er åpen :)\n\nhttps://delta.ukm.no/ukmid/pamelding/1101-9957/\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersund-eigersund",
       "end": null,
       "expires": "2027-03-06T15:00:00+01:00",
       "id": "9957-bak-scenen-frist",
@@ -1195,6 +1195,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Sokndal 2027",
       "uid": "ukm-bak-scenen-frist-9874@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-sokndal-sokndal"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "innlandet"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Valdres.\nPåmeldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nValdres\n\nlørdag 6. mars kl. 18:00 - 22:00\n\nNord-Aurdal, Etnedal, Sør-Aurdal, Vang, Vestre Slidre, Øystre Slidre\n\nhttps://delta.ukm.no/ukmid/pamelding/3451-9998/\n\nKontaktpersoner\nØystein Hovrud\nTelefon: 98018229\nE-post: oystein.hovrud@nord-aurdal.kommune.no\n\nPåmelding – Etnedal: https://delta.ukm.no/ukmid/pamelding/3450-9998/\nPåmelding – Sør-Aurdal: https://delta.ukm.no/ukmid/pamelding/3449-9998/\nPåmelding – Vang: https://delta.ukm.no/ukmid/pamelding/3454-9998/\nPåmelding – Vestre Slidre: https://delta.ukm.no/ukmid/pamelding/3452-9998/\nPåmelding – Øystre Slidre: https://delta.ukm.no/ukmid/pamelding/3453-9998/\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres",
+      "end": null,
+      "expires": "2027-03-06T22:00:00+01:00",
+      "id": "9998-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Nord-Aurdal, Etnedal, Sør-Aurdal, Vang, Vestre Slidre, Øystre Slidre",
+      "parent_uid": "ukm-arrangement-9998@ukm-kalendere",
+      "start": "2027-01-31T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Valdres",
+      "uid": "ukm-bak-scenen-frist-9998@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres"
     },
     {
       "all_day": false,
@@ -1520,6 +1538,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Festival Molde - 2027",
       "uid": "ukm-bak-scenen-frist-9923@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "telemark"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM TINN 2027.\nPåmeldingsfrist: 31.01.2027 kl. 23:59 (norsk tid).\n\nUKM TINN 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nRjukanhuset\n\nTinn\n\nUKM arrangement på Kinoscenen på Rjukanhuset.\n\nUKM TINN 2027: https://sys.ukm.no/2027-tinn-ukmtinn2027/files/2026/10/Foto-til-inmeldingsplakat-1200x800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4026-9999/\n\nKontaktpersoner\nSigne Eira\nTelefon: 45667207\nE-post: signeeira@kamerina.no\n\nKnut Nyheim\nArrangør\nTelefon: 97502693\nE-post: knutnyheim@kamerina.no\n\nJostein Dullum\nMedarrangør\nTelefon: 46445464\nE-post: jostein.dullum@gmail.com\n\nMathias Anderson\nMedarrangør\nTelefon: 48151388\nE-post: pixithepika@icloud.com\n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027",
+      "end": null,
+      "expires": "2027-03-13T21:00:00+01:00",
+      "id": "9999-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Rjukanhuset, Tinn",
+      "parent_uid": "ukm-arrangement-9999@ukm-kalendere",
+      "start": "2027-01-31T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM TINN 2027",
+      "uid": "ukm-bak-scenen-frist-9999@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027"
     },
     {
       "all_day": false,
@@ -8878,7 +8914,7 @@
         "calendars": [
           "rogaland"
         ],
-        "description": "UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersund-eigersund",
+        "description": "UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmeldingen er åpen :)\n\nhttps://delta.ukm.no/ukmid/pamelding/1101-9957/\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-eigersund-eigersund",
         "end": "2027-03-06T15:00:00+01:00",
         "expires": "2027-03-06T15:00:00+01:00",
         "id": "9957",
@@ -8894,11 +8930,11 @@
           "13:00",
           "15:00"
         ],
-        "text": "UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmelding åpner søndag 1. november.\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no",
+        "text": "UKM Eigersund 2027\n\nlørdag 6. mars kl. 13:00 - 15:00\n\nEgersund kino\n\nEigersund\n\nPåmeldingen er åpen :)\n\nhttps://delta.ukm.no/ukmid/pamelding/1101-9957/\n\nKontaktpersoner\nRasmus Henriksen\nTelefon: 45292731\nE-post: post@egersundrockeklubb.no",
         "title": "UKM Eigersund 2027"
       },
       "raw": {
-        "beskrivelse": "Påmelding åpner søndag 1. november.",
+        "beskrivelse": "Påmeldingen er åpen :)",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -8920,7 +8956,13 @@
           }
         ],
         "navn": "UKM Eigersund 2027",
-        "paamelding_lenker": [],
+        "paamelding_lenker": [
+          {
+            "id": 1101,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/1101-9957/",
+            "type": "kommune"
+          }
+        ],
         "paameldingsfrist_1": 1803945540,
         "paameldingsfrist_1_date": {
           "date": "2027-03-01 23:59:00.000000",
@@ -9309,6 +9351,152 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-sokndal-sokndal/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "innlandet"
+        ],
+        "description": "Valdres\n\nlørdag 6. mars kl. 18:00 - 22:00\n\nNord-Aurdal, Etnedal, Sør-Aurdal, Vang, Vestre Slidre, Øystre Slidre\n\nhttps://delta.ukm.no/ukmid/pamelding/3451-9998/\n\nKontaktpersoner\nØystein Hovrud\nTelefon: 98018229\nE-post: oystein.hovrud@nord-aurdal.kommune.no\n\nPåmelding – Etnedal: https://delta.ukm.no/ukmid/pamelding/3450-9998/\nPåmelding – Sør-Aurdal: https://delta.ukm.no/ukmid/pamelding/3449-9998/\nPåmelding – Vang: https://delta.ukm.no/ukmid/pamelding/3454-9998/\nPåmelding – Vestre Slidre: https://delta.ukm.no/ukmid/pamelding/3452-9998/\nPåmelding – Øystre Slidre: https://delta.ukm.no/ukmid/pamelding/3453-9998/\nPåmeldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres",
+        "end": "2027-03-06T22:00:00+01:00",
+        "expires": "2027-03-06T22:00:00+01:00",
+        "id": "9998",
+        "location": ", Nord-Aurdal, Etnedal, Sør-Aurdal, Vang, Vestre Slidre, Øystre Slidre",
+        "start": "2027-03-06T18:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Valdres",
+        "uid": "ukm-arrangement-9998@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "22:00"
+        ],
+        "text": "Valdres\n\nlørdag 6. mars kl. 18:00 - 22:00\n\nNord-Aurdal, Etnedal, Sør-Aurdal, Vang, Vestre Slidre, Øystre Slidre\n\nhttps://delta.ukm.no/ukmid/pamelding/3451-9998/\n\nKontaktpersoner\nØystein Hovrud\nTelefon: 98018229\nE-post: oystein.hovrud@nord-aurdal.kommune.no",
+        "title": "Valdres"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 34,
+          "kommuner": null,
+          "link": "innlandet",
+          "navn": "Innlandet",
+          "nettverk_omrade": null
+        },
+        "id": 9998,
+        "kommuner": [
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3451,
+            "navn": "Nord-Aurdal",
+            "path": "/nord-aurdal/"
+          },
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3450,
+            "navn": "Etnedal",
+            "path": "/etnedal/"
+          },
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3449,
+            "navn": "Sør-Aurdal",
+            "path": "/sor-aurdal/"
+          },
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3454,
+            "navn": "Vang",
+            "path": "/vang/"
+          },
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3452,
+            "navn": "Vestre Slidre",
+            "path": "/vestreslidre/"
+          },
+          {
+            "fylke_id": 34,
+            "fylke_navn": "Innlandet",
+            "id": 3453,
+            "navn": "Øystre Slidre",
+            "path": "/oystreslidre/"
+          }
+        ],
+        "navn": "Valdres",
+        "paamelding_lenker": [
+          {
+            "id": 3451,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3451-9998/",
+            "type": "kommune"
+          },
+          {
+            "id": 3450,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3450-9998/",
+            "type": "kommune"
+          },
+          {
+            "id": 3449,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3449-9998/",
+            "type": "kommune"
+          },
+          {
+            "id": 3454,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3454-9998/",
+            "type": "kommune"
+          },
+          {
+            "id": 3452,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3452-9998/",
+            "type": "kommune"
+          },
+          {
+            "id": 3453,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3453-9998/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1801439940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-31 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801439940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-31 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-etnedal-nord-aurukmvaldres",
+        "start": 1804356000,
+        "start_date": {
+          "date": "2027-03-06 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "",
+        "stop": 1804370400,
+        "stop_date": {
+          "date": "2027-03-06 22:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-etnedal-nord-aurukmvaldres/",
         "utvidet_gui": false
       }
     },
@@ -10910,6 +11098,94 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-molde-ukmfestivalmolde-2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "telemark"
+        ],
+        "description": "UKM TINN 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nRjukanhuset\n\nTinn\n\nUKM arrangement på Kinoscenen på Rjukanhuset.\n\nUKM TINN 2027: https://sys.ukm.no/2027-tinn-ukmtinn2027/files/2026/10/Foto-til-inmeldingsplakat-1200x800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4026-9999/\n\nKontaktpersoner\nSigne Eira\nTelefon: 45667207\nE-post: signeeira@kamerina.no\n\nKnut Nyheim\nArrangør\nTelefon: 97502693\nE-post: knutnyheim@kamerina.no\n\nJostein Dullum\nMedarrangør\nTelefon: 46445464\nE-post: jostein.dullum@gmail.com\n\nMathias Anderson\nMedarrangør\nTelefon: 48151388\nE-post: pixithepika@icloud.com\n\nPåmeldingsfrist – delta: 28.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 31.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027",
+        "end": "2027-03-13T21:00:00+01:00",
+        "expires": "2027-03-13T21:00:00+01:00",
+        "id": "9999",
+        "location": "Rjukanhuset, Tinn",
+        "start": "2027-03-13T18:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM TINN 2027",
+        "uid": "ukm-arrangement-9999@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027"
+      },
+      "page": {
+        "displayed_times": [
+          "18:00",
+          "21:00"
+        ],
+        "text": "UKM TINN 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nRjukanhuset\n\nTinn\n\nUKM arrangement på Kinoscenen på Rjukanhuset.\n\nUKM TINN 2027: https://sys.ukm.no/2027-tinn-ukmtinn2027/files/2026/10/Foto-til-inmeldingsplakat-1200x800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4026-9999/\n\nKontaktpersoner\nSigne Eira\nTelefon: 45667207\nE-post: signeeira@kamerina.no\n\nKnut Nyheim\nArrangør\nTelefon: 97502693\nE-post: knutnyheim@kamerina.no\n\nJostein Dullum\nMedarrangør\nTelefon: 46445464\nE-post: jostein.dullum@gmail.com\n\nMathias Anderson\nMedarrangør\nTelefon: 48151388\nE-post: pixithepika@icloud.com",
+        "title": "UKM TINN 2027"
+      },
+      "raw": {
+        "beskrivelse": "UKM arrangement på Kinoscenen på Rjukanhuset.",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 40,
+          "kommuner": {
+            "id": null
+          },
+          "link": "telemark",
+          "navn": "Telemark",
+          "nettverk_omrade": null
+        },
+        "id": 9999,
+        "kommuner": [
+          {
+            "fylke_id": 40,
+            "fylke_navn": "Telemark",
+            "id": 4026,
+            "navn": "Tinn",
+            "path": "/tinn/"
+          }
+        ],
+        "navn": "UKM TINN 2027",
+        "paamelding_lenker": [
+          {
+            "id": 4026,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/4026-9999/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1803859140,
+        "paameldingsfrist_1_date": {
+          "date": "2027-02-28 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801439940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-31 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-tinn-ukmtinn2027",
+        "start": 1804960800,
+        "start_date": {
+          "date": "2027-03-13 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Rjukanhuset",
+        "stop": 1804971600,
+        "stop_date": {
+          "date": "2027-03-13 21:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-tinn-ukmtinn2027/",
         "utvidet_gui": false
       }
     },
@@ -12783,5 +13059,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-31T04:59:20.083362+00:00"
+  "generated_at": "2026-11-01T05:05:56.464609+00:00"
 }

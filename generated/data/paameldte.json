@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 124,
+  "antall_arrangementer": 126,
   "antall_deltakernavn_i_innslag": 117,
-  "antall_innslag": 224,
+  "antall_innslag": 227,
   "arrangementer": [
     {
       "antall_innslag": 1,
@@ -760,7 +760,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 16,
+      "antall_innslag": 17,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -858,6 +858,12 @@
           "beskrivelse": "Vi er ett nytt Brutal death metal band med relativt erfarte metal musikere fra asker område, vi tar mye inspo fra band som Cannibal Corpse, Dying Fetus, Cryptopsy, Men prøver og ha vår egen vreng på det. Vi består av 3 medlemmer. mange av sangene har mye tema om gore og psykiske lidelser.",
           "deltakernavn": [],
           "id": "261915",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Tre lidenskapelige musikere som startet Mars i fjor, og siden har jobbet med en EP. Vi er veldig glade i å spille konserter og lignende, og har litt erfaring rundt dette.",
+          "deltakernavn": [],
+          "id": "261991",
           "navn": "Musikk innslag"
         }
       ],
@@ -1544,10 +1550,17 @@
       "navn": "Karmøy"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9913",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-kongsberg",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Rebus og mentor",
+          "deltakernavn": [],
+          "id": "262010",
+          "navn": "Arrangør innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9913",
       "navn": "UKM Show Kongsberg"
     },
@@ -1893,6 +1906,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9874",
       "navn": "UKM Sokndal 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9998",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9998",
+      "navn": "Valdres"
     },
     {
       "antall_innslag": 0,
@@ -2254,7 +2275,7 @@
       "navn": "UKM Sandnes 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9923",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027",
       "innslag": [
@@ -2263,10 +2284,24 @@
           "deltakernavn": [],
           "id": "261975",
           "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Hey jeg hete moon men ja ej lika å danse og synge. Det her er min solo sanga det er bel air av Katseye skal jeg synge og andre sang er your under arrest av illit skal jeg bare danse og synge I det samme tid!",
+          "deltakernavn": [],
+          "id": "262042",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9923",
       "navn": "UKM Festival Molde - 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "9999",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-tinn-ukmtinn2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9999",
+      "navn": "UKM TINN 2027"
     },
     {
       "antall_innslag": 5,
@@ -2586,5 +2621,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-10-31T04:59:20.083362+00:00"
+  "oppdatert": "2026-11-01T05:05:56.464609+00:00"
 }
