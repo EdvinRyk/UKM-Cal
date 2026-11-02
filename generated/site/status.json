@@ -4,7 +4,7 @@
   "calendars": {
     "agder": 20,
     "akershus": 12,
-    "buskerud": 22,
+    "buskerud": 24,
     "finnmark": 10,
     "innlandet": 14,
     "moreogromsdal": 6,
@@ -17,12 +17,12 @@
     "troms": 11,
     "trondelag": 36,
     "vestfold": 5,
-    "vestland": 18
+    "vestland": 17
   },
   "deadline_calendars": {
     "agder": 8,
     "akershus": 6,
-    "buskerud": 9,
+    "buskerud": 10,
     "finnmark": 4,
     "innlandet": 7,
     "moreogromsdal": 3,
@@ -37,15 +37,15 @@
     "vestfold": 2,
     "vestland": 8
   },
-  "deadline_count": 101,
-  "entry_count": 227,
+  "deadline_count": 102,
+  "entry_count": 228,
   "event_count": 126,
-  "last_success": "2026-11-01T05:05:56.464609+00:00",
+  "last_success": "2026-11-02T05:19:49.971550+00:00",
   "sources": {
     "checked_detail_pages": 126,
     "search": {
       "complete": true,
-      "hits": 598,
+      "hits": 599,
       "index": "events_prod",
       "pages": 6
     },

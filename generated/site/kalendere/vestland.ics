@@ -8,41 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-9904@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261001T160000Z
-DTEND:20261101T210000Z
-SUMMARY:Fotokonkurranse for ungdom
-DESCRIPTION:Fotokonkurranse for ungdom\n\ntorsdag 1. oktober kl. 18:00 - s
- øndag 1. november kl. 22:00\n\nAlver\n\nTa eit bilete ein stad i Alver å
-  bli med i fotokonkurranse.\nKva er Alver for deg?\nSkriv gjerne nokon ord
-  om kva bilete betyr for deg.\n\nUnge arrangørar frå UKM Nordhordland er
-  jury. Dei kårar og kontaktar vinnaren.\nPremien er gåvekort frå Amfi K
- narvik\n\nKonkurransen er open for ungdom frå 12-20 år. Send inn ditt bi
- drag på e-post til ungalver@alver.kommune.no (mailto:ungalver@alver.kommu
- ne.no) eller på mobil 46701596 (tel:46701596) innan sundag 1. november.\n
- Merk e-post med fotokonkurranse.\nHar du spørsmål eller ynskjer hjelp s
- å ta gjerne kontakt med oss på ein av ungdomsklubbane eller du kan ta ko
- ntakt på telefon 46701596 (tel:46701596).\n\nFotokonkurranse for ungdom: 
- https://sys.ukm.no/2026-alver-fotokonkurranseforungdom/files/2026/10/HAUST
- EN-2026UNG-ALVER-FOR-UNGDOM-1-1273x1800.png\n\nhttps://delta.ukm.no/ukmid/
- pamelding/4631-9904/\n\nKontaktpersoner\nHilde Jordal\nTelefon: 95066573\n
- E-post: hilde.jordal@alver.kommune.no\n\nIngunn Birkeland Fyllingen\nTelef
- on: 92046806\nE-post: ingunn.birkeland.fyllingen@alver.kommune.no\n\nKatar
- ina Birkeland Nepstad\nTelefon: 90696931\nE-post: katarina.birkeland@alver
- .kommune.no\n\nArrangementsbilde: https://sys.ukm.no/2026-alver-fotokonkur
- ranseforungdom/files/2026/10/HAUSTEN-2026UNG-ALVER-FOR-UNGDOM-1-849x1200.p
- ng\nArrangementsside: https://www.ukm.no/arrangement/2026-alver-fotokonkur
- ranseforungdom
-LOCATION:\, Alver
-URL:https://www.ukm.no/arrangement/2026-alver-fotokonkurranseforungdom
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9871@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z

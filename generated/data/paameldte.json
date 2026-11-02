@@ -1,23 +1,8 @@
 {
   "antall_arrangementer": 126,
-  "antall_deltakernavn_i_innslag": 117,
-  "antall_innslag": 227,
+  "antall_deltakernavn_i_innslag": 121,
+  "antall_innslag": 233,
   "arrangementer": [
-    {
-      "antall_innslag": 1,
-      "arrangement_id": "9904",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-alver-fotokonkurranseforungdom",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261906",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9904",
-      "navn": "Fotokonkurranse for ungdom"
-    },
     {
       "antall_innslag": 2,
       "arrangement_id": "9871",
@@ -430,7 +415,7 @@
       "navn": "Bandworkshop"
     },
     {
-      "antall_innslag": 24,
+      "antall_innslag": 25,
       "arrangement_id": "9847",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
       "innslag": [
@@ -461,6 +446,14 @@
           ],
           "id": "261740",
           "navn": "Amalie"
+        },
+        {
+          "beskrivelse": "Hei!\nJeg er en jente som er 12 år gammel.\nJeg er glad i å synge, synger alene på scene.\nJeg kommer fra Ramnes.",
+          "deltakernavn": [
+            "Amela Botonjic"
+          ],
+          "id": "262060",
+          "navn": "Amela Botonjic"
         },
         {
           "beskrivelse": "Avgudsdyrkelse er et black metal band som stammer fra Larvik, vi er opptatt av å lage så creepy og onde riff som mulige med inspirasjon fra blant annet “Dissection” og “Windir“",
@@ -849,9 +842,9 @@
           "navn": "Musikk innslag"
         },
         {
-          "beskrivelse": "Jeg er turner og er en del av lat elsker dyr driver med skuespill.",
+          "beskrivelse": "Ei jente som ønsker å prøve å synge en solo sang!",
           "deltakernavn": [],
-          "id": "261908",
+          "id": "261838",
           "navn": "Musikk innslag"
         },
         {
@@ -1323,6 +1316,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10000",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-hol-ukmhol2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10000",
+      "navn": "Hol 2027"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9909",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-askoy-oygarden-askoyogoygarden",
       "innslag": [],
@@ -1565,7 +1566,7 @@
       "navn": "UKM Show Kongsberg"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9954",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027",
       "innslag": [
@@ -1612,6 +1613,14 @@
           ],
           "id": "261919",
           "navn": "Ladon"
+        },
+        {
+          "beskrivelse": "17 år gammel kunster! Mesteparten av tegningene mine er laget i ett 1X1 format for å likne på album-kover! Primært så er tegningene mine D&D og musikk relaterte, men jeg besøker også andre medier for inspirasjon!\nHar tegnet merch for bandet Idiot Savant fra Hemnesberget ;P",
+          "deltakernavn": [
+            "Rory Østlund"
+          ],
+          "id": "262061",
+          "navn": "Rory K. Østlund"
         },
         {
           "beskrivelse": "er en cosplayer som brennen for det jeg gjør har konkurert i cosplay i 3/4 år å vunnet litt er en som vil møte nye folk",
@@ -1737,7 +1746,7 @@
       "navn": "Osen"
     },
     {
-      "antall_innslag": 11,
+      "antall_innslag": 13,
       "arrangement_id": "9708",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-birkenes-ukmbirkenes2027",
       "innslag": [
@@ -1799,6 +1808,18 @@
           "beskrivelse": "Jeg er hjil",
           "deltakernavn": [],
           "id": "261916",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg har ikke vært med å arrangere før. Jeg har hatt lyst lenge. Jeg var med på spelet på Flakk. Synes det er gøy å jobbe med andre folk. Gøy å hjelpe.",
+          "deltakernavn": [],
+          "id": "262063",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Syntes det er gøy å jobbe med folk, gøy å være med folk og har vært å sett på ukm mange ganger",
+          "deltakernavn": [],
+          "id": "262064",
           "navn": "Arrangør innslag"
         },
         {
@@ -2375,10 +2396,17 @@
       "navn": "Deatnu - Tana"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9941",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Æ har spelt gitar i tre år å har altid sunget",
+          "deltakernavn": [],
+          "id": "262052",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9941",
       "navn": "UKM Harstad 2027"
     },
@@ -2546,7 +2574,7 @@
       "navn": "Fylkesfestivalen i Troms 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 3,
       "arrangement_id": "9952",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027",
       "innslag": [
@@ -2557,6 +2585,22 @@
           ],
           "id": "262041",
           "navn": "Fiona"
+        },
+        {
+          "beskrivelse": "Jeg er en 17 år gammel musiker fra Fredrikstad som går 1. klasse på musikklinja\nSkriver egne låter\nSpiller flere ulike instrumenter\nSpiller i band",
+          "deltakernavn": [
+            "Liam Dee Gillingsrud"
+          ],
+          "id": "262046",
+          "navn": "Liam Dee"
+        },
+        {
+          "beskrivelse": "16 år gammel sosial jente som har drevet med piano i over 10 år, har tidligere vært med på ukm østfold.",
+          "deltakernavn": [
+            "Thelma Huss"
+          ],
+          "id": "262047",
+          "navn": "Thelma Huss"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9952",
@@ -2621,5 +2665,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-01T05:05:56.464609+00:00"
+  "oppdatert": "2026-11-02T05:19:49.971550+00:00"
 }

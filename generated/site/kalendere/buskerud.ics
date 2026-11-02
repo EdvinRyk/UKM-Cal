@@ -296,6 +296,34 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9992@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10000@ukm-kalendere
+DTSTAMP:20261102T051949Z
+CREATED:20261102T051949Z
+LAST-MODIFIED:20261102T051949Z
+SEQUENCE:0
+DTSTART:20270205T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Hol 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Hol 2027.\nPåmelding
+ sfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nHol 2027\n\nfredag 12. februa
+ r kl. 18:00 - 22:00\n\nGeilo Kulturhus\n\nHol\n\nLyst til å vise fram noe
+  på senen\, filme\, jobbe med lys\, lære om bildemix\, fotografere eller
+  lage stoff til SoMe? Bli med på UKM 2027!\n\nHol 2027: https://sys.ukm.n
+ o/2027-hol-ukmhol2027/files/2026/11/IMG_0594-1200x557.jpg\n\nhttps://delta
+ .ukm.no/ukmid/pamelding/3330-10000/\n\nKontaktpersoner\nIngjerd Almås Anf
+ inset\nTelefon: 48174310\nE-post: ingjerd.almas.anfinset@hol.kommune.no\n\
+ nRamona Fossly\nTelefon: 90413637\nE-post: ramona.fossly@hol.kommune.no\n\
+ nRonni Skogheim Keil\nTelefon: 97160196\nE-post: ronni.skogheim.keil@hol.k
+ ommune.no\n\nVegar Nesfossen Dreier\nTelefon: 97070828\nE-post: vegar.nesf
+ ossen.dreier@hol.kommune.no\n\nPåmeldingsfrist – delta: 05.02.2027 kl. 
+ 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrang
+ ementsside: https://www.ukm.no/arrangement/2027-hol-ukmhol2027
+LOCATION:Geilo Kulturhus\, Hol
+URL:https://www.ukm.no/arrangement/2027-hol-ukmhol2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10000@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9992@ukm-kalendere
 DTSTAMP:20261030T050327Z
 CREATED:20261030T050327Z
@@ -315,6 +343,33 @@ DESCRIPTION:Workshop i Improvisasjonsteater\n\nlørdag 6. februar kl. 13:00
 LOCATION:Nymoens Torg 3\, Kongsberg
 URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonste
  ater
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10000@ukm-kalendere
+DTSTAMP:20261102T051949Z
+CREATED:20261102T051949Z
+LAST-MODIFIED:20261102T051949Z
+SEQUENCE:0
+DTSTART:20270212T170000Z
+DTEND:20270212T210000Z
+SUMMARY:Hol 2027
+DESCRIPTION:Hol 2027\n\nfredag 12. februar kl. 18:00 - 22:00\n\nGeilo Kultu
+ rhus\n\nHol\n\nLyst til å vise fram noe på senen\, filme\, jobbe med lys
+ \, lære om bildemix\, fotografere eller lage stoff til SoMe? Bli med på 
+ UKM 2027!\n\nHol 2027: https://sys.ukm.no/2027-hol-ukmhol2027/files/2026/1
+ 1/IMG_0594-1200x557.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3330-10000
+ /\n\nKontaktpersoner\nIngjerd Almås Anfinset\nTelefon: 48174310\nE-post: 
+ ingjerd.almas.anfinset@hol.kommune.no\n\nRamona Fossly\nTelefon: 90413637\
+ nE-post: ramona.fossly@hol.kommune.no\n\nRonni Skogheim Keil\nTelefon: 971
+ 60196\nE-post: ronni.skogheim.keil@hol.kommune.no\n\nVegar Nesfossen Dreie
+ r\nTelefon: 97070828\nE-post: vegar.nesfossen.dreier@hol.kommune.no\n\nPå
+ meldingsfrist – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra 
+ bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arr
+ angement/2027-hol-ukmhol2027
+LOCATION:Geilo Kulturhus\, Hol
+URL:https://www.ukm.no/arrangement/2027-hol-ukmhol2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

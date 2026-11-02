@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9977@ukm-kalendere
-DTSTAMP:20261027T045222Z
+DTSTAMP:20261102T051949Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261027T045222Z
-SEQUENCE:1
+LAST-MODIFIED:20261102T051949Z
+SEQUENCE:2
 DTSTART:20270110T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Aure og Smøla 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til Aure og Smøla 2027.\
@@ -43,15 +43,15 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Aure og Smøla 2027.\
  yere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fy
  lkesfestivalen.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure og Smø
  la 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/
- 10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\
- n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.hel
- en.stamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-
- post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon:
-  97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla:
-  https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – del
- ta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.202
- 7 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-sm
- ola-ukmaureogsmola2027
+ 11/UKM-forside.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nK
+ ontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.s
+ tamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post
+ : sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 977
+ 03246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: htt
+ ps://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 
+ 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl
+ . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-
+ ukmaureogsmola2027
 LOCATION:Aure Arena\, Smøla
 URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
 STATUS:CONFIRMED
@@ -60,10 +60,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9977@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9977@ukm-kalendere
-DTSTAMP:20261027T045222Z
+DTSTAMP:20261102T051949Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261027T045222Z
-SEQUENCE:1
+LAST-MODIFIED:20261102T051949Z
+SEQUENCE:2
 DTSTART:20270116T110000Z
 DTEND:20270116T170000Z
 SUMMARY:Aure og Smøla 2027
@@ -93,15 +93,15 @@ DESCRIPTION:Aure og Smøla 2027\n\nlørdag 16. januar kl. 12:00 - 18:00\n\n
   du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuell
  e for videre deltakelse på fylkesfestivalen.\n\nBli med og lag UKM Aure o
  g Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-
- ukmaureogsmola2027/files/2026/10/UKM-Aure-Smola-.png\n\nhttps://delta.ukm.
- no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTele
- fon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt
-  Golmen\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune
- .no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommun
- e.no\n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9
- 977/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist 
- – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.
- ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
+ ukmaureogsmola2027/files/2026/11/UKM-forside.png\n\nhttps://delta.ukm.no/u
+ kmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon:
+  92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Gol
+ men\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\
+ n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no
+ \n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/
+ \nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – b
+ idra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.n
+ o/arrangement/2027-aure-smola-ukmaureogsmola2027
 LOCATION:Aure Arena\, Smøla
 URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
 STATUS:CONFIRMED
