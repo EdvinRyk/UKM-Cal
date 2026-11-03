@@ -259,6 +259,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10007@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270214T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM ÅS
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM ÅS.\nPåmeldings
+ frist: 14.02.2027 kl. 23:59 (norsk tid).\n\nUKM ÅS\n\nlørdag 6. mars kl.
+  09:00 - 15:30\n\nÅs\n\nhttps://delta.ukm.no/ukmid/pamelding/3218-10007/\
+ n\nKontaktpersoner\nMyfanwy Moore\nTelefon: 95939707\nE-post: myfanwy.moor
+ e@as.kommune.no\n\nNicklas Erdal\nTelefon: 95939663\nE-post: Nicklas.Erdal
+ @as.kommune.no\n\nShane Patrick Connolly\nTelefon: 41241696\nE-post: Shane
+ .Patrick.Connolly@as.kommune.no\n\nPåmeldingsfrist – delta: 14.02.2027 
+ kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 14.02.2027 kl. 23:59\nAr
+ rangementsside: https://www.ukm.no/arrangement/2027-as-ukmas
+LOCATION:\, Ås
+URL:https://www.ukm.no/arrangement/2027-as-ukmas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10007@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9802@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -327,6 +350,28 @@ DESCRIPTION:Lokalfestival i Eidsvoll 2027\n\ntorsdag 4. mars kl. 16:00 - l
  l2027
 LOCATION:Badet Kulturtun\, Eidsvoll
 URL:https://www.ukm.no/arrangement/2027-eidsvoll-lokalfestivalieidsvoll2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10007@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270306T080000Z
+DTEND:20270306T143000Z
+SUMMARY:UKM ÅS
+DESCRIPTION:UKM ÅS\n\nlørdag 6. mars kl. 09:00 - 15:30\n\nÅs\n\nhttps://
+ delta.ukm.no/ukmid/pamelding/3218-10007/\n\nKontaktpersoner\nMyfanwy Moore
+ \nTelefon: 95939707\nE-post: myfanwy.moore@as.kommune.no\n\nNicklas Erdal\
+ nTelefon: 95939663\nE-post: Nicklas.Erdal@as.kommune.no\n\nShane Patrick C
+ onnolly\nTelefon: 41241696\nE-post: Shane.Patrick.Connolly@as.kommune.no\n
+ \nPåmeldingsfrist – delta: 14.02.2027 kl. 23:59\nPåmeldingsfrist – b
+ idra bak scenen: 14.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.n
+ o/arrangement/2027-as-ukmas
+LOCATION:\, Ås
+URL:https://www.ukm.no/arrangement/2027-as-ukmas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

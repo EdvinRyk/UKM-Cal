@@ -2,52 +2,52 @@
   "base_url": "https://edvinryk.github.io/UKM-Cal",
   "calendar_count": 16,
   "calendars": {
-    "agder": 20,
-    "akershus": 12,
+    "agder": 22,
+    "akershus": 14,
     "buskerud": 24,
-    "finnmark": 10,
+    "finnmark": 12,
     "innlandet": 14,
     "moreogromsdal": 6,
     "nasjonalt": 2,
-    "nordland": 8,
+    "nordland": 10,
     "oslo": 16,
     "ostfold": 19,
-    "rogaland": 18,
-    "telemark": 12,
+    "rogaland": 19,
+    "telemark": 14,
     "troms": 11,
     "trondelag": 36,
     "vestfold": 5,
-    "vestland": 17
+    "vestland": 16
   },
   "deadline_calendars": {
-    "agder": 8,
-    "akershus": 6,
+    "agder": 9,
+    "akershus": 7,
     "buskerud": 10,
-    "finnmark": 4,
+    "finnmark": 6,
     "innlandet": 7,
     "moreogromsdal": 3,
     "nasjonalt": 1,
-    "nordland": 4,
+    "nordland": 5,
     "oslo": 5,
     "ostfold": 9,
     "rogaland": 9,
-    "telemark": 6,
+    "telemark": 7,
     "troms": 5,
     "trondelag": 16,
     "vestfold": 2,
     "vestland": 8
   },
-  "deadline_count": 102,
-  "entry_count": 228,
-  "event_count": 126,
-  "last_success": "2026-11-02T05:19:49.971550+00:00",
+  "deadline_count": 108,
+  "entry_count": 238,
+  "event_count": 130,
+  "last_success": "2026-11-03T05:12:58.036017+00:00",
   "sources": {
-    "checked_detail_pages": 126,
+    "checked_detail_pages": 130,
     "search": {
       "complete": true,
-      "hits": 599,
+      "hits": 604,
       "index": "events_prod",
-      "pages": 6
+      "pages": 7
     },
     "skipped": [
       {
@@ -63,6 +63,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 129
+    "upcoming_api_count": 133
   }
 }

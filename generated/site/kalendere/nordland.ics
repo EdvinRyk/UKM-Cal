@@ -240,4 +240,73 @@ URL:https://www.ukm.no/arrangement/2027-hadsel-ukmhadsel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10005@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270321T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Nordland - Nordlá
+ nnda 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Nord
+ land - Nordlánnda 2027.\nPåmeldingsfrist: 21.03.2027 kl. 23:59 (norsk ti
+ d).\n\nUKM-festivalen i Nordland - Nordlánnda 2027\n\nfredag 9. april kl.
+  18:00 - søndag 11. april kl. 15:00\n\nKulturfabrikken Sortland (https://
+ www.google.com/maps/search/?api=1&query=Kulturfabrikken%20Sortland)\n\nKul
+ turfabrikken Sortland\n\nVelkommen til UKM-festivalen i Nordland for 2027 
+ -\n9-11. april i Kulturfabrikken på Sortland\n\nVi er klare for innholdsr
+ ike og spennende UKM-dager på Sortland!\n\nKontaktpersoner\nAnette Rosenv
+ inge\nTelefon: 91360417\nE-post: anette.rosenvinge@vagan.kommune.no\n\nJim
+  Raymond Hansen\nTelefon: 90980994\nE-post: jim.hansen@me.com\n\nProgramPr
+ ogram: https://www.ukm.no/arrangement/2027-nordland-nordlnnda-ukm-festival
+ eninordland-nordlnnda2027/program\n\nPåmeldtePåmeldte: https://www.ukm.n
+ o/arrangement/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnda202
+ 7/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arra
+ ngement/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnda2027/medi
+ a\n\nPåmeldingsfrist – delta: 21.03.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 21.03.2027 kl. 23:59\nArrangementsbilde: https://sys
+ .ukm.no/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnda2027/file
+ s/2026/11/Ukm-Nordland25-MosjoenBjorn-Nikolas-Rognsa_@bjorn.rognsaa-40-120
+ 0x800.jpg
+LOCATION:Kulturfabrikken Sortland
+URL:https://www.ukm.no/arrangement/2027-nordland-nordlnnda-ukm-festivalenin
+ ordland-nordlnnda2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10005@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10005@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270409T160000Z
+DTEND:20270411T130000Z
+SUMMARY:UKM-festivalen i Nordland - Nordlánnda 2027
+DESCRIPTION:UKM-festivalen i Nordland - Nordlánnda 2027\n\nfredag 9. april
+  kl. 18:00 - søndag 11. april kl. 15:00\n\nKulturfabrikken Sortland (http
+ s://www.google.com/maps/search/?api=1&query=Kulturfabrikken%20Sortland)\n\
+ nKulturfabrikken Sortland\n\nVelkommen til UKM-festivalen i Nordland for 2
+ 027 -\n9-11. april i Kulturfabrikken på Sortland\n\nVi er klare for innho
+ ldsrike og spennende UKM-dager på Sortland!\n\nKontaktpersoner\nAnette Ro
+ senvinge\nTelefon: 91360417\nE-post: anette.rosenvinge@vagan.kommune.no\n\
+ nJim Raymond Hansen\nTelefon: 90980994\nE-post: jim.hansen@me.com\n\nProgr
+ amProgram: https://www.ukm.no/arrangement/2027-nordland-nordlnnda-ukm-fest
+ ivaleninordland-nordlnnda2027/program\n\nPåmeldtePåmeldte: https://www.u
+ km.no/arrangement/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnd
+ a2027/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/
+ arrangement/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnda2027/
+ media\n\nPåmeldingsfrist – delta: 21.03.2027 kl. 23:59\nPåmeldingsfris
+ t – bidra bak scenen: 21.03.2027 kl. 23:59\nArrangementsbilde: https://s
+ ys.ukm.no/2027-nordland-nordlnnda-ukm-festivaleninordland-nordlnnda2027/fi
+ les/2026/11/Ukm-Nordland25-MosjoenBjorn-Nikolas-Rognsa_@bjorn.rognsaa-40-1
+ 200x800.jpg
+LOCATION:Kulturfabrikken Sortland
+URL:https://www.ukm.no/arrangement/2027-nordland-nordlnnda-ukm-festivalenin
+ ordland-nordlnnda2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

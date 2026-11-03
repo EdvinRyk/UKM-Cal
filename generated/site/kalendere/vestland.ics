@@ -8,43 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-9871@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261010T160000Z
-DTEND:20261130T210000Z
-SUMMARY:Kurs i nedskjæring og partering av hjort
-DESCRIPTION:Kurs i nedskjæring og partering av hjort\n\nlørdag 10. oktobe
- r kl. 18:00 - mandag 30. november kl. 22:00\n\nOlden\n\nStryn\n\nGår du p
- å ungdomsskule eller vidaregåande og er interessert i jakt?\n\nUKM Stryn
- \, Stryn Kulturskule og Olden Jaktlag arrangerer\nKURS I NEDSKJÆRING OG P
- ARTERING AV HJORT\n\nDet vil skje i Olden mellom 10.okt og 30.nov.\nAnsvar
- leg for kurset blir Kåre Bruvoll Alme og Olden Jaktlag.\n\nNøyaktig tids
- punkt vil kome seinare\, men er du interessert melder du interessa di no m
- ed ein gong\, og så får du beskjed når kurset blir.\n\nVed stor interes
- se kan vi eventuelt arrangere eit ekstra kurs.\n\nDet blir pizza til delta
- karane.\nDet er svært begrensa plassar\, så ikkje vent med å ta kontakt
- . Dei første på liste blir kontakta først.\n\nKurs i nedskjæring og pa
- rtering av hjort: https://sys.ukm.no/2026-stryn-partering-av-hjort/files/2
- 026/09/PXL_20260829_092030709.PORTRAIT6-1-878x1200.jpg\n\nhttps://delta.uk
- m.no/ukmid/pamelding/4651-9871/\n\nKontaktpersoner\nElse Brynestad Erdal\n
- Telefon: 98825376\nE-post: else.brynestad.erdal@stryn.kommune.no\n\nIngrid
-  Heieren\nTelefon: 95826237\nE-post: ingrid.heieren@stryn.kommune.no\n\nIn
- grid Stuhaug\nTelefon: 90016334\nE-post: ingrid.stuhaug@stryn.kommune.no\n
- \nKåre Bruvoll Alme\nTelefon: 94277853\nE-post: kare.bruvoll.alme@stryn.k
- ommune.no\n\nMonica Beate Hesjedal\nTelefon: 95223102\nE-post: monica.beat
- e.hesjedal@stryn.kommune.no\n\nStine Storevik\nTelefon: 97708430\nE-post: 
- stine.storevik@stryn.kommune.no\n\nPåmeldingsfrist – delta: 22.10.2026 
- kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-stryn-par
- tering-av-hjort
-LOCATION:Olden\, Stryn
-URL:https://www.ukm.no/arrangement/2026-stryn-partering-av-hjort
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9909@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

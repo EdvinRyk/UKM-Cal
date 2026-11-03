@@ -9,14 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9925@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261103T051258Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
-DTSTART:20261016T215900Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:1
+DTSTART:20261103T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Band Tour 2026
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour 2026.\n
- Påmeldingsfrist: 16.10.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour 2026\
+ Påmeldingsfrist: 03.11.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour 2026\
  n\nfredag 13. november kl. 14:00 - søndag 15. november kl. 22:00\n\nFinnm
  ark (https://www.google.com/maps/search/?api=1&query=Finnmark)\n\nFinnmark
  \n\nUKM BAND TOUR 13.-15. NOVEMBER 🔥\nEr du mellom 13-20 år\, spiller 
@@ -34,16 +34,17 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour 2026.\n
  rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER BIDRA LOKALT?\nDu kan fortsatt 
  spille eller jobbe med teknikk\, som arrangør eller med media\, når buss
  en kommer til din kommune. Søk opp din kommune\, så finner du arrangemen
- tet. 🤘\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\
- nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm.no/arran
- gement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\nPåmeldte
- Påmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku
- -ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: https://ww
- w.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\
- n\nPåmeldingsfrist – delta: 23.10.2026 kl. 23:59\nPåmeldingsfrist – 
- bidra bak scenen: 16.10.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm
- .no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Mode
- rn-Album-Cover-2-1200x1200.png
+ tet. 🤘\n\nhttps://delta.ukm.no/ukmid/pamelding/fylke-9925/\n\nKontaktpe
+ rsoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen
+ @tffk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2026-finnmark-f
+ innmrku-finmarkku-ukmbandtour26/program\n\nPåmeldtePåmeldte: https://www
+ .ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/deltage
+ re\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2
+ 026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\n\nPåmeldingsfrist 
+ – delta: 03.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 03
+ .11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-finnmark-fi
+ nnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Modern-Album-Cover-2-120
+ 0x1200.png
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26
@@ -92,6 +93,44 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9994@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9826@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:1
+DTSTART:20261112T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Band Tour Alta
+DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
+ eldingsfrist: 12.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfreda
+ g 13. november kl. 16:00 - 21:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND
+  TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser samme
+ n på buss\, spiller konserter\, møter andre musikkinteresserte og får o
+ ppleve hvordan det er å være på turné. Band Tour besøker flere steder
+  i Finnmark\, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKAL
+ T I ALTA\nNår UKM Band Tour kommer til Huset\, trenger vi deg!\n\nVi søk
+ er deg som ønsker å være med som:\n🎤 Oppvarmingsartist! Kan være da
+ ns/musikk/teater/triks/film med varighet på maks 15min.\n🎥 Media (foto
+ \, film og innhold til sosiale medier)\n🛠️ Arrangør (markedsføring/
+ gjennomføring)\n🔊 Teknikk og rigg (scene\, lyd\, lys og praktisk gjenn
+ omføring)\n🎤 Konferansier\n\n🚌 VIL DU BLI MED PÅ SELVE TURNÉBUSSE
+ N?\nDersom du ønsker å være med på hele turneen og reise mellom flere 
+ steder i Finnmark\, må du melde deg på UKM Band Tour 2026.\n👉 Søk op
+ p UKM Band Tour 2026 for informasjon om turneen og påmelding til bussen.\
+ nhttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandto
+ ur\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: https:/
+ /sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Cover-2
+ -1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\nKonta
+ ktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hanse
+ n@alta.kommune.no\n\nPåmeldingsfrist – delta: 12.11.2026 kl. 23:59\nPå
+ meldingsfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside
+ : https://www.ukm.no/arrangement/2026-alta-bandtouralta
+LOCATION:Skoleveien 14\, Alta
+URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9826@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9997@ukm-kalendere
 DTSTAMP:20261031T045920Z
 CREATED:20261031T045920Z
@@ -132,10 +171,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9997@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9925@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261103T051258Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:2
 DTSTART:20261113T130000Z
 DTEND:20261115T210000Z
 SUMMARY:UKM Band Tour 2026
@@ -156,16 +195,17 @@ DESCRIPTION:UKM Band Tour 2026\n\nfredag 13. november kl. 14:00 - søndag 1
  at det gjelder tekniker eller rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER B
  IDRA LOKALT?\nDu kan fortsatt spille eller jobbe med teknikk\, som arrang
  ør eller med media\, når bussen kommer til din kommune. Søk opp din kom
- mune\, så finner du arrangementet. 🤘\n\nKontaktpersoner\nBernt-Johnny 
- Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nProgramPr
- ogram: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukm
- bandtour26/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2
- 026-finnmark-finnmrku-finmarkku-ukmbandtour26/deltagere\n\nBilder og video
- erBilder og videoer: https://www.ukm.no/arrangement/2026-finnmark-finnmrku
- -finmarkku-ukmbandtour26/media\n\nPåmeldingsfrist – delta: 23.10.2026 k
- l. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.10.2026 kl. 23:59\nArr
- angementsbilde: https://sys.ukm.no/2026-finnmark-finnmrku-finmarkku-ukmban
- dtour26/files/2026/10/Blue-Modern-Album-Cover-2-1200x1200.png
+ mune\, så finner du arrangementet. 🤘\n\nhttps://delta.ukm.no/ukmid/pam
+ elding/fylke-9925/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 
+ 90569846\nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm
+ .no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\n
+ PåmeldtePåmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-
+ finmarkku-ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: h
+ ttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour
+ 26/media\n\nPåmeldingsfrist – delta: 03.11.2026 kl. 23:59\nPåmeldingsf
+ rist – bidra bak scenen: 03.11.2026 kl. 23:59\nArrangementsbilde: https:
+ //sys.ukm.no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/
+ Blue-Modern-Album-Cover-2-1200x1200.png
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26
@@ -174,10 +214,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9826@ukm-kalendere
-DTSTAMP:20261031T045920Z
+DTSTAMP:20261103T051258Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261031T045920Z
-SEQUENCE:2
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:3
 DTSTART:20261113T150000Z
 DTEND:20261113T200000Z
 SUMMARY:Band Tour Alta
@@ -200,8 +240,10 @@ DESCRIPTION:Band Tour Alta\n\nfredag 13. november kl. 16:00 - 21:00\n\nSkol
   🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtouralta/fil
  es/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delta.ukm.no
  /ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon
- : 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nArrangementsside:
-  https://www.ukm.no/arrangement/2026-alta-bandtouralta
+ : 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist 
+ – delta: 12.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12
+ .11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-
+ alta-bandtouralta
 LOCATION:Skoleveien 14\, Alta
 URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
 STATUS:CONFIRMED
@@ -285,22 +327,63 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9996@ukm-kalendere
-DTSTAMP:20261031T045920Z
-CREATED:20261031T045920Z
-LAST-MODIFIED:20261031T045920Z
+UID:ukm-bak-scenen-frist-10002@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
 SEQUENCE:0
-DTSTART:20261115T170000Z
-DTEND:20261115T210000Z
-SUMMARY:Porsanger - Porsángu - Porsanki
-DESCRIPTION:Porsanger - Porsángu - Porsanki\n\nsøndag 15. november kl. 18
- :00 - 22:00\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9996/\n\nKontaktp
- ersoner\nKristine Thomassen\nTelefon: 41385044\nE-post: kristine.thomassen
- @porsanger.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/
- 2026-porsanger-porsngu-porsanki-porsanger-porsngu-porsanki
-LOCATION:\, Porsanger - Porsángu - Porsanki
-URL:https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-porsange
- r-porsngu-porsanki
+DTSTART:20270127T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Sør-Varanger
+DESCRIPTION:Frist for å melde seg på bak scenen til Sør-Varanger.\nPåme
+ ldingsfrist: 27.01.2027 kl. 23:59 (norsk tid).\n\nSør-Varanger\n\nfredag 
+ 5. februar kl. 19:00 - 21:00\n\nSamfundshuset SA\n\nHva er UKM? UKM er et 
+ av landets største kulturarrangement for ungdom. UKM er for alle ungdomme
+ r mellom 13 og 20 år. Både grupper og enkeltpersoner kan delta\, og det 
+ er gratis å være med. UKM er en mulighet hvor du kan vise andre hva DU d
+ river med! I UKM kan du som er mellom 13 og 20 år delta med alle slags ku
+ lturuttrykk\, alt fra sjonglering\, dans\, billedkunst\, skulpturer til be
+ atboksing\, sang\, diktopplesning\, musikk – og alt innimellom. Du kan o
+ gså delta som konferansier\, arrangør eller fotograf.\n\nSør-Varanger: 
+ https://sys.ukm.no/2027-sor-varanger-sor-varanger/files/2026/11/DSC_2455-1
+ 800x1192.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5605-10002/\n\nKontak
+ tpersoner\nBård Stien\nTelefon: 90883488\nE-post: bsn@svk.no\n\nPåmeldin
+ gsfrist – delta: 02.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sc
+ enen: 27.01.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-sor
+ -varanger-sor-varanger/files/2026/11/DSC_2455-1200x795.jpg\nArrangementssi
+ de: https://www.ukm.no/arrangement/2027-sor-varanger-sor-varanger
+LOCATION:Samfundshuset SA\, Sør-Varanger
+URL:https://www.ukm.no/arrangement/2027-sor-varanger-sor-varanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10002@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10002@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270205T180000Z
+DTEND:20270205T200000Z
+SUMMARY:Sør-Varanger
+DESCRIPTION:Sør-Varanger\n\nfredag 5. februar kl. 19:00 - 21:00\n\nSamfund
+ shuset SA\n\nHva er UKM? UKM er et av landets største kulturarrangement f
+ or ungdom. UKM er for alle ungdommer mellom 13 og 20 år. Både grupper og
+  enkeltpersoner kan delta\, og det er gratis å være med. UKM er en mulig
+ het hvor du kan vise andre hva DU driver med! I UKM kan du som er mellom 1
+ 3 og 20 år delta med alle slags kulturuttrykk\, alt fra sjonglering\, dan
+ s\, billedkunst\, skulpturer til beatboksing\, sang\, diktopplesning\, mus
+ ikk – og alt innimellom. Du kan også delta som konferansier\, arrangør
+  eller fotograf.\n\nSør-Varanger: https://sys.ukm.no/2027-sor-varanger-so
+ r-varanger/files/2026/11/DSC_2455-1800x1192.jpg\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/5605-10002/\n\nKontaktpersoner\nBård Stien\nTelefon: 908834
+ 88\nE-post: bsn@svk.no\n\nPåmeldingsfrist – delta: 02.02.2027 kl. 23:59
+ \nPåmeldingsfrist – bidra bak scenen: 27.01.2027 kl. 23:59\nArrangement
+ sbilde: https://sys.ukm.no/2027-sor-varanger-sor-varanger/files/2026/11/DS
+ C_2455-1200x795.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027
+ -sor-varanger-sor-varanger
+LOCATION:Samfundshuset SA\, Sør-Varanger
+URL:https://www.ukm.no/arrangement/2027-sor-varanger-sor-varanger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

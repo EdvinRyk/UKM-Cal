@@ -176,6 +176,34 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9999@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10001@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270202T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Kviteseid og Seljord
+DESCRIPTION:Frist for å melde seg på bak scenen til Kviteseid og Seljord.
+ \nPåmeldingsfrist: 02.02.2027 kl. 23:59 (norsk tid).\n\nKviteseid og Selj
+ ord\n\nonsdag 17. februar kl. 18:00 - 20:30\n\nGranvin Kulturhus\n\nSeljor
+ d\, Kviteseid\n\nKulturskulekonsert og UKM mønstring i kinosalen på Gran
+ vin onsdag 17.2.27 kl. Utstilling i foajeen. Utstillinga startar kl. 18.00
+  og konserten kl. 19.00\n\nKviteseid og Seljord: https://sys.ukm.no/2027-k
+ viteseid-seljorkviteseidogseljord/files/2026/11/71cc606b-30da-4ba9-b616-12
+ bd196be222.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4022-10001/\n\nKont
+ aktpersoner\nAnne Torunn Øverbø\nTelefon: 91360150\nE-post: anne.torunn.
+ overbo@seljord.kommune.no\n\nPåmelding – Kviteseid: https://delta.ukm.n
+ o/ukmid/pamelding/4028-10001/\nPåmeldingsfrist – delta: 02.02.2027 kl. 
+ 23:59\nPåmeldingsfrist – bidra bak scenen: 02.02.2027 kl. 23:59\nArrang
+ ementsside: https://www.ukm.no/arrangement/2027-kviteseid-seljorkviteseido
+ gseljord
+LOCATION:Granvin Kulturhus\, Seljord\, Kviteseid
+URL:https://www.ukm.no/arrangement/2027-kviteseid-seljorkviteseidogseljord
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10001@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9884@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -259,11 +287,37 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9945@ukm-kalendere
-DTSTAMP:20261025T121149Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
+UID:ukm-arrangement-10001@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
 SEQUENCE:0
+DTSTART:20270217T170000Z
+DTEND:20270217T193000Z
+SUMMARY:Kviteseid og Seljord
+DESCRIPTION:Kviteseid og Seljord\n\nonsdag 17. februar kl. 18:00 - 20:30\n\
+ nGranvin Kulturhus\n\nSeljord\, Kviteseid\n\nKulturskulekonsert og UKM mø
+ nstring i kinosalen på Granvin onsdag 17.2.27 kl. Utstilling i foajeen. U
+ tstillinga startar kl. 18.00 og konserten kl. 19.00\n\nKviteseid og Seljor
+ d: https://sys.ukm.no/2027-kviteseid-seljorkviteseidogseljord/files/2026/1
+ 1/71cc606b-30da-4ba9-b616-12bd196be222.jpg\n\nhttps://delta.ukm.no/ukmid/p
+ amelding/4022-10001/\n\nKontaktpersoner\nAnne Torunn Øverbø\nTelefon: 91
+ 360150\nE-post: anne.torunn.overbo@seljord.kommune.no\n\nPåmelding – Kv
+ iteseid: https://delta.ukm.no/ukmid/pamelding/4028-10001/\nPåmeldingsfris
+ t – delta: 02.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 
+ 02.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/202
+ 7-kviteseid-seljorkviteseidogseljord
+LOCATION:Granvin Kulturhus\, Seljord\, Kviteseid
+URL:https://www.ukm.no/arrangement/2027-kviteseid-seljorkviteseidogseljord
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9945@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:1
 DTSTART:20270301T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Telemark 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Tele
@@ -274,14 +328,17 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Tele
   i Notodden!\n\nVi skal bruke ulike lokasjoner i byen når vi inntar blues
  byen i april!\n\n🎭Notodden teater: forestillinger og kunstutstilling\n
  💥Klubben: Greenroom og hangout\n🎙️Bok og Blueshuset: workshops og 
- kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nKontaktpersoner\nHeid
- i Bekkevold\nTelefon: 99155531\nE-post: heidi.bekkevold@telemarkfylke.no\n
- \nProgramProgram: https://www.ukm.no/arrangement/2027-telemark-ukm-festiva
- lenitelemark2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrange
- ment/2027-telemark-ukm-festivalenitelemark2027/deltagere\n\nBilder og vide
- oerBilder og videoer: https://www.ukm.no/arrangement/2027-telemark-ukm-fes
- tivalenitelemark2027/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 2
- 3:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59
+ kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nMer informajson om sh
+ ow og utstilling kommer i 2027:)\n\nKontaktpersoner\nHeidi Bekkevold\nTele
+ fon: 99155531\nE-post: heidi.bekkevold@telemarkfylke.no\n\nProgramProgram:
+  https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/
+ program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-telemar
+ k-ukm-festivalenitelemark2027/deltagere\n\nBilder og videoerBilder og vide
+ oer: https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2
+ 027/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldings
+ frist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https
+ ://sys.ukm.no/2027-telemark-ukm-festivalenitelemark2027/files/2026/11/bull
+ etproof_martinDavidsenEgeland_20260622-960x1200.jpg
 LOCATION:Notodden Teater
 URL:https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark202
  7
@@ -376,10 +433,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9945@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261103T051258Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:2
 DTSTART:20270409T130000Z
 DTEND:20270411T160000Z
 SUMMARY:UKM-festivalen i Telemark 2027
@@ -389,15 +446,17 @@ DESCRIPTION:UKM-festivalen i Telemark 2027\n\nfredag 9. april kl. 15:00 - s
  er vi UKM Telemark i Notodden!\n\nVi skal bruke ulike lokasjoner i byen n
  år vi inntar bluesbyen i april!\n\n🎭Notodden teater: forestillinger og
   kunstutstilling\n💥Klubben: Greenroom og hangout\n🎙️Bok og Blueshu
- set: workshops og kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nKon
- taktpersoner\nHeidi Bekkevold\nTelefon: 99155531\nE-post: heidi.bekkevold@
- telemarkfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-te
- lemark-ukm-festivalenitelemark2027/program\n\nPåmeldtePåmeldte: https://
- www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark2027/deltagere
- \n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/202
- 7-telemark-ukm-festivalenitelemark2027/media\n\nPåmeldingsfrist – delta
- : 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 
- kl. 23:59
+ set: workshops og kveldsaktivitet\n🛏️Notodden VGS: overnatting\n\nMer
+  informajson om show og utstilling kommer i 2027:)\n\nKontaktpersoner\nHei
+ di Bekkevold\nTelefon: 99155531\nE-post: heidi.bekkevold@telemarkfylke.no\
+ n\nProgramProgram: https://www.ukm.no/arrangement/2027-telemark-ukm-festiv
+ alenitelemark2027/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrang
+ ement/2027-telemark-ukm-festivalenitelemark2027/deltagere\n\nBilder og vid
+ eoerBilder og videoer: https://www.ukm.no/arrangement/2027-telemark-ukm-fe
+ stivalenitelemark2027/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 
+ 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrang
+ ementsbilde: https://sys.ukm.no/2027-telemark-ukm-festivalenitelemark2027/
+ files/2026/11/bulletproof_martinDavidsenEgeland_20260622-960x1200.jpg
 LOCATION:Notodden Teater
 URL:https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark202
  7

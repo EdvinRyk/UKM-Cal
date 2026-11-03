@@ -329,6 +329,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10004@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM LILLESAND
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM LILLESAND.\nPåme
+ ldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM LILLESAND\n\nfredag 
+ 12. mars kl. 18:00 - 20:00\n\nLillesand Kino\n\nLillesand\n\nUKM (Ung Kult
+ ur Møtes) er stedet der ungdom får skinne!\n\nDette er kvelden hvor krea
+ tivitet\, mot og uttrykk får stå i sentrum – enten du spiller musikk\,
+  lager kunst\, danser\, filmer\, skriver\, står på scenen eller skaper m
+ agi bak kulissene!🎭🎶💃🎨🎥\n\n👉Er du mellom 10 og 20 år? H
+ va venter du på\, meld deg på nå!\n\nHvorfor være med på UKM?\n💥Vi
+ s fram talentet ditt for et stort publikum\n💥Møt likesinnede kreative 
+ ungdom fra hele Lillesand\n💥Mulighet til å bli plukket ut til fylkesm
+ ønstringen og videre til den nasjonale UKM-festivalen\n\nPraktisk informa
+ sjon:\nDørene åpner 17.30.\nDet blir kiosk med snacks\, drikke – og ma
+ sse popcorn! 🍿\n\nVi gleder oss stort til å se deg på UKM Lillesand 2
+ 026! 🌟\n\nhttps://delta.ukm.no/ukmid/pamelding/4215-10004/\n\nKontaktpe
+ rsoner\nBjørn Olav Hartvigsen\nTelefon: 97478349\nE-post: bjorn.olav.hart
+ vigsen@birkenes.kommune.no\n\nChristian Muri Clemetsen\nTelefon: 98488472\
+ nE-post: rimeligbarsk@gmail.com\n\nMarte Langemyr Beisland\nTelefon: 46946
+ 675\nE-post: martelangemyr.beisland@lillesand.kommune.no\n\nToffen Gunnufs
+ en\nTelefon: 47847125\nE-post: toffen.gunnufsen@lillesand.kommune.no\n\nP
+ åmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2027-lillesand-ukmlillesand
+LOCATION:Lillesand Kino
+URL:https://www.ukm.no/arrangement/2027-lillesand-ukmlillesand
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10004@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9934@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -583,6 +619,40 @@ DESCRIPTION:Grimstad\n\nfredag 12. mars kl. 17:30 - 21:00\n\nGrimstad Kultu
  ukm.no/arrangement/2027-grimstad-grimstad
 LOCATION:Grimstad Kulturhus og kino
 URL:https://www.ukm.no/arrangement/2027-grimstad-grimstad
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10004@ukm-kalendere
+DTSTAMP:20261103T051258Z
+CREATED:20261103T051258Z
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:0
+DTSTART:20270312T170000Z
+DTEND:20270312T190000Z
+SUMMARY:UKM LILLESAND
+DESCRIPTION:UKM LILLESAND\n\nfredag 12. mars kl. 18:00 - 20:00\n\nLillesand
+  Kino\n\nLillesand\n\nUKM (Ung Kultur Møtes) er stedet der ungdom får sk
+ inne!\n\nDette er kvelden hvor kreativitet\, mot og uttrykk får stå i se
+ ntrum – enten du spiller musikk\, lager kunst\, danser\, filmer\, skrive
+ r\, står på scenen eller skaper magi bak kulissene!🎭🎶💃🎨🎥\
+ n\n👉Er du mellom 10 og 20 år? Hva venter du på\, meld deg på nå!\n\
+ nHvorfor være med på UKM?\n💥Vis fram talentet ditt for et stort publi
+ kum\n💥Møt likesinnede kreative ungdom fra hele Lillesand\n💥Mulighet
+  til å bli plukket ut til fylkesmønstringen og videre til den nasjonale 
+ UKM-festivalen\n\nPraktisk informasjon:\nDørene åpner 17.30.\nDet blir k
+ iosk med snacks\, drikke – og masse popcorn! 🍿\n\nVi gleder oss stort
+  til å se deg på UKM Lillesand 2026! 🌟\n\nhttps://delta.ukm.no/ukmid/
+ pamelding/4215-10004/\n\nKontaktpersoner\nBjørn Olav Hartvigsen\nTelefon:
+  97478349\nE-post: bjorn.olav.hartvigsen@birkenes.kommune.no\n\nChristian 
+ Muri Clemetsen\nTelefon: 98488472\nE-post: rimeligbarsk@gmail.com\n\nMarte
+  Langemyr Beisland\nTelefon: 46946675\nE-post: martelangemyr.beisland@lill
+ esand.kommune.no\n\nToffen Gunnufsen\nTelefon: 47847125\nE-post: toffen.gu
+ nnufsen@lillesand.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-lillesand-ukmlillesand
+LOCATION:Lillesand Kino
+URL:https://www.ukm.no/arrangement/2027-lillesand-ukmlillesand
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

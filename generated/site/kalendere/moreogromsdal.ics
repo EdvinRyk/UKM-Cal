@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9977@ukm-kalendere
-DTSTAMP:20261102T051949Z
+DTSTAMP:20261103T051258Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261102T051949Z
-SEQUENCE:2
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:3
 DTSTART:20270110T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Aure og Smøla 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til Aure og Smøla 2027.\
@@ -34,24 +34,24 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Aure og Smøla 2027.\
  d å dele UKM i to ønsker vi å skape gode opplevelser for både de yngst
  e og de eldste deltakerne. Juniorene får sin egen arena der de kan prøve
   seg og vise frem det de kan\, mens de eldre ungdommene får sitt eget arr
- angement å fylle med kreativitet\, energi og nye uttrykk.\n\nHar du noe d
- u vil vise frem\, eller har du lyst til å være med på å lage festival?
-  Du trenger ikke å være ekspert. Det viktigste er at du har lyst til å 
- delta\, prøve noe nytt eller lære noe sammen med andre.\n\nDu kan delta 
- på scenen eller stille ut kunst og andre kreative arbeider fra det året 
- du fyller 10 år. For å være arrangør må du gå på 7. trinn eller hø
- yere. Deltakere fra 13 år kan være aktuelle for videre deltakelse på fy
- lkesfestivalen.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure og Smø
- la 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files/2026/
- 11/UKM-forside.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nK
- ontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.helen.s
- tamnsve@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post
- : sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 977
- 03246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: htt
- ps://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 
- 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl
- . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-aure-smola-
- ukmaureogsmola2027
+ angement å fylle med kreativitet\, energi og nye uttrykk. Deltakere fra 7
+ . trinn og oppover kan være aktuelle for videre deltakelse på Fylkesfest
+ ivalen.\n\nHar du noe du vil vise frem\, eller har du lyst til å være me
+ d på å lage festival? Du trenger ikke å være ekspert. Det viktigste er
+  at du har lyst til å delta\, prøve noe nytt eller lære noe sammen med 
+ andre.\n\nDu kan være med som arrangør fra 7. trinn og oppover.\n\nBli m
+ ed og lag UKM Aure og Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm
+ .no/2027-aure-smola-ukmaureogsmola2027/files/2026/11/UKM-forside.png\n\nht
+ tps://delta.ukm.no/ukmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Hele
+ n Stamnsve\nTelefon: 92897776\nE-post: ann.helen.stamnsve@smola.kommune.no
+ \n\nRonja Elise Moe Betten\nTelefon: 97706376\nE-post: ronja.betten@smola.
+ kommune.no\n\nSigrid Britt Golmen\nTelefon: 92087950\nE-post: sigrid.britt
+ .flato.golmen@aure.kommune.no\n\nTrine Ulfsnes\nTelefon: 97703246\nE-post:
+  trine.ulfsnes@aure.kommune.no\n\nPåmelding – Smøla: https://delta.ukm
+ .no/ukmid/pamelding/1573-9977/\nPåmeldingsfrist – delta: 10.01.2027 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola
+ 2027
 LOCATION:Aure Arena\, Smøla
 URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
 STATUS:CONFIRMED
@@ -60,10 +60,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9977@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9977@ukm-kalendere
-DTSTAMP:20261102T051949Z
+DTSTAMP:20261103T051258Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261102T051949Z
-SEQUENCE:2
+LAST-MODIFIED:20261103T051258Z
+SEQUENCE:3
 DTSTART:20270116T110000Z
 DTEND:20270116T170000Z
 SUMMARY:Aure og Smøla 2027
@@ -85,23 +85,23 @@ DESCRIPTION:Aure og Smøla 2027\n\nlørdag 16. januar kl. 12:00 - 18:00\n\n
  pplevelser for både de yngste og de eldste deltakerne. Juniorene får sin
   egen arena der de kan prøve seg og vise frem det de kan\, mens de eldre 
  ungdommene får sitt eget arrangement å fylle med kreativitet\, energi og
-  nye uttrykk.\n\nHar du noe du vil vise frem\, eller har du lyst til å v
- ære med på å lage festival? Du trenger ikke å være ekspert. Det vikti
- gste er at du har lyst til å delta\, prøve noe nytt eller lære noe samm
- en med andre.\n\nDu kan delta på scenen eller stille ut kunst og andre kr
- eative arbeider fra det året du fyller 10 år. For å være arrangør må
-  du gå på 7. trinn eller høyere. Deltakere fra 13 år kan være aktuell
- e for videre deltakelse på fylkesfestivalen.\n\nBli med og lag UKM Aure o
- g Smøla 2027!\n\nAure og Smøla 2027: https://sys.ukm.no/2027-aure-smola-
- ukmaureogsmola2027/files/2026/11/UKM-forside.png\n\nhttps://delta.ukm.no/u
- kmid/pamelding/1576-9977/\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon:
-  92897776\nE-post: ann.helen.stamnsve@smola.kommune.no\n\nSigrid Britt Gol
- men\nTelefon: 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\
- n\nTrine Ulfsnes\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no
- \n\nPåmelding – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/
- \nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – b
- idra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.n
- o/arrangement/2027-aure-smola-ukmaureogsmola2027
+  nye uttrykk. Deltakere fra 7. trinn og oppover kan være aktuelle for vid
+ ere deltakelse på Fylkesfestivalen.\n\nHar du noe du vil vise frem\, elle
+ r har du lyst til å være med på å lage festival? Du trenger ikke å v
+ ære ekspert. Det viktigste er at du har lyst til å delta\, prøve noe ny
+ tt eller lære noe sammen med andre.\n\nDu kan være med som arrangør fra
+  7. trinn og oppover.\n\nBli med og lag UKM Aure og Smøla 2027!\n\nAure o
+ g Smøla 2027: https://sys.ukm.no/2027-aure-smola-ukmaureogsmola2027/files
+ /2026/11/UKM-forside.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1576-9977
+ /\n\nKontaktpersoner\nAnn Helen Stamnsve\nTelefon: 92897776\nE-post: ann.h
+ elen.stamnsve@smola.kommune.no\n\nRonja Elise Moe Betten\nTelefon: 9770637
+ 6\nE-post: ronja.betten@smola.kommune.no\n\nSigrid Britt Golmen\nTelefon: 
+ 92087950\nE-post: sigrid.britt.flato.golmen@aure.kommune.no\n\nTrine Ulfsn
+ es\nTelefon: 97703246\nE-post: trine.ulfsnes@aure.kommune.no\n\nPåmelding
+  – Smøla: https://delta.ukm.no/ukmid/pamelding/1573-9977/\nPåmeldingsf
+ rist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scene
+ n: 10.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/
+ 2027-aure-smola-ukmaureogsmola2027
 LOCATION:Aure Arena\, Smøla
 URL:https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027
 STATUS:CONFIRMED
