@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9925@ukm-kalendere
-DTSTAMP:20261103T051258Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261103T051258Z
-SEQUENCE:1
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:2
 DTSTART:20261103T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Band Tour 2026
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour 2026.\n
@@ -34,17 +34,16 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour 2026.\n
  rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER BIDRA LOKALT?\nDu kan fortsatt 
  spille eller jobbe med teknikk\, som arrangør eller med media\, når buss
  en kommer til din kommune. Søk opp din kommune\, så finner du arrangemen
- tet. 🤘\n\nhttps://delta.ukm.no/ukmid/pamelding/fylke-9925/\n\nKontaktpe
- rsoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen
- @tffk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2026-finnmark-f
- innmrku-finmarkku-ukmbandtour26/program\n\nPåmeldtePåmeldte: https://www
- .ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/deltage
- re\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2
- 026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\n\nPåmeldingsfrist 
- – delta: 03.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 03
- .11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-finnmark-fi
- nnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Modern-Album-Cover-2-120
- 0x1200.png
+ tet. 🤘\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\
+ nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm.no/arran
+ gement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\nPåmeldte
+ Påmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku
+ -ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: https://ww
+ w.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/media\
+ n\nPåmeldingsfrist – delta: 03.11.2026 kl. 23:59\nPåmeldingsfrist – 
+ bidra bak scenen: 03.11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm
+ .no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/Blue-Mode
+ rn-Album-Cover-2-1200x1200.png
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26
@@ -171,10 +170,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9997@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9925@ukm-kalendere
-DTSTAMP:20261103T051258Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261103T051258Z
-SEQUENCE:2
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:3
 DTSTART:20261113T130000Z
 DTEND:20261115T210000Z
 SUMMARY:UKM Band Tour 2026
@@ -195,17 +194,16 @@ DESCRIPTION:UKM Band Tour 2026\n\nfredag 13. november kl. 14:00 - søndag 1
  at det gjelder tekniker eller rigg:-)\n\nHELLER LYST TIL Å SPILLE ELLER B
  IDRA LOKALT?\nDu kan fortsatt spille eller jobbe med teknikk\, som arrang
  ør eller med media\, når bussen kommer til din kommune. Søk opp din kom
- mune\, så finner du arrangementet. 🤘\n\nhttps://delta.ukm.no/ukmid/pam
- elding/fylke-9925/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 
- 90569846\nE-post: b.bertheussen@tffk.no\n\nProgramProgram: https://www.ukm
- .no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/program\n\n
- PåmeldtePåmeldte: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-
- finmarkku-ukmbandtour26/deltagere\n\nBilder og videoerBilder og videoer: h
- ttps://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour
- 26/media\n\nPåmeldingsfrist – delta: 03.11.2026 kl. 23:59\nPåmeldingsf
- rist – bidra bak scenen: 03.11.2026 kl. 23:59\nArrangementsbilde: https:
- //sys.ukm.no/2026-finnmark-finnmrku-finmarkku-ukmbandtour26/files/2026/10/
- Blue-Modern-Album-Cover-2-1200x1200.png
+ mune\, så finner du arrangementet. 🤘\n\nKontaktpersoner\nBernt-Johnny 
+ Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nProgramPr
+ ogram: https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukm
+ bandtour26/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2
+ 026-finnmark-finnmrku-finmarkku-ukmbandtour26/deltagere\n\nBilder og video
+ erBilder og videoer: https://www.ukm.no/arrangement/2026-finnmark-finnmrku
+ -finmarkku-ukmbandtour26/media\n\nPåmeldingsfrist – delta: 03.11.2026 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 03.11.2026 kl. 23:59\nArr
+ angementsbilde: https://sys.ukm.no/2026-finnmark-finnmrku-finmarkku-ukmban
+ dtour26/files/2026/10/Blue-Modern-Album-Cover-2-1200x1200.png
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26

@@ -291,6 +291,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10009@ukm-kalendere
+DTSTAMP:20261104T051659Z
+CREATED:20261104T051659Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:0
+DTSTART:20270214T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Stavanger
+DESCRIPTION:Frist for å melde seg på bak scenen til Stavanger.\nPåmeldin
+ gsfrist: 14.02.2027 kl. 23:59 (norsk tid).\n\nStavanger\n\nlørdag 27. feb
+ ruar kl. 15:00 - 20:00\n\nMetropolis Stavanger\n\nUKM Stavanger 2027 skjer
+  på Metropolis lørdag 27. februar kl. 15.00! Det er bare å melde seg p
+ å nå\, enten det er dans\, musikk\, cosplay\, teater\, litteratur\, tryl
+ ling\, kunst eller kanskje DU har noe annet DU vil vise frem - påmeldings
+ frist er satt til 14. februar - på lokalmønstringen kan du melde deg på
+  om du er mellom 10 og 20 år - vi gleder oss :-)\n\nStavanger: https://sy
+ s.ukm.no/2027-stavanger-stavanger/files/2026/11/Kopi-av-Stedsnavn-med-Logo
+ -1200x799.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1103-10009/\n\nKonta
+ ktpersoner\nChristian F. Brynie\nTelefon: 97534578\nE-post: christian.fred
+ rik.brynie@stavanger.kommune.no\n\nThomas Ognedal Matre\nTelefon: 91878675
+ \nE-post: thomas.matre@stavanger.kommune.no\n\nPåmeldingsfrist – delta:
+  14.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 14.02.2027 k
+ l. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-stavanger-
+ stavanger
+LOCATION:Metropolis Stavanger
+URL:https://www.ukm.no/arrangement/2027-stavanger-stavanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10009@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9814@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -417,6 +447,34 @@ DESCRIPTION:Karmøy\n\nlørdag 27. februar kl. 12:00 - 18:00\n\nKarmøy kul
  : https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy
 LOCATION:Karmøy kulturhus
 URL:https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10009@ukm-kalendere
+DTSTAMP:20261104T051659Z
+CREATED:20261104T051659Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:0
+DTSTART:20270227T140000Z
+DTEND:20270227T190000Z
+SUMMARY:Stavanger
+DESCRIPTION:Stavanger\n\nlørdag 27. februar kl. 15:00 - 20:00\n\nMetropoli
+ s Stavanger\n\nUKM Stavanger 2027 skjer på Metropolis lørdag 27. februar
+  kl. 15.00! Det er bare å melde seg på nå\, enten det er dans\, musikk\
+ , cosplay\, teater\, litteratur\, trylling\, kunst eller kanskje DU har no
+ e annet DU vil vise frem - påmeldingsfrist er satt til 14. februar - på 
+ lokalmønstringen kan du melde deg på om du er mellom 10 og 20 år - vi g
+ leder oss :-)\n\nStavanger: https://sys.ukm.no/2027-stavanger-stavanger/fi
+ les/2026/11/Kopi-av-Stedsnavn-med-Logo-1200x799.png\n\nhttps://delta.ukm.n
+ o/ukmid/pamelding/1103-10009/\n\nKontaktpersoner\nChristian F. Brynie\nTel
+ efon: 97534578\nE-post: christian.fredrik.brynie@stavanger.kommune.no\n\nT
+ homas Ognedal Matre\nTelefon: 91878675\nE-post: thomas.matre@stavanger.kom
+ mune.no\n\nPåmeldingsfrist – delta: 14.02.2027 kl. 23:59\nPåmeldingsfr
+ ist – bidra bak scenen: 14.02.2027 kl. 23:59\nArrangementsside: https://
+ www.ukm.no/arrangement/2027-stavanger-stavanger
+LOCATION:Metropolis Stavanger
+URL:https://www.ukm.no/arrangement/2027-stavanger-stavanger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -160,6 +160,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-9993@ukm-kalendere
+DTSTAMP:20261104T051659Z
+CREATED:20261104T051659Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:0
+DTSTART:20261212T120000Z
+DTEND:20261212T160000Z
+SUMMARY:Lag din egen DJ-miks
+DESCRIPTION:Lag din egen DJ-miks\n\nlørdag 12. desember kl. 13:00 - 17:00\
+ n\nKongsberg\n\nHar du noen gang hatt lyst til å lære hvordan en DJ jobb
+ er med musikk\, mikser låter og skaper god stemning?\n\nDa er denne works
+ hopen noe for deg!\n\nPå denne workshopen starter vi helt fra scratch! Du
+  trenger ingen forkunnskaper\, bare nysgjerrighet og lyst til å prøve no
+ e nytt.\n\nVi bruker DJ-programmet Mixxx\, og du får utdelt din egen PC s
+ om du jobber på gjennom hele kurset. Sammen går vi steg for steg gjennom
+  det grunnleggende innen DJ-ing. Du lærer blant annet hvordan en DJ jobbe
+ r med musikk\, hvordan du finner låter som passer sammen\, tilpasser temp
+ oet (BPM) og lager gode overganger mellom låtene.\n\nDet blir også god t
+ id til å eksperimentere\, være kreativ og lage din helt egen DJ-miks!\n\
+ nSom en avslutning kobler vi oss opp mot et skikkelig PA-anlegg\, slik at 
+ du får høre miksen din spilt av med ordentlig lyd og trøkk – akkurat 
+ slik en DJ ville gjort det på et arrangement!\n\nDette blir en sosial\, k
+ reativ og lærerik workshop hvor det viktigste er å ha det gøy med musik
+ k.\n\n12 -18 år. 10 plasser.\n\nLag din egen DJ-miks: https://sys.ukm.no/
+ 2026-kongsberg-lagdinegendj-miks/files/2026/11/pexels-maorattias-5192315-1
+ 200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3303-9993/\n\nKontaktp
+ ersoner\nRobert Omholt Opsahl\nTelefon: 99102606\nE-post: robert.opsahl@ko
+ ngsberg.kommune.no\n\nPåmeldingsfrist – delta: 11.12.2026 kl. 23:59\nAr
+ rangementsside: https://www.ukm.no/arrangement/2026-kongsberg-lagdinegendj
+ -miks
+LOCATION:\, Kongsberg
+URL:https://www.ukm.no/arrangement/2026-kongsberg-lagdinegendj-miks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9988@ukm-kalendere
 DTSTAMP:20261103T051258Z
 CREATED:20261030T050327Z
@@ -483,15 +519,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9913@ukm-kalendere
-DTSTAMP:20261103T051258Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261103T051258Z
-SEQUENCE:1
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:2
 DTSTART:20270220T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Show Kongsberg
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Show Kongsberg.\n
  Påmeldingsfrist: 20.02.2027 kl. 23:59 (norsk tid).\n\nUKM Show Kongsberg\
- n\nlørdag 27. februar kl. 16:30 - 18:30\n\nKongsberg Musikkteater\n\nKong
+ n\nlørdag 27. februar kl. 16:00 - 18:30\n\nKongsberg Musikkteater\n\nKong
  sberg\n\n«UKM er for deg som har noe på hjertet\, noe å vise fram\, noe
   å teste ut – eller bare lyst å se hva du tør.»\n\nUKM er en møtepl
  ass for ungdom som vil skape\, utforske og uttrykke seg. Noen har øvd i 
@@ -502,7 +538,7 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Show Kongsberg.\n
   film eller noe helt annet – alene eller sammen med andre. Det er helt o
  pp til deg.\n\nDu kan også være med bak kulissene som ung arrangør elle
  r konferansier\, bidra med planlegging og gjennomføring\, eller jobbe med
-  media eller gaming.\n\nPåmeldingsfrist: 20. februar\nShow: 27. februar\n
+  media eller gaming.\n\nPåmeldingsfrist: 17. februar\nShow: 27. februar\n
  \nTa gjerne kontakt hvis du lurer på noe!\n\nMer informasjon kommer nærm
  ere. Følg med!\n\nUKM Show Kongsberg: https://sys.ukm.no/2026-kongsberg-k
  ongsberg/files/2026/11/484051801_1208451257950114_2407708453306223884_n.jp
@@ -520,14 +556,14 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9913@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9913@ukm-kalendere
-DTSTAMP:20261103T051258Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261103T051258Z
-SEQUENCE:2
-DTSTART:20270227T153000Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:3
+DTSTART:20270227T150000Z
 DTEND:20270227T173000Z
 SUMMARY:UKM Show Kongsberg
-DESCRIPTION:UKM Show Kongsberg\n\nlørdag 27. februar kl. 16:30 - 18:30\n\n
+DESCRIPTION:UKM Show Kongsberg\n\nlørdag 27. februar kl. 16:00 - 18:30\n\n
  Kongsberg Musikkteater\n\nKongsberg\n\n«UKM er for deg som har noe på hj
  ertet\, noe å vise fram\, noe å teste ut – eller bare lyst å se hva d
  u tør.»\n\nUKM er en møteplass for ungdom som vil skape\, utforske og u
@@ -538,7 +574,7 @@ DESCRIPTION:UKM Show Kongsberg\n\nlørdag 27. februar kl. 16:30 - 18:30\n\n
  ikk\, dans\, teater\, kunst\, film eller noe helt annet – alene eller sa
  mmen med andre. Det er helt opp til deg.\n\nDu kan også være med bak kul
  issene som ung arrangør eller konferansier\, bidra med planlegging og gje
- nnomføring\, eller jobbe med media eller gaming.\n\nPåmeldingsfrist: 20.
+ nnomføring\, eller jobbe med media eller gaming.\n\nPåmeldingsfrist: 17.
   februar\nShow: 27. februar\n\nTa gjerne kontakt hvis du lurer på noe!\n\
  nMer informasjon kommer nærmere. Følg med!\n\nUKM Show Kongsberg: https:
  //sys.ukm.no/2026-kongsberg-kongsberg/files/2026/11/484051801_120845125795

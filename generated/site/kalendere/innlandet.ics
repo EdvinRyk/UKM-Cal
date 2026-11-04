@@ -298,31 +298,32 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9906@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9802@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:1
 DTSTART:20270301T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Hadeland 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til Hadeland 2027.\nPåme
  ldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag
-  13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran\, Lunner\n\nMeld
-  deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeld
- ingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-g
- ran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.
- no/ukmid/pamelding/3446-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strø
- mnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.n
- o\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\
- n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n
- \nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.
- kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\n
- E-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 918537
- 04\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: http
- s://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmeldingsfrist – delta: 0
- 1.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl.
-  23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-
- ukmhadeland2027
-LOCATION:Hadeland kultursal\, Gran\, Lunner
+  13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran\, Lunner\, Jevna
+ ker\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommu
+ ne. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/20
+ 27-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps:/
+ /delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Hauge
+ støl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gra
+ n.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innland
+ etfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.k
+ ommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: i
+ nger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon:
+  95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTele
+ fon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – L
+ unner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jev
+ naker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist 
+ – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01
+ .03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ lunner-gran-ukmhadeland2027
+LOCATION:Hadeland kultursal\, Gran\, Lunner\, Jevnaker
 URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -357,30 +358,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9802@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261104T051659Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:2
 DTSTART:20270313T170000Z
 DTEND:20270313T200000Z
 SUMMARY:Hadeland 2027
 DESCRIPTION:Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland
-  kultursal\n\nGran\, Lunner\n\nMeld deg på UKM lokalmønstring for ungdom
-  i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 202
- 7: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde
- -logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3446-9802/\n\nKontak
- tpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhil
- d.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735
- \nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-p
- ost: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTele
- fon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\n
- Rosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\
- n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommun
- e.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9
- 802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist 
- – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.
- ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
-LOCATION:Hadeland kultursal\, Gran\, Lunner
+  kultursal\n\nGran\, Lunner\, Jevnaker\n\nMeld deg på UKM lokalmønstring
+  for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nH
+ adeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/20
+ 26/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802
+ /\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-p
+ ost: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefo
+ n: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99
+ 107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brund
+ tland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kom
+ mune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.
+ kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@
+ gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamel
+ ding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamel
+ ding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeld
+ ingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: ht
+ tps://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
+LOCATION:Hadeland kultursal\, Gran\, Lunner\, Jevnaker
 URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

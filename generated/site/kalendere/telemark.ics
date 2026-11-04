@@ -176,6 +176,36 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9999@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10008@ukm-kalendere
+DTSTAMP:20261104T051659Z
+CREATED:20261104T051659Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:0
+DTSTART:20270201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Porsgrunn og Skien
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Porsgrunn og Skie
+ n.\nPåmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nUKM Porsgrunn o
+ g Skien\n\nfredag 5. mars kl. 18:00 - lørdag 6. mars kl. 22:00\n\nHedvigs
+  Hybel\n\nPorsgrunn\, Skien\n\nMeld deg på årets UKM! Har du noe du øns
+ ker å vise fram alene eller sammen med andre\, på scenen\, veggen eller 
+ på lerretet? Ønsker du å være arrangør eller konferansier? Meld deg p
+ å!\n\n😮KONKURANSER\n🎮GAMING\n🎨GRAFFITI\n💅NEGLEDESIGN\n🎤KON
+ SERTER\n🎙️LIVE PODCAST\n🎨KUNSTUTSTILLING\n🎬FILM\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/4001-10008/\n\nKontaktpersoner\nKenneth Lund Joha
+ nnessen\nTelefon: 95999842\nE-post: Kenneth.lund.johannessen@porsgrunn.kom
+ mune.no\n\nStorm Mcquien Henriksen\nAnsvarlig for Utstilling\nTelefon: 482
+ 76316\nE-post: Storm.mcquien.henriksen@porsgrunn.kommune.no\n\nPåmelding 
+ – Skien: https://delta.ukm.no/ukmid/pamelding/4003-10008/\nPåmeldingsfr
+ ist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
+ : 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-porsgrunn-skien-ukmporsgrunnogskien
+LOCATION:Hedvigs Hybel\, Porsgrunn\, Skien
+URL:https://www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10008@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10001@ukm-kalendere
 DTSTAMP:20261103T051258Z
 CREATED:20261103T051258Z
@@ -345,6 +375,34 @@ URL:https://www.ukm.no/arrangement/2027-telemark-ukm-festivalenitelemark202
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9945@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10008@ukm-kalendere
+DTSTAMP:20261104T051659Z
+CREATED:20261104T051659Z
+LAST-MODIFIED:20261104T051659Z
+SEQUENCE:0
+DTSTART:20270305T170000Z
+DTEND:20270306T210000Z
+SUMMARY:UKM Porsgrunn og Skien
+DESCRIPTION:UKM Porsgrunn og Skien\n\nfredag 5. mars kl. 18:00 - lørdag 6.
+  mars kl. 22:00\n\nHedvigs Hybel\n\nPorsgrunn\, Skien\n\nMeld deg på åre
+ ts UKM! Har du noe du ønsker å vise fram alene eller sammen med andre\, 
+ på scenen\, veggen eller på lerretet? Ønsker du å være arrangør elle
+ r konferansier? Meld deg på!\n\n😮KONKURANSER\n🎮GAMING\n🎨GRAFFITI
+ \n💅NEGLEDESIGN\n🎤KONSERTER\n🎙️LIVE PODCAST\n🎨KUNSTUTSTILLING
+ \n🎬FILM\n\nhttps://delta.ukm.no/ukmid/pamelding/4001-10008/\n\nKontaktp
+ ersoner\nKenneth Lund Johannessen\nTelefon: 95999842\nE-post: Kenneth.lund
+ .johannessen@porsgrunn.kommune.no\n\nStorm Mcquien Henriksen\nAnsvarlig fo
+ r Utstilling\nTelefon: 48276316\nE-post: Storm.mcquien.henriksen@porsgrunn
+ .kommune.no\n\nPåmelding – Skien: https://delta.ukm.no/ukmid/pamelding/
+ 4003-10008/\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldings
+ frist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https:
+ //www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien
+LOCATION:Hedvigs Hybel\, Porsgrunn\, Skien
+URL:https://www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9858@ukm-kalendere
