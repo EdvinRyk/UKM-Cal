@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9970@ukm-kalendere
-DTSTAMP:20261030T050327Z
+DTSTAMP:20261105T051723Z
 CREATED:20261030T050327Z
-LAST-MODIFIED:20261030T050327Z
-SEQUENCE:0
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:1
 DTSTART:20261121T110000Z
 DTEND:20261121T140000Z
 SUMMARY:Bandworkshop
@@ -35,17 +35,15 @@ DESCRIPTION:Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdo
  nstrument hvis du har (gitar eller bass)\, hvis ikke kan du låne av oss.\
  n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kultur
  hus (St. Marie gate 38\, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser
- : 15\nMat: pizza\n\nDu vil få bekreftelse på sms om du har fått plass. 
- Hvis det er fullt\, blir du satt på venteliste.\n\n-----\n\nTa gjerne kon
- takt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook:
-  UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/20
- 26-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1800x1800.png\n\nK
- ontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\
- nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.c
- om\n\nPåmeldingsfrist – delta: 20.11.2026 kl. 23:59\nArrangementsbilde:
-  https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadra
- t-1-1200x1200.png\nArrangementsside: https://www.ukm.no/arrangement/2026-s
- arpsborg-bandworkshop
+ : 15\nMat: pizza\n\nDu vil etterhvert få bekreftelse på sms om du har f
+ ått plass. Hvis det er fullt\, blir du satt på venteliste.\n\n-----\n\nT
+ a gjerne kontakt hvis du har spørsmål :)\n\nFølg oss på sosiale medier
+ !\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://s
+ ys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1200x1
+ 200.png\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarp
+ sborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen
+ @sarpsborg.com\n\nPåmeldingsfrist – delta: 20.11.2026 kl. 23:59\nArrang
+ ementsside: https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop
 LOCATION:Ungdommens Kulturhus sarpsborg
 URL:https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop
 STATUS:CONFIRMED

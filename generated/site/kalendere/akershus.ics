@@ -282,32 +282,66 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10007@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10011@ukm-kalendere
+DTSTAMP:20261105T051723Z
+CREATED:20261105T051723Z
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:0
+DTSTART:20270226T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Lillestrøm
+DESCRIPTION:Frist for å melde seg på bak scenen til Lillestrøm.\nPåmeld
+ ingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nLillestrøm\n\nsøndag 14.
+  mars kl. 13:00 - 18:00\n\nLillestrøm Kultursenter\n\nUKM er en mulighet 
+ for barn og ungdom til å vise frem hva man driver med og er opptatt av p
+ å en profesjonell scene eller utstilling. Lillestrøm kommune har masse u
+ ngt talent og engasjement! Kom og se\, eller delta!\n\nLillestrøm: https:
+ //sys.ukm.no/2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos
+ -13230507-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/
+ \n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarn
+ esen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: i
+ ngridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnega
+ ard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Hasl
+ ie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\
+ nStian er lokalkontakt i Lillestrøm\, og har ansvar for det sosiale opple
+ gget og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: s
+ tian.borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.202
+ 7 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\n
+ Arrangementsside: https://www.ukm.no/arrangement/2027-lillestrom-lillestro
+ m
+LOCATION:Lillestrøm Kultursenter
+URL:https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10011@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9802@ukm-kalendere
-DTSTAMP:20261104T051659Z
+DTSTAMP:20261105T051723Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261104T051659Z
-SEQUENCE:1
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:2
 DTSTART:20270301T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Hadeland 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til Hadeland 2027.\nPåme
  ldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag
   13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran\, Lunner\, Jevna
- ker\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommu
- ne. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/20
- 27-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps:/
- /delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Hauge
- støl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gra
- n.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innland
- etfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.k
- ommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: i
- nger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon:
-  95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTele
- fon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – L
- unner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jev
- naker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist 
- – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01
- .03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
- lunner-gran-ukmhadeland2027
+ ker\n\nMeld deg på UKM lokalmønstring for ungdom i Jevnaker\, Lunner- og
+  Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sy
+ s.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg
+ \n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAu
+ dhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.s
+ tromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gau
+ sch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lau
+ wers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945
+ \nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nKristin Krogv
+ old Eriksen\nTelefon: 93200781\nE-post: kre@Jevnaker.kommune.no\n\nRosamun
+ d Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThom
+ as Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\
+ nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nP
+ åmelding – Jevnaker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nP
+ åmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2027-lunner-gran-ukmhadeland2027
 LOCATION:Hadeland kultursal\, Gran\, Lunner\, Jevnaker
 URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
 STATUS:CONFIRMED
@@ -406,32 +440,65 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9802@ukm-kalendere
-DTSTAMP:20261104T051659Z
+DTSTAMP:20261105T051723Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261104T051659Z
-SEQUENCE:2
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:3
 DTSTART:20270313T170000Z
 DTEND:20270313T200000Z
 SUMMARY:Hadeland 2027
 DESCRIPTION:Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland
   kultursal\n\nGran\, Lunner\, Jevnaker\n\nMeld deg på UKM lokalmønstring
-  for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nH
- adeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/20
- 26/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802
- /\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-p
- ost: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefo
- n: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99
- 107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brund
- tland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kom
- mune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.
- kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@
- gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamel
- ding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamel
- ding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeld
- ingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: ht
- tps://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
+  for ungdom i Jevnaker\, Lunner- og Gran kommune. Påmeldingsfrist 1. mars
+  2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland20
+ 27/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pameldin
+ g/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92
+ 221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrø
+ der\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\n
+ Telefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kob
+ bevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtla
+ nd@gran.kommune.no\n\nKristin Krogvold Eriksen\nTelefon: 93200781\nE-post:
+  kre@Jevnaker.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: ros
+ amund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post:
+  Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.u
+ km.no/ukmid/pamelding/3234-9802/\nPåmelding – Jevnaker: https://delta.u
+ km.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArr
+ angementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland
+ 2027
 LOCATION:Hadeland kultursal\, Gran\, Lunner\, Jevnaker
 URL:https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10011@ukm-kalendere
+DTSTAMP:20261105T051723Z
+CREATED:20261105T051723Z
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:0
+DTSTART:20270314T120000Z
+DTEND:20270314T170000Z
+SUMMARY:Lillestrøm
+DESCRIPTION:Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrø
+ m Kultursenter\n\nUKM er en mulighet for barn og ungdom til å vise frem h
+ va man driver med og er opptatt av på en profesjonell scene eller utstill
+ ing. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se\,
+  eller delta!\n\nLillestrøm: https://sys.ukm.no/2027-lillestrom-lillestro
+ m/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Arnesen
+ \nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Hal
+ vorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillest
+ rom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03
+ @lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl
+ @skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestrøm\,
+  og har ansvar for det sosiale opplegget og mat til crew med base på Vill
+ a Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no\n\nP
+ åmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2027-lillestrom-lillestrom
+LOCATION:Lillestrøm Kultursenter
+URL:https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

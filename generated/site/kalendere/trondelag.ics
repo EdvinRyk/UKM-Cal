@@ -91,10 +91,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9921@ukm-kalendere
-DTSTAMP:20261104T051659Z
+DTSTAMP:20261105T051723Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261104T051659Z
-SEQUENCE:2
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:3
 DTSTART:20261113T170000Z
 DTEND:20261113T210000Z
 SUMMARY:Nysgjerrig på hva UKM er? Kom på kickoff!
@@ -109,11 +109,15 @@ DESCRIPTION:Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. novem
  heter som finnes for deg.\n\n🙌 Bare lyst til å se på og henge? Ta med
   en venn og bli med som publikum!\n\nVi lover kos og god stemning. Du tren
  ger ikke ha noe å vise fram for å bli med 💛\n\n👉 Påmelding til å
- pen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\n\nhttps://delta.ukm.no/ukm
- id/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Tro
- ndheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nP
- åmeldingsfrist – delta: 10.11.2026 kl. 23:59\nArrangementsside: https:/
- /www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante
+ pen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\nOBS: (Husk å melde dere p
+ å med lenken over hvis du vil framføre!)\n\nNysgjerrig på hva UKM er? K
+ om på kickoff!: https://sys.ukm.no/2026-trondheim-traante-ukmkickofftrond
+ heim-traante/files/2026/11/Design-uten-navn.png\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Tr
+ ondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\n
+ Påmeldingsfrist – delta: 10.11.2026 kl. 23:59\nArrangementsside: https:
+ //www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traant
+ e
 LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
 URL:https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondhe
  im-traante
@@ -239,10 +243,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9889@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9917@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261105T051723Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:1
 DTSTART:20261210T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Torsdagsscenen 17. desember 2026
 DESCRIPTION:Frist for å melde seg på bak scenen til Torsdagsscenen 17. de
@@ -251,11 +255,10 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Torsdagsscenen 17. de
  elhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersone
  r\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.ko
  mmune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henr
- yk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 46878825\nE-post
- : torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.20
- 26 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\
- nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscen
- en17desember2026
+ yk.polanski@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17d
+ esember2026
 LOCATION:\, Melhus
 URL:https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026
 STATUS:CONFIRMED
@@ -264,10 +267,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9917@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9917@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261105T051723Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:2
 DTSTART:20261217T173000Z
 DTEND:20261217T190000Z
 SUMMARY:Torsdagsscenen 17. desember 2026
@@ -275,11 +278,10 @@ DESCRIPTION:Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18
  :30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n
  \nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.P
  aulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-p
- ost: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 
- 46878825\nE-post: torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist –
-  delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12
- .2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-mel
- hus-torsdagsscenen17desember2026
+ ost: patryk.henryk.polanski@melhus.kommune.no\n\nPåmeldingsfrist – delt
+ a: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026
+  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-t
+ orsdagsscenen17desember2026
 LOCATION:\, Melhus
 URL:https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026
 STATUS:CONFIRMED

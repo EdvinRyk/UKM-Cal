@@ -355,7 +355,7 @@
       "calendars": [
         "trondelag"
       ],
-      "description": "Frist for å melde seg på bak scenen til Torsdagsscenen 17. desember 2026.\nPåmeldingsfrist: 10.12.2026 kl. 23:59 (norsk tid).\n\nTorsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 46878825\nE-post: torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026",
+      "description": "Frist for å melde seg på bak scenen til Torsdagsscenen 17. desember 2026.\nPåmeldingsfrist: 10.12.2026 kl. 23:59 (norsk tid).\n\nTorsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026",
       "end": null,
       "expires": "2026-12-17T20:00:00+01:00",
       "id": "9917-bak-scenen-frist",
@@ -601,6 +601,24 @@
       "title": "Påmeldingsfrist bak scenen – Workshop i Improvisasjonsteater",
       "uid": "ukm-bak-scenen-frist-9992@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonsteater"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "vestland"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Ullensvang.\nPåmeldingsfrist: 11.01.2027 kl. 23:59 (norsk tid).\n\nUllensvang\n\nlørdag 6. februar kl. 14:00 - 17:00\n\nhttps://delta.ukm.no/ukmid/pamelding/4618-10010/\n\nKontaktpersoner\nEldbjørg Furholt\nTelefon: 97558452\nE-post: eldbjorg.furholt@ullensvang.kommune.no\n\nHåkon Widding\nTelefon: 41491618\nE-post: hakon.widding@ullensvang.kommune.no\n\nVilde Helene Takla\nTelefon: 48236239\nE-post: vilde.takla@ullensvang.kommune.no\n\nPåmeldingsfrist – delta: 25.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ullensvang-ullensvang",
+      "end": null,
+      "expires": "2027-02-06T17:00:00+01:00",
+      "id": "10010-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": ", Ullensvang",
+      "parent_uid": "ukm-arrangement-10010@ukm-kalendere",
+      "start": "2027-01-11T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Ullensvang",
+      "uid": "ukm-bak-scenen-frist-10010@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-ullensvang-ullensvang"
     },
     {
       "all_day": false,
@@ -1634,7 +1652,7 @@
         "akershus",
         "innlandet"
       ],
-      "description": "Frist for å melde seg på bak scenen til Hadeland 2027.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027",
+      "description": "Frist for å melde seg på bak scenen til Hadeland 2027.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Jevnaker, Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nKristin Krogvold Eriksen\nTelefon: 93200781\nE-post: kre@Jevnaker.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027",
       "end": null,
       "expires": "2027-03-13T21:00:00+01:00",
       "id": "9802-bak-scenen-frist",
@@ -1718,6 +1736,24 @@
       "title": "Påmeldingsfrist bak scenen – UKM Orkland 2027",
       "uid": "ukm-bak-scenen-frist-9889@ukm-kalendere",
       "url": "https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
+        "akershus"
+      ],
+      "description": "Frist for å melde seg på bak scenen til Lillestrøm.\nPåmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nLillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrøm Kultursenter\n\nUKM er en mulighet for barn og ungdom til å vise frem hva man driver med og er opptatt av på en profesjonell scene eller utstilling. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se, eller delta!\n\nLillestrøm: https://sys.ukm.no/2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestrøm, og har ansvar for det sosiale opplegget og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lillestrom-lillestrom",
+      "end": null,
+      "expires": "2027-03-14T18:00:00+01:00",
+      "id": "10011-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Lillestrøm Kultursenter",
+      "parent_uid": "ukm-arrangement-10011@ukm-kalendere",
+      "start": "2027-02-26T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – Lillestrøm",
+      "uid": "ukm-bak-scenen-frist-10011@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-lillestrom-lillestrom"
     },
     {
       "all_day": false,
@@ -2751,6 +2787,92 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "vestfold"
+        ],
+        "description": "UKM i Ramnes\n\nsøndag 8. november kl. 16:00 - 19:00\n\nElverhøy Kulturhus\n\nTønsberg\n\nDette er et arrangement for deg som vil vise fram hva du driver med, enten det er sang, dans, tegning eller hvasomhelst innenfor kultur :-) Du kan delta, enten ved å bare glede andre og degselv denne dagen, eller du kan si ja til å ta det videre til UKM Fylkesfestivalen i Sandefjord 16-17.01. Herfra kan du faktisk også få en mulighet til å bli plukket ut til den nasjonale UKM-festivalen. Uansett hva du velger, ser vi fram til å møte deg\n\nhttps://delta.ukm.no/ukmid/pamelding/3905-10012/\n\nKontaktpersoner\nElin Feen\nTelefon: 91176872\nE-post: elin.feen@vestfoldfylke.no\n\nSigny Magnusdottir\nTelefon: 97964017\nE-post: magnus_signy@hotmail.com\n\nArrangementsside: https://www.ukm.no/arrangement/2026-tonsberg-tonsberg",
+        "end": "2026-11-08T19:00:00+01:00",
+        "expires": "2026-11-08T19:00:00+01:00",
+        "id": "10012",
+        "location": "Elverhøy Kulturhus, Tønsberg",
+        "start": "2026-11-08T16:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM i Ramnes",
+        "uid": "ukm-arrangement-10012@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2026-tonsberg-tonsberg"
+      },
+      "page": {
+        "displayed_times": [
+          "16:00",
+          "19:00"
+        ],
+        "text": "UKM i Ramnes\n\nsøndag 8. november kl. 16:00 - 19:00\n\nElverhøy Kulturhus\n\nTønsberg\n\nDette er et arrangement for deg som vil vise fram hva du driver med, enten det er sang, dans, tegning eller hvasomhelst innenfor kultur :-) Du kan delta, enten ved å bare glede andre og degselv denne dagen, eller du kan si ja til å ta det videre til UKM Fylkesfestivalen i Sandefjord 16-17.01. Herfra kan du faktisk også få en mulighet til å bli plukket ut til den nasjonale UKM-festivalen. Uansett hva du velger, ser vi fram til å møte deg\n\nhttps://delta.ukm.no/ukmid/pamelding/3905-10012/\n\nKontaktpersoner\nElin Feen\nTelefon: 91176872\nE-post: elin.feen@vestfoldfylke.no\n\nSigny Magnusdottir\nTelefon: 97964017\nE-post: magnus_signy@hotmail.com",
+        "title": "UKM i Ramnes"
+      },
+      "raw": {
+        "beskrivelse": "Dette er et arrangement for deg som vil vise fram hva du driver med, enten det er sang, dans, tegning eller hvasomhelst innenfor kultur :-) Du kan delta, enten ved å bare glede andre og degselv denne dagen, eller du kan si ja til å ta det videre til UKM Fylkesfestivalen i Sandefjord 16-17.01. Herfra kan du faktisk også få en mulighet til å bli plukket ut til den nasjonale UKM-festivalen. Uansett hva du velger, ser vi fram til å møte deg",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 39,
+          "kommuner": null,
+          "link": "vestfold",
+          "navn": "Vestfold",
+          "nettverk_omrade": null
+        },
+        "id": 10012,
+        "kommuner": [
+          {
+            "fylke_id": 39,
+            "fylke_navn": "Vestfold",
+            "id": 3905,
+            "navn": "Tønsberg",
+            "path": "/tonsberg/"
+          }
+        ],
+        "navn": "UKM i Ramnes",
+        "paamelding_lenker": [
+          {
+            "id": 3905,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3905-10012/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1801958340,
+        "paameldingsfrist_1_date": {
+          "date": "2027-02-06 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801958340,
+        "paameldingsfrist_2_date": {
+          "date": "2027-02-06 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2026-tonsberg-tonsberg",
+        "start": 1794153600,
+        "start_date": {
+          "date": "2026-11-08 16:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Elverhøy Kulturhus",
+        "stop": 1794164400,
+        "stop_date": {
+          "date": "2026-11-08 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2026-tonsberg-tonsberg/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "agder"
         ],
         "description": "workshop: Nail Art\n\ntorsdag 12. november kl. 15:30 - 18:30\n\nLindesnesbibliotekene Øyslebø\n\nLindesnes\n\nTorsdag 12. november blir det workshop innen Gel Nail Art her på Øyslebø i Marnar Aula. vi har masse forskjellige farger og flere type former for negler. så hvis du har lyst til å lære litt mer om nail art eller om du bare vil prøve deg litt fram så meld deg på! det blir servert pizza og det er selvsagt gratis å delta.\n\nworkshop: Nail Art: https://sys.ukm.no/2026-lindesnes-workshopnailart/files/2026/10/Design-uten-navn-2.png\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9984/\n\nKontaktpersoner\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart",
@@ -3089,7 +3211,7 @@
         "calendars": [
           "trondelag"
         ],
-        "description": "Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. november kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\n13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\n\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\n\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\n\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\n\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\n\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\n\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
+        "description": "Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. november kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\n13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\n\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\n\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\n\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\n\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\n\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\n\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\nOBS: (Husk å melde dere på med lenken over hvis du vil framføre!)\n\nNysgjerrig på hva UKM er? Kom på kickoff!: https://sys.ukm.no/2026-trondheim-traante-ukmkickofftrondheim-traante/files/2026/11/Design-uten-navn.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
         "end": "2026-11-13T22:00:00+01:00",
         "expires": "2026-11-13T22:00:00+01:00",
         "id": "9921",
@@ -3105,11 +3227,11 @@
           "18:00",
           "22:00"
         ],
-        "text": "Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. november kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\n13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\n\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\n\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\n\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\n\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\n\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\n\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no",
+        "text": "Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. november kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\n13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\n\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\n\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\n\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\n\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\n\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\n\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\nOBS: (Husk å melde dere på med lenken over hvis du vil framføre!)\n\nNysgjerrig på hva UKM er? Kom på kickoff!: https://sys.ukm.no/2026-trondheim-traante-ukmkickofftrondheim-traante/files/2026/11/Design-uten-navn.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no",
         "title": "Nysgjerrig på hva UKM er? Kom på kickoff!"
       },
       "raw": {
-        "beskrivelse": "13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\r\n\r\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\r\n\r\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\r\n\r\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\r\n\r\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\r\n\r\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\r\n\r\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7",
+        "beskrivelse": "13. september inviterer vi deg til UKM kickoff Trondheim–Tråante!\r\n\r\nUKM er en møteplass der ungdom kan vise fram det de driver med, prøve noe nytt og møte andre kreative folk. Musikk, dans, teater, rap, poesi – hva er din greie?\r\n\r\n🎤 Lyst til å opptre? Meld deg på åpen scene! Både første gang på scenen og masse erfaring er helt innafor.\r\n\r\n👀 Vil du vite mer om UKM? Kom innom, still spørsmål og finn ut hvilke muligheter som finnes for deg.\r\n\r\n🙌 Bare lyst til å se på og henge? Ta med en venn og bli med som publikum!\r\n\r\nVi lover kos og god stemning. Du trenger ikke ha noe å vise fram for å bli med 💛\r\n\r\n👉 Påmelding til åpen scene: https://forms.gle/VeYwtKpWfWn3xzLH7\r\nOBS: (Husk å melde dere på med lenken over hvis du vil framføre!)",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -3873,7 +3995,7 @@
         "calendars": [
           "ostfold"
         ],
-        "description": "Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdommens Kulturhus sarpsborg\n\nSarpsborg\n\nPåmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ\n\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio!\n\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast.\n\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.\n\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\n\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀\n\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss.\n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser: 15\nMat: pizza\n\nDu vil få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste.\n\n-----\n\nTa gjerne kontakt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1800x1800.png\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com\n\nPåmeldingsfrist – delta: 20.11.2026 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1200x1200.png\nArrangementsside: https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop",
+        "description": "Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdommens Kulturhus sarpsborg\n\nSarpsborg\n\nPåmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ\n\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio!\n\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast.\n\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.\n\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\n\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀\n\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss.\n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser: 15\nMat: pizza\n\nDu vil etterhvert få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste.\n\n-----\n\nTa gjerne kontakt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1200x1200.png\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com\n\nPåmeldingsfrist – delta: 20.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop",
         "end": "2026-11-21T15:00:00+01:00",
         "expires": "2026-11-21T15:00:00+01:00",
         "id": "9970",
@@ -3889,11 +4011,11 @@
           "12:00",
           "15:00"
         ],
-        "text": "Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdommens Kulturhus sarpsborg\n\nSarpsborg\n\nPåmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ\n\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio!\n\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast.\n\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.\n\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\n\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀\n\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss.\n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser: 15\nMat: pizza\n\nDu vil få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste.\n\n-----\n\nTa gjerne kontakt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1800x1800.png\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com",
+        "text": "Bandworkshop\n\nlørdag 21. november kl. 12:00 - 15:00\n\nUngdommens Kulturhus sarpsborg\n\nSarpsborg\n\nPåmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ\n\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio!\n\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast.\n\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.\n\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\n\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀\n\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss.\n\nNår: Lørdag 21. november kl. 12:00 – 15:00\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg)\nAlder: 13-20 år\nAntall plasser: 15\nMat: pizza\n\nDu vil etterhvert få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste.\n\n-----\n\nTa gjerne kontakt hvis du har spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsborg\nInstagram: @ukmsarp\n\nBandworkshop: https://sys.ukm.no/2026-sarpsborg-bandworkshop/files/2026/10/Bilde-kvadrat-1-1200x1200.png\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maiken.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: martin.halvorsen@sarpsborg.com",
         "title": "Bandworkshop"
       },
       "raw": {
-        "beskrivelse": "Påmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ \r\n\r\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio! \r\n\r\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast. \r\n\r\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.  \r\n\r\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\r\n\r\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀 \r\n\r\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss. \r\n\r\nNår: Lørdag 21. november kl. 12:00 – 15:00 \r\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg) \r\nAlder: 13-20 år \r\nAntall plasser: 15\r\nMat: pizza\r\n\r\nDu vil få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste. \r\n\r\n\r\n-----\r\n\r\nTa gjerne kontakt hvis du har spørsmål :)\r\n\r\nFølg oss på sosiale medier!\r\nFacebook: UKM Sarpsborg\r\nInstagram: @ukmsarp",
+        "beskrivelse": "Påmelding: https://forms.cloud.microsoft/e/VU9yzejjJZ \r\n\r\nSpiller du et instrument - alene eller i band - og vil få veiledning, tips og innsikt fra erfarne musikere som jobber i bransjen? Bli med på bandworkshop med Adrian Bjerketvedt Trio! \r\n\r\nAdrian Bjerketvedt Trio består av Adrian Sunde Bjerketvedt (gitarist), Torstein Guttormsen (bassist) og Brage Saugstad (trommis). De har alle holdt på med musikk i nesten 20 år, og jobber med det enten på deltid eller fast. \r\n\r\nPå workshopen vil trioen spille et par låter for dere, før dere setter dere ned og får spille med dem og lære noen triks.  \r\n\r\nWorkshopen er åpen for alle mellom 13 og 20 år - fra nybegynnere til viderekomne. Vi tilpasser veiledningen til hver enkelt deltaker, så hvor mye du kan fra før er ikke viktig så lenge du er interessert. Vi ønsker bare å inspirere og hjelpe de som har valgt å plukke opp et instrument og synes at dette er gøy!\r\n\r\nDet er også en fin mulighet til å treffe andre som driver med musikk - kanskje møter du ditt nye band 👀 \r\n\r\nTa gjerne med eget instrument hvis du har (gitar eller bass), hvis ikke kan du låne av oss. \r\n\r\nNår: Lørdag 21. november kl. 12:00 – 15:00 \r\nHvor: Ungdommens kulturhus (St. Marie gate 38, 1706 Sarpsborg) \r\nAlder: 13-20 år \r\nAntall plasser: 15\r\nMat: pizza\r\n\r\nDu vil etterhvert få bekreftelse på sms om du har fått plass. Hvis det er fullt, blir du satt på venteliste. \r\n\r\n\r\n-----\r\n\r\nTa gjerne kontakt hvis du har spørsmål :)\r\n\r\nFølg oss på sosiale medier!\r\nFacebook: UKM Sarpsborg\r\nInstagram: @ukmsarp",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -4467,7 +4589,7 @@
         "calendars": [
           "trondelag"
         ],
-        "description": "Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 46878825\nE-post: torstein.sunde@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026",
+        "description": "Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nPåmeldingsfrist – delta: 10.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026",
         "end": "2026-12-17T20:00:00+01:00",
         "expires": "2026-12-17T20:00:00+01:00",
         "id": "9917",
@@ -4483,7 +4605,7 @@
           "18:30",
           "20:00"
         ],
-        "text": "Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no\n\nTorstein Sunde\nTelefon: 46878825\nE-post: torstein.sunde@melhus.kommune.no",
+        "text": "Torsdagsscenen 17. desember 2026\n\ntorsdag 17. desember kl. 18:30 - 20:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9917/\n\nKontaktpersoner\nJeanette Paulsen\nTelefon: 95975591\nE-post: Jeanette.Paulsen@melhus.kommune.no\n\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.henryk.polanski@melhus.kommune.no",
         "title": "Torsdagsscenen 17. desember 2026"
       },
       "raw": {
@@ -6271,6 +6393,94 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2026-kongsberg-workshopiimprovisasjonsteater/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "vestland"
+        ],
+        "description": "Ullensvang\n\nlørdag 6. februar kl. 14:00 - 17:00\n\nhttps://delta.ukm.no/ukmid/pamelding/4618-10010/\n\nKontaktpersoner\nEldbjørg Furholt\nTelefon: 97558452\nE-post: eldbjorg.furholt@ullensvang.kommune.no\n\nHåkon Widding\nTelefon: 41491618\nE-post: hakon.widding@ullensvang.kommune.no\n\nVilde Helene Takla\nTelefon: 48236239\nE-post: vilde.takla@ullensvang.kommune.no\n\nPåmeldingsfrist – delta: 25.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ullensvang-ullensvang",
+        "end": "2027-02-06T17:00:00+01:00",
+        "expires": "2027-02-06T17:00:00+01:00",
+        "id": "10010",
+        "location": ", Ullensvang",
+        "start": "2027-02-06T14:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Ullensvang",
+        "uid": "ukm-arrangement-10010@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-ullensvang-ullensvang"
+      },
+      "page": {
+        "displayed_times": [
+          "14:00",
+          "17:00"
+        ],
+        "text": "Ullensvang\n\nlørdag 6. februar kl. 14:00 - 17:00\n\nhttps://delta.ukm.no/ukmid/pamelding/4618-10010/\n\nKontaktpersoner\nEldbjørg Furholt\nTelefon: 97558452\nE-post: eldbjorg.furholt@ullensvang.kommune.no\n\nHåkon Widding\nTelefon: 41491618\nE-post: hakon.widding@ullensvang.kommune.no\n\nVilde Helene Takla\nTelefon: 48236239\nE-post: vilde.takla@ullensvang.kommune.no",
+        "title": "Ullensvang"
+      },
+      "raw": {
+        "beskrivelse": "",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 46,
+          "kommuner": {
+            "id": null
+          },
+          "link": "vestland",
+          "navn": "Vestland",
+          "nettverk_omrade": null
+        },
+        "id": 10010,
+        "kommuner": [
+          {
+            "fylke_id": 46,
+            "fylke_navn": "Vestland",
+            "id": 4618,
+            "navn": "Ullensvang",
+            "path": "/ullensvang/"
+          }
+        ],
+        "navn": "Ullensvang",
+        "paamelding_lenker": [
+          {
+            "id": 4618,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/4618-10010/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1800921540,
+        "paameldingsfrist_1_date": {
+          "date": "2027-01-25 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1799711940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-01-11 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-ullensvang-ullensvang",
+        "start": 1801922400,
+        "start_date": {
+          "date": "2027-02-06 14:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "",
+        "stop": 1801933200,
+        "stop_date": {
+          "date": "2027-02-06 17:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-ullensvang-ullensvang/",
         "utvidet_gui": false
       }
     },
@@ -11565,7 +11775,7 @@
           "akershus",
           "innlandet"
         ],
-        "description": "Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027",
+        "description": "Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Jevnaker, Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nKristin Krogvold Eriksen\nTelefon: 93200781\nE-post: kre@Jevnaker.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no\n\nPåmelding – Lunner: https://delta.ukm.no/ukmid/pamelding/3234-9802/\nPåmelding – Jevnaker: https://delta.ukm.no/ukmid/pamelding/3236-9802/\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lunner-gran-ukmhadeland2027",
         "end": "2027-03-13T21:00:00+01:00",
         "expires": "2027-03-13T21:00:00+01:00",
         "id": "9802",
@@ -11581,11 +11791,11 @@
           "18:00",
           "21:00"
         ],
-        "text": "Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no",
+        "text": "Hadeland 2027\n\nlørdag 13. mars kl. 18:00 - 21:00\n\nHadeland kultursal\n\nGran, Lunner, Jevnaker\n\nMeld deg på UKM lokalmønstring for ungdom i Jevnaker, Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.\n\nHadeland 2027: https://sys.ukm.no/2027-lunner-gran-ukmhadeland2027/files/2026/05/Bilde-logo-UKM.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3244-9802/\n\nKontaktpersoner\nAudhild Haugestøl Strømnes\nTelefon: 92221694\nE-post: Audhild.haugestol.stromnes@gran.kommune.no\n\nGaute Schrøder\nTelefon: 45667735\nE-post: gausch@innlandetfylke.no\n\nInge Lauwers\nTelefon: 99107781\nE-post: inge.lauwers@gran.kommune.no\n\nInger Astri Kobbevik Brundtland\nTelefon: 93006945\nE-post: inger.astri.kobbevik.brundtland@gran.kommune.no\n\nKristin Krogvold Eriksen\nTelefon: 93200781\nE-post: kre@Jevnaker.kommune.no\n\nRosamund Brown\nTelefon: 95257225\nE-post: rosamund.brown@gran.kommune.no\n\nThomas Petersen\nTelefon: 91853704\nE-post: Thomas.Petersen@gran.kommune.no",
         "title": "Hadeland 2027"
       },
       "raw": {
-        "beskrivelse": "Meld deg på UKM lokalmønstring for ungdom i Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.",
+        "beskrivelse": "Meld deg på UKM lokalmønstring for ungdom i Jevnaker, Lunner- og Gran kommune. Påmeldingsfrist 1. mars 2027.",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -12014,6 +12224,92 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2027-orkland-ukmorkland2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
+          "akershus"
+        ],
+        "description": "Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrøm Kultursenter\n\nUKM er en mulighet for barn og ungdom til å vise frem hva man driver med og er opptatt av på en profesjonell scene eller utstilling. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se, eller delta!\n\nLillestrøm: https://sys.ukm.no/2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestrøm, og har ansvar for det sosiale opplegget og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lillestrom-lillestrom",
+        "end": "2027-03-14T18:00:00+01:00",
+        "expires": "2027-03-14T18:00:00+01:00",
+        "id": "10011",
+        "location": "Lillestrøm Kultursenter",
+        "start": "2027-03-14T13:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "Lillestrøm",
+        "uid": "ukm-arrangement-10011@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-lillestrom-lillestrom"
+      },
+      "page": {
+        "displayed_times": [
+          "13:00",
+          "18:00"
+        ],
+        "text": "Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrøm Kultursenter\n\nUKM er en mulighet for barn og ungdom til å vise frem hva man driver med og er opptatt av på en profesjonell scene eller utstilling. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se, eller delta!\n\nLillestrøm: https://sys.ukm.no/2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestrøm, og har ansvar for det sosiale opplegget og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no",
+        "title": "Lillestrøm"
+      },
+      "raw": {
+        "beskrivelse": "UKM er en mulighet for barn og ungdom til å vise frem hva man driver med og er opptatt av på en profesjonell scene eller utstilling. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se, eller delta!",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 32,
+          "kommuner": null,
+          "link": "akershus",
+          "navn": "Akershus",
+          "nettverk_omrade": null
+        },
+        "id": 10011,
+        "kommuner": [
+          {
+            "fylke_id": 32,
+            "fylke_navn": "Akershus",
+            "id": 3205,
+            "navn": "Lillestrøm",
+            "path": "/lillestrom/"
+          }
+        ],
+        "navn": "Lillestrøm",
+        "paamelding_lenker": [
+          {
+            "id": 3205,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/3205-10011/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1803686340,
+        "paameldingsfrist_1_date": {
+          "date": "2027-02-26 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1803686340,
+        "paameldingsfrist_2_date": {
+          "date": "2027-02-26 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-lillestrom-lillestrom",
+        "start": 1805029200,
+        "start_date": {
+          "date": "2027-03-14 13:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Lillestrøm Kultursenter",
+        "stop": 1805047200,
+        "stop_date": {
+          "date": "2027-03-14 18:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-lillestrom-lillestrom/",
         "utvidet_gui": false
       }
     },
@@ -13873,5 +14169,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-04T05:16:59.287358+00:00"
+  "generated_at": "2026-11-05T05:17:23.453463+00:00"
 }

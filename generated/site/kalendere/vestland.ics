@@ -108,6 +108,30 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9908@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10010@ukm-kalendere
+DTSTAMP:20261105T051723Z
+CREATED:20261105T051723Z
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:0
+DTSTART:20270111T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Ullensvang
+DESCRIPTION:Frist for å melde seg på bak scenen til Ullensvang.\nPåmeldi
+ ngsfrist: 11.01.2027 kl. 23:59 (norsk tid).\n\nUllensvang\n\nlørdag 6. fe
+ bruar kl. 14:00 - 17:00\n\nhttps://delta.ukm.no/ukmid/pamelding/4618-10010
+ /\n\nKontaktpersoner\nEldbjørg Furholt\nTelefon: 97558452\nE-post: eldbjo
+ rg.furholt@ullensvang.kommune.no\n\nHåkon Widding\nTelefon: 41491618\nE-p
+ ost: hakon.widding@ullensvang.kommune.no\n\nVilde Helene Takla\nTelefon: 4
+ 8236239\nE-post: vilde.takla@ullensvang.kommune.no\n\nPåmeldingsfrist –
+  delta: 25.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 11.01
+ .2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ull
+ ensvang-ullensvang
+LOCATION:\, Ullensvang
+URL:https://www.ukm.no/arrangement/2027-ullensvang-ullensvang
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10010@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9987@ukm-kalendere
 DTSTAMP:20261030T050327Z
 CREATED:20261030T050327Z
@@ -263,6 +287,28 @@ URL:https://www.ukm.no/arrangement/2027-ardal-ukmardal2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9820@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10010@ukm-kalendere
+DTSTAMP:20261105T051723Z
+CREATED:20261105T051723Z
+LAST-MODIFIED:20261105T051723Z
+SEQUENCE:0
+DTSTART:20270206T130000Z
+DTEND:20270206T160000Z
+SUMMARY:Ullensvang
+DESCRIPTION:Ullensvang\n\nlørdag 6. februar kl. 14:00 - 17:00\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/4618-10010/\n\nKontaktpersoner\nEldbjørg Furh
+ olt\nTelefon: 97558452\nE-post: eldbjorg.furholt@ullensvang.kommune.no\n\n
+ Håkon Widding\nTelefon: 41491618\nE-post: hakon.widding@ullensvang.kommun
+ e.no\n\nVilde Helene Takla\nTelefon: 48236239\nE-post: vilde.takla@ullensv
+ ang.kommune.no\n\nPåmeldingsfrist – delta: 25.01.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 11.01.2027 kl. 23:59\nArrangementsside: h
+ ttps://www.ukm.no/arrangement/2027-ullensvang-ullensvang
+LOCATION:\, Ullensvang
+URL:https://www.ukm.no/arrangement/2027-ullensvang-ullensvang
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9820@ukm-kalendere

@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 133,
-  "antall_deltakernavn_i_innslag": 126,
-  "antall_innslag": 263,
+  "antall_arrangementer": 136,
+  "antall_deltakernavn_i_innslag": 124,
+  "antall_innslag": 273,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -243,6 +243,33 @@
       "navn": "Spark!"
     },
     {
+      "antall_innslag": 3,
+      "arrangement_id": "10012",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-tonsberg-tonsberg",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262132",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262133",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262134",
+          "navn": "Musikk innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10012",
+      "navn": "UKM i Ramnes"
+    },
+    {
       "antall_innslag": 2,
       "arrangement_id": "9984",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart",
@@ -460,7 +487,7 @@
         {
           "beskrivelse": "Vi liker å danse, og at vi liker å danse foran andre.",
           "deltakernavn": [
-            "Karoline Hallberg Kolstad",
+            "Karoline Hallberg-Kolstad",
             "Thea Rønneberg Furuheim"
           ],
           "id": "261782",
@@ -479,7 +506,7 @@
       "navn": "Bandworkshop"
     },
     {
-      "antall_innslag": 26,
+      "antall_innslag": 25,
       "arrangement_id": "9847",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
       "innslag": [
@@ -695,25 +722,13 @@
           ],
           "id": "261943",
           "navn": "Uzair Ahmad Qaderi"
-        },
-        {
-          "beskrivelse": "Et band fra Horten i prosessen av å bli verdenskjent.",
-          "deltakernavn": [
-            "Gabriel Johansen",
-            "Jesper .",
-            "Nik Flakstad",
-            "Philip Gran",
-            "Vladmir ."
-          ],
-          "id": "261707",
-          "navn": "Wildcard"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9847",
       "navn": "UKM Sandefjord 2026"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -721,6 +736,12 @@
           "beskrivelse": "Jeg liker kunst.",
           "deltakernavn": [],
           "id": "262103",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Sarah er en kreativ jente på 12 år som elsker å lage ting.",
+          "deltakernavn": [],
+          "id": "262122",
           "navn": "Utstilling innslag"
         }
       ],
@@ -823,10 +844,26 @@
       "navn": "Lær å streame – fra scratch!"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 3,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [
+        {
+          "beskrivelse": "Jeg er 14 år og heter Martine. Jeg har sunget siden jeg var 4 år. Musikken betyr ekstra mye for meg fordi når jeg synger så tenker jeg ikke på noe annet. Musikken er som mitt beste fristed",
+          "deltakernavn": [
+            "Martine Fagerheim"
+          ],
+          "id": "262135",
+          "navn": "Martine Elise Fagerheim"
+        },
+        {
+          "beskrivelse": "Jeg er 14 år. Jeg var arrangør/konfransier i fjord og er god på en del ting og er veldig effektiv.",
+          "deltakernavn": [
+            "Martine Fagerheim"
+          ],
+          "id": "262141",
+          "navn": "Martine Fagerheim"
+        },
         {
           "beskrivelse": "Fint langt brun hår, mørk brun øyne.",
           "deltakernavn": [
@@ -875,7 +912,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 17,
+      "antall_innslag": 18,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -979,6 +1016,12 @@
           "beskrivelse": "Tre lidenskapelige musikere som startet Mars i fjor, og siden har jobbet med en EP. Vi er veldig glade i å spille konserter og lignende, og har litt erfaring rundt dette.",
           "deltakernavn": [],
           "id": "261991",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Liker å synge og har gjort det siden 2 klasse, jeg er egentlig med i en sanggruppe som heter LAT men alle ville også synge en sang hver for seg",
+          "deltakernavn": [],
+          "id": "262140",
           "navn": "Musikk innslag"
         }
       ],
@@ -1198,6 +1241,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9992",
       "navn": "Workshop i Improvisasjonsteater"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10010",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ullensvang-ullensvang",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10010",
+      "navn": "Ullensvang"
     },
     {
       "antall_innslag": 5,
@@ -1578,10 +1629,17 @@
       "navn": "Kviteseid og Seljord"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9985",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-midtregauldal-midtregauldal",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Vi er to jenter på 17 og 19 år som er glade i musikk og liker å synge sammen. Vi synes det er veldig gøy å opptre, og gleder oss til å få vise fram noe vi liker å gjøre. Vi har valgt å synge «What About Us» av P!nk, fordi vi synes det er en utrolig fin sang med et sterkt budskap. Vi gleder oss masse til UKM! 💗",
+          "deltakernavn": [],
+          "id": "262145",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9985",
       "navn": "Midtre Gauldal"
     },
@@ -1602,7 +1660,7 @@
       "navn": "Øvre Eikers festival 2027"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9851",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten",
       "innslag": [
@@ -1616,6 +1674,12 @@
           "beskrivelse": "Jeg har elsker fotografi helt siden jeg var små, pga en familie medlem som også jobber litt med det. Jeg går på media og kommunikasjon på første år vgs og har planer å bli fotograf.",
           "deltakernavn": [],
           "id": "261863",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Jeg jobber på totenradioen i forbindelse med innsats for andre som valgfag på skolen så jeg har erfaring innenfor journalistikk. Jeg har ikke drevet noe særlig med media men jeg tenker at dette kan være et fine sted å starte",
+          "deltakernavn": [],
+          "id": "262130",
           "navn": "Media innslag"
         },
         {
@@ -2298,10 +2362,17 @@
       "navn": "Grimstad"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10004",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lillesand-ukmlillesand",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg har malt over med sort maling og brukt akryl maling og litt olje stift, mye tid iks, er ikke så kulere enn det altså",
+          "deltakernavn": [],
+          "id": "262126",
+          "navn": "Utstilling innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10004",
       "navn": "UKM LILLESAND"
     },
@@ -2349,10 +2420,18 @@
       "navn": "Lørenskog 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9858",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-tokke-vinje-tokkeogvinje",
       "innslag": [
+        {
+          "beskrivelse": "Eg er ein veldig utadvendt person som heve vore med på UKM tidlegare og heve til og med haldt konferansierkurs",
+          "deltakernavn": [
+            "Torjus Mondal Ljostad"
+          ],
+          "id": "262144",
+          "navn": "Torjus Mondal Ljostad"
+        },
         {
           "beskrivelse": "Jeg liker å stå på en scene, og liker å showe og spøke. Jeg var med som konferansier på UKM 2026, og syns det var veldig gøy!",
           "deltakernavn": [
@@ -2598,6 +2677,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9889",
       "navn": "UKM Orkland 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10011",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-lillestrom-lillestrom",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10011",
+      "navn": "Lillestrøm"
     },
     {
       "antall_innslag": 0,
@@ -2917,5 +3004,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-04T05:16:59.287358+00:00"
+  "oppdatert": "2026-11-05T05:17:23.453463+00:00"
 }
