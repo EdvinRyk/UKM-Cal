@@ -99,6 +99,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10015@ukm-kalendere
+DTSTAMP:20261106T051654Z
+CREATED:20261106T051654Z
+LAST-MODIFIED:20261106T051654Z
+SEQUENCE:0
+DTSTART:20270116T170000Z
+DTEND:20270116T210000Z
+SUMMARY:Workshops og kurs i Lillestrøm!
+DESCRIPTION:Workshops og kurs i Lillestrøm!\n\nlørdag 16. januar kl. 18:0
+ 0 - 22:00\n\nLillestrøm kulturskole\n\nLillestrøm\n\nVi arrangerer masse
+  kule kurs og workshops lørdag 16. januar! Hold av datoen. Mer info komme
+ r\n\nWorkshops og kurs i Lillestrøm!: https://sys.ukm.no/2027-lillestrom-
+ workshopsogkursilillestrom/files/2026/11/pexels-pavel-danilyuk-7802616-801
+ x1200.jpg\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post
+ : axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\n
+ E-post: ingridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tran
+ um Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nS
+ tian Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStia
+ n Borgen\nStian er lokalkontakt i Lillestrøm\, og har ansvar for det sosi
+ ale opplegget og mat til crew med base på Villa Cara\nTelefon: 97773356\n
+ E-post: stian.borgen@lillestrom.kommune.no\n\nArrangementsside: https://ww
+ w.ukm.no/arrangement/2027-lillestrom-workshopsogkursilillestrom
+LOCATION:Lillestrøm kulturskole
+URL:https://www.ukm.no/arrangement/2027-lillestrom-workshopsogkursilillestr
+ om
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9868@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -222,6 +251,45 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10014@ukm-kalendere
+DTSTAMP:20261106T051654Z
+CREATED:20261106T051654Z
+LAST-MODIFIED:20261106T051654Z
+SEQUENCE:0
+DTSTART:20270212T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Kunstutstilling\, Lillestrøm
+DESCRIPTION:Frist for å melde seg på bak scenen til Kunstutstilling\, Lil
+ lestrøm.\nPåmeldingsfrist: 12.02.2027 kl. 23:59 (norsk tid).\n\nKunstuts
+ tilling\, Lillestrøm\n\nsøndag 14. mars kl. 11:00 - søndag 28. mars kl.
+  22:00\n\nNitja senter for samtidskunst\n\nLillestrøm\n\nUKM er en muligh
+ et for barn og ungdom til å vise frem hva man driver med og er opptatt av
+  på en profesjonell scene eller utstilling. Lillestrøm kommune har masse
+  ungt talent og engasjement! Kom og se\, eller delta! Har du noe du ønske
+ r å vise frem på en kunstutstilling? Meld deg på kunstutstilling. Har d
+ u noe du ønsker å vise frem på en scene? Meld deg på scenemønstring. 
+ Vi gleder oss til å treffe deg!\n\nKunstutstilling\, Lillestrøm: https:/
+ /sys.ukm.no/2027-lillestrom-scenemonstringlillestrom/files/2026/11/pexels-
+ thirdman-6732659-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205
+ -10014/\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: 
+ axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-
+ post: ingridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum
+  Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nSti
+ an Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nAnette
+  Lillestu\nAnette har ansvaret for Unge Arrangører under fylkesfestivalen
+ \nTelefon: 97730280\nE-post: anettesl_96@hotmail.com\n\nStian Borgen\nStia
+ n er lokalkontakt i Lillestrøm\, og har ansvar for det sosiale opplegget 
+ og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: stian.
+ borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl.
+  23:59\nPåmeldingsfrist – bidra bak scenen: 12.02.2027 kl. 23:59\nArran
+ gementsside: https://www.ukm.no/arrangement/2027-lillestrom-scenemonstring
+ lillestrom
+LOCATION:Nitja senter for samtidskunst\, Lillestrøm
+URL:https://www.ukm.no/arrangement/2027-lillestrom-scenemonstringlillestrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10014@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9919@ukm-kalendere
 DTSTAMP:20261102T051949Z
 CREATED:20261025T111128Z
@@ -283,31 +351,34 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10007@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10011@ukm-kalendere
-DTSTAMP:20261105T051723Z
+DTSTAMP:20261106T051654Z
 CREATED:20261105T051723Z
-LAST-MODIFIED:20261105T051723Z
-SEQUENCE:0
+LAST-MODIFIED:20261106T051654Z
+SEQUENCE:1
 DTSTART:20270226T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Lillestrøm
-DESCRIPTION:Frist for å melde seg på bak scenen til Lillestrøm.\nPåmeld
- ingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nLillestrøm\n\nsøndag 14.
-  mars kl. 13:00 - 18:00\n\nLillestrøm Kultursenter\n\nUKM er en mulighet 
- for barn og ungdom til å vise frem hva man driver med og er opptatt av p
- å en profesjonell scene eller utstilling. Lillestrøm kommune har masse u
- ngt talent og engasjement! Kom og se\, eller delta!\n\nLillestrøm: https:
- //sys.ukm.no/2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos
- -13230507-1200x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/
- \n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarn
- esen70@gmail.com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: i
- ngridmargrethebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnega
- ard\nTelefon: 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Hasl
- ie\nTelefon: 93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\
- nStian er lokalkontakt i Lillestrøm\, og har ansvar for det sosiale opple
- gget og mat til crew med base på Villa Cara\nTelefon: 97773356\nE-post: s
- tian.borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.202
- 7 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\n
- Arrangementsside: https://www.ukm.no/arrangement/2027-lillestrom-lillestro
- m
+SUMMARY:Påmeldingsfrist bak scenen – Scenemønstring Lillestrøm
+DESCRIPTION:Frist for å melde seg på bak scenen til Scenemønstring Lille
+ strøm.\nPåmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nScenemøns
+ tring Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrøm Kul
+ tursenter\n\nLillestrøm\n\nUKM er en mulighet for barn og ungdom til å v
+ ise frem hva man driver med og er opptatt av på en profesjonell scene ell
+ er utstilling. Lillestrøm kommune har masse ungt talent og engasjement! K
+ om og se\, eller delta! Har du noe du ønsker å vise frem på en kunstuts
+ tilling? Meld deg på kunstutstilling. Har du noe du ønsker å vise frem 
+ på en scene? Meld deg på scenemønstring. Vi gleder oss til å treffe de
+ g!\n\nScenemønstring Lillestrøm: https://sys.ukm.no/2027-lillestrom-lill
+ estrom/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps:/
+ /delta.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Ar
+ nesen\nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølge
+ n Halvorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@li
+ llestrom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: l
+ aar03@lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: st
+ ihasl@skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestr
+ øm\, og har ansvar for det sosiale opplegget og mat til crew med base på
+  Villa Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no
+ \n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist –
+  bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm
+ .no/arrangement/2027-lillestrom-lillestrom
 LOCATION:Lillestrøm Kultursenter
 URL:https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
 STATUS:CONFIRMED
@@ -472,31 +543,71 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-10011@ukm-kalendere
-DTSTAMP:20261105T051723Z
-CREATED:20261105T051723Z
-LAST-MODIFIED:20261105T051723Z
+UID:ukm-arrangement-10014@ukm-kalendere
+DTSTAMP:20261106T051654Z
+CREATED:20261106T051654Z
+LAST-MODIFIED:20261106T051654Z
 SEQUENCE:0
+DTSTART:20270314T100000Z
+DTEND:20270328T200000Z
+SUMMARY:Kunstutstilling\, Lillestrøm
+DESCRIPTION:Kunstutstilling\, Lillestrøm\n\nsøndag 14. mars kl. 11:00 - s
+ øndag 28. mars kl. 22:00\n\nNitja senter for samtidskunst\n\nLillestrøm\
+ n\nUKM er en mulighet for barn og ungdom til å vise frem hva man driver m
+ ed og er opptatt av på en profesjonell scene eller utstilling. Lillestrø
+ m kommune har masse ungt talent og engasjement! Kom og se\, eller delta! H
+ ar du noe du ønsker å vise frem på en kunstutstilling? Meld deg på kun
+ stutstilling. Har du noe du ønsker å vise frem på en scene? Meld deg p
+ å scenemønstring. Vi gleder oss til å treffe deg!\n\nKunstutstilling\, 
+ Lillestrøm: https://sys.ukm.no/2027-lillestrom-scenemonstringlillestrom/f
+ iles/2026/11/pexels-thirdman-6732659-800x1200.jpg\n\nhttps://delta.ukm.no/
+ ukmid/pamelding/3205-10014/\n\nKontaktpersoner\nAxel Finn Arnesen\nTelefon
+ : 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Halvorsen\nT
+ elefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillestrom.kommu
+ ne.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03@lillestr
+ om.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl@skedsmo.
+ kommune.no\n\nAnette Lillestu\nAnette har ansvaret for Unge Arrangører un
+ der fylkesfestivalen\nTelefon: 97730280\nE-post: anettesl_96@hotmail.com\n
+ \nStian Borgen\nStian er lokalkontakt i Lillestrøm\, og har ansvar for de
+ t sosiale opplegget og mat til crew med base på Villa Cara\nTelefon: 9777
+ 3356\nE-post: stian.borgen@lillestrom.kommune.no\n\nPåmeldingsfrist – d
+ elta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.02.2
+ 027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lille
+ strom-scenemonstringlillestrom
+LOCATION:Nitja senter for samtidskunst\, Lillestrøm
+URL:https://www.ukm.no/arrangement/2027-lillestrom-scenemonstringlillestrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10011@ukm-kalendere
+DTSTAMP:20261106T051654Z
+CREATED:20261105T051723Z
+LAST-MODIFIED:20261106T051654Z
+SEQUENCE:1
 DTSTART:20270314T120000Z
 DTEND:20270314T170000Z
-SUMMARY:Lillestrøm
-DESCRIPTION:Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:00\n\nLillestrø
- m Kultursenter\n\nUKM er en mulighet for barn og ungdom til å vise frem h
- va man driver med og er opptatt av på en profesjonell scene eller utstill
- ing. Lillestrøm kommune har masse ungt talent og engasjement! Kom og se\,
-  eller delta!\n\nLillestrøm: https://sys.ukm.no/2027-lillestrom-lillestro
- m/files/2026/11/pexels-fotios-photos-13230507-1200x900.jpg\n\nhttps://delt
- a.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktpersoner\nAxel Finn Arnesen
- \nTelefon: 91740823\nE-post: axelarnesen70@gmail.com\n\nIngrid Bølgen Hal
- vorsen\nTelefon: 40847943\nE-post: ingridmargrethebolgen.halvorsen@lillest
- rom.kommune.no\n\nLars Tranum Arnegaard\nTelefon: 93472551\nE-post: laar03
- @lillestrom.kommune.no\n\nStian Haslie\nTelefon: 93234597\nE-post: stihasl
- @skedsmo.kommune.no\n\nStian Borgen\nStian er lokalkontakt i Lillestrøm\,
-  og har ansvar for det sosiale opplegget og mat til crew med base på Vill
- a Cara\nTelefon: 97773356\nE-post: stian.borgen@lillestrom.kommune.no\n\nP
- åmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidr
- a bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/a
- rrangement/2027-lillestrom-lillestrom
+SUMMARY:Scenemønstring Lillestrøm
+DESCRIPTION:Scenemønstring Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:
+ 00\n\nLillestrøm Kultursenter\n\nLillestrøm\n\nUKM er en mulighet for ba
+ rn og ungdom til å vise frem hva man driver med og er opptatt av på en p
+ rofesjonell scene eller utstilling. Lillestrøm kommune har masse ungt tal
+ ent og engasjement! Kom og se\, eller delta! Har du noe du ønsker å vise
+  frem på en kunstutstilling? Meld deg på kunstutstilling. Har du noe du 
+ ønsker å vise frem på en scene? Meld deg på scenemønstring. Vi gleder
+  oss til å treffe deg!\n\nScenemønstring Lillestrøm: https://sys.ukm.no
+ /2027-lillestrom-lillestrom/files/2026/11/pexels-fotios-photos-13230507-12
+ 00x900.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3205-10011/\n\nKontaktp
+ ersoner\nAxel Finn Arnesen\nTelefon: 91740823\nE-post: axelarnesen70@gmail
+ .com\n\nIngrid Bølgen Halvorsen\nTelefon: 40847943\nE-post: ingridmargret
+ hebolgen.halvorsen@lillestrom.kommune.no\n\nLars Tranum Arnegaard\nTelefon
+ : 93472551\nE-post: laar03@lillestrom.kommune.no\n\nStian Haslie\nTelefon:
+  93234597\nE-post: stihasl@skedsmo.kommune.no\n\nStian Borgen\nStian er lo
+ kalkontakt i Lillestrøm\, og har ansvar for det sosiale opplegget og mat 
+ til crew med base på Villa Cara\nTelefon: 97773356\nE-post: stian.borgen@
+ lillestrom.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\
+ nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangements
+ side: https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
 LOCATION:Lillestrøm Kultursenter
 URL:https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
 STATUS:CONFIRMED
