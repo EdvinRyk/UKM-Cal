@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9807@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20260916T114556Z
 SUMMARY:Påmeldingsfrist bak scenen – DJ kurs med Sebastian
 DESCRIPTION:Frist for å melde seg på bak scenen til DJ kurs med Sebastian
@@ -24,13 +24,13 @@ DESCRIPTION:Frist for å melde seg på bak scenen til DJ kurs med Sebastian
  ag 15.november. På kurset vil du lære\n- hva en Dj gjør\n- hvordan bruk
  e Dj- utstyr\n- hvordan musikk er bygd opp\n- hvordan du kan mikse låter 
  sammen\n\nDu trenger:\n- ipad/ telefon\n- øreklokker med kabel (hvis du h
- ar)\n- litt mat og drikke\n\nPåmeldingsfrist 6. november.\n\nhttps://delt
- a.ukm.no/ukmid/pamelding/3314-9807/\n\nKontaktpersoner\nAnne Grethe Klunde
- rud\nTelefon: 90220744\nE-post: annegrethe.klunderud@oeiker.no\n\nSebastia
- n Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindland@ovr
- e-eiker.kommune.no\n\nPåmeldingsfrist – delta: 06.11.2026 kl. 23:59\nP
- åmeldingsfrist – bidra bak scenen: 16.09.2026 kl. 13:45\nArrangementssi
- de: https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian
+ ar)\n- litt mat og drikke\n\nPåmeldingsfrist 6. november.\n\nKontaktperso
+ ner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.klunderu
+ d@oeiker.no\n\nSebastian Lindland\nTelefon: 48269903\nE-post: SebastianNor
+ mannNilsen.Lindland@ovre-eiker.kommune.no\n\nPåmeldingsfrist – delta: 0
+ 6.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2026 kl.
+  13:45\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-dj
+ kursmedsebastian
 LOCATION:\, Øvre Eiker
 URL:https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian
 STATUS:CONFIRMED
@@ -94,10 +94,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9807@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:2
 DTSTART:20261114T090000Z
 DTEND:20261115T130000Z
 SUMMARY:DJ kurs med Sebastian
@@ -109,13 +109,12 @@ DESCRIPTION:DJ kurs med Sebastian\n\nlørdag 14. november kl. 10:00 - sønd
   en Dj gjør\n- hvordan bruke Dj- utstyr\n- hvordan musikk er bygd opp\n- 
  hvordan du kan mikse låter sammen\n\nDu trenger:\n- ipad/ telefon\n- øre
  klokker med kabel (hvis du har)\n- litt mat og drikke\n\nPåmeldingsfrist 
- 6. november.\n\nhttps://delta.ukm.no/ukmid/pamelding/3314-9807/\n\nKontakt
- personer\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.klu
- nderud@oeiker.no\n\nSebastian Lindland\nTelefon: 48269903\nE-post: Sebasti
- anNormannNilsen.Lindland@ovre-eiker.kommune.no\n\nPåmeldingsfrist – del
- ta: 06.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.202
- 6 kl. 13:45\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeik
- er-djkursmedsebastian
+ 6. november.\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\
+ nE-post: annegrethe.klunderud@oeiker.no\n\nSebastian Lindland\nTelefon: 48
+ 269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune.no\n\nP
+ åmeldingsfrist – delta: 06.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 16.09.2026 kl. 13:45\nArrangementsside: https://www.ukm.no/a
+ rrangement/2026-ovreeiker-djkursmedsebastian
 LOCATION:\, Øvre Eiker
 URL:https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian
 STATUS:CONFIRMED
@@ -192,6 +191,34 @@ DESCRIPTION:Lag din egen DJ-miks\n\nlørdag 12. desember kl. 13:00 - 17:00\
  -miks
 LOCATION:\, Kongsberg
 URL:https://www.ukm.no/arrangement/2026-kongsberg-lagdinegendj-miks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10017@ukm-kalendere
+DTSTAMP:20261107T050755Z
+CREATED:20261107T050755Z
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:0
+DTSTART:20261219T100000Z
+DTEND:20261219T133000Z
+SUMMARY:Manga-workshop på Hole bibliotek
+DESCRIPTION:Manga-workshop på Hole bibliotek\n\nlørdag 19. desember kl. 1
+ 1:00 - 14:30\n\nHole Bibliotek\n\nHole\n\nNy runde med MANGA-workshop på 
+ Hole Bibliotek!\nGRATIS å delta på\, og deltakerne får også lunsj.\n\n
+ UKM-workshop i MANGA-tegning med Hiwar\nLørdag 19.november - 1100-1430\nA
+ ldersgruppe: 7.-10.trinn\nMaks antall: 15\n\nHiwar har laget svart/hvitt-m
+ anga\; Mantikorens Kongerike\, utgitt av Outland.\nHan jobber også som te
+ gneserielærer på Bjerkely Folkehøyskole.\n\nManga-workshop på Hole bib
+ liotek: https://sys.ukm.no/2026-hole-manga-workshoppaholebibliotek/files/2
+ 026/11/Hiwar-Nheli-Forfatterportrett_med-bok-1200x900.png\n\nhttps://delta
+ .ukm.no/ukmid/pamelding/3310-10017/\n\nKontaktpersoner\nAnders Marius Blys
+ tad\nTelefon: 93235117\nE-post: Anders.Blystad@gran.kommune.no\n\nMarthe H
+ augan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.
+ no\n\nPåmeldingsfrist – delta: 06.12.2026 kl. 23:59\nArrangementsside: 
+ https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek
+LOCATION:Hole Bibliotek
+URL:https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -378,6 +378,59 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10016@ukm-kalendere
+DTSTAMP:20261107T050755Z
+CREATED:20261107T050755Z
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:0
+DTSTART:20270206T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Alta
+DESCRIPTION:Frist for å melde seg på bak scenen til Alta.\nPåmeldingsfri
+ st: 06.02.2027 kl. 23:59 (norsk tid).\n\nAlta\n\nlørdag 20. februar kl. 1
+ 2:00 - 14:00\n\nAlta Kultursal\n\nKom å bli med på UKM Alta! Vi ønsker 
+ oss deltakere både med musikk\, dans\, teater\, media\, kunst\, film\, ar
+ rangører osv osv. På UKM er det plass til alle. Lurer du på om du kan b
+ idra med noe\, eller om det er plass til akkurat din type kunst/innslag/ko
+ mpetanse? Svaret er mest sannsynlig JA :) MELD DEG PÅ! Vi sees i kultursa
+ len\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-10016/\n\nKontaktpersoner
+ \nAnn Helen Paulsen\nTelefon: 99338586\nE-post: annhelen.paulsen@alta.komm
+ une.no\n\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@
+ alta.kommune.no\n\nPåmeldingsfrist – delta: 06.02.2027 kl. 23:59\nPåme
+ ldingsfrist – bidra bak scenen: 06.02.2027 kl. 23:59\nArrangementsside: 
+ https://www.ukm.no/arrangement/2027-alta-alta
+LOCATION:Alta Kultursal
+URL:https://www.ukm.no/arrangement/2027-alta-alta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10016@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10016@ukm-kalendere
+DTSTAMP:20261107T050755Z
+CREATED:20261107T050755Z
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:0
+DTSTART:20270220T110000Z
+DTEND:20270220T130000Z
+SUMMARY:Alta
+DESCRIPTION:Alta\n\nlørdag 20. februar kl. 12:00 - 14:00\n\nAlta Kultursal
+ \n\nKom å bli med på UKM Alta! Vi ønsker oss deltakere både med musikk
+ \, dans\, teater\, media\, kunst\, film\, arrangører osv osv. På UKM er 
+ det plass til alle. Lurer du på om du kan bidra med noe\, eller om det er
+  plass til akkurat din type kunst/innslag/kompetanse? Svaret er mest sanns
+ ynlig JA :) MELD DEG PÅ! Vi sees i kultursalen\n\nhttps://delta.ukm.no/uk
+ mid/pamelding/5601-10016/\n\nKontaktpersoner\nAnn Helen Paulsen\nTelefon: 
+ 99338586\nE-post: annhelen.paulsen@alta.kommune.no\n\nEirik Aune Hansen\nT
+ elefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldings
+ frist – delta: 06.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scen
+ en: 06.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement
+ /2027-alta-alta
+LOCATION:Alta Kultursal
+URL:https://www.ukm.no/arrangement/2027-alta-alta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9794@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

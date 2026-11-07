@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9890@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:2
 DTSTART:20261017T100000Z
 DTEND:20270313T210000Z
 SUMMARY:CREW - Tokke og Vinje
@@ -43,23 +43,23 @@ DESCRIPTION:CREW - Tokke og Vinje\n\nlørdag 17. oktober kl. 12:00 - lørda
  ei stor profesjonell produksjon.\n\nI år er Tokke med på laget\, og sama
  n skal me bli endå sterkare!\n\nPraktisk informasjon:\n\nDet er avgrensa 
  tal på plassar i UKM-Crew\, så du må melde deg på for å vere med.\n\n
- I haust blir det fire samlingar\, med kick-off på Morgedal Høgfjellshote
- ll laurdag 17. oktober. Etter påmelding får du tilsendt semesterplan.\n\
- nSamlingane blir på laurdagar og inneheld:\n\n- Sosiale aktivitetar\n- Ku
- rs og opplæring\n- Arbeid og planlegging\n- Mat og moro\n\nViktig å vite
- :\n\n✅ UKM er alltid rusfritt.\n\n✅ Du må vere så sjølvstendig at d
- u kan overnatte utan føresette.\n\n✅ Du vil få ansvar\, og det er vikt
- ig at du er villig til å ta det ansvaret.\n\n✅ Det vil alltid vere vaks
- ne til stades.\n\n✅ Aldersgrense: frå 8. klasse til og med 20 år.\n\nC
- REW - Tokke og Vinje: https://sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinj
- e/files/2026/09/1000011069-1.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4
- 036-9890/\n\nKontaktpersoner\nJardar Østbø Juberg\nTelefon: 99412608\nE-
- post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine Mondal Ljostad\nTelefo
- n: 90873194\nE-post: stine.ljostad@vinje.kommune.no\n\nPåmelding – Tokk
- e: https://delta.ukm.no/ukmid/pamelding/4034-9890/\nPåmeldingsfrist – d
- elta: 25.12.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 25.12.2
- 026 kl. 11:51\nArrangementsside: https://www.ukm.no/arrangement/2026-tokke
- -vinje-crew-tokkeogvinje
+ Fram til lokalfestivalen blir det 4 samlingar\, med oppstart 7. november. 
+ Etter påmelding får du tilsendt semesterplan.\n\nSamlingane blir på lau
+ rdagar og inneheld:\n\n- Sosiale aktivitetar\n- Kurs og opplæring\n- Arbe
+ id og planlegging\n- Mat og moro\n\nViktig å vite:\n\n✅ UKM er alltid r
+ usfritt.\n\n✅ Du må vere så sjølvstendig at du kan overnatte utan fø
+ resette.\n\n✅ Du vil få ansvar\, og det er viktig at du er villig til 
+ å ta det ansvaret.\n\n✅ Det vil alltid vere vaksne til stades.\n\n✅ A
+ ldersgrense: frå 8. klasse til og med 20 år.\n\nCREW - Tokke og Vinje: h
+ ttps://sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinje/files/2026/09/1000011
+ 069-1.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4036-9890/\n\nKontaktper
+ soner\nJardar Østbø Juberg\nTelefon: 99412608\nE-post: jardar.ostbo.jube
+ rg@tokke.kommune.no\n\nStine Mondal Ljostad\nTelefon: 90873194\nE-post: st
+ ine.ljostad@vinje.kommune.no\n\nPåmelding – Tokke: https://delta.ukm.no
+ /ukmid/pamelding/4034-9890/\nPåmeldingsfrist – delta: 25.12.2026 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 25.12.2026 kl. 11:51\nArrangem
+ entsside: https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinj
+ e
 LOCATION:\, Vinje\, Tokke
 URL:https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje
 STATUS:CONFIRMED
@@ -67,10 +67,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9890@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20261225T105154Z
 SUMMARY:Påmeldingsfrist bak scenen – CREW - Tokke og Vinje
 DESCRIPTION:Frist for å melde seg på bak scenen til CREW - Tokke og Vinje
@@ -101,23 +101,23 @@ DESCRIPTION:Frist for å melde seg på bak scenen til CREW - Tokke og Vinje
  å UKM Landsfestivalen i Trondheim og jobbe i ei stor profesjonell produks
  jon.\n\nI år er Tokke med på laget\, og saman skal me bli endå sterkare
  !\n\nPraktisk informasjon:\n\nDet er avgrensa tal på plassar i UKM-Crew\,
-  så du må melde deg på for å vere med.\n\nI haust blir det fire samlin
- gar\, med kick-off på Morgedal Høgfjellshotell laurdag 17. oktober. Ette
- r påmelding får du tilsendt semesterplan.\n\nSamlingane blir på laurdag
- ar og inneheld:\n\n- Sosiale aktivitetar\n- Kurs og opplæring\n- Arbeid o
- g planlegging\n- Mat og moro\n\nViktig å vite:\n\n✅ UKM er alltid rusfr
- itt.\n\n✅ Du må vere så sjølvstendig at du kan overnatte utan førese
- tte.\n\n✅ Du vil få ansvar\, og det er viktig at du er villig til å ta
-  det ansvaret.\n\n✅ Det vil alltid vere vaksne til stades.\n\n✅ Alders
- grense: frå 8. klasse til og med 20 år.\n\nCREW - Tokke og Vinje: https:
- //sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinje/files/2026/09/1000011069-1
- .jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4036-9890/\n\nKontaktpersoner
- \nJardar Østbø Juberg\nTelefon: 99412608\nE-post: jardar.ostbo.juberg@to
- kke.kommune.no\n\nStine Mondal Ljostad\nTelefon: 90873194\nE-post: stine.l
- jostad@vinje.kommune.no\n\nPåmelding – Tokke: https://delta.ukm.no/ukmi
- d/pamelding/4034-9890/\nPåmeldingsfrist – delta: 25.12.2026 kl. 23:59\n
- Påmeldingsfrist – bidra bak scenen: 25.12.2026 kl. 11:51\nArrangementss
- ide: https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje
+  så du må melde deg på for å vere med.\n\nFram til lokalfestivalen bli
+ r det 4 samlingar\, med oppstart 7. november. Etter påmelding får du til
+ sendt semesterplan.\n\nSamlingane blir på laurdagar og inneheld:\n\n- Sos
+ iale aktivitetar\n- Kurs og opplæring\n- Arbeid og planlegging\n- Mat og 
+ moro\n\nViktig å vite:\n\n✅ UKM er alltid rusfritt.\n\n✅ Du må vere 
+ så sjølvstendig at du kan overnatte utan føresette.\n\n✅ Du vil få a
+ nsvar\, og det er viktig at du er villig til å ta det ansvaret.\n\n✅ De
+ t vil alltid vere vaksne til stades.\n\n✅ Aldersgrense: frå 8. klasse t
+ il og med 20 år.\n\nCREW - Tokke og Vinje: https://sys.ukm.no/2026-tokke-
+ vinje-crew-tokkeogvinje/files/2026/09/1000011069-1.jpg\n\nhttps://delta.uk
+ m.no/ukmid/pamelding/4036-9890/\n\nKontaktpersoner\nJardar Østbø Juberg\
+ nTelefon: 99412608\nE-post: jardar.ostbo.juberg@tokke.kommune.no\n\nStine 
+ Mondal Ljostad\nTelefon: 90873194\nE-post: stine.ljostad@vinje.kommune.no\
+ n\nPåmelding – Tokke: https://delta.ukm.no/ukmid/pamelding/4034-9890/\n
+ Påmeldingsfrist – delta: 25.12.2026 kl. 23:59\nPåmeldingsfrist – bid
+ ra bak scenen: 25.12.2026 kl. 11:51\nArrangementsside: https://www.ukm.no/
+ arrangement/2026-tokke-vinje-crew-tokkeogvinje
 LOCATION:\, Vinje\, Tokke
 URL:https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje
 STATUS:CONFIRMED

@@ -122,10 +122,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9980@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9940@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20270124T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Jæren 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til Jæren 2027.\nPåmeld
@@ -138,24 +138,26 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Jæren 2027.\nPåmeld
  i 2027) og 20 år kan melde seg på UKM og alle får være med. Påmelding
   skjer via nettsiden her. Det er ingen begrensning i antall deltakere elle
  r uttrykksform – du kan delta alene eller i en gruppe\, med hva du vil. 
- Du kan kun delta i ett sceneinnslag og med ett (eller en serie på inntil 
- 3) kunstverk.\n\nDu melder deg på gjennom den kommunen du bor i.\n\nUKM 
- – består av sceneopptredener\, utstilling og filmvisning.\n\nHver delta
- ker/gruppe får vanligvis inntil 5 minutter på scenen. Dette gjelder ogs
- å filminnslag. Teater/Drama -innslag kan være inntil 10 min. De som delt
- ar med utstillingsobjekter (tegninger\, tegneserier\, skulpturer\, etc.) b
- lir presentert på en egen utstilling\, og utstillingslokalet er åpent fo
- r publikum under hele UKM.\n\nGjennom hele festivalen er det arrangement f
- or deltakerne på Møllekjelleren. Her blir det kafe fredag\, frokost lør
- dagen og kafe gjennom dagen\, rom for styling av hår og sminke\, treffe a
- ndre som skal opptre\, afterparty lørdag kveld. Mye gøy!\n\nFølg UKM J
- ÆREN på facebook\n\nJæren 2027: https://sys.ukm.no/2027-gjesdal-ha-klep
- pukmjaren2027/files/2026/10/IMG_0740-1200x772.jpg\n\nKontaktpersoner\nCami
- lla Ystanes\nTelefon: 97500968\nE-post: cey@ha.kommune.no\n\nEspen Nybråt
- en\nTelefon: 91828645\nE-post: espen.nybraten@time.kommune.no\n\nPåmeldin
- gsfrist – delta: 24.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sc
- enen: 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangeme
- nt/2027-gjesdal-ha-kleppukmjaren2027
+ Kunstnere kan delta med 1. kunstverk (eller en serie på inntil 3 kunstver
+ k.)\n\nDu melder deg på gjennom den kommunen du bor i.\n\nUKM – består
+  av sceneopptredener\, utstilling og filmvisning.\n\nHver deltaker/gruppe 
+ får vanligvis inntil 5 minutter på scenen. Dette gjelder også filminnsl
+ ag. Teater/Drama -innslag kan være inntil 10 min. De som deltar med utsti
+ llingsobjekter (tegninger\, tegneserier\, skulpturer\, etc.) blir presente
+ rt på en egen utstilling\, og utstillingslokalet er åpent for publikum u
+ nder hele UKM.\n\nGjennom hele festivalen er det arrangement for deltakern
+ e på Møllekjelleren. Her blir det kafe fredag\, frokost lørdagen og kaf
+ e gjennom dagen\, rom for styling av hår og sminke\, treffe andre som ska
+ l opptre\, afterparty lørdag kveld. Mye gøy!\n\nFølg UKM JÆREN på fac
+ ebook\n\nJæren 2027: https://sys.ukm.no/2027-gjesdal-ha-kleppukmjaren2027
+ /files/2026/10/IMG_0740-1200x772.jpg\n\nKontaktpersoner\nElisabeth Sandve 
+ Følgesvold\nTelefon: 94245580\nE-post: elisabeth.sandve@time.kommune.no\n
+ \nAslak Moen Stokkedal\nUKM-kontakt for Gjesdal kommune\, Kulturarbeider v
+ ed Ungdomshuset Veveriet\nTelefon: 98035617\nE-post: aslak.moen@gjesdal.ko
+ mmune.no\n\nCamilla Ystanes\nUKM-kontakt for Hå\nTelefon: 97500968\nE-pos
+ t: cey@ha.kommune.no\n\nPåmeldingsfrist – delta: 24.01.2027 kl. 23:59\n
+ Påmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
 LOCATION:Storstova\, Hå\, Gjesdal\, Klepp\, Time
 URL:https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
 STATUS:CONFIRMED
@@ -225,10 +227,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9973@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9940@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261107T050755Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:2
 DTSTART:20270205T130000Z
 DTEND:20270206T210000Z
 SUMMARY:Jæren 2027
@@ -240,24 +242,27 @@ DESCRIPTION:Jæren 2027\n\nfredag 5. februar kl. 14:00 - lørdag 6. februar
  ommer mellom 13 (du må fylle 13 år i 2027) og 20 år kan melde seg på U
  KM og alle får være med. Påmelding skjer via nettsiden her. Det er inge
  n begrensning i antall deltakere eller uttrykksform – du kan delta alene
-  eller i en gruppe\, med hva du vil. Du kan kun delta i ett sceneinnslag o
- g med ett (eller en serie på inntil 3) kunstverk.\n\nDu melder deg på gj
- ennom den kommunen du bor i.\n\nUKM – består av sceneopptredener\, utst
- illing og filmvisning.\n\nHver deltaker/gruppe får vanligvis inntil 5 min
- utter på scenen. Dette gjelder også filminnslag. Teater/Drama -innslag k
- an være inntil 10 min. De som deltar med utstillingsobjekter (tegninger\,
-  tegneserier\, skulpturer\, etc.) blir presentert på en egen utstilling\,
-  og utstillingslokalet er åpent for publikum under hele UKM.\n\nGjennom h
- ele festivalen er det arrangement for deltakerne på Møllekjelleren. Her 
- blir det kafe fredag\, frokost lørdagen og kafe gjennom dagen\, rom for s
- tyling av hår og sminke\, treffe andre som skal opptre\, afterparty lørd
- ag kveld. Mye gøy!\n\nFølg UKM JÆREN på facebook\n\nJæren 2027: https
- ://sys.ukm.no/2027-gjesdal-ha-kleppukmjaren2027/files/2026/10/IMG_0740-120
- 0x772.jpg\n\nKontaktpersoner\nCamilla Ystanes\nTelefon: 97500968\nE-post: 
- cey@ha.kommune.no\n\nEspen Nybråten\nTelefon: 91828645\nE-post: espen.nyb
- raten@time.kommune.no\n\nPåmeldingsfrist – delta: 24.01.2027 kl. 23:59\
- nPåmeldingsfrist – bidra bak scenen: 24.01.2027 kl. 23:59\nArrangements
- side: https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
+  eller i en gruppe\, med hva du vil. Kunstnere kan delta med 1. kunstverk 
+ (eller en serie på inntil 3 kunstverk.)\n\nDu melder deg på gjennom den 
+ kommunen du bor i.\n\nUKM – består av sceneopptredener\, utstilling og 
+ filmvisning.\n\nHver deltaker/gruppe får vanligvis inntil 5 minutter på 
+ scenen. Dette gjelder også filminnslag. Teater/Drama -innslag kan være i
+ nntil 10 min. De som deltar med utstillingsobjekter (tegninger\, tegneseri
+ er\, skulpturer\, etc.) blir presentert på en egen utstilling\, og utstil
+ lingslokalet er åpent for publikum under hele UKM.\n\nGjennom hele festiv
+ alen er det arrangement for deltakerne på Møllekjelleren. Her blir det k
+ afe fredag\, frokost lørdagen og kafe gjennom dagen\, rom for styling av 
+ hår og sminke\, treffe andre som skal opptre\, afterparty lørdag kveld. 
+ Mye gøy!\n\nFølg UKM JÆREN på facebook\n\nJæren 2027: https://sys.ukm
+ .no/2027-gjesdal-ha-kleppukmjaren2027/files/2026/10/IMG_0740-1200x772.jpg\
+ n\nKontaktpersoner\nElisabeth Sandve Følgesvold\nTelefon: 94245580\nE-pos
+ t: elisabeth.sandve@time.kommune.no\n\nAslak Moen Stokkedal\nUKM-kontakt f
+ or Gjesdal kommune\, Kulturarbeider ved Ungdomshuset Veveriet\nTelefon: 98
+ 035617\nE-post: aslak.moen@gjesdal.kommune.no\n\nCamilla Ystanes\nUKM-kont
+ akt for Hå\nTelefon: 97500968\nE-post: cey@ha.kommune.no\n\nPåmeldingsfr
+ ist – delta: 24.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
+ : 24.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-gjesdal-ha-kleppukmjaren2027
 LOCATION:Storstova\, Hå\, Gjesdal\, Klepp\, Time
 URL:https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027
 STATUS:CONFIRMED

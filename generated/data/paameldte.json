@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 138,
-  "antall_deltakernavn_i_innslag": 133,
-  "antall_innslag": 302,
+  "antall_arrangementer": 139,
+  "antall_deltakernavn_i_innslag": 135,
+  "antall_innslag": 330,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -207,14 +207,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
       "navn": "CREW - Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9964",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9964",
-      "navn": "Oppdal - Kickoff"
     },
     {
       "antall_innslag": 0,
@@ -450,7 +442,7 @@
       "navn": "UKM Band Tour 2026"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9798",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001",
       "innslag": [
@@ -458,6 +450,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "261806",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262205",
           "navn": "Person innslag"
         }
       ],
@@ -486,7 +484,7 @@
       "navn": "Band Tour Alta"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9921",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
       "innslag": [
@@ -506,6 +504,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262110",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262229",
           "navn": "Person innslag"
         }
       ],
@@ -582,10 +586,95 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 14,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262188",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262189",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262190",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262191",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262192",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262193",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262194",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262195",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262196",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262197",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262198",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262199",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262200",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262204",
+          "navn": "Person innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9872",
       "navn": "Ung kulturfestival"
     },
@@ -625,7 +714,7 @@
       "navn": "Bandworkshop"
     },
     {
-      "antall_innslag": 25,
+      "antall_innslag": 26,
       "arrangement_id": "9847",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
       "innslag": [
@@ -640,6 +729,14 @@
           ],
           "id": "262023",
           "navn": "2014 kvartetten"
+        },
+        {
+          "beskrivelse": "Jeg er en rapper ifra Arendal som forklarer gatelivet og hvordan det er og være heldig",
+          "deltakernavn": [
+            "Kevin Eide Bulien"
+          ],
+          "id": "262231",
+          "navn": "2k Vango"
         },
         {
           "beskrivelse": "Jeg er en sosial og blid jente, som brenner for teater, dans og sang. Og går på musikk dans og drama på Greveskogen i Tønsberg. Og har drevet med dette hele livet. Jeg holder på med min første musikal på hjertes nå «folkeeventyrene the musikal» og har veldig lyst til og bli bedre på og synge for andre mennesker.",
@@ -922,6 +1019,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10017",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10017",
+      "navn": "Manga-workshop på Hole bibliotek"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9946",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-sthanshaugen",
       "innslag": [],
@@ -1027,15 +1132,57 @@
       "navn": "Workshops og kurs i Lillestrøm!"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 13,
       "arrangement_id": "9960",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
       "innslag": [
         {
-          "beskrivelse": "Jeg var med på litt forskjellig i fjord. Hjalp til med og sette opp scenen, satt i skranken og tegnet scenekart.",
+          "beskrivelse": "Jeg var med på litt forskjellig i fjord. Hjalp til med og sette opp scenen, satt i info boden og tegnet scenekart.",
           "deltakernavn": [],
           "id": "262074",
           "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg har vært med på ukm i to år nå. Og har vært scenearbeider begge årene. Og i år har jeg også lyst til å være Artistvert.",
+          "deltakernavn": [],
+          "id": "262207",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Alle har alltid sakt at jeg snakker mye, jeg har ofte vert på scenen både alene og med andre. Jeg er fleksibel i ulike situasjoner og er vennlig med andre. Dette er min første gang som konferansier og jeg gleder meg mye til å prøve",
+          "deltakernavn": [],
+          "id": "262224",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg gikk på produksjon for scene valgfaget i to år. Jeg er positivt, sosial og har litt erfaring med å jobb bakk scene",
+          "deltakernavn": [],
+          "id": "262226",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Var konferansier i fjor, har også vært det på mairock og barnas kulturfestival",
+          "deltakernavn": [],
+          "id": "262212",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg har vært konferansier på mai rock og på barnas kulturfestival",
+          "deltakernavn": [],
+          "id": "262217",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Alle har alltid sakt at jeg snakker mye, jeg har ofte vert på scenen både alene og med andre. Jeg er fleksibel i ulike situasjoner og er vennlig med andre. Dette er min første gang som konferansier og jeg gleder meg mye til å prøve.",
+          "deltakernavn": [],
+          "id": "262222",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg gleder meg mye til å prøve på å være konferansier igjen. Det er en kjempe gøy opplevelse og jeg vil bli enda bedre og utvikle meg enda mer.",
+          "deltakernavn": [],
+          "id": "262225",
+          "navn": "Konferansier innslag"
         },
         {
           "beskrivelse": "Jeg har vært med på ukm media de siste 3 årene jeg har gått videre alle 3 gangene og jeg fikk nylig fagprisen til Filmbussen trøndelag for foto og klipping.",
@@ -1044,9 +1191,27 @@
           "navn": "Media innslag"
         },
         {
+          "beskrivelse": "Glad i å ta bilda lag videoer og snakk med andre. Har nok erfaring fra i fjor lokal, fylkes og lands!",
+          "deltakernavn": [],
+          "id": "262208",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Hei aldri vært med på ukm men jeg er veldig ansvarlig, lærer fort og er glad til i å hjelpe til dær de trengs.",
+          "deltakernavn": [],
+          "id": "262216",
+          "navn": "Media innslag"
+        },
+        {
           "beskrivelse": "Jeg skal spille piano og synge. Spilte piano mye når jeg var mindre og har begynt og spilt mer nå igjen.",
           "deltakernavn": [],
           "id": "262072",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Kul",
+          "deltakernavn": [],
+          "id": "262219",
           "navn": "Musikk innslag"
         }
       ],
@@ -1171,7 +1336,7 @@
       "navn": "UKM Asker 2027"
     },
     {
-      "antall_innslag": 13,
+      "antall_innslag": 14,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
@@ -1274,6 +1439,14 @@
           ],
           "id": "261925",
           "navn": "Viola Intenso"
+        },
+        {
+          "beskrivelse": "Eg vil sei eg er den perfekte til dette, eg elsker å snakke foran folk å lede det å være på scene siden eg har alltid vært fotball jente ! Så dette hadde vært sååå gøy",
+          "deltakernavn": [
+            "Viyan Afandy"
+          ],
+          "id": "262203",
+          "navn": "Viyan Afandy"
         },
         {
           "beskrivelse": "Jeg har vært med på å planlegge ting på skolen før. Men jeg har ikke gjort mye annet. Jeg klarer å lære nye egenskaper ganske fort😁",
@@ -1816,6 +1989,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9815",
       "navn": "Hole, Modum og Ringerike"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10016",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-alta-alta",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10016",
+      "navn": "Alta"
     },
     {
       "antall_innslag": 0,
@@ -3212,5 +3393,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-06T05:16:54.285397+00:00"
+  "oppdatert": "2026-11-07T05:07:55.295245+00:00"
 }

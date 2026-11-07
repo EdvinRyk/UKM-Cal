@@ -63,33 +63,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9706@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9964@ukm-kalendere
-DTSTAMP:20261031T045920Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261031T045920Z
-SEQUENCE:2
-DTSTART:20261106T180000Z
-DTEND:20261106T200000Z
-SUMMARY:Oppdal - Kickoff
-DESCRIPTION:Oppdal - Kickoff\n\nfredag 6. november kl. 19:00 - 21:00\n\nOpp
- dal kulturhus\n\nOppdal\n\nVelkommen til UKM Kickoff på Oppdal! Vi starte
- r 2027 med et pangstart med lokal festival 28.-30. januar! Vi ses på Ungd
- omsklubben den 6. November for info\, morsomheter og litt snacks. Her får
-  du også hjelp til å melde deg på\, muligheter til å knytte kontakter 
- og tid til å forme mulige innslag🥳\n\nOppdal - Kickoff: https://sys.uk
- m.no/2026-oppdal-oppdal-kickoff/files/2026/10/IMG_0371-1200x559.jpeg\n\nKo
- ntaktpersoner\nJørn Hoel\nTelefon: 99151503\nE-post: jorn.hoel@oppdal.kom
- mune.no\n\nSigurd Rønning\nTelefon: 94410913\nE-post: Sigurd.ronning@oppd
- al.kommune.no\n\nTone Norbeck\nTelefon: 95776519\nE-post: tone.norbeck@opp
- dal.kommune.no\n\nUgne Kristina Furunes\nTelefon: 47251419\nE-post: ugne.f
- urunes@oppdal.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangeme
- nt/2026-oppdal-oppdal-kickoff
-LOCATION:Oppdal kulturhus
-URL:https://www.ukm.no/arrangement/2026-oppdal-oppdal-kickoff
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9921@ukm-kalendere
 DTSTAMP:20261105T051723Z
 CREATED:20261025T111128Z
@@ -802,10 +775,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9891@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9971@ukm-kalendere
-DTSTAMP:20261026T045449Z
+DTSTAMP:20261107T050755Z
 CREATED:20261026T045449Z
-LAST-MODIFIED:20261026T045449Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20270301T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Regionfestival Trøndelag 2027 
  - Ørland
@@ -813,21 +786,23 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Regionfestival Tr
  øndelag 2027 - Ørland.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk ti
  d).\n\nUKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april kl.
   15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.googl
- e.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nVe
- lkommen til Bjugn kulturhus og Fosen videregående skole. De har arrangert
-  UKM Regionfestival mange år tidligere og gleder seg til å ta i mot nye 
- og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner\nAn
- na Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfylke.
- no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfylke.n
- o\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trndela
- ge-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte: ht
- tps://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltro
- ndelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: https:/
- /www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondela
- g2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nP
- åmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbi
- lde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrondela
- g2026-orland/files/2026/10/ukm-bilde-2027.jpg
+ e.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n\nUK
+ M-deltakere fra hele Trøndelag samles i Bjugn kulturhus for Regionfestial
+ en 2027! Tre dager med overnatting\, forestillinger\, kunst\, workshops og
+  aktiviteter - helt gratis selvfølgelig! Vil du være med\, må du først
+  delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er å
+ pen\, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktp
+ ersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@tron
+ delagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trond
+ elagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-tronde
+ lag-trndelage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldteP
+ åmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregio
+ nfestivaltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og vide
+ oer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfest
+ ivaltrondelag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArr
+ angementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfesti
+ valtrondelag2026-orland/files/2026/10/ukm-bilde-2027.jpg
 LOCATION:Bjugn Kulturhus
 URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
  altrondelag2026-orland
@@ -837,10 +812,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9971@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9976@ukm-kalendere
-DTSTAMP:20261026T111319Z
+DTSTAMP:20261107T050755Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261026T111319Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20270301T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Regionfestival Trøndelag 2027 
  - Steinkjer
@@ -849,18 +824,22 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Regionfestival Tr
  tid).\n\nUKM Regionfestival Trøndelag 2027 - Steinkjer\n\nfredag 16. apri
  l kl. 15:00 - søndag 18. april kl. 15:00\n\nSteinkjer Kulturhus (https://
  www.google.com/maps/search/?api=1&query=Steinkjer%20Kulturhus)\n\nSteinkje
- r Kulturhus\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175
- 039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 741750
- 98\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/
- arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-steink
- jer/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-tro
- ndelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/deltagere\n\nBil
- der og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-trond
- elag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/media\n\nPåmeldin
- gsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sc
- enen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-tro
- ndelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/files/2026/10/uk
- m-bilde-2027.jpg
+ r Kulturhus\n\nUKM-deltakere fra hele Trøndelag samles i Steinkjer for Re
+ gionfestialen 2027! Tre dager med overnatting\, kunst\, workshops og aktiv
+ iteter - helt gratis selvfølgelig! Vil du være med\, må du først delta
+  på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åpen\, 
+ eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktpersone
+ r\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagf
+ ylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfy
+ lke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-tr
+ ndelage-ukmregionfestivaltrondelag2027-steinkjer/program\n\nPåmeldtePåme
+ ldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfes
+ tivaltrondelag2027-steinkjer/deltagere\n\nBilder og videoerBilder og video
+ er: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfesti
+ valtrondelag2027-steinkjer/media\n\nPåmeldingsfrist – delta: 01.03.2027
+  kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nA
+ rrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfes
+ tivaltrondelag2027-steinkjer/files/2026/10/ukm-bilde-2027.jpg
 LOCATION:Steinkjer Kulturhus
 URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
  altrondelag2027-steinkjer
@@ -982,30 +961,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9971@ukm-kalendere
-DTSTAMP:20261026T045449Z
+DTSTAMP:20261107T050755Z
 CREATED:20261026T045449Z
-LAST-MODIFIED:20261026T045449Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20270409T130000Z
 DTEND:20270411T140000Z
 SUMMARY:UKM Regionfestival Trøndelag 2027 - Ørland
 DESCRIPTION:UKM Regionfestival Trøndelag 2027 - Ørland\n\nfredag 9. april
   kl. 15:00 - søndag 11. april kl. 16:00\n\nBjugn Kulturhus (https://www.g
  oogle.com/maps/search/?api=1&query=Bjugn%20Kulturhus)\n\nBjugn Kulturhus\n
- \nVelkommen til Bjugn kulturhus og Fosen videregående skole. De har arran
- gert UKM Regionfestival mange år tidligere og gleder seg til å ta i mot 
- nye og gamle fjes. Her skjer det meste under samme tak.\n\nKontaktpersoner
- \nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondelagfy
- lke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelagfyl
- ke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-trn
- delage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmeldtePåmeldte
- : https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiva
- ltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og videoer: htt
- ps://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestivaltron
- delag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59
- \nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangement
- sbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionfestivaltrond
- elag2026-orland/files/2026/10/ukm-bilde-2027.jpg
+ \nUKM-deltakere fra hele Trøndelag samles i Bjugn kulturhus for Regionfes
+ tialen 2027! Tre dager med overnatting\, forestillinger\, kunst\, workshop
+ s og aktiviteter - helt gratis selvfølgelig! Vil du være med\, må du f
+ ørst delta på en UKM-festival i din egen kommune. Sjekk om påmeldingen 
+ er åpen\, eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKon
+ taktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv
+ @trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@
+ trondelagfylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-t
+ rondelag-trndelage-ukmregionfestivaltrondelag2026-orland/program\n\nPåmel
+ dtePåmeldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmr
+ egionfestivaltrondelag2026-orland/deltagere\n\nBilder og videoerBilder og 
+ videoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregion
+ festivaltrondelag2026-orland/media\n\nPåmeldingsfrist – delta: 01.03.20
+ 27 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\
+ nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionf
+ estivaltrondelag2026-orland/files/2026/10/ukm-bilde-2027.jpg
 LOCATION:Bjugn Kulturhus
 URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
  altrondelag2026-orland
@@ -1014,28 +995,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9976@ukm-kalendere
-DTSTAMP:20261026T111319Z
+DTSTAMP:20261107T050755Z
 CREATED:20261026T111319Z
-LAST-MODIFIED:20261026T111319Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T050755Z
+SEQUENCE:1
 DTSTART:20270416T130000Z
 DTEND:20270418T130000Z
 SUMMARY:UKM Regionfestival Trøndelag 2027 - Steinkjer
 DESCRIPTION:UKM Regionfestival Trøndelag 2027 - Steinkjer\n\nfredag 16. ap
  ril kl. 15:00 - søndag 18. april kl. 15:00\n\nSteinkjer Kulturhus (https:
  //www.google.com/maps/search/?api=1&query=Steinkjer%20Kulturhus)\n\nSteink
- jer Kulturhus\n\nKontaktpersoner\nAnna Josefine Kvaløsæter\nTelefon: 741
- 75039\nE-post: annkv@trondelagfylke.no\n\nTor Erik Munkvold\nTelefon: 7417
- 5098\nE-post: tormu@trondelagfylke.no\n\nProgramProgram: https://www.ukm.n
- o/arrangement/2027-trondelag-trndelage-ukmregionfestivaltrondelag2027-stei
- nkjer/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-t
- rondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/deltagere\n\nB
- ilder og videoerBilder og videoer: https://www.ukm.no/arrangement/2027-tro
- ndelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/media\n\nPåmeld
- ingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak 
- scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-t
- rondelag-trndelage-ukmregionfestivaltrondelag2027-steinkjer/files/2026/10/
- ukm-bilde-2027.jpg
+ jer Kulturhus\n\nUKM-deltakere fra hele Trøndelag samles i Steinkjer for 
+ Regionfestialen 2027! Tre dager med overnatting\, kunst\, workshops og akt
+ iviteter - helt gratis selvfølgelig! Vil du være med\, må du først del
+ ta på en UKM-festival i din egen kommune. Sjekk om påmeldingen er åpen\
+ , eller ta kontakt hvis du ikke finner noe UKM der du bor.\n\nKontaktperso
+ ner\nAnna Josefine Kvaløsæter\nTelefon: 74175039\nE-post: annkv@trondela
+ gfylke.no\n\nTor Erik Munkvold\nTelefon: 74175098\nE-post: tormu@trondelag
+ fylke.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-trondelag-
+ trndelage-ukmregionfestivaltrondelag2027-steinkjer/program\n\nPåmeldtePå
+ meldte: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionf
+ estivaltrondelag2027-steinkjer/deltagere\n\nBilder og videoerBilder og vid
+ eoer: https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfes
+ tivaltrondelag2027-steinkjer/media\n\nPåmeldingsfrist – delta: 01.03.20
+ 27 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\
+ nArrangementsbilde: https://sys.ukm.no/2027-trondelag-trndelage-ukmregionf
+ estivaltrondelag2027-steinkjer/files/2026/10/ukm-bilde-2027.jpg
 LOCATION:Steinkjer Kulturhus
 URL:https://www.ukm.no/arrangement/2027-trondelag-trndelage-ukmregionfestiv
  altrondelag2027-steinkjer
