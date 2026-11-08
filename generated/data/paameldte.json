@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 139,
+  "antall_arrangementer": 137,
   "antall_deltakernavn_i_innslag": 135,
-  "antall_innslag": 330,
+  "antall_innslag": 331,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -215,48 +215,6 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9866",
       "navn": "Redesign med Snefrid"
-    },
-    {
-      "antall_innslag": 3,
-      "arrangement_id": "9912",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-filmworkshopkortfilm",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262073",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262076",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262184",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9912",
-      "navn": "Filmworkshop Kortfilm"
-    },
-    {
-      "antall_innslag": 1,
-      "arrangement_id": "10003",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-sola-ukmspark",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262176",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10003",
-      "navn": "Spark!"
     },
     {
       "antall_innslag": 13,
@@ -1566,7 +1524,7 @@
       "navn": "Ullensvang"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 8,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [
@@ -1599,16 +1557,41 @@
           "deltakernavn": [],
           "id": "262068",
           "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Ønsker opplæring på foto",
+          "deltakernavn": [],
+          "id": "262236",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Liker kunst, kreativitet og ønsker å jobbe på arrangementet",
+          "deltakernavn": [],
+          "id": "262235",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Oline",
+          "deltakernavn": [],
+          "id": "262238",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9973",
       "navn": "Sola 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9820",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Er 10 år å elsker å lage ting med hendene mine. Har lært meg å hekle av meg sjølv",
+          "deltakernavn": [],
+          "id": "262244",
+          "navn": "Utstilling innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9820",
       "navn": "UKM Årdal 2027"
     },
@@ -3108,10 +3091,16 @@
       "navn": "Deatnu - Tana"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9941",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-harstad-hrsttk-ukmharstad2027",
       "innslag": [
+        {
+          "beskrivelse": "Dette er min andre UKM\nJeg spiller bass på fritiden og danser\nJeg går på dans 4 ganger i uken",
+          "deltakernavn": [],
+          "id": "262232",
+          "navn": "Dans innslag"
+        },
         {
           "beskrivelse": "Æ har spelt gitar i tre år å har altid sunget",
           "deltakernavn": [],
@@ -3393,5 +3382,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-07T05:07:55.295245+00:00"
+  "oppdatert": "2026-11-08T05:09:47.593630+00:00"
 }
