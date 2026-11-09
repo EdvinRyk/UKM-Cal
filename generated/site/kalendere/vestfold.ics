@@ -74,32 +74,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9881@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-10012@ukm-kalendere
-DTSTAMP:20261105T051723Z
-CREATED:20261105T051723Z
-LAST-MODIFIED:20261105T051723Z
-SEQUENCE:0
-DTSTART:20261108T150000Z
-DTEND:20261108T180000Z
-SUMMARY:UKM i Ramnes
-DESCRIPTION:UKM i Ramnes\n\nsøndag 8. november kl. 16:00 - 19:00\n\nElverh
- øy Kulturhus\n\nTønsberg\n\nDette er et arrangement for deg som vil vise
-  fram hva du driver med\, enten det er sang\, dans\, tegning eller hvasomh
- elst innenfor kultur :-) Du kan delta\, enten ved å bare glede andre og d
- egselv denne dagen\, eller du kan si ja til å ta det videre til UKM Fylke
- sfestivalen i Sandefjord 16-17.01. Herfra kan du faktisk også få en muli
- ghet til å bli plukket ut til den nasjonale UKM-festivalen. Uansett hva d
- u velger\, ser vi fram til å møte deg\n\nhttps://delta.ukm.no/ukmid/pame
- lding/3905-10012/\n\nKontaktpersoner\nElin Feen\nTelefon: 91176872\nE-post
- : elin.feen@vestfoldfylke.no\n\nSigny Magnusdottir\nTelefon: 97964017\nE-p
- ost: magnus_signy@hotmail.com\n\nArrangementsside: https://www.ukm.no/arra
- ngement/2026-tonsberg-tonsberg
-LOCATION:Elverhøy Kulturhus\, Tønsberg
-URL:https://www.ukm.no/arrangement/2026-tonsberg-tonsberg
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9847@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

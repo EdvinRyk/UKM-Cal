@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 137,
-  "antall_deltakernavn_i_innslag": 135,
-  "antall_innslag": 331,
+  "antall_arrangementer": 135,
+  "antall_deltakernavn_i_innslag": 137,
+  "antall_innslag": 323,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -207,101 +207,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
       "navn": "CREW - Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9866",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-redesignmedsnefrid",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9866",
-      "navn": "Redesign med Snefrid"
-    },
-    {
-      "antall_innslag": 13,
-      "arrangement_id": "10012",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-tonsberg-tonsberg",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262132",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262133",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262134",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262151",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262152",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262153",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262154",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262155",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262157",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262158",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262159",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262160",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262161",
-          "navn": "Musikk innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10012",
-      "navn": "UKM i Ramnes"
     },
     {
       "antall_innslag": 4,
@@ -1294,7 +1199,7 @@
       "navn": "UKM Asker 2027"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 15,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
@@ -1371,6 +1276,14 @@
           "navn": "Nora Karlsen Vatnøy"
         },
         {
+          "beskrivelse": "Var med i fjor, og har vore i ungdomsrådet",
+          "deltakernavn": [
+            "Nora Karlsen Vatnøy"
+          ],
+          "id": "262253",
+          "navn": "Nora Karlsen Vatnøy"
+        },
+        {
           "beskrivelse": "Eg har jobbet på UKM som Ung-arrangør i fjor. I tillegg har eg vore med på ulike arrangement og arrangert",
           "deltakernavn": [
             "Sverre Brakstad"
@@ -1419,10 +1332,17 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Trener volleyball 3 ganger i uken.\nGår på the voice på showakademiet.\nElsker å synge og tegne.\nHar 7 søsken og 3 bonus søsken.",
+          "deltakernavn": [],
+          "id": "262249",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9980",
       "navn": "Kvitsøy og Randaberg"
     },
@@ -2462,10 +2382,19 @@
       "navn": "UKM ÅS"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9957",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-eigersund-eigersund",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Eg e ei jenta som synger mye musikk er en viktig del av livet mitt",
+          "deltakernavn": [
+            "Inger Angelica Skjerve Skjæveland"
+          ],
+          "id": "262050",
+          "navn": "Inger Angelica"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9957",
       "navn": "UKM Eigersund 2027"
     },
@@ -2873,10 +2802,17 @@
       "navn": "Lokal mønstring Vestre Aker 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9939",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fauske-fauske",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Dette er tredje året på rad jeg er med på UKM. Jeg elsker å stå på scenen og opptre. Jeg er 14 år og halvt svensk. Jeg synger og spiller gitar men nå skal jeg bare synge.",
+          "deltakernavn": [],
+          "id": "262250",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9939",
       "navn": "Fauske"
     },
@@ -3051,10 +2987,17 @@
       "navn": "UKM Orkland 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10011",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lillestrom-lillestrom",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg er en veldig organisert person og jeg liker sikkelig godt å møte nye folk. Jeg er generl god på å holde styr på flere ting og er en sosial person som liker å bruke tiden min for å organisere noe for felleskapet. Som erfaring har jeg vært kulturvært (DKS) på skolen i to år. Der jobbet jeg mest med å vise rundt de som holdt opplegget, hente kaffe, introdusere artistene til publikum og holde styr på hvem som skulle være på opplegget når/hvor.\nJeg har vært med på litt forskjellige frivillig arbeid:litt med røde kors og natur og ungdom. Jeg har også vært med på UKM i 2026 som arrangør både på scene mønstring (Lillestrøm ) hvor jeg vær mest på greenroom: holdt styr av de som skulle få gardarober og så gå ned til backstage for lydprøver/showet. Og på fylkefestival (Akerhus) hvor jeg oppholdt meg mest backstage: holdt styr med lister av de som skulle ha lydprøver/fremføre og ga informasjon til de som var backstage.",
+          "deltakernavn": [],
+          "id": "262246",
+          "navn": "Arrangør innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10011",
       "navn": "Scenemønstring Lillestrøm"
     },
@@ -3382,5 +3325,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-08T05:09:47.593630+00:00"
+  "oppdatert": "2026-11-09T05:24:36.696898+00:00"
 }

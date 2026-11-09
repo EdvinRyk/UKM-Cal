@@ -38,30 +38,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9807@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9866@ukm-kalendere
-DTSTAMP:20261106T051654Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261106T051654Z
-SEQUENCE:2
-DTSTART:20261107T090000Z
-DTEND:20261108T130000Z
-SUMMARY:Redesign med Snefrid
-DESCRIPTION:Redesign med Snefrid\n\nlørdag 7. november kl. 10:00 - søndag
-  8. november kl. 14:00\n\nStøabakken 2\n\nØvre Eiker\n\nUnder ledelse av
-  Snefrid jobber vi med omsøm av jeans og andre bukser\, vi lager vesker o
- g ser på mønster.\n\nRedesign med Snefrid: https://sys.ukm.no/2026-ovree
- iker-redesignmedsnefrid/files/2026/10/Skjermbilde-2026-10-22-104509.png\n\
- nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegr
- ethe.klunderud@oeiker.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post:
-  asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 02.11.2026 kl.
-  23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-re
- designmedsnefrid
-LOCATION:Støabakken 2\, Øvre Eiker
-URL:https://www.ukm.no/arrangement/2026-ovreeiker-redesignmedsnefrid
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9807@ukm-kalendere
 DTSTAMP:20261107T050755Z
 CREATED:20261025T111128Z
