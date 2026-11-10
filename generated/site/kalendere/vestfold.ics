@@ -173,4 +173,34 @@ URL:https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10019@ukm-kalendere
+DTSTAMP:20261110T051208Z
+CREATED:20261110T051208Z
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:0
+DTSTART:20270116T110000Z
+DTEND:20270117T180000Z
+SUMMARY:UKM-festivalen i Vestfold
+DESCRIPTION:UKM-festivalen i Vestfold\n\nlørdag 16. januar kl. 12:00 - sø
+ ndag 17. januar kl. 19:00\n\nHjertnes kino og kulturhus (https://www.googl
+ e.com/maps/search/?api=1&query=Hjertnes%20kino%20og%20kulturhus)\n\nHjertn
+ es kino og kulturhus\n\nSolosang - band - fiolin - tuba - dans - teater - 
+ hekling - kunst - alt hva du tenker at du vil vise andre. Her ser du Milla
+  Grace\n\nKontaktpersoner\nElin Feen\nTelefon: 91176872\nE-post: elin.feen
+ @vestfoldfylke.no\n\nAndrea Pihl\nProdusent UKM Færder\nTelefon: 45850249
+ \nE-post: andreapihl@icloud.com\n\nNikoline Sivertsen\nProdusent UKM Færd
+ er\nTelefon: 92081135\nE-post: sivertsen.nikoline@gmail.com\n\nProgramProg
+ ram: https://www.ukm.no/arrangement/2027-vestfold-ukm-festivalenivestfold/
+ program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-vestfol
+ d-ukm-festivalenivestfold/deltagere\n\nBilder og videoerBilder og videoer:
+  https://www.ukm.no/arrangement/2027-vestfold-ukm-festivalenivestfold/medi
+ a\n\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nArrangementsbilde: 
+ https://sys.ukm.no/2027-vestfold-ukm-festivalenivestfold/files/2026/11/Mil
+ la-Grace-905x1200.jpg
+LOCATION:Hjertnes kino og kulturhus
+URL:https://www.ukm.no/arrangement/2027-vestfold-ukm-festivalenivestfold
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

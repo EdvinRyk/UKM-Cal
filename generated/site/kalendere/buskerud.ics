@@ -141,17 +141,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10017@ukm-kalendere
-DTSTAMP:20261107T050755Z
+DTSTAMP:20261110T051208Z
 CREATED:20261107T050755Z
-LAST-MODIFIED:20261107T050755Z
-SEQUENCE:0
-DTSTART:20261219T100000Z
-DTEND:20261219T133000Z
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:1
+DTSTART:20261219T093000Z
+DTEND:20261219T130000Z
 SUMMARY:Manga-workshop på Hole bibliotek
 DESCRIPTION:Manga-workshop på Hole bibliotek\n\nlørdag 19. desember kl. 1
- 1:00 - 14:30\n\nHole Bibliotek\n\nHole\n\nNy runde med MANGA-workshop på 
+ 0:30 - 14:00\n\nHole Bibliotek\n\nHole\n\nNy runde med MANGA-workshop på 
  Hole Bibliotek!\nGRATIS å delta på\, og deltakerne får også lunsj.\n\n
- UKM-workshop i MANGA-tegning med Hiwar\nLørdag 19.november - 1100-1430\nA
+ UKM-workshop i MANGA-tegning med Hiwar\nLørdag 19.november - 1030-1400\nA
  ldersgruppe: 7.-10.trinn\nMaks antall: 15\n\nHiwar har laget svart/hvitt-m
  anga\; Mantikorens Kongerike\, utgitt av Outland.\nHan jobber også som te
  gneserielærer på Bjerkely Folkehøyskole.\n\nManga-workshop på Hole bib
@@ -160,8 +160,9 @@ DESCRIPTION:Manga-workshop på Hole bibliotek\n\nlørdag 19. desember kl. 1
  .ukm.no/ukmid/pamelding/3310-10017/\n\nKontaktpersoner\nAnders Marius Blys
  tad\nTelefon: 93235117\nE-post: Anders.Blystad@gran.kommune.no\n\nMarthe H
  augan Bekkemoen\nTelefon: 90946737\nE-post: marthe.bekkemoen@hole.kommune.
- no\n\nPåmeldingsfrist – delta: 06.12.2026 kl. 23:59\nArrangementsside: 
- https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek
+ no\n\nOle Kristian Breili\nTelefon: 41557741\nE-post: ole.breili@hole.komm
+ une.no\n\nPåmeldingsfrist – delta: 06.12.2026 kl. 23:59\nArrangementssi
+ de: https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek
 LOCATION:Hole Bibliotek
 URL:https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek
 STATUS:CONFIRMED

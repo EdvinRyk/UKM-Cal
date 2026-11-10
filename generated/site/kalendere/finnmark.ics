@@ -93,15 +93,15 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9994@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9826@ukm-kalendere
-DTSTAMP:20261106T051654Z
+DTSTAMP:20261110T051208Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261106T051654Z
-SEQUENCE:2
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:3
 DTSTART:20261112T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Band Tour Alta
 DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
  eldingsfrist: 12.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfreda
- g 13. november kl. 16:00 - 21:00\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND
+ g 13. november kl. 16:00 - 22:30\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND
   TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser samme
  n på buss\, spiller konserter\, møter andre musikkinteresserte og får o
  ppleve hvordan det er å være på turné. Band Tour besøker flere steder
@@ -209,14 +209,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9826@ukm-kalendere
-DTSTAMP:20261106T051654Z
+DTSTAMP:20261110T051208Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261106T051654Z
-SEQUENCE:4
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:5
 DTSTART:20261113T150000Z
-DTEND:20261113T200000Z
+DTEND:20261113T213000Z
 SUMMARY:Band Tour Alta
-DESCRIPTION:Band Tour Alta\n\nfredag 13. november kl. 16:00 - 21:00\n\nSkol
+DESCRIPTION:Band Tour Alta\n\nfredag 13. november kl. 16:00 - 22:30\n\nSkol
  eveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour 
  er en turné der band reiser sammen på buss\, spiller konserter\, møter 
  andre musikkinteresserte og får oppleve hvordan det er å være på turn

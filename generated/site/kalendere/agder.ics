@@ -8,54 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9986@ukm-kalendere
-DTSTAMP:20261029T050319Z
-CREATED:20261029T050319Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:0
-DTSTART:20261106T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Bykle og Valle
-DESCRIPTION:Frist for å melde seg på bak scenen til Bykle og Valle.\nPåm
- eldingsfrist: 06.11.2026 kl. 23:59 (norsk tid).\n\nBykle og Valle\n\nlørd
- ag 6. mars kl. 14:00 - 18:00\n\nHovden grendehus og bibliotek\n\nBykle\, V
- alle\n\nVelkommen til UKM BYKLE og VALLE !\n\n2027`s begivenhet nærmere s
- eg fort! Det blir sceneshow og kunst fra Bykle og Valle. Vi gleder oss til
-  å ta imot alle sammen\, og få se hva våre fantastiske barn og ungdom k
- ommer med i år:)\n\nEr du mellom 10 og 20 år\, BLI MED!\n\nI år blir de
- t UNDERVANNS TEMA!🙂\n\nUKM Scene går av stabelen 05. og 06. mars på H
- ovden grendehus som fordeler seg slik:\n\nFredag 05. mars: TEKNISKE PRØVE
- R AV SCENEINNSLAG (Hovden)\n\nLørdag 06. mars: Tekniske prøver Bykle og 
- Valle\, SCENEINNSLAG\, konserter\, dans\, kunst m.m. Alle er hjertelig vel
- komne til en fantastisk oppvisning.\n\nUKM KUNST! Vi ønsker at det kommer
-  inn mange bidrag i år til kunstutstillingen som vi har på Hovden grende
- hus i foajeen. Frist for innlevering av kunst er 1. mars\,\n\nHUSK RAMME E
- LLER PASSEPARTOUT\n\nUNG ARRANGØR: Har du lyst til å bidra å bygge opp 
- UKM? Jobbe med arrangementet\, være med å bestemme TEMA\, og hvordan tin
- g skal bli gjort? Liker du å ta bilder\, er du en journalist spire\, øns
- ker du å lære mer om om prosessene rundt et arrangement\, ønsker du å 
- være aktivitetsleder\, motivator? Vi har så mange muligheter 🙂 Meld d
- eg på som ung arrangør\, og bli en del av denne fine gjengen\, her er de
- t plass til deg!\n\nFrist 06. november 😊\n\nMELD DERE PÅ så skal vi l
- age tidenes festival! SAMMEN ER VI GODE! 😊\n\nhttps://delta.ukm.no/ukmi
- d/pamelding/4222-9986/\n\nKontaktpersoner\nBirthe Thomsen\nTelefon: 481568
- 84\nE-post: birthe.thomsen@bykle.kommune.no\n\nHelga Jacobsen\nTelefon: 45
- 273218\nE-post: helga.jacobsen@bykle.kommune.no\n\nIda Olsen-Sund\nTelefon
- : 95823738\nE-post: ida.olsen-sund@bykle.kommune.no\n\nKaroline Margrethe 
- Tveiten\nTelefon: 41045397\nE-post: karoline.margrethe.tveiten@bykle.kommu
- ne.no\n\nLine Jørgensen\nTelefon: 40868959\nE-post: line.jorgensen@bykle.
- kommune.no\n\nMari Allenda Bolstad\nE-post: mari.bolstad@bykle.kommune.no\
- n\nPavlina Kirilova Sikjova\nTelefon: 95154989\nE-post: Pavlina.kirilova.s
- ikjova@bykle.kommune.no\n\nPåmelding – Valle: https://delta.ukm.no/ukmi
- d/pamelding/4221-9986/\nPåmeldingsfrist – delta: 06.02.2027 kl. 23:59\n
- Påmeldingsfrist – bidra bak scenen: 06.11.2026 kl. 23:59\nArrangementss
- ide: https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
-LOCATION:Hovden grendehus og bibliotek\, Bykle\, Valle
-URL:https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9986@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9984@ukm-kalendere
 DTSTAMP:20261029T050319Z
 CREATED:20261029T050319Z
@@ -80,6 +32,54 @@ LOCATION:Lindesnesbibliotekene Øyslebø
 URL:https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9986@ukm-kalendere
+DTSTAMP:20261110T051208Z
+CREATED:20261029T050319Z
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:1
+DTSTART:20261115T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Bykle og Valle
+DESCRIPTION:Frist for å melde seg på bak scenen til Bykle og Valle.\nPåm
+ eldingsfrist: 15.11.2026 kl. 23:59 (norsk tid).\n\nBykle og Valle\n\nlørd
+ ag 6. mars kl. 14:00 - 18:00\n\nHovden grendehus og bibliotek\n\nBykle\, V
+ alle\n\nVelkommen til UKM BYKLE og VALLE !\n\n2027`s begivenhet nærmere s
+ eg fort! Det blir sceneshow og kunst fra Bykle og Valle. Vi gleder oss til
+  å ta imot alle sammen\, og få se hva våre fantastiske barn og ungdom k
+ ommer med i år:)\n\nEr du mellom 10 og 20 år\, BLI MED!\n\nI år blir de
+ t UNDERVANNS TEMA!🙂\n\nUKM Scene går av stabelen 05. og 06. mars på H
+ ovden grendehus som fordeler seg slik:\n\nFredag 05. mars: TEKNISKE PRØVE
+ R AV SCENEINNSLAG (Hovden)\n\nLørdag 06. mars: Tekniske prøver Bykle og 
+ Valle\, SCENEINNSLAG\, konserter\, dans\, kunst m.m. Alle er hjertelig vel
+ komne til en fantastisk oppvisning.\n\nUKM KUNST! Vi ønsker at det kommer
+  inn mange bidrag i år til kunstutstillingen som vi har på Hovden grende
+ hus i foajeen. Frist for innlevering av kunst er 1. mars\,\n\nHUSK RAMME E
+ LLER PASSEPARTOUT\n\nUNG ARRANGØR: Har du lyst til å bidra å bygge opp 
+ UKM? Jobbe med arrangementet\, være med å bestemme TEMA\, og hvordan tin
+ g skal bli gjort? Liker du å ta bilder\, er du en journalist spire\, øns
+ ker du å lære mer om om prosessene rundt et arrangement\, ønsker du å 
+ være aktivitetsleder\, motivator? Vi har så mange muligheter 🙂 Meld d
+ eg på som ung arrangør\, og bli en del av denne fine gjengen\, her er de
+ t plass til deg!\n\nFrist 15. november 😊\n\nMELD DERE PÅ så skal vi l
+ age tidenes festival! SAMMEN ER VI GODE! 😊\n\nhttps://delta.ukm.no/ukmi
+ d/pamelding/4222-9986/\n\nKontaktpersoner\nBirthe Thomsen\nTelefon: 481568
+ 84\nE-post: birthe.thomsen@bykle.kommune.no\n\nHelga Jacobsen\nTelefon: 45
+ 273218\nE-post: helga.jacobsen@bykle.kommune.no\n\nIda Olsen-Sund\nTelefon
+ : 95823738\nE-post: ida.olsen-sund@bykle.kommune.no\n\nKaroline Margrethe 
+ Tveiten\nTelefon: 41045397\nE-post: karoline.margrethe.tveiten@bykle.kommu
+ ne.no\n\nLine Jørgensen\nTelefon: 40868959\nE-post: line.jorgensen@bykle.
+ kommune.no\n\nMari Allenda Bolstad\nE-post: mari.bolstad@bykle.kommune.no\
+ n\nPavlina Kirilova Sikjova\nTelefon: 95154989\nE-post: Pavlina.kirilova.s
+ ikjova@bykle.kommune.no\n\nPåmelding – Valle: https://delta.ukm.no/ukmi
+ d/pamelding/4221-9986/\nPåmeldingsfrist – delta: 06.02.2027 kl. 23:59\n
+ Påmeldingsfrist – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
+LOCATION:Hovden grendehus og bibliotek\, Bykle\, Valle
+URL:https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9986@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9947@ukm-kalendere
@@ -467,10 +467,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9986@ukm-kalendere
-DTSTAMP:20261029T050319Z
+DTSTAMP:20261110T051208Z
 CREATED:20261029T050319Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:0
+LAST-MODIFIED:20261110T051208Z
+SEQUENCE:1
 DTSTART:20270306T130000Z
 DTEND:20270306T170000Z
 SUMMARY:Bykle og Valle
@@ -492,7 +492,7 @@ DESCRIPTION:Bykle og Valle\n\nlørdag 6. mars kl. 14:00 - 18:00\n\nHovden g
  , er du en journalist spire\, ønsker du å lære mer om om prosessene run
  dt et arrangement\, ønsker du å være aktivitetsleder\, motivator? Vi ha
  r så mange muligheter 🙂 Meld deg på som ung arrangør\, og bli en del
-  av denne fine gjengen\, her er det plass til deg!\n\nFrist 06. november 
+  av denne fine gjengen\, her er det plass til deg!\n\nFrist 15. november 
  😊\n\nMELD DERE PÅ så skal vi lage tidenes festival! SAMMEN ER VI GODE
  ! 😊\n\nhttps://delta.ukm.no/ukmid/pamelding/4222-9986/\n\nKontaktperson
  er\nBirthe Thomsen\nTelefon: 48156884\nE-post: birthe.thomsen@bykle.kommun
@@ -505,7 +505,7 @@ DESCRIPTION:Bykle og Valle\n\nlørdag 6. mars kl. 14:00 - 18:00\n\nHovden g
  5154989\nE-post: Pavlina.kirilova.sikjova@bykle.kommune.no\n\nPåmelding 
  – Valle: https://delta.ukm.no/ukmid/pamelding/4221-9986/\nPåmeldingsfri
  st – delta: 06.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen:
-  06.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/20
+  15.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/20
  27-bykle-valle-bykleogvalle
 LOCATION:Hovden grendehus og bibliotek\, Bykle\, Valle
 URL:https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle

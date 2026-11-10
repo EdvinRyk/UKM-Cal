@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 135,
+  "antall_arrangementer": 137,
   "antall_deltakernavn_i_innslag": 137,
-  "antall_innslag": 323,
+  "antall_innslag": 362,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -347,7 +347,7 @@
       "navn": "Band Tour Alta"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 6,
       "arrangement_id": "9921",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
       "innslag": [
@@ -373,6 +373,18 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262229",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262274",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262293",
           "navn": "Person innslag"
         }
       ],
@@ -449,7 +461,7 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 25,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
       "innslag": [
@@ -535,6 +547,72 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262204",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262255",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262256",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262257",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262258",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262259",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262260",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262261",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262262",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262263",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262264",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262282",
           "navn": "Person innslag"
         }
       ],
@@ -937,6 +1015,93 @@
       "navn": "Lær å streame – fra scratch!"
     },
     {
+      "antall_innslag": 13,
+      "arrangement_id": "10019",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-vestfold-ukm-festivalenivestfold",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262267",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262268",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262269",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262270",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262132",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262151",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262152",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262153",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262155",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262157",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262160",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262265",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262266",
+          "navn": "Musikk innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10019",
+      "navn": "UKM-festivalen i Vestfold"
+    },
+    {
       "antall_innslag": 4,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
@@ -1082,7 +1247,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 18,
+      "antall_innslag": 21,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1193,6 +1358,24 @@
           "deltakernavn": [],
           "id": "262140",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Tegning",
+          "deltakernavn": [],
+          "id": "262291",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "11 år gammel kunstner",
+          "deltakernavn": [],
+          "id": "262292",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jon, kunserisk",
+          "deltakernavn": [],
+          "id": "262294",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9868",
@@ -1332,7 +1515,7 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
@@ -1340,6 +1523,12 @@
           "beskrivelse": "Trener volleyball 3 ganger i uken.\nGår på the voice på showakademiet.\nElsker å synge og tegne.\nHar 7 søsken og 3 bonus søsken.",
           "deltakernavn": [],
           "id": "262249",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Trommis",
+          "deltakernavn": [],
+          "id": "262271",
           "navn": "Musikk innslag"
         }
       ],
@@ -1444,7 +1633,7 @@
       "navn": "Ullensvang"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 10,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [
@@ -1470,6 +1659,18 @@
           "beskrivelse": "Heyo! Det er Anton, melder meg som konferansier i år også, dere kjenner meg allerede så jeg trenger vel ikke å introdusera meg selv igjen. Denne gangen blir jeg med uten å plutselig dra til ferie. Håper dere tar meg imot",
           "deltakernavn": [],
           "id": "262096",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Eg har vert konferanisier før. Eg her godt vandt til å stå på scene. Eg trur det hadde vert veldig kjekt å vere konferansier på UKM.",
+          "deltakernavn": [],
+          "id": "262287",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Liit av fyste gang till å gå på sene E litt Red men det går greit",
+          "deltakernavn": [],
+          "id": "262288",
           "navn": "Konferansier innslag"
         },
         {
@@ -2399,10 +2600,41 @@
       "navn": "UKM Eigersund 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 5,
       "arrangement_id": "9986",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Var med som ung arrangør på fjorårets UKM",
+          "deltakernavn": [],
+          "id": "262275",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg vil gjerne være konferansier+vanlig arrangør",
+          "deltakernavn": [],
+          "id": "262286",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg har vært med de siste åra og delt ut drops og armbånd og kortene man har rundt halsen",
+          "deltakernavn": [],
+          "id": "262295",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg var med i fjor",
+          "deltakernavn": [],
+          "id": "262301",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg vil gjerne være konferansier+vanlig arrangør.",
+          "deltakernavn": [],
+          "id": "262285",
+          "navn": "Konferansier innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9986",
       "navn": "Bykle og Valle"
     },
@@ -2647,10 +2879,16 @@
       "navn": "Grimstad"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "10004",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lillesand-ukmlillesand",
       "innslag": [
+        {
+          "beskrivelse": "Jobbet i både Lillesand, Tvedestrand og fylkes som scene ansvarlig",
+          "deltakernavn": [],
+          "id": "262272",
+          "navn": "Arrangør innslag"
+        },
         {
           "beskrivelse": "Jeg har malt over med sort maling og brukt akryl maling og litt olje stift, mye tid iks, er ikke så kulere enn det altså",
           "deltakernavn": [],
@@ -2802,7 +3040,7 @@
       "navn": "Lokal mønstring Vestre Aker 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9939",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fauske-fauske",
       "innslag": [
@@ -2811,10 +3049,24 @@
           "deltakernavn": [],
           "id": "262250",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Dette er min første gang på UKM.\nJeg er veldig i å tegne. Interessen av tegning har jeg hatt siden jeg var 6 år gammel.",
+          "deltakernavn": [],
+          "id": "262299",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9939",
       "navn": "Fauske"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10018",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-stange-ukmstange2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10018",
+      "navn": "UKM Stange 2027"
     },
     {
       "antall_innslag": 0,
@@ -2922,7 +3174,7 @@
           "navn": "Konferansier innslag"
         },
         {
-          "beskrivelse": "Hey jeg hete moon men ja ej lika å danse og synge. Det her er min solo sanga det er bel air av Katseye skal jeg synge og andre sang er your under arrest av illit skal jeg bare danse og synge I det samme tid!",
+          "beskrivelse": "Hey jeg hete moon men ja ej lika å danse og synge. Det her er min solo sanga det er Test me av 4Eve en Thai pop group jeg skal synge og andre sang er your under arrest av illit skal jeg bare danse og synge I det samme tid! Og min siste solo er Love options av Bestie an kpop group",
           "deltakernavn": [],
           "id": "262042",
           "navn": "Musikk innslag"
@@ -3325,5 +3577,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-09T05:24:36.696898+00:00"
+  "oppdatert": "2026-11-10T05:12:08.070301+00:00"
 }
