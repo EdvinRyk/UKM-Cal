@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 137,
+  "antall_arrangementer": 143,
   "antall_deltakernavn_i_innslag": 137,
-  "antall_innslag": 362,
+  "antall_innslag": 378,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -461,6 +461,14 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
+      "antall_innslag": 0,
+      "arrangement_id": "10025",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-markedsforingisosialemediermedhalllo",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10025",
+      "navn": "Markedsføring i sosiale medier med \\\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\\"."
+    },
+    {
       "antall_innslag": 25,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
@@ -715,12 +723,12 @@
           "navn": "Avgudsdyrkelse"
         },
         {
-          "beskrivelse": "Jeg er 19 år og har laget en digital tegning som jeg vil vise frem på UKM.",
+          "beskrivelse": "Jeg er 19 år og har laget to digitale tegninger som jeg vil vise frem på UKM.",
           "deltakernavn": [
             "Elma Tofte Halvorsen"
           ],
           "id": "261450",
-          "navn": "CoreGlimmer"
+          "navn": "CoreShimmer"
         },
         {
           "beskrivelse": "En jente på 19 år som er glad i sang, musikk, kunst og reise. Hun fikk sin første ukelele som 12 åring i Hawaii og har lært seg selv å skrive låter. Hun ikke vært med på UKM siden ungdomsskolen men savnet det sånn at hun ville bli før hun blir for gammel.",
@@ -747,7 +755,7 @@
           "navn": "Elma Tofte Halvorsen"
         },
         {
-          "beskrivelse": "Executor er et ungt og Groovy Thrash metal band, fra Larvik, som er inspirert av gamle band, som Sodom, Metallica, og motorhead. Vi startet å spille i april 2025 og kommer snart ut med en singel som heter FORGED IN MALICE, som også kommer på vår EP som heter graveyard mosh massacre",
+          "beskrivelse": "Executor er et ungt Thrash metal band, fra Larvik, som er inspirert av gamle band, som Sodom, Metallica, og motorhead. Vi startet å spille i april 2025 og holder på å spille inn vår debut ep.",
           "deltakernavn": [
             "Birk Os Veland",
             "Fredrik Fjellvik Jønholt",
@@ -885,7 +893,7 @@
       "navn": "UKM Sandefjord 2026"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 5,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -906,13 +914,25 @@
           "deltakernavn": [],
           "id": "262149",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg har malt et bildet med akvarell og akryl. I bilde ser man en fiske ørn som ser ganske krenket ut.",
+          "deltakernavn": [],
+          "id": "262319",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg liker å male og tegne, da helst dyr, fisker og fugler. Sauen er inspirasjon fra egne sauer på Skjernøy. Sauene går i skog og mark og blir fort dekket av blader ogbreiner nå på høsten",
+          "deltakernavn": [],
+          "id": "262322",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 3,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -920,6 +940,18 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262106",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262326",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262327",
           "navn": "Person innslag"
         }
       ],
@@ -933,6 +965,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9991",
       "navn": "Kick off Oslo"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10029",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-apendansesalmedlise",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10029",
+      "navn": "Åpen dansesal med Lise"
     },
     {
       "antall_innslag": 0,
@@ -1515,10 +1555,16 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
+        {
+          "beskrivelse": "Jeg var med som lystekniker ifjord å har jobbet mye i varen så har god kontroll på hva jeg driver med",
+          "deltakernavn": [],
+          "id": "262330",
+          "navn": "Arrangør innslag"
+        },
         {
           "beskrivelse": "Trener volleyball 3 ganger i uken.\nGår på the voice på showakademiet.\nElsker å synge og tegne.\nHar 7 søsken og 3 bonus søsken.",
           "deltakernavn": [],
@@ -1566,11 +1612,27 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10027",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ovreeiker-jazzimproforblaseremedpetterantonnass",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10027",
+      "navn": "Jazzimpro for blåsere med Petter Anton Næss"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9940",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gjesdal-ha-kleppukmjaren2027",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9940",
       "navn": "Jæren 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10030",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ovreeiker-apendansesalmedlise",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10030",
+      "navn": "Åpen dansesal med Lise"
     },
     {
       "antall_innslag": 1,
@@ -1633,7 +1695,7 @@
       "navn": "Ullensvang"
     },
     {
-      "antall_innslag": 10,
+      "antall_innslag": 13,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [
@@ -1684,6 +1746,24 @@
           "deltakernavn": [],
           "id": "262236",
           "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Synge med playback",
+          "deltakernavn": [],
+          "id": "262308",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Synge og spille piano",
+          "deltakernavn": [],
+          "id": "262309",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Synge, Piano",
+          "deltakernavn": [],
+          "id": "262310",
+          "navn": "Musikk innslag"
         },
         {
           "beskrivelse": "Liker kunst, kreativitet og ønsker å jobbe på arrangementet",
@@ -1880,7 +1960,7 @@
       "navn": "UKM BAMBLE"
     },
     {
-      "antall_innslag": 13,
+      "antall_innslag": 14,
       "arrangement_id": "9911",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
       "innslag": [
@@ -1961,6 +2041,12 @@
           "deltakernavn": [],
           "id": "262146",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "4 stramme karer fra gausdal. Vi best i alt anna enn bøker. 50% av bandet klare å ta av seg skoa når de er inne.",
+          "deltakernavn": [],
+          "id": "262173",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9911",
@@ -1981,6 +2067,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9854",
       "navn": "Ørland Gaming"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10028",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ovreeiker-jazzimpro2forblaseremedpetterantonnass",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10028",
+      "navn": "Jazzimpro for blåsere med Petter Anton Næss"
     },
     {
       "antall_innslag": 0,
@@ -2108,7 +2202,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9982",
-      "navn": "Øvre Eikers festival 2027"
+      "navn": "Øvre Eiker festival 2027"
     },
     {
       "antall_innslag": 8,
@@ -2457,15 +2551,33 @@
       "navn": "Osen"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 4,
       "arrangement_id": "10008",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien",
       "innslag": [
+        {
+          "beskrivelse": "Jeg liker og kle meg ut og dette er det første kostyme jeg har laget selv :)",
+          "deltakernavn": [],
+          "id": "262328",
+          "navn": "Cosplay innslag"
+        },
         {
           "beskrivelse": "Jeg er 17 år og er trans jeg elsker musikk og synge og min største drøm er og holde på med musikk og lage min egen",
           "deltakernavn": [],
           "id": "262180",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Jeg har spilt piano i 8 år",
+          "deltakernavn": [],
+          "id": "262321",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Jeg lager papir våpen fra forskjellige spill og animeer foreksmpel buster sword fra final fantasy VII eller Yutas sverd fra jjk",
+          "deltakernavn": [],
+          "id": "262318",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10008",
@@ -2600,7 +2712,7 @@
       "navn": "UKM Eigersund 2027"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 7,
       "arrangement_id": "9986",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
       "innslag": [
@@ -2608,6 +2720,18 @@
           "beskrivelse": "Var med som ung arrangør på fjorårets UKM",
           "deltakernavn": [],
           "id": "262275",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Vært med siden 8. trinn",
+          "deltakernavn": [],
+          "id": "262276",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Vært med siden 8. trinn",
+          "deltakernavn": [],
+          "id": "262277",
           "navn": "Arrangør innslag"
         },
         {
@@ -2941,6 +3065,27 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9959",
       "navn": "Lørenskog 2027"
+    },
+    {
+      "antall_innslag": 2,
+      "arrangement_id": "10024",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-enebakk-enebakk",
+      "innslag": [
+        {
+          "beskrivelse": "Jeg liker å synge jeg har sunget mange ganger",
+          "deltakernavn": [],
+          "id": "262313",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Jeg synger, jeg sang i kor,nå på teater, og på skolen så har jeg sunget.",
+          "deltakernavn": [],
+          "id": "262314",
+          "navn": "Musikk innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10024",
+      "navn": "Enebakk"
     },
     {
       "antall_innslag": 3,
@@ -3491,11 +3636,11 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-fredrikstad-ukmfredrikstadfestivalen2027",
       "innslag": [
         {
-          "beskrivelse": "Jeg har synget siden jeg var 8, synget på st croix i sann 4 ish år? Det er en sterk lidenskap jeg har",
+          "beskrivelse": "Har vært på st croix i parr år, synger og syr",
           "deltakernavn": [
             "Fiona Karlsen Remvik"
           ],
-          "id": "262041",
+          "id": "262331",
           "navn": "Fiona"
         },
         {
@@ -3577,5 +3722,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-10T05:12:08.070301+00:00"
+  "oppdatert": "2026-11-11T05:17:43.200934+00:00"
 }

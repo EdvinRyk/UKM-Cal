@@ -460,6 +460,37 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10024@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270305T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Enebakk
+DESCRIPTION:Frist for å melde seg på bak scenen til Enebakk.\nPåmeldings
+ frist: 05.03.2027 kl. 23:59 (norsk tid).\n\nEnebakk\n\nlørdag 13. mars kl
+ . 12:00 - 15:00\n\nEnebakk Kultursal\n\nLokal mønstring i Enebakk kulturs
+ al!\n\nhttps://delta.ukm.no/ukmid/pamelding/3220-10024/\n\nKontaktpersoner
+ \nHans-Ole Sponberg Hansen\nTelefon: 90175415\nE-post: hans.hansen@enebakk
+ .kommune.no\n\nKristin Seiersten\nTelefon: 47060884\nE-post: kristin.seier
+ sten@enebakk.kommune.no\n\nLine Monique Steen\nTelefon: 94021811\nE-post: 
+ line.monique.steen@enebakk.kommune.no\n\nMarianne Kongevold\nTelefon: 4588
+ 1975\nE-post: marianne.kongevold@enebakk.kommune.no\n\nOlav Renolen Aasbø
+ \nTelefon: 93445525\nE-post: olav.renolen.aasbo@enebakk.kommune.no\n\nTron
+ d Nilsen\nTelefon: 91866426\nE-post: trond.nilsen@enebakk.kommune.no\n\nVe
+ gard Lunder\nTelefon: 99034818\nE-post: vegard@cavemusic.no\n\nNorvald Nik
+ olaisen\nKlubbarbeider og altmuligmann på Ungdommens kulturhus\nTelefon: 
+ 95969590\nE-post: Norvald.nikolaisen@enebakk.kommune.no\n\nPåmeldingsfris
+ t – delta: 05.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 
+ 05.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/202
+ 7-enebakk-enebakk
+LOCATION:Enebakk Kultursal
+URL:https://www.ukm.no/arrangement/2027-enebakk-enebakk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10024@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-10007@ukm-kalendere
 DTSTAMP:20261103T051258Z
 CREATED:20261103T051258Z
@@ -506,6 +537,35 @@ DESCRIPTION:Lørenskog 2027\n\nlørdag 13. mars kl. 10:00 - søndag 14. mar
  ttps://www.ukm.no/arrangement/2027-lorenskog-ukmlorenskog2027
 LOCATION:Aktivitetshuset VOLT\, Lørenskog
 URL:https://www.ukm.no/arrangement/2027-lorenskog-ukmlorenskog2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10024@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270313T110000Z
+DTEND:20270313T140000Z
+SUMMARY:Enebakk
+DESCRIPTION:Enebakk\n\nlørdag 13. mars kl. 12:00 - 15:00\n\nEnebakk Kultur
+ sal\n\nLokal mønstring i Enebakk kultursal!\n\nhttps://delta.ukm.no/ukmid
+ /pamelding/3220-10024/\n\nKontaktpersoner\nHans-Ole Sponberg Hansen\nTelef
+ on: 90175415\nE-post: hans.hansen@enebakk.kommune.no\n\nKristin Seiersten\
+ nTelefon: 47060884\nE-post: kristin.seiersten@enebakk.kommune.no\n\nLine M
+ onique Steen\nTelefon: 94021811\nE-post: line.monique.steen@enebakk.kommun
+ e.no\n\nMarianne Kongevold\nTelefon: 45881975\nE-post: marianne.kongevold@
+ enebakk.kommune.no\n\nOlav Renolen Aasbø\nTelefon: 93445525\nE-post: olav
+ .renolen.aasbo@enebakk.kommune.no\n\nTrond Nilsen\nTelefon: 91866426\nE-po
+ st: trond.nilsen@enebakk.kommune.no\n\nVegard Lunder\nTelefon: 99034818\nE
+ -post: vegard@cavemusic.no\n\nNorvald Nikolaisen\nKlubbarbeider og altmuli
+ gmann på Ungdommens kulturhus\nTelefon: 95969590\nE-post: Norvald.nikolai
+ sen@enebakk.kommune.no\n\nPåmeldingsfrist – delta: 05.03.2027 kl. 23:59
+ \nPåmeldingsfrist – bidra bak scenen: 05.03.2027 kl. 23:59\nArrangement
+ sside: https://www.ukm.no/arrangement/2027-enebakk-enebakk
+LOCATION:Enebakk Kultursal
+URL:https://www.ukm.no/arrangement/2027-enebakk-enebakk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

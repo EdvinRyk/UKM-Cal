@@ -104,6 +104,70 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10025@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20261120T170000Z
+DTEND:20261121T130000Z
+SUMMARY:Markedsføring i sosiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\\\\\
+ \\\\".
+DESCRIPTION:Markedsføring i sosiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\
+ \\\\\\\\".\n\nfredag 20. november kl. 18:00 - lørdag 21. november kl. 14:
+ 00\n\nØvre Eiker\n\nNå har du muligheten til å få opplæring av de pro
+ fesjonelle på hvordan du skal få oppmerksomhet rundt din sak. Fredag 18-
+ 20 Lørdag 10-14 i Skotselv\n\nKanskje er du allerede en med mange følger
+ e som trenger å spisse budskapet\, eller kanskje har du en hjertesak du v
+ i nå i gjennom med. Og kanskje vil du bli en av de som hjelper til med ma
+ rkedsføringen av UKM?\n\nhttps://www.halllo.no/avis\n\nMarkedsføring i s
+ osiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\".: https://sys.ukm.n
+ o/2026-ovreeiker-markedsforingisosialemediermedhalllo/files/2026/11/Kopi-a
+ v-Facebook-arr.-cover-3-1200x628.png\n\nhttps://delta.ukm.no/ukmid/pameldi
+ ng/3314-10025/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 9022074
+ 4\nE-post: annegrethe.klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTel
+ efon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kommune.no\n\nS
+ ebastian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindl
+ and@ovre-eiker.kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post
+ : asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl
+ . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-m
+ arkedsforingisosialemediermedhalllo
+LOCATION:\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2026-ovreeiker-markedsforingisosialemedi
+ ermedhalllo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10029@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20261204T160000Z
+DTEND:20261204T190000Z
+SUMMARY:Åpen dansesal med Lise
+DESCRIPTION:Åpen dansesal med Lise\n\nfredag 4. desember kl. 17:00 - 20:00
+ \n\nLyngveien 42\n\nØvre Eiker\n\nDette er for deg mellom 12 og 18 år. K
+ om til åpen dansesal alene\, eller med en eller flere du ønsker å opptr
+ e med på UKM festivalen i februat 2027. Du/ dere kan få veiledning i å 
+ lage koreografi\, få tilbakemeldinger eller bare trene på det du/dere ø
+ nsker.\n\nArrangementet er i dansesalen på Hokksund Barneskole.\n\nÅpen 
+ dansesal med Lise: https://sys.ukm.no/2026-ovreeiker-apendansesalmedlise/f
+ iles/2026/11/Kopi-av-Facebook-arr.-cover-6-1800x942.png\n\nhttps://delta.u
+ km.no/ukmid/pamelding/3314-10029/\n\nKontaktpersoner\nAnne Grethe Klunderu
+ d\nTelefon: 90220744\nE-post: annegrethe.klunderud@oeiker.no\n\nÅsmund Tv
+ innereim\nTelefon: 40914147\nE-post: asmund.tvinnereim@oeiker.no\n\nPåmel
+ dingsfrist – delta: 03.12.2026 kl. 23:59\nArrangementsbilde: https://sys
+ .ukm.no/2026-ovreeiker-apendansesalmedlise/files/2026/11/Kopi-av-Facebook-
+ arr.-cover-6-1200x628.png\nArrangementsside: https://www.ukm.no/arrangemen
+ t/2026-ovreeiker-apendansesalmedlise
+LOCATION:Lyngveien 42\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2026-ovreeiker-apendansesalmedlise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9993@ukm-kalendere
 DTSTAMP:20261104T051659Z
 CREATED:20261104T051659Z
@@ -266,31 +330,33 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9815@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9982@ukm-kalendere
-DTSTAMP:20261029T050319Z
+DTSTAMP:20261111T051743Z
 CREATED:20261029T050319Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:1
 DTSTART:20270117T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Øvre Eikers festival 2027
-DESCRIPTION:Frist for å melde seg på bak scenen til Øvre Eikers festival
-  2027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nØvre Eiker
- s festival 2027\n\nlørdag 20. februar kl. 12:00 - 16:00\n\nHokksund ungdo
- msskole (HUS)\n\nØvre Eiker\n\nUKM er for deg mellom 13 og 20 år som dri
- ver med noe kreativt\, uansett nivå. Her kan du vise frem musikk\, dans\,
-  kunst\, film\, foto\, dikt\, kostymer\, tegning\, egentlig alt som er kre
- ativt og laget av deg.\n\nHos UKM handler det ikke om å være “best”\
- , men om å bli sett\, møtes og teste nye ting sammen. Du kan stille alen
- e eller med venner\, på scenen\, bak kamera\, i kulissene eller i kunstut
- stillingen.\n\nMeld deg på\, vis frem det du driver med!\nVelkommen til U
- KM Øvre Eiker!\n\nhttps://delta.ukm.no/ukmid/pamelding/3314-9982/\n\nKont
- aktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.
- klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTelefon: 91365177\nE-post
- : marisundsaasen.innervik@ovre-eiker.kommune.no\n\nSebastian Lindland\nTel
- efon: 48269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune
- .no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinnereim@oe
- iker.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfr
- ist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://
- www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
+SUMMARY:Påmeldingsfrist bak scenen – Øvre Eiker festival 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Øvre Eiker festival 
+ 2027.\nPåmeldingsfrist: 17.01.2027 kl. 23:59 (norsk tid).\n\nØvre Eiker 
+ festival 2027\n\nlørdag 20. februar kl. 12:00 - 16:00\n\nHokksund ungdoms
+ skole (HUS)\n\nØvre Eiker\n\nUKM er for deg mellom 13 og 20 år som drive
+ r med noe kreativt\, uansett nivå. Her kan du vise frem musikk\, dans\, k
+ unst\, film\, foto\, dikt\, kostymer\, tegning\, egentlig alt som er kreat
+ ivt og laget av deg.\n\nHos UKM handler det ikke om å være “best”\, 
+ men om å bli sett\, møtes og teste nye ting sammen. Du kan stille alene 
+ eller med venner\, på scenen\, bak kamera\, i kulissene eller i kunstutst
+ illingen.\n\nMeld deg på\, vis frem det du driver med!\nVelkommen til UKM
+  Øvre Eiker!\n\nØvre Eiker festival 2027: https://sys.ukm.no/2027-ovreei
+ ker-ovreeikersukmfestival2027/files/2026/11/Kopi-av-Facebook-arr.-cover-7-
+ 1200x628.png\n\nhttps://delta.ukm.no/ukmid/pamelding/3314-9982/\n\nKontakt
+ personer\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.klu
+ nderud@oeiker.no\n\nMari Sundsaasen Innervik\nTelefon: 91365177\nE-post: m
+ arisundsaasen.innervik@ovre-eiker.kommune.no\n\nSebastian Lindland\nTelefo
+ n: 48269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune.no
+ \n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinnereim@oeike
+ r.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist
+  – bidra bak scenen: 17.01.2027 kl. 23:59\nArrangementsside: https://www
+ .ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
 LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
 URL:https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
 STATUS:CONFIRMED
@@ -323,6 +389,61 @@ URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9992@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10027@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Jazzimpro for blåsere med Petter Anton Næss
+DESCRIPTION:Jazzimpro for blåsere med Petter Anton Næss\n\nonsdag 3. febr
+ uar kl. 18:00 - 20:00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nDet
+ te er for deg mellom 10 og 18 år.\nBli med på jazzworkshop for blåsere!
+ \nLær hvordan du enkelt kan improvisere på instrumentet ditt onsdag 3.fe
+ bruar og onsdag 10 februar.\n\nJazzimpro for blåsere med Petter Anton Næ
+ ss: https://sys.ukm.no/2027-ovreeiker-jazzimproforblaseremedpetterantonnas
+ s/files/2026/11/Kopi-av-Facebook-arr.-cover-5-1200x628.png\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/3314-10027/\n\nKontaktpersoner\nMari Sundsaasen I
+ nnervik\nTelefon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kom
+ mune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinnerei
+ m@oeiker.no\n\nPåmeldingsfrist – delta: 27.01.2027 kl. 23:59\nArrangeme
+ ntsside: https://www.ukm.no/arrangement/2027-ovreeiker-jazzimproforblasere
+ medpetterantonnass
+LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-jazzimproforblaseremedpet
+ terantonnass
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10030@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270205T170000Z
+DTEND:20270205T210000Z
+SUMMARY:Åpen dansesal med Lise
+DESCRIPTION:Åpen dansesal med Lise\n\nfredag 5. februar kl. 18:00 - 22:00\
+ n\nLyngveien 42\n\nØvre Eiker\n\nDette er for deg mellom 12 og 18 år. Ko
+ m til åpen dansesal alene\, eller med en eller flere du ønsker å opptre
+  med på UKM festivalen i februat 2027. Du/ dere kan få veiledning i å l
+ age koreografi\, få tilbakemeldinger eller bare trene på det du/dere øn
+ sker.\n\nArrangementet er i dansesalen på Hokksund Barneskole.\n\nÅpen d
+ ansesal med Lise: https://sys.ukm.no/2027-ovreeiker-apendansesalmedlise/fi
+ les/2026/11/Kopi-av-Facebook-arr.-cover-6-1200x628.png\n\nhttps://delta.uk
+ m.no/ukmid/pamelding/3314-10030/\n\nKontaktpersoner\nAnne Grethe Klunderud
+ \nTelefon: 90220744\nE-post: annegrethe.klunderud@oeiker.no\n\nÅsmund Tvi
+ nnereim\nTelefon: 40914147\nE-post: asmund.tvinnereim@oeiker.no\n\nPåmeld
+ ingsfrist – delta: 04.02.2027 kl. 23:59\nArrangementsside: https://www.u
+ km.no/arrangement/2027-ovreeiker-apendansesalmedlise
+LOCATION:Lyngveien 42\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-apendansesalmedlise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10000@ukm-kalendere
@@ -376,6 +497,71 @@ URL:https://www.ukm.no/arrangement/2026-kongsberg-workshopiimprovisasjonste
  ater
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10028@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270210T170000Z
+DTEND:20270210T190000Z
+SUMMARY:Jazzimpro for blåsere med Petter Anton Næss
+DESCRIPTION:Jazzimpro for blåsere med Petter Anton Næss\n\nonsdag 10. feb
+ ruar kl. 18:00 - 20:00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nDe
+ tte er for deg mellom 10 og 18 år.\nBli med på jazzworkshop for blåsere
+ !\nLær hvordan du enkelt kan improvisere på instrumentet ditt onsdag 3.f
+ ebruar og onsdag 10 februar.\n\nJazzimpro for blåsere med Petter Anton N
+ æss: https://sys.ukm.no/2027-ovreeiker-jazzimpro2forblaseremedpetteranton
+ nass/files/2026/11/Kopi-av-Facebook-arr.-cover-5-1800x942.png\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/3314-10028/\n\nKontaktpersoner\nMari Sundsaase
+ n Innervik\nTelefon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.
+ kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinne
+ reim@oeiker.no\n\nPåmeldingsfrist – delta: 03.02.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 10.02.2027 kl. 18:57\nArrangementsbilde: 
+ https://sys.ukm.no/2027-ovreeiker-jazzimpro2forblaseremedpetterantonnass/f
+ iles/2026/11/Kopi-av-Facebook-arr.-cover-5-1200x628.png\nArrangementsside:
+  https://www.ukm.no/arrangement/2027-ovreeiker-jazzimpro2forblaseremedpett
+ erantonnass
+LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-jazzimpro2forblaseremedpe
+ tterantonnass
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10028@ukm-kalendere
+DTSTAMP:20261111T051743Z
+CREATED:20261111T051743Z
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:0
+DTSTART:20270210T175738Z
+SUMMARY:Påmeldingsfrist bak scenen – Jazzimpro for blåsere med Petter A
+ nton Næss
+DESCRIPTION:Frist for å melde seg på bak scenen til Jazzimpro for blåser
+ e med Petter Anton Næss.\nPåmeldingsfrist: 10.02.2027 kl. 18:57 (norsk t
+ id).\n\nJazzimpro for blåsere med Petter Anton Næss\n\nonsdag 10. februa
+ r kl. 18:00 - 20:00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nDette
+  er for deg mellom 10 og 18 år.\nBli med på jazzworkshop for blåsere!\n
+ Lær hvordan du enkelt kan improvisere på instrumentet ditt onsdag 3.febr
+ uar og onsdag 10 februar.\n\nJazzimpro for blåsere med Petter Anton Næss
+ : https://sys.ukm.no/2027-ovreeiker-jazzimpro2forblaseremedpetterantonnass
+ /files/2026/11/Kopi-av-Facebook-arr.-cover-5-1800x942.png\n\nhttps://delta
+ .ukm.no/ukmid/pamelding/3314-10028/\n\nKontaktpersoner\nMari Sundsaasen In
+ nervik\nTelefon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.komm
+ une.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: asmund.tvinnereim
+ @oeiker.no\n\nPåmeldingsfrist – delta: 03.02.2027 kl. 23:59\nPåmelding
+ sfrist – bidra bak scenen: 10.02.2027 kl. 18:57\nArrangementsbilde: http
+ s://sys.ukm.no/2027-ovreeiker-jazzimpro2forblaseremedpetterantonnass/files
+ /2026/11/Kopi-av-Facebook-arr.-cover-5-1200x628.png\nArrangementsside: htt
+ ps://www.ukm.no/arrangement/2027-ovreeiker-jazzimpro2forblaseremedpetteran
+ tonnass
+LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
+URL:https://www.ukm.no/arrangement/2027-ovreeiker-jazzimpro2forblaseremedpe
+ tterantonnass
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10028@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10000@ukm-kalendere
@@ -460,31 +646,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9982@ukm-kalendere
-DTSTAMP:20261029T050319Z
+DTSTAMP:20261111T051743Z
 CREATED:20261029T050319Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:1
 DTSTART:20270220T110000Z
 DTEND:20270220T150000Z
-SUMMARY:Øvre Eikers festival 2027
-DESCRIPTION:Øvre Eikers festival 2027\n\nlørdag 20. februar kl. 12:00 - 1
- 6:00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nUKM er for deg mello
- m 13 og 20 år som driver med noe kreativt\, uansett nivå. Her kan du vis
- e frem musikk\, dans\, kunst\, film\, foto\, dikt\, kostymer\, tegning\, e
- gentlig alt som er kreativt og laget av deg.\n\nHos UKM handler det ikke o
- m å være “best”\, men om å bli sett\, møtes og teste nye ting samm
- en. Du kan stille alene eller med venner\, på scenen\, bak kamera\, i kul
- issene eller i kunstutstillingen.\n\nMeld deg på\, vis frem det du driver
-  med!\nVelkommen til UKM Øvre Eiker!\n\nhttps://delta.ukm.no/ukmid/pameld
- ing/3314-9982/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 9022074
- 4\nE-post: annegrethe.klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTel
- efon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kommune.no\n\nS
- ebastian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindl
- and@ovre-eiker.kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post
- : asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl
- . 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArra
- ngementsside: https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmf
- estival2027
+SUMMARY:Øvre Eiker festival 2027
+DESCRIPTION:Øvre Eiker festival 2027\n\nlørdag 20. februar kl. 12:00 - 16
+ :00\n\nHokksund ungdomsskole (HUS)\n\nØvre Eiker\n\nUKM er for deg mellom
+  13 og 20 år som driver med noe kreativt\, uansett nivå. Her kan du vise
+  frem musikk\, dans\, kunst\, film\, foto\, dikt\, kostymer\, tegning\, eg
+ entlig alt som er kreativt og laget av deg.\n\nHos UKM handler det ikke om
+  å være “best”\, men om å bli sett\, møtes og teste nye ting samme
+ n. Du kan stille alene eller med venner\, på scenen\, bak kamera\, i kuli
+ ssene eller i kunstutstillingen.\n\nMeld deg på\, vis frem det du driver 
+ med!\nVelkommen til UKM Øvre Eiker!\n\nØvre Eiker festival 2027: https:/
+ /sys.ukm.no/2027-ovreeiker-ovreeikersukmfestival2027/files/2026/11/Kopi-av
+ -Facebook-arr.-cover-7-1200x628.png\n\nhttps://delta.ukm.no/ukmid/pameldin
+ g/3314-9982/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\
+ nE-post: annegrethe.klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTelef
+ on: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kommune.no\n\nSeb
+ astian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindlan
+ d@ovre-eiker.kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post: 
+ asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 
+ 23:59\nPåmeldingsfrist – bidra bak scenen: 17.01.2027 kl. 23:59\nArrang
+ ementsside: https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfes
+ tival2027
 LOCATION:Hokksund ungdomsskole (HUS)\, Øvre Eiker
 URL:https://www.ukm.no/arrangement/2027-ovreeiker-ovreeikersukmfestival2027
 STATUS:CONFIRMED

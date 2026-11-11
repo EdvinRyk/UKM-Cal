@@ -34,10 +34,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9821@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9851@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261111T051743Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:1
 DTSTART:20261201T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Gjøvikregionen
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Gjøvikregionen.\
@@ -55,16 +55,16 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Gjøvikregionen.\
  m.no/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten/files/20
  26/10/UKM-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3447-9851/\n\nKont
  aktpersoner\nHege Øversveen\nTelefon: 45407778\nE-post: hege.oversveen@ot
- oten.no\n\nLinda Victoria Bakkelund Røise\nTelefon: 92819853\nE-post: lin
- da.victoria.roise@gjovik.kommune.no\n\nNina Vedal\nTelefon: 90041362\nE-po
- st: nina.vedal@vestre-toten.kommune.no\n\nSolfrid Eriksen\nTelefon: 922871
- 17\nE-post: wenchesolfridnilsson.eriksen@sondre-land.kommune.no\n\nPåmeld
- ing – Gjøvik: https://delta.ukm.no/ukmid/pamelding/3407-9851/\nPåmeldi
- ng – Vestre Toten: https://delta.ukm.no/ukmid/pamelding/3443-9851/\nPåm
- elding – Østre Toten: https://delta.ukm.no/ukmid/pamelding/3442-9851/\n
- Påmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bid
- ra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/
- arrangement/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten
+ oten.no\n\nLinda Victoria Røise\nTelefon: 99760990\nE-post: linda.victori
+ a.roise@gjovik.kommune.no\n\nNina Vedal\nTelefon: 90041362\nE-post: nina.v
+ edal@vestre-toten.kommune.no\n\nSolfrid Eriksen\nTelefon: 92287117\nE-post
+ : wenchesolfridnilsson.eriksen@sondre-land.kommune.no\n\nPåmelding – Gj
+ øvik: https://delta.ukm.no/ukmid/pamelding/3407-9851/\nPåmelding – Ves
+ tre Toten: https://delta.ukm.no/ukmid/pamelding/3443-9851/\nPåmelding –
+  Østre Toten: https://delta.ukm.no/ukmid/pamelding/3442-9851/\nPåmelding
+ sfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sce
+ nen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangemen
+ t/2027-gjovik-sondrelangjoviksondrelandvestretotenogostretoten
 LOCATION:Østre Toten Kulturhus\, Søndre Land\, Gjøvik\, Vestre Toten
 URL:https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandves
  tretotenogostretoten
@@ -269,10 +269,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10018@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9851@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261111T051743Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:2
 DTSTART:20270220T140000Z
 DTEND:20270220T160000Z
 SUMMARY:UKM Gjøvikregionen
@@ -289,17 +289,17 @@ DESCRIPTION:UKM Gjøvikregionen\n\nlørdag 20. februar kl. 15:00 - 17:00\n\
  øvikregionen: https://sys.ukm.no/2027-gjovik-sondrelangjoviksondrelandves
  tretotenogostretoten/files/2026/10/UKM-3.jpg\n\nhttps://delta.ukm.no/ukmid
  /pamelding/3447-9851/\n\nKontaktpersoner\nHege Øversveen\nTelefon: 454077
- 78\nE-post: hege.oversveen@ototen.no\n\nLinda Victoria Bakkelund Røise\nT
- elefon: 92819853\nE-post: linda.victoria.roise@gjovik.kommune.no\n\nNina V
- edal\nTelefon: 90041362\nE-post: nina.vedal@vestre-toten.kommune.no\n\nSol
- frid Eriksen\nTelefon: 92287117\nE-post: wenchesolfridnilsson.eriksen@sond
- re-land.kommune.no\n\nPåmelding – Gjøvik: https://delta.ukm.no/ukmid/p
- amelding/3407-9851/\nPåmelding – Vestre Toten: https://delta.ukm.no/ukm
- id/pamelding/3443-9851/\nPåmelding – Østre Toten: https://delta.ukm.no
- /ukmid/pamelding/3442-9851/\nPåmeldingsfrist – delta: 01.02.2027 kl. 23
- :59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangem
- entsside: https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondre
- landvestretotenogostretoten
+ 78\nE-post: hege.oversveen@ototen.no\n\nLinda Victoria Røise\nTelefon: 99
+ 760990\nE-post: linda.victoria.roise@gjovik.kommune.no\n\nNina Vedal\nTele
+ fon: 90041362\nE-post: nina.vedal@vestre-toten.kommune.no\n\nSolfrid Eriks
+ en\nTelefon: 92287117\nE-post: wenchesolfridnilsson.eriksen@sondre-land.ko
+ mmune.no\n\nPåmelding – Gjøvik: https://delta.ukm.no/ukmid/pamelding/3
+ 407-9851/\nPåmelding – Vestre Toten: https://delta.ukm.no/ukmid/pameldi
+ ng/3443-9851/\nPåmelding – Østre Toten: https://delta.ukm.no/ukmid/pam
+ elding/3442-9851/\nPåmeldingsfrist – delta: 01.02.2027 kl. 23:59\nPåme
+ ldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: 
+ https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandvestre
+ totenogostretoten
 LOCATION:Østre Toten Kulturhus\, Søndre Land\, Gjøvik\, Vestre Toten
 URL:https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandves
  tretotenogostretoten

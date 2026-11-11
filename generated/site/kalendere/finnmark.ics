@@ -53,10 +53,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9925@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9994@ukm-kalendere
-DTSTAMP:20261031T045920Z
+DTSTAMP:20261111T051743Z
 CREATED:20261031T045920Z
-LAST-MODIFIED:20261031T045920Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:1
 DTSTART:20261110T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Band Tour Nordkapp
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour Nordkap
@@ -77,14 +77,14 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour Nordkap
  ape en bra opplevelse!\n\nEnten du vil stå på scenen\, jobbe med lyd og 
  lys\, lage innhold eller bidra som arrangør\, håper vi du blir med når 
  UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\
- nhttps://delta.ukm.no/ukmid/pamelding/5620-9994/\n\nKontaktpersoner\nAndre
- as Børvik\nTelefon: 95802319\nE-post: andreas.borvik@nordkapp.kommune.no\
- n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.
- com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: thomas.nilsen@nordkapp.ko
- mmune.no\n\nØystein Skårset\nTelefon: 90720190\nE-post: oystein.skarset@
- nordkapp.kommune.no\n\nPåmeldingsfrist – delta: 10.11.2026 kl. 23:59\nP
- åmeldingsfrist – bidra bak scenen: 10.11.2026 kl. 23:59\nArrangementssi
- de: https://www.ukm.no/arrangement/2026-nordkapp-nordkapp
+ nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.borv
+ ik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: k
+ aisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: th
+ omas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190\nE
+ -post: oystein.skarset@nordkapp.kommune.no\n\nPåmeldingsfrist – delta: 
+ 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.11.2026 kl
+ . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-nordkapp-no
+ rdkapp
 LOCATION:Honningsvåg Samfunnshus\, Nordkapp
 URL:https://www.ukm.no/arrangement/2026-nordkapp-nordkapp
 STATUS:CONFIRMED
@@ -241,10 +241,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9994@ukm-kalendere
-DTSTAMP:20261031T045920Z
+DTSTAMP:20261111T051743Z
 CREATED:20261031T045920Z
-LAST-MODIFIED:20261031T045920Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T051743Z
+SEQUENCE:1
 DTSTART:20261114T150000Z
 DTEND:20261114T210000Z
 SUMMARY:UKM Band Tour Nordkapp
@@ -264,15 +264,14 @@ DESCRIPTION:UKM Band Tour Nordkapp\n\nlørdag 14. november kl. 16:00 - 22:0
  ye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på 
  scenen\, jobbe med lyd og lys\, lage innhold eller bidra som arrangør\, h
  åper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss 
- til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5620-9994/
- \n\nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.b
- orvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post
- : kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post:
-  thomas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190
- \nE-post: oystein.skarset@nordkapp.kommune.no\n\nPåmeldingsfrist – delt
- a: 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.11.2026
-  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-nordkapp
- -nordkapp
+ til å se deg! 🎶🔥\n\nKontaktpersoner\nAndreas Børvik\nTelefon: 9580
+ 2319\nE-post: andreas.borvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTe
+ lefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTel
+ efon: 98429851\nE-post: thomas.nilsen@nordkapp.kommune.no\n\nØystein Skå
+ rset\nTelefon: 90720190\nE-post: oystein.skarset@nordkapp.kommune.no\n\nP
+ åmeldingsfrist – delta: 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ rrangement/2026-nordkapp-nordkapp
 LOCATION:Honningsvåg Samfunnshus\, Nordkapp
 URL:https://www.ukm.no/arrangement/2026-nordkapp-nordkapp
 STATUS:CONFIRMED

@@ -3,8 +3,8 @@
   "calendar_count": 16,
   "calendars": {
     "agder": 22,
-    "akershus": 19,
-    "buskerud": 24,
+    "akershus": 21,
+    "buskerud": 30,
     "finnmark": 14,
     "innlandet": 16,
     "moreogromsdal": 6,
@@ -21,8 +21,8 @@
   },
   "deadline_calendars": {
     "agder": 9,
-    "akershus": 9,
-    "buskerud": 10,
+    "akershus": 10,
+    "buskerud": 11,
     "finnmark": 7,
     "innlandet": 8,
     "moreogromsdal": 3,
@@ -37,15 +37,15 @@
     "vestfold": 2,
     "vestland": 9
   },
-  "deadline_count": 115,
-  "entry_count": 252,
-  "event_count": 137,
-  "last_success": "2026-11-10T05:12:08.070301+00:00",
+  "deadline_count": 117,
+  "entry_count": 260,
+  "event_count": 143,
+  "last_success": "2026-11-11T05:17:43.200934+00:00",
   "sources": {
-    "checked_detail_pages": 137,
+    "checked_detail_pages": 143,
     "search": {
       "complete": true,
-      "hits": 616,
+      "hits": 622,
       "index": "events_prod",
       "pages": 7
     },
@@ -63,6 +63,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 140
+    "upcoming_api_count": 146
   }
 }
