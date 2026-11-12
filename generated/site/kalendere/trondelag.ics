@@ -215,6 +215,38 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9889@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10031@ukm-kalendere
+DTSTAMP:20261112T051936Z
+CREATED:20261112T051936Z
+LAST-MODIFIED:20261112T051936Z
+SEQUENCE:0
+DTSTART:20261207T150000Z
+DTEND:20261207T180000Z
+SUMMARY:Mangakurs
+DESCRIPTION:Mangakurs\n\nmandag 7. desember kl. 16:00 - 19:00\n\nLevanger b
+ ibliotek\n\nLevanger\n\nVil du lære å tegne manga? Bli med på mangakurs
+ !\n\nDette kurset egner seg perfekt for deg som vil lære mer om mangategn
+ ing. Kurset åpner med en gjennomgang av mangaens særegne trekk\, før du
+  får veiledning og tips til hvordan du kan tegne i manga-stil. Det er ing
+ en krav til deltakernes forkunnskaper\, og både erfarne tegnere og nybegy
+ nnere er hjertelig velkommen. Kursholderen har med utstyr til bruk under k
+ urset\, så du trenger bare å stille med nysgjerrighet\, lærelyst og god
+ e vibes!\n\nKursholder Hiwar Nheli er forfatter og illustratør og har utg
+ itt mangaserien Mantikorens Kongerike.\n\nKurset er for ungdom mellom 10 o
+ g 20 år.\nKurset holdes i 2. etasje over biblioteket\, inngang fra baksid
+ en av bygget. Det serveres pizza fra kl. 15.30 :)\n\nPåmelding via FRISKU
+ S her: https://levanger.friskus.com/events/c9b5d0d1-fe52-4c65-bc8b-e0cad63
+ 7a6d4\n\nMangakurs: https://sys.ukm.no/2026-levanger-mangakurs/files/2026/
+ 11/manga.png\n\nKontaktpersoner\nSiri Okkenhaug Bævre\nTelefon: 96949811\
+ nE-post: siba@levanger.kommune.no\n\nPåmeldingsfrist – delta: 06.12.202
+ 6 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-levange
+ r-mangakurs
+LOCATION:Levanger bibliotek
+URL:https://www.ukm.no/arrangement/2026-levanger-mangakurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9917@ukm-kalendere
 DTSTAMP:20261105T051723Z
 CREATED:20261025T121149Z

@@ -15,7 +15,7 @@
     "rogaland": 20,
     "telemark": 16,
     "troms": 11,
-    "trondelag": 35,
+    "trondelag": 36,
     "vestfold": 6,
     "vestland": 18
   },
@@ -38,14 +38,14 @@
     "vestland": 9
   },
   "deadline_count": 117,
-  "entry_count": 260,
-  "event_count": 143,
-  "last_success": "2026-11-11T05:17:43.200934+00:00",
+  "entry_count": 261,
+  "event_count": 144,
+  "last_success": "2026-11-12T05:19:36.708976+00:00",
   "sources": {
-    "checked_detail_pages": 143,
+    "checked_detail_pages": 144,
     "search": {
       "complete": true,
-      "hits": 622,
+      "hits": 623,
       "index": "events_prod",
       "pages": 7
     },
@@ -63,6 +63,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 146
+    "upcoming_api_count": 147
   }
 }
