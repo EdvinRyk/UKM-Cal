@@ -753,10 +753,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9819@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:1
 DTSTART:20270228T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Lier 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Lier 2027.\nPåme
@@ -772,16 +772,16 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Lier 2027.\nPåme
  ulissene som arrangør\, fotograf eller tekniker.\n\nUKM er ikke en konkur
  ranse\, men en arena hvor ungdom får utvikle seg\, bli kjent med andre og
   vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 1
- 0 og 20 år!\n\nPåmeldingen er ikke åpen ennå\, men følg med – mer i
- nformasjon kommer!\n\nVi gleder oss til å se hva Liers ungdom har å by p
- å!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/
- 10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nKontaktpersoner\nYng
- vild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.N
- ystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\n
- E-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\
- nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåm
- eldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside:
-  https://www.ukm.no/arrangement/2027-lier-ukmlier2027
+ 0 og 20 år!\n\nPåmeldingen er nå åpen!\n\nVi gleder oss til å se hva 
+ Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier
+ -ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg
+ \n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYn
+ gvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.
+ Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\
+ nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan
+ \nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPå
+ meldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside
+ : https://www.ukm.no/arrangement/2027-lier-ukmlier2027
 LOCATION:Lier Kulturscene
 URL:https://www.ukm.no/arrangement/2027-lier-ukmlier2027
 STATUS:CONFIRMED
@@ -863,10 +863,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9879@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9819@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:2
 DTSTART:20270312T130000Z
 DTEND:20270313T210000Z
 SUMMARY:UKM Lier 2027
@@ -881,17 +881,17 @@ DESCRIPTION:UKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars k
   har laget\, eller være med bak kulissene som arrangør\, fotograf eller 
  tekniker.\n\nUKM er ikke en konkurranse\, men en arena hvor ungdom får ut
  vikle seg\, bli kjent med andre og vise frem talentene sine.\nUKM Lier er 
- gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er ikke åp
- en ennå\, men følg med – mer informasjon kommer!\n\nVi gleder oss til 
- å se hva Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no
- /2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-80
- 0x1200.jpg\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 
- 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\n
- Leder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.ko
- mmune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: i
- rene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02
- .2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lie
- r-ukmlier2027
+ gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpe
+ n!\n\nVi gleder oss til å se hva Liers ungdom har å by på!\n\nUKM Lier 
+ 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-Teod
+ orEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding
+ /3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon:
+  45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\
+ nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.k
+ ommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: 
+ irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.0
+ 2.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-li
+ er-ukmlier2027
 LOCATION:Lier Kulturscene
 URL:https://www.ukm.no/arrangement/2027-lier-ukmlier2027
 STATUS:CONFIRMED

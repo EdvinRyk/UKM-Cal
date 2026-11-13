@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 144,
-  "antall_deltakernavn_i_innslag": 142,
-  "antall_innslag": 386,
+  "antall_arrangementer": 146,
+  "antall_deltakernavn_i_innslag": 144,
+  "antall_innslag": 388,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -207,39 +207,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
       "navn": "CREW - Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 4,
-      "arrangement_id": "9984",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261998",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262070",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262166",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262167",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9984",
-      "navn": "workshop: Nail Art"
     },
     {
       "antall_innslag": 9,
@@ -979,7 +946,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9991",
-      "navn": "Kick off Oslo"
+      "navn": "KICK OFF"
     },
     {
       "antall_innslag": 0,
@@ -990,12 +957,19 @@
       "navn": "Åpen dansesal med Lise"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9995",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262362",
+          "navn": "Person innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9995",
-      "navn": "Kick-off i Harstad"
+      "navn": "KickOff i Harstad"
     },
     {
       "antall_innslag": 0,
@@ -1616,7 +1590,7 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
@@ -1625,6 +1599,12 @@
           "deltakernavn": [],
           "id": "262330",
           "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg trives godt på scenen og har vært så heldig å få en del erfaring allerede gjennom skole arrangementer og temakveld for foreldre og som fast konferansier på vårmarken og høstmarken i Randaberg. For meg er det viktig med energi og innlevelse, og litt humor. Men det aller viktigste er å forklare hva som skal skje på en tydelig og engasjerende måte.",
+          "deltakernavn": [],
+          "id": "262336",
+          "navn": "Konferansier innslag"
         },
         {
           "beskrivelse": "Trener volleyball 3 ganger i uken.\nGår på the voice på showakademiet.\nElsker å synge og tegne.\nHar 7 søsken og 3 bonus søsken.",
@@ -1719,7 +1699,7 @@
       "navn": "Sirdal UKM 2027"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "10002",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sor-varanger-sor-varanger",
       "innslag": [
@@ -1727,6 +1707,12 @@
           "beskrivelse": "Jeg har tidligere vært med på UKM arrangement inkludert konferansier. Jeg trives som konferansier og liker å skape stemning på scenen og få publikum engasjert.",
           "deltakernavn": [],
           "id": "262079",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg var konferansier i fjor, og det var kjempegøy. Jeg liker å snakke og stå på scenen foran folk, og underholde de til de som skal framføre er klare.",
+          "deltakernavn": [],
+          "id": "262368",
           "navn": "Konferansier innslag"
         },
         {
@@ -2155,6 +2141,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "9953",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9953",
+      "navn": "Surnadal"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9884",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-midt-telemark-ukmmidt-telemark2027",
       "innslag": [],
@@ -2162,7 +2156,7 @@
       "navn": "UKM Midt-Telemark"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9943",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger",
       "innslag": [
@@ -2173,6 +2167,14 @@
           ],
           "id": "262038",
           "navn": "Matthew"
+        },
+        {
+          "beskrivelse": "Jeg har jobbet med scenearbeid på ukm i 2 år og tenker å gå over til lydtekniker siden jeg har jobbet med det utenfor ukm",
+          "deltakernavn": [
+            "Vegard Brende"
+          ],
+          "id": "262364",
+          "navn": "Vegard Brende"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9943",
@@ -2195,18 +2197,19 @@
       "navn": "Askøy og Øygarden 2027"
     },
     {
-      "antall_innslag": 0,
-      "arrangement_id": "9953",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9953",
-      "navn": "Surnadal"
-    },
-    {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9919",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg har lyst til å prøve meg som scenearbeider fordi jeg liker å holde orden og ha oversikt. Jeg er glad i å jobbe 💪🏻",
+          "deltakernavn": [
+            "Theo Sjaastad"
+          ],
+          "id": "262358",
+          "navn": "Theo Sjaastad"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9919",
       "navn": "UKM Nittedal 2027"
     },
@@ -2264,6 +2267,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9982",
       "navn": "Øvre Eiker festival 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10032",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjorden",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10032",
+      "navn": "Bjørnafjorden Ung kulturfestival 2027"
     },
     {
       "antall_innslag": 9,
@@ -2930,6 +2941,21 @@
     },
     {
       "antall_innslag": 1,
+      "arrangement_id": "10034",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
+      "innslag": [
+        {
+          "beskrivelse": "Gut ved svelgen kunstklubb",
+          "deltakernavn": [],
+          "id": "262370",
+          "navn": "Utstilling innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10034",
+      "navn": "UKM Bremanger 2027"
+    },
+    {
+      "antall_innslag": 1,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -3235,6 +3261,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9804",
       "navn": "UKM Balsfjord 2027!"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10033",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-ibestad-ibestadukm2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10033",
+      "navn": "Ibestad UKM 2027"
     },
     {
       "antall_innslag": 1,
@@ -3789,5 +3823,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-12T05:19:36.708976+00:00"
+  "oppdatert": "2026-11-13T05:17:39.448534+00:00"
 }

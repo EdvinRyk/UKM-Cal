@@ -9,20 +9,24 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9991@ukm-kalendere
-DTSTAMP:20261030T050327Z
+DTSTAMP:20261113T051739Z
 CREATED:20261030T050327Z
-LAST-MODIFIED:20261030T050327Z
-SEQUENCE:0
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:1
 DTSTART:20260301T225959Z
-SUMMARY:Påmeldingsfrist bak scenen – Kick off Oslo
-DESCRIPTION:Frist for å melde seg på bak scenen til Kick off Oslo.\nPåme
- ldingsfrist: 01.03.2026 kl. 23:59 (norsk tid).\n\nKick off Oslo\n\ntorsdag
-  3. desember kl. 17:00 - 21:00\n\nDeichman Grünerløkka\n\nKontaktpersone
- r\nCelin Solstad\nTelefon: 91795353\nE-post: celin.solstad@musikk.no\n\nMa
- gnus Nordbekk\nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nPå
- meldingsfrist – delta: 01.03.2026 kl. 23:59\nPåmeldingsfrist – bidra 
- bak scenen: 01.03.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arr
- angement/2026-oslo-kickoffukmoslo
+SUMMARY:Påmeldingsfrist bak scenen – KICK OFF
+DESCRIPTION:Frist for å melde seg på bak scenen til KICK OFF.\nPåmelding
+ sfrist: 01.03.2026 kl. 23:59 (norsk tid).\n\nKICK OFF\n\ntorsdag 3. desemb
+ er kl. 17:00 - 21:00\n\nDeichman Grünerløkka\n\nVelkommen til KICK OFF m
+ ed UKM Oslo! I samarbeid med Deichman Grünerløkka inviterer vi til en kv
+ eld med åpen scene\, kreativt verksted\, gratis mat\, Kahoot og god stemn
+ ing. Arrangementer gratis og åpent for deg mellom 13 og 20 år\, og du tr
+ enger ikke å ha deltatt på UKM tidligere!\n\nKontaktpersoner\nCelin Sols
+ tad\nTelefon: 91795353\nE-post: celin.solstad@musikk.no\n\nMagnus Nordbekk
+ \nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nPåmeldingsfrist
+  – delta: 01.03.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 0
+ 1.03.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026
+ -oslo-kickoffukmoslo
 LOCATION:Deichman Grünerløkka
 URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 STATUS:CONFIRMED
@@ -61,19 +65,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9991@ukm-kalendere
-DTSTAMP:20261030T050327Z
+DTSTAMP:20261113T051739Z
 CREATED:20261030T050327Z
-LAST-MODIFIED:20261030T050327Z
-SEQUENCE:0
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:1
 DTSTART:20261203T160000Z
 DTEND:20261203T200000Z
-SUMMARY:Kick off Oslo
-DESCRIPTION:Kick off Oslo\n\ntorsdag 3. desember kl. 17:00 - 21:00\n\nDeich
- man Grünerløkka\n\nKontaktpersoner\nCelin Solstad\nTelefon: 91795353\nE-
- post: celin.solstad@musikk.no\n\nMagnus Nordbekk\nTelefon: 45002286\nE-pos
- t: magnus.nordbekk@musikk.no\n\nPåmeldingsfrist – delta: 01.03.2026 kl.
-  23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2026 kl. 23:59\nArran
- gementsside: https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
+SUMMARY:KICK OFF
+DESCRIPTION:KICK OFF\n\ntorsdag 3. desember kl. 17:00 - 21:00\n\nDeichman G
+ rünerløkka\n\nVelkommen til KICK OFF med UKM Oslo! I samarbeid med Deich
+ man Grünerløkka inviterer vi til en kveld med åpen scene\, kreativt ver
+ ksted\, gratis mat\, Kahoot og god stemning. Arrangementer gratis og åpen
+ t for deg mellom 13 og 20 år\, og du trenger ikke å ha deltatt på UKM t
+ idligere!\n\nKontaktpersoner\nCelin Solstad\nTelefon: 91795353\nE-post: ce
+ lin.solstad@musikk.no\n\nMagnus Nordbekk\nTelefon: 45002286\nE-post: magnu
+ s.nordbekk@musikk.no\n\nPåmeldingsfrist – delta: 01.03.2026 kl. 23:59\n
+ Påmeldingsfrist – bidra bak scenen: 01.03.2026 kl. 23:59\nArrangementss
+ ide: https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 LOCATION:Deichman Grünerløkka
 URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 STATUS:CONFIRMED

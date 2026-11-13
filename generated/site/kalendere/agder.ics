@@ -8,32 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-9984@ukm-kalendere
-DTSTAMP:20261029T050319Z
-CREATED:20261029T050319Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:0
-DTSTART:20261112T143000Z
-DTEND:20261112T173000Z
-SUMMARY:workshop: Nail Art
-DESCRIPTION:workshop: Nail Art\n\ntorsdag 12. november kl. 15:30 - 18:30\n\
- nLindesnesbibliotekene Øyslebø\n\nLindesnes\n\nTorsdag 12. november blir
-  det workshop innen Gel Nail Art her på Øyslebø i Marnar Aula. vi har m
- asse forskjellige farger og flere type former for negler. så hvis du har 
- lyst til å lære litt mer om nail art eller om du bare vil prøve deg lit
- t fram så meld deg på! det blir servert pizza og det er selvsagt gratis 
- å delta.\n\nworkshop: Nail Art: https://sys.ukm.no/2026-lindesnes-worksho
- pnailart/files/2026/10/Design-uten-navn-2.png\n\nhttps://delta.ukm.no/ukmi
- d/pamelding/4205-9984/\n\nKontaktpersoner\nKeth Andersen\nTelefon: 9530789
- 3\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 902
- 43405\nE-post: mona.harbak@lindesnes.kommune.no\n\nArrangementsside: https
- ://www.ukm.no/arrangement/2026-lindesnes-workshopnailart
-LOCATION:Lindesnesbibliotekene Øyslebø
-URL:https://www.ukm.no/arrangement/2026-lindesnes-workshopnailart
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9986@ukm-kalendere
 DTSTAMP:20261110T051208Z
 CREATED:20261029T050319Z

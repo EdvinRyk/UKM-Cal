@@ -49,32 +49,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9881@ukm-kalendere
-DTSTAMP:20261111T051743Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261111T051743Z
-SEQUENCE:2
-DTSTART:20261114T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Holmestrand
-DESCRIPTION:Frist for å melde seg på bak scenen til Holmestrand.\nPåmeld
- ingsfrist: 14.11.2026 kl. 23:59 (norsk tid).\n\nHolmestrand\n\nlørdag 21.
-  november kl. 12:00 - 16:00\n\nUKM HOLMESTRAND\nBli med oss ​​på åre
- ts viktigste kulturarrangement for ungdom. I tillegg til forestillingen vi
- l det være mange workshops.\n\nPåmeldingsfrist: 07. november klokken 23.
- 59\n\nHolmestrand: https://sys.ukm.no/2026-holmestrand-holmestrand27/files
- /2026/09/Banner27_Hvit.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3903-98
- 81/\n\nKontaktpersoner\nLars-Erik Revdal\nTelefon: 92096519\nE-post: lars.
- erik.revdal@steinkjer.kommune.no\n\nPåmeldingsfrist – delta: 14.11.2026
-  kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 14.11.2026 kl. 23:59\nA
- rrangementsside: https://www.ukm.no/arrangement/2026-holmestrand-holmestra
- nd27
-LOCATION:\, Holmestrand
-URL:https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9881@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9847@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -114,11 +88,37 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9847@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9881@ukm-kalendere
-DTSTAMP:20261111T051743Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261111T051743Z
+UID:ukm-bak-scenen-frist-9881@ukm-kalendere
+DTSTAMP:20261113T051739Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261113T051739Z
 SEQUENCE:3
+DTSTART:20261118T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Holmestrand
+DESCRIPTION:Frist for å melde seg på bak scenen til Holmestrand.\nPåmeld
+ ingsfrist: 18.11.2026 kl. 23:59 (norsk tid).\n\nHolmestrand\n\nlørdag 21.
+  november kl. 12:00 - 16:00\n\nUKM HOLMESTRAND\nBli med oss ​​på åre
+ ts viktigste kulturarrangement for ungdom. I tillegg til forestillingen vi
+ l det være mange workshops.\n\nPåmeldingsfrist: 07. november klokken 23.
+ 59\n\nHolmestrand: https://sys.ukm.no/2026-holmestrand-holmestrand27/files
+ /2026/09/Banner27_Hvit.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3903-98
+ 81/\n\nKontaktpersoner\nLars-Erik Revdal\nTelefon: 92096519\nE-post: lars.
+ erik.revdal@steinkjer.kommune.no\n\nPåmeldingsfrist – delta: 18.11.2026
+  kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 18.11.2026 kl. 23:59\nA
+ rrangementsside: https://www.ukm.no/arrangement/2026-holmestrand-holmestra
+ nd27
+LOCATION:\, Holmestrand
+URL:https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9881@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-9881@ukm-kalendere
+DTSTAMP:20261113T051739Z
+CREATED:20261025T111128Z
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:4
 DTSTART:20261121T110000Z
 DTEND:20261121T150000Z
 SUMMARY:Holmestrand
@@ -129,8 +129,8 @@ DESCRIPTION:Holmestrand\n\nlørdag 21. november kl. 12:00 - 16:00\n\nUKM HO
  /2026-holmestrand-holmestrand27/files/2026/09/Banner27_Hvit.jpg\n\nhttps:/
  /delta.ukm.no/ukmid/pamelding/3903-9881/\n\nKontaktpersoner\nLars-Erik Rev
  dal\nTelefon: 92096519\nE-post: lars.erik.revdal@steinkjer.kommune.no\n\nP
- åmeldingsfrist – delta: 14.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
- a bak scenen: 14.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/a
+ åmeldingsfrist – delta: 18.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
+ a bak scenen: 18.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/a
  rrangement/2026-holmestrand-holmestrand27
 LOCATION:\, Holmestrand
 URL:https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27

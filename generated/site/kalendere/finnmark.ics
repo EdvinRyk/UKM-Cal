@@ -93,10 +93,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9994@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9826@ukm-kalendere
-DTSTAMP:20261110T051208Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261110T051208Z
-SEQUENCE:3
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:4
 DTSTART:20261112T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Band Tour Alta
 DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
@@ -113,12 +113,11 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
   (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene\, lyd\, lys 
  og praktisk gjennomføring)\n🎤 Konferansier\n\n🤘Vi gleder oss til å
   se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtour
- alta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nhttps://delt
- a.ukm.no/ukmid/pamelding/5601-9826/\n\nKontaktpersoner\nEirik Aune Hansen\
- nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldin
- gsfrist – delta: 12.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak sc
- enen: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangeme
- nt/2026-alta-bandtouralta
+ alta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nKontaktperso
+ ner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.
+ kommune.no\n\nPåmeldingsfrist – delta: 12.11.2026 kl. 23:59\nPåmelding
+ sfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside: https
+ ://www.ukm.no/arrangement/2026-alta-bandtouralta
 LOCATION:Skoleveien 14\, Alta
 URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
 STATUS:CONFIRMED
@@ -127,10 +126,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9826@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9997@ukm-kalendere
-DTSTAMP:20261106T051654Z
+DTSTAMP:20261113T051739Z
 CREATED:20261031T045920Z
-LAST-MODIFIED:20261106T051654Z
-SEQUENCE:1
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:2
 DTSTART:20261112T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Band Tour Lakselv
 DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Lakselv.\nP
@@ -151,13 +150,12 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Lakselv.\nP
  ra til å skape en bra opplevelse!\n\nEnten du vil stå på scenen\, jobbe
   med lyd og lys\, lage innhold eller bidra som arrangør\, håper vi du bl
  ir med når UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg!
-  🎶🔥\n\nhttps://delta.ukm.no/ukmid/pamelding/5622-9997/\n\nKontaktper
- soner\nBernt-Johnny Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@
- tffk.no\n\nPer Inge Heitmann Olsen\nTelefon: 40440544\nE-post: per.olsen@n
- esseby.kommune.no\n\nPåmeldingsfrist – delta: 11.11.2026 kl. 23:59\nPå
- meldingsfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside
- : https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandto
- urlakselv
+  🎶🔥\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon: 90569846\
+ nE-post: b.bertheussen@tffk.no\n\nPer Inge Heitmann Olsen\nTelefon: 404405
+ 44\nE-post: per.olsen@nesseby.kommune.no\n\nPåmeldingsfrist – delta: 11
+ .11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11.2026 kl. 
+ 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-porsanger-por
+ sngu-porsanki-ukmbandtourlakselv
 LOCATION:Hos Magnus\, Porsanger - Porsángu - Porsanki
 URL:https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandt
  ourlakselv
@@ -209,10 +207,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9826@ukm-kalendere
-DTSTAMP:20261110T051208Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261110T051208Z
-SEQUENCE:5
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:6
 DTSTART:20261113T150000Z
 DTEND:20261113T213000Z
 SUMMARY:Band Tour Alta
@@ -229,11 +227,11 @@ DESCRIPTION:Band Tour Alta\n\nfredag 13. november kl. 16:00 - 22:30\n\nSkol
  Teknikk og rigg (scene\, lyd\, lys og praktisk gjennomføring)\n🎤 Konfe
  ransier\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: ht
  tps://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Co
- ver-2-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5601-9826/\n\n
- Kontaktpersoner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.
- hansen@alta.kommune.no\n\nPåmeldingsfrist – delta: 12.11.2026 kl. 23:59
- \nPåmeldingsfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangement
- sside: https://www.ukm.no/arrangement/2026-alta-bandtouralta
+ ver-2-1200x1200.png\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 414333
+ 90\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist – delt
+ a: 12.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11.2026
+  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-ban
+ dtouralta
 LOCATION:Skoleveien 14\, Alta
 URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
 STATUS:CONFIRMED
@@ -279,10 +277,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9997@ukm-kalendere
-DTSTAMP:20261106T051654Z
+DTSTAMP:20261113T051739Z
 CREATED:20261031T045920Z
-LAST-MODIFIED:20261106T051654Z
-SEQUENCE:1
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:2
 DTSTART:20261115T113000Z
 DTEND:20261115T153000Z
 SUMMARY:Band Tour Lakselv
@@ -302,13 +300,12 @@ DESCRIPTION:Band Tour Lakselv\n\nsøndag 15. november kl. 12:30 - 16:30\n\n
  ell scene\, møte nye folk og bidra til å skape en bra opplevelse!\n\nEnt
  en du vil stå på scenen\, jobbe med lyd og lys\, lage innhold eller bidr
  a som arrangør\, håper vi du blir med når UKM Band Tour kommer til dere
- .\n\nVi gleder oss til å se deg! 🎶🔥\n\nhttps://delta.ukm.no/ukmid/p
- amelding/5622-9997/\n\nKontaktpersoner\nBernt-Johnny Bertheussen\nTelefon:
-  90569846\nE-post: b.bertheussen@tffk.no\n\nPer Inge Heitmann Olsen\nTelef
- on: 40440544\nE-post: per.olsen@nesseby.kommune.no\n\nPåmeldingsfrist –
-  delta: 11.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11
- .2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-por
- sanger-porsngu-porsanki-ukmbandtourlakselv
+ .\n\nVi gleder oss til å se deg! 🎶🔥\n\nKontaktpersoner\nBernt-Johnn
+ y Bertheussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nPer Ing
+ e Heitmann Olsen\nTelefon: 40440544\nE-post: per.olsen@nesseby.kommune.no\
+ n\nPåmeldingsfrist – delta: 11.11.2026 kl. 23:59\nPåmeldingsfrist – 
+ bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.
+ no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv
 LOCATION:Hos Magnus\, Porsanger - Porsángu - Porsanki
 URL:https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandt
  ourlakselv

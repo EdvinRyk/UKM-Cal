@@ -41,30 +41,62 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9830@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9995@ukm-kalendere
-DTSTAMP:20261031T045920Z
+DTSTAMP:20261113T051739Z
 CREATED:20261031T045920Z
-LAST-MODIFIED:20261031T045920Z
-SEQUENCE:0
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:1
 DTSTART:20261205T100000Z
 DTEND:20261206T170000Z
-SUMMARY:Kick-off i Harstad
-DESCRIPTION:Kick-off i Harstad\n\nlørdag 5. desember kl. 11:00 - søndag 6
- . desember kl. 18:00\n\nHarstad Fritidssenter\n\nHarstad - Hárstták\n\nE
- t påfyll med inspirasjon til hva du kan melde på UKM 2027!\n\nVær samme
- n med andre og bli inspirert til å melde deg på UKM. Det blir flere verk
- steder du kan delta på og i tillegg lover vi god stemning og gratis mat!\
- n\nKick-off i Harstad: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offi
- harstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-1210x1800.jpeg\
- n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9995/\n\nKontaktpersoner\nArn
- e-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.k
- ommune.no\n\nPåmeldingsfrist – delta: 30.11.2026 kl. 23:59\nArrangement
- sbilde: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-offiharstad/files/2
- 026/10/0BAA783B-736C-40F9-9990-35745536DF15-807x1200.jpeg\nArrangementssid
- e: https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad
+SUMMARY:KickOff i Harstad
+DESCRIPTION:KickOff i Harstad\n\nlørdag 5. desember kl. 11:00 - søndag 6.
+  desember kl. 18:00\n\nHarstad Fritidssenter\n\nHarstad - Hárstták\n\nEt
+  påfyll med inspirasjon til hva du kan melde på UKM 2027!\n\nDette er en
+  glimrende mulighet til å jobbe med innslag til UKM\, lære noe nytt\, v
+ ære sosial og utforske nye uttrykk!\n\nDu kan være med på verksteder\, 
+ lage mat eller lære mer om SoMe og markedsføring.\n\nDet blir teaterverk
+ sted\, koreografiverksted og låtskrivekurs. Eller du kan bli med i matgru
+ ppa og være med å produsere mat til deltakerne og lage god stemning! Ell
+ er du kan lære mer om SoMe og markedsføring\, du får opplæring i å la
+ ge content og du kan bli en ressurs til UKM Harstad i april.\n\nTid:\nLør
+ dag 5. og søndag 6. desember kl. 11:30-18:30\nMedia og matgruppa møter p
+ å fredag 16:00-19:00 for forberedelser.\n\nSted: Harstad Fritidssenter\nP
+ åmeldingsfrist 30. november\n\nArrangementet er gratis og påmelding er b
+ indende. Det er begrenset antall plasser.\nHelgen skjer i samarbeid med HA
+ TS som stiller med instruktører og med støtte fra UKMs stimuleringsmidle
+ r.\n\nKickOff i Harstad: https://sys.ukm.no/2026-harstad-hrsttk-ukmkick-of
+ fiharstad/files/2026/10/0BAA783B-736C-40F9-9990-35745536DF15-807x1200.jpeg
+ \n\nhttps://delta.ukm.no/ukmid/pamelding/5503-9995/\n\nKontaktpersoner\nAr
+ ne-Sigurd Fagerli\nTelefon: 90967095\nE-post: arne-sigurd.fagerli@harstad.
+ kommune.no\n\nPåmeldingsfrist – delta: 30.11.2026 kl. 23:59\nArrangemen
+ tsside: https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offihar
+ stad
 LOCATION:Harstad Fritidssenter\, Harstad - Hárstták
 URL:https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10033@ukm-kalendere
+DTSTAMP:20261113T051739Z
+CREATED:20261113T051739Z
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:0
+DTSTART:20270201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Ibestad UKM 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Ibestad UKM 2027.\nP
+ åmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nIbestad UKM 2027\n\n
+ lørdag 13. mars kl. 16:00 - 20:00\n\nIbestad Kulturhus\n\nIbestad\n\nhttp
+ s://delta.ukm.no/ukmid/pamelding/5514-10033/\n\nKontaktpersoner\nIngvild J
+ ohansen\nTelefon: 94834413\nE-post: ingvild.johansen@ibestad.kommune.no\n\
+ nJannie Sande\nTelefon: 91182341\nE-post: Jannie.Sande@ibestad.kommune.no\
+ n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – 
+ bidra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.
+ no/arrangement/2027-ibestad-ibestadukm2027
+LOCATION:Ibestad Kulturhus
+URL:https://www.ukm.no/arrangement/2027-ibestad-ibestadukm2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10033@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9830@ukm-kalendere
@@ -234,6 +266,27 @@ DESCRIPTION:UKM Balsfjord 2027!\n\nlørdag 13. mars kl. 15:00 - 20:00\n\nSt
  rd2027
 LOCATION:Storsteinnes skole\, Balsfjord
 URL:https://www.ukm.no/arrangement/2027-balsfjord-ukmbalsfjord2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10033@ukm-kalendere
+DTSTAMP:20261113T051739Z
+CREATED:20261113T051739Z
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:0
+DTSTART:20270313T150000Z
+DTEND:20270313T190000Z
+SUMMARY:Ibestad UKM 2027
+DESCRIPTION:Ibestad UKM 2027\n\nlørdag 13. mars kl. 16:00 - 20:00\n\nIbest
+ ad Kulturhus\n\nIbestad\n\nhttps://delta.ukm.no/ukmid/pamelding/5514-10033
+ /\n\nKontaktpersoner\nIngvild Johansen\nTelefon: 94834413\nE-post: ingvild
+ .johansen@ibestad.kommune.no\n\nJannie Sande\nTelefon: 91182341\nE-post: J
+ annie.Sande@ibestad.kommune.no\n\nPåmeldingsfrist – delta: 01.03.2027 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArr
+ angementsside: https://www.ukm.no/arrangement/2027-ibestad-ibestadukm2027
+LOCATION:Ibestad Kulturhus
+URL:https://www.ukm.no/arrangement/2027-ibestad-ibestadukm2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

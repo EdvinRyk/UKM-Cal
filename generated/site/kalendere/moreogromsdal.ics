@@ -109,21 +109,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9953@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:1
 DTSTART:20270121T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Surnadal
 DESCRIPTION:Frist for å melde seg på bak scenen til Surnadal.\nPåmelding
  sfrist: 21.01.2027 kl. 23:59 (norsk tid).\n\nSurnadal\n\nlørdag 13. febru
- ar kl. 18:00 - 22:00\n\nSurnadal kulturhus\n\nSurnadal: https://sys.ukm.no
- /2027-surnadal-surnadal/files/2026/10/IMG_1709-1350x1800.jpeg\n\nKontaktpe
- rsoner\nSiv Torvik\nTelefon: 47875485\nE-post: siv.torvik@surnadal.kommune
- .no\n\nPåmeldingsfrist – delta: 21.01.2027 kl. 23:59\nPåmeldingsfrist 
- – bidra bak scenen: 21.01.2027 kl. 23:59\nArrangementsbilde: https://sys
- .ukm.no/2027-surnadal-surnadal/files/2026/10/IMG_1709-900x1200.jpeg\nArran
- gementsside: https://www.ukm.no/arrangement/2027-surnadal-surnadal
+ ar kl. 12:00 - 21:00\n\nSurnadal kulturhus\n\nHVEM KAN DELTA?\nAlle ungdom
+ mer mellom 13 og 20 år\n\nHVA KAN MAN DELTA MED?\n• På scenen\nDu kan 
+ stille med alt fra musikk\, band og dans til teater\, stand-up\, nysirkus 
+ eller trylling. Alt som kan vises frem på en scene passer på UKM.\n• U
+ tstilling og kunst\nDu kan vise frem tegning\, maleri\, foto\, skulptur\, 
+ tekstil\, cosplay eller litteratur. Bare kreativiteten setter grenser.\n
+ • Bak kulissene\nDu trenger ikke stå på en scene for å være med. Du 
+ kan melde deg på som ung arrangør\, konferansier\, scenetekniker eller i
+  mediagruppa for foto og film. Bli med og lag et fantastisk arrangment!\n\
+ nPRAKTISK INFO\nNår: Lørdag 13. februar 2027\nHvor: Surnadal Kulturhus\n
+ Hvem: Ungdom i Surnadal og omegn\nPris: Gratis deltakelse og gratis inngan
+ g til forestilling\n\n• Rusfritt: UKM er et helt rusfritt arrangement. B
+ ruk eller oppbevaring av rusmidler er strengt forbudt og medfører øyebli
+ kkelig hjemsendelse for egen regning.\n• Respekt og inkludering: Arrange
+ mentet skal være en trygg og inkluderende møteplass med rom for ulike me
+ ninger\, livssyn og væremåter.\n• Oppmøte: Deltakere plikter å møte
+  presis til lydprøver\, forestillinger\, workshops og fellessamlinger.\n\
+ nLike viktig som sceneshowet er tiden vi bruker sammen. Det blir felles m
+ åltid\, sosiale aktiviteter og god tid til lydprøver. Sett av hele dagen
+  til UKM Surnadal!\n\nVelkommen til UKM! Vi gleder oss!\n\nSurnadal: https
+ ://sys.ukm.no/2027-surnadal-surnadal/files/2026/11/DSC02365-MagnusSorensen
+ -260620-1200x800.jpg\n\nKontaktpersoner\nSiv Torvik\nTelefon: 47875485\nE-
+ post: siv.torvik@surnadal.kommune.no\n\nPåmeldingsfrist – delta: 21.01.
+ 2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.01.2027 kl. 23:5
+ 9\nArrangementsside: https://www.ukm.no/arrangement/2027-surnadal-surnadal
 LOCATION:Surnadal kulturhus
 URL:https://www.ukm.no/arrangement/2027-surnadal-surnadal
 STATUS:CONFIRMED
@@ -132,21 +150,39 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9953@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9953@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261113T051739Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20270213T170000Z
-DTEND:20270213T210000Z
+LAST-MODIFIED:20261113T051739Z
+SEQUENCE:2
+DTSTART:20270213T110000Z
+DTEND:20270213T200000Z
 SUMMARY:Surnadal
-DESCRIPTION:Surnadal\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nSurnadal k
- ulturhus\n\nSurnadal: https://sys.ukm.no/2027-surnadal-surnadal/files/2026
- /10/IMG_1709-1350x1800.jpeg\n\nKontaktpersoner\nSiv Torvik\nTelefon: 47875
- 485\nE-post: siv.torvik@surnadal.kommune.no\n\nPåmeldingsfrist – delta:
-  21.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 21.01.2027 k
- l. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-surnadal-surnadal/fil
- es/2026/10/IMG_1709-900x1200.jpeg\nArrangementsside: https://www.ukm.no/ar
- rangement/2027-surnadal-surnadal
+DESCRIPTION:Surnadal\n\nlørdag 13. februar kl. 12:00 - 21:00\n\nSurnadal k
+ ulturhus\n\nHVEM KAN DELTA?\nAlle ungdommer mellom 13 og 20 år\n\nHVA KAN
+  MAN DELTA MED?\n• På scenen\nDu kan stille med alt fra musikk\, band o
+ g dans til teater\, stand-up\, nysirkus eller trylling. Alt som kan vises 
+ frem på en scene passer på UKM.\n• Utstilling og kunst\nDu kan vise fr
+ em tegning\, maleri\, foto\, skulptur\, tekstil\, cosplay eller litteratur
+ . Bare kreativiteten setter grenser.\n• Bak kulissene\nDu trenger ikke s
+ tå på en scene for å være med. Du kan melde deg på som ung arrangør\
+ , konferansier\, scenetekniker eller i mediagruppa for foto og film. Bli m
+ ed og lag et fantastisk arrangment!\n\nPRAKTISK INFO\nNår: Lørdag 13. fe
+ bruar 2027\nHvor: Surnadal Kulturhus\nHvem: Ungdom i Surnadal og omegn\nPr
+ is: Gratis deltakelse og gratis inngang til forestilling\n\n• Rusfritt: 
+ UKM er et helt rusfritt arrangement. Bruk eller oppbevaring av rusmidler e
+ r strengt forbudt og medfører øyeblikkelig hjemsendelse for egen regning
+ .\n• Respekt og inkludering: Arrangementet skal være en trygg og inklud
+ erende møteplass med rom for ulike meninger\, livssyn og væremåter.\n
+ • Oppmøte: Deltakere plikter å møte presis til lydprøver\, forestill
+ inger\, workshops og fellessamlinger.\n\nLike viktig som sceneshowet er ti
+ den vi bruker sammen. Det blir felles måltid\, sosiale aktiviteter og god
+  tid til lydprøver. Sett av hele dagen til UKM Surnadal!\n\nVelkommen til
+  UKM! Vi gleder oss!\n\nSurnadal: https://sys.ukm.no/2027-surnadal-surnada
+ l/files/2026/11/DSC02365-MagnusSorensen-260620-1200x800.jpg\n\nKontaktpers
+ oner\nSiv Torvik\nTelefon: 47875485\nE-post: siv.torvik@surnadal.kommune.n
+ o\n\nPåmeldingsfrist – delta: 21.01.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 21.01.2027 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-surnadal-surnadal
 LOCATION:Surnadal kulturhus
 URL:https://www.ukm.no/arrangement/2027-surnadal-surnadal
 STATUS:CONFIRMED
