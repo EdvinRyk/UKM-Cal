@@ -216,6 +216,36 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9932@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10038@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Kristiansand 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Kristiansand 2027.\nP
+ åmeldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nKristiansand 2027\n\
+ nfredag 5. mars kl. 17:00 - lørdag 6. mars kl. 18:00\n\nSamsen kulturhus\
+ n\nKristiansand\n\nBli med på UKM Kristiansand 2027! Det blir to dager me
+ d festival 5. og 6. mars. Vi skal være både på Samsen kulturhus og Knud
+ en kulturskole. Meld deg på nå!\n\nhttps://delta.ukm.no/ukmid/pamelding/
+ 4204-10038/\n\nKontaktpersoner\nAne Seljeseth\nTelefon: 41510661\nE-post: 
+ Ane.seljeseth@songdalen.kommune.no\n\nElisabeth Haugland Post\nTelefon: 90
+ 158405\nE-post: elisabeth.haugland.post@kristiansand.kommune.no\n\nKikki S
+ trømstad\nTelefon: 99538423\nE-post: Kikki.Stromstad@kristiansand.kommune
+ .no\n\nThor Einar Isaksen\nTelefon: 47613002\nE-post: thor.einar.isaksen@k
+ ristiansand.kommune.no\n\nTor Helge Svendsen\nTelefon: 46844728\nE-post: t
+ or.helge.svendsen@kristiansand.kommune.no\n\nPåmeldingsfrist – delta: 2
+ 2.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl.
+  23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-kristiansand
+ -ukmkristiansand2027
+LOCATION:Samsen kulturhus\, Kristiansand
+URL:https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10038@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9887@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -370,6 +400,34 @@ URL:https://www.ukm.no/arrangement/2027-flekkefjord-kvinflekkefjordogkvines
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9934@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10038@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270305T160000Z
+DTEND:20270306T170000Z
+SUMMARY:Kristiansand 2027
+DESCRIPTION:Kristiansand 2027\n\nfredag 5. mars kl. 17:00 - lørdag 6. mars
+  kl. 18:00\n\nSamsen kulturhus\n\nKristiansand\n\nBli med på UKM Kristian
+ sand 2027! Det blir to dager med festival 5. og 6. mars. Vi skal være bå
+ de på Samsen kulturhus og Knuden kulturskole. Meld deg på nå!\n\nhttps:
+ //delta.ukm.no/ukmid/pamelding/4204-10038/\n\nKontaktpersoner\nAne Seljese
+ th\nTelefon: 41510661\nE-post: Ane.seljeseth@songdalen.kommune.no\n\nElisa
+ beth Haugland Post\nTelefon: 90158405\nE-post: elisabeth.haugland.post@kri
+ stiansand.kommune.no\n\nKikki Strømstad\nTelefon: 99538423\nE-post: Kikki
+ .Stromstad@kristiansand.kommune.no\n\nThor Einar Isaksen\nTelefon: 4761300
+ 2\nE-post: thor.einar.isaksen@kristiansand.kommune.no\n\nTor Helge Svendse
+ n\nTelefon: 46844728\nE-post: tor.helge.svendsen@kristiansand.kommune.no\n
+ \nPåmeldingsfrist – delta: 22.02.2027 kl. 23:59\nPåmeldingsfrist – b
+ idra bak scenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.n
+ o/arrangement/2027-kristiansand-ukmkristiansand2027
+LOCATION:Samsen kulturhus\, Kristiansand
+URL:https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9708@ukm-kalendere

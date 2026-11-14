@@ -8,32 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9798@ukm-kalendere
-DTSTAMP:20261029T050319Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:1
-DTSTART:20260811T110425Z
-SUMMARY:Påmeldingsfrist bak scenen – Utstilling: Bird set free
-DESCRIPTION:Frist for å melde seg på bak scenen til Utstilling: Bird set 
- free.\nPåmeldingsfrist: 11.08.2026 kl. 13:04 (norsk tid).\n\nUtstilling: 
- Bird set free\n\nfredag 13. november kl. 16:00 - 20:00\n\nSundet\n\nEidsvo
- ll\n\nEr du mellom 13-20 år og ønsker å lage en utstilling med tittelen
- \; Bird set free?\nDa kan du melde deg på!\n\nHva du trenger å gjøre?\n
- -> Meld deg på\n-> Lag et kunstverk som du mener er relevant til tittelen
- \n-> Kom med kunstverket ditt den 13. November nede i Sundet for å bidra 
- i utstillingen 😊\n\nhttps://delta.ukm.no/ukmid/pamelding/3240-9798/\n\n
- Kontaktpersoner\nM. Anastasia Lampidoni\nTelefon: 48865155\nE-post: mara.a
- nastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldingsfrist – bidra bak s
- cenen: 11.08.2026 kl. 13:04\nArrangementsside: https://www.ukm.no/arrangem
- ent/2026-eidsvoll-utstilling001
-LOCATION:Sundet\, Eidsvoll
-URL:https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9798@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9732@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -73,30 +47,6 @@ URL:https://www.ukm.no/arrangement/2027-eidsvoll-lokalfestivalieidsvoll2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9732@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9798@ukm-kalendere
-DTSTAMP:20261029T050319Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261029T050319Z
-SEQUENCE:2
-DTSTART:20261113T150000Z
-DTEND:20261113T190000Z
-SUMMARY:Utstilling: Bird set free
-DESCRIPTION:Utstilling: Bird set free\n\nfredag 13. november kl. 16:00 - 20
- :00\n\nSundet\n\nEidsvoll\n\nEr du mellom 13-20 år og ønsker å lage en 
- utstilling med tittelen\; Bird set free?\nDa kan du melde deg på!\n\nHva 
- du trenger å gjøre?\n-> Meld deg på\n-> Lag et kunstverk som du mener e
- r relevant til tittelen\n-> Kom med kunstverket ditt den 13. November nede
-  i Sundet for å bidra i utstillingen 😊\n\nhttps://delta.ukm.no/ukmid/p
- amelding/3240-9798/\n\nKontaktpersoner\nM. Anastasia Lampidoni\nTelefon: 4
- 8865155\nE-post: mara.anastasia.lampidoni@eidsvoll.kommune.no\n\nPåmeldin
- gsfrist – bidra bak scenen: 11.08.2026 kl. 13:04\nArrangementsside: http
- s://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
-LOCATION:Sundet\, Eidsvoll
-URL:https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10015@ukm-kalendere

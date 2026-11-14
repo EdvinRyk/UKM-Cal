@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 146,
-  "antall_deltakernavn_i_innslag": 144,
-  "antall_innslag": 388,
+  "antall_arrangementer": 148,
+  "antall_deltakernavn_i_innslag": 145,
+  "antall_innslag": 391,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -272,87 +272,6 @@
       "navn": "UKM Band Tour 2026"
     },
     {
-      "antall_innslag": 2,
-      "arrangement_id": "9798",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-eidsvoll-utstilling001",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261806",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262205",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9798",
-      "navn": "Utstilling: Bird set free"
-    },
-    {
-      "antall_innslag": 2,
-      "arrangement_id": "9826",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-alta-bandtouralta",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261455",
-          "navn": "Media innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261518",
-          "navn": "Musikk innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9826",
-      "navn": "Band Tour Alta"
-    },
-    {
-      "antall_innslag": 5,
-      "arrangement_id": "9921",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondheim-traante",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261980",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262110",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262229",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262274",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262293",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9921",
-      "navn": "Nysgjerrig på hva UKM er? Kom på kickoff!"
-    },
-    {
       "antall_innslag": 1,
       "arrangement_id": "9807",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian",
@@ -428,7 +347,7 @@
       "navn": "Markedsføring i sosiale medier med \\\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\\"."
     },
     {
-      "antall_innslag": 25,
+      "antall_innslag": 28,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
       "innslag": [
@@ -580,6 +499,24 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262282",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262372",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262373",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262374",
           "navn": "Person innslag"
         }
       ],
@@ -860,7 +797,7 @@
       "navn": "UKM Sandefjord 2026"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9950",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
       "innslag": [
@@ -869,13 +806,19 @@
           "deltakernavn": [],
           "id": "262187",
           "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262393",
+          "navn": "Person innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9950",
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 6,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -908,6 +851,12 @@
           "deltakernavn": [],
           "id": "262322",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg liker veldig godt å tegne ting jeg syntes er kult",
+          "deltakernavn": [],
+          "id": "262348",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
@@ -939,6 +888,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9949",
       "navn": "Workshop; maske i leire"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10006",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-kongsberg-apenscene",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10006",
+      "navn": "UNG KULTUR LIVE"
     },
     {
       "antall_innslag": 0,
@@ -981,11 +938,11 @@
     },
     {
       "antall_innslag": 0,
-      "arrangement_id": "9993",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-lagdinegendj-miks",
+      "arrangement_id": "10039",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-kongsberg-kongsberg",
       "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9993",
-      "navn": "Lag din egen DJ-miks"
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10039",
+      "navn": "Klar for et eventyr? Bli med på Dungeons & Dragons!"
     },
     {
       "antall_innslag": 0,
@@ -2182,6 +2139,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10037",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-bodo-bodo",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10037",
+      "navn": "Bodø"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9838",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-grong-grong",
       "innslag": [],
@@ -2214,10 +2179,17 @@
       "navn": "UKM Nittedal 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9885",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Botulism returnerer til UKM for andre år, nå med tre nye medlemmer. Vi i bandet skriver egne låter som har en helt unik blanding av forskjellige sjangre som for eksempel death metal, black metal, hardcore punk osv.",
+          "deltakernavn": [],
+          "id": "261701",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9885",
       "navn": "Voss, Eidfjord, Ulvik"
     },
@@ -2235,7 +2207,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-midtregauldal-midtregauldal",
       "innslag": [
         {
-          "beskrivelse": "Vi er to jenter på 17 og 19 år som er glade i musikk og liker å synge sammen. Vi synes det er veldig gøy å opptre, og gleder oss til å få vise fram noe vi liker å gjøre. Vi har valgt å synge «What About Us» av P!nk, fordi vi synes det er en utrolig fin sang med et sterkt budskap. Vi gleder oss masse til UKM! 💗",
+          "beskrivelse": "Jeg er en jente på 17 år som liker og synge og ønsker og vise frem hva jeg kan. Jeg gleder meg masse til ukm🩷.",
           "deltakernavn": [],
           "id": "262145",
           "navn": "Musikk innslag"
@@ -2622,6 +2594,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10038",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10038",
+      "navn": "Kristiansand 2027"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9718",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-osen-osen",
       "innslag": [],
@@ -2790,7 +2770,7 @@
       "navn": "UKM Eigersund 2027"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9986",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
       "innslag": [
@@ -2828,6 +2808,12 @@
           "beskrivelse": "Jeg var med i fjor",
           "deltakernavn": [],
           "id": "262301",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg har vært ung arrangør 2/3 ganger. Jeg har tatt bilder, pynting, intervju m.m.",
+          "deltakernavn": [],
+          "id": "262377",
           "navn": "Arrangør innslag"
         },
         {
@@ -2955,7 +2941,7 @@
       "navn": "UKM Bremanger 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 4,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -2964,6 +2950,24 @@
           "deltakernavn": [],
           "id": "261804",
           "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Have done this in ukm a few years now",
+          "deltakernavn": [],
+          "id": "262387",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Er en sanger og musiker, lager sanger, holder på med en nå, lager melodier, etc. går i mange kor, sånn som Trøkk Showkor, Sjetne barne- og ungdomskor, etc. har vært her en gang før og skal komme tilbake med en bedre fremføring enn sist gang😂",
+          "deltakernavn": [],
+          "id": "262382",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Skriver sanger og synger i Nidarosdomens Jentekor.",
+          "deltakernavn": [],
+          "id": "262388",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9910",
@@ -2991,10 +2995,19 @@
       "navn": "Flekkefjord og Kvinesdal"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9819",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Ukm media er best🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐🦐",
+          "deltakernavn": [
+            "Lise Wamstad"
+          ],
+          "id": "262376",
+          "navn": "Lise Wamstad"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9819",
       "navn": "UKM Lier 2027"
     },
@@ -3409,7 +3422,7 @@
       "navn": "UKM Sandnes 2027"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "9923",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027",
       "innslag": [
@@ -3423,6 +3436,12 @@
           "beskrivelse": "Hey jeg hete moon men ja ej lika å danse og synge. Det her er min solo sanga det er Test me av 4Eve en Thai pop group jeg skal synge og andre sang er your under arrest av illit skal jeg bare danse og synge I det samme tid! Og min siste solo er Love options av Bestie an kpop group",
           "deltakernavn": [],
           "id": "262042",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Vi er to ungdommer som fant hverandre gjennom musikken og har blitt skikkelig gode venner siden da. Vi elsker å spille sammen, dra på konserter og ikke minst stå på scenen selv! Vi synes det er veldig gøy å opptre og dele musikkgleden vår med andre.",
+          "deltakernavn": [],
+          "id": "262380",
           "navn": "Musikk innslag"
         }
       ],
@@ -3693,6 +3712,22 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10036",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-rogaland-ukm-festivalenirogaland",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10036",
+      "navn": "-festivalen i Rogaland"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10040",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-festivalenifinnmark-finnmrku-finmark",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10040",
+      "navn": "UKM-festivalen i Finnmark - Finnmárku - Finmarkku"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9918",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-agder-ukm-festivaleniagder2027",
       "innslag": [],
@@ -3823,5 +3858,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-13T05:17:39.448534+00:00"
+  "oppdatert": "2026-11-14T05:10:29.678724+00:00"
 }

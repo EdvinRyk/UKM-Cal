@@ -63,41 +63,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9706@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-9921@ukm-kalendere
-DTSTAMP:20261113T051739Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:4
-DTSTART:20261113T170000Z
-DTEND:20261113T210000Z
-SUMMARY:Nysgjerrig på hva UKM er? Kom på kickoff!
-DESCRIPTION:Nysgjerrig på hva UKM er? Kom på kickoff!\n\nfredag 13. novem
- ber kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\n13
- . september inviterer vi deg til UKM kickoff Trondheim–Tråante!\n\nUKM 
- er en møteplass der ungdom kan vise fram det de driver med\, prøve noe n
- ytt og møte andre kreative folk. Musikk\, dans\, teater\, rap\, poesi –
-  hva er din greie?\n\n👀 Vil du vite mer om UKM? Kom innom\, still spør
- smål og finn ut hvilke muligheter som finnes for deg.\n\n🙌 Bare lyst t
- il å se på og henge? Ta med en venn og bli med som publikum!\n\n📄 Pro
- gram for kvelden:\n🎶 18:00 - Show i amfisalen\n- Info om UKM\n- Mysteri
- um klokka (film)\n- Driving the knife (band)\n- Starlit (dans)\n- Bedrock 
- (band)\n- Divad (rap)\n- Rue (piano)\n- Jonas Horn (rap)\n- Ask (piano)\n-
-  Zlata (sang)\n- Kahoot\n⬆IKKE I REKKEFØLGE⬆\n\n💜 19:30 - Karaoke 
- i kafeen!\n\nVi lover kos og god stemning. Du trenger ikke ha noe å vise 
- fram for å bli med 💛\n\nNysgjerrig på hva UKM er? Kom på kickoff!: h
- ttps://sys.ukm.no/2026-trondheim-traante-ukmkickofftrondheim-traante/files
- /2026/11/Design-uten-navn.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5001
- -9921/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 
- 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist 
- – delta: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arra
- ngement/2026-trondheim-traante-ukmkickofftrondheim-traante
-LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
-URL:https://www.ukm.no/arrangement/2026-trondheim-traante-ukmkickofftrondhe
- im-traante
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9979@ukm-kalendere
 DTSTAMP:20261027T045222Z
 CREATED:20261027T045222Z
@@ -294,37 +259,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9910@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261114T051029Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:1
 DTSTART:20270102T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Trondheim - Tråante
 DESCRIPTION:Frist for å melde seg på bak scenen til Trondheim - Tråante.
  \nPåmeldingsfrist: 02.01.2027 kl. 23:59 (norsk tid).\n\nTrondheim - Tråa
- nte\n\ntorsdag 11. mars kl. 18:00 - 22:00\n\nKultursenteret ISAK\n\n🎉 U
- KM Trondheim 2027\, hold av uke 10!\n\nHva liker DU å lage\, spille\, vis
- e fram eller finne på? I uke 10 fyller vi Kultursenteret ISAK med ungdoms
- kultur\, og vi vil ha deg med! 🔥\n\nUKM står for Ung Kultur Møtes\, o
- g er en møteplass der ungdom kan vise fram det de skaper\, prøve noe nyt
- t og bli kjent med andre som liker å være kreative.\n\nMusikk\, dans\, k
- unst\, film\, foto\, teater\, tekst\, søm\, cosplay eller noe vi aldri ha
- r sett før? Her er det plass til mange uttrykk og ideer! Du kan delta ale
- ne eller sammen med andre\, enten du har gjort det hundre ganger eller ska
- l prøve for aller første gang.\n\n✨ Del det du brenner for.\n✨ Møt 
- andre kreative ungdommer.\n✨ Få erfaring og inspirasjon\, og kanskje op
- pdage nye muligheter!\n\nDu trenger ikke ha alt ferdig eller føle deg som
-  en proff. Det starter med en idé og lysten til å være med. Vil du hell
- er komme og oppleve det andre viser fram? Da er du også velkommen!\n\nHol
- d av uka\, mer informasjon om program og påmelding kommer! 👀\n\nTrondh
- eim - Tråante: https://sys.ukm.no/2027-trondheim-traante-trondheim-traant
- e/files/2026/10/Kopi-av-UKM-Pameldingsplakat.png\n\nKontaktpersoner\nKim O
- lve Breistrand\nTelefon: 91532477\nE-post: kim.olve.breistrand@trondheim.k
- ommune.no\n\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-po
- st: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 31.0
- 1.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.01.2027 kl. 23
- :59\nArrangementsside: https://www.ukm.no/arrangement/2027-trondheim-traan
- te-trondheim-traante
+ nte\n\ntorsdag 11. mars kl. 18:00 - lørdag 13. mars kl. 22:00\n\nKulturse
+ nteret ISAK\n\n🎉 UKM Trondheim 2027\, hold av uke 10!\n\nHva liker DU 
+ å lage\, spille\, vise fram eller finne på? I uke 10 fyller vi Kultursen
+ teret ISAK med ungdomskultur\, og vi vil ha deg med! 🔥\n\nUKM står for
+  Ung Kultur Møtes\, og er en møteplass der ungdom kan vise fram det de s
+ kaper\, prøve noe nytt og bli kjent med andre som liker å være kreative
+ .\n\nMusikk\, dans\, kunst\, film\, foto\, teater\, tekst\, søm\, cosplay
+  eller noe vi aldri har sett før? Her er det plass til mange uttrykk og i
+ deer! Du kan delta alene eller sammen med andre\, enten du har gjort det h
+ undre ganger eller skal prøve for aller første gang.\n\n✨ Del det du b
+ renner for.\n✨ Møt andre kreative ungdommer.\n✨ Få erfaring og inspi
+ rasjon\, og kanskje oppdage nye muligheter!\n\nDu trenger ikke ha alt ferd
+ ig eller føle deg som en proff. Det starter med en idé og lysten til å 
+ være med. Vil du heller komme og oppleve det andre viser fram? Da er du o
+ gså velkommen!\n\nHold av uka\, mer informasjon om program og påmelding 
+ kommer! 👀\n\nTrondheim - Tråante: https://sys.ukm.no/2027-trondheim-tr
+ aante-trondheim-traante/files/2026/10/Kopi-av-UKM-Pameldingsplakat.png\n\n
+ https://delta.ukm.no/ukmid/pamelding/5001-9910/\n\nKontaktpersoner\nKim Ol
+ ve Breistrand\nTelefon: 91532477\nE-post: kim.olve.breistrand@trondheim.ko
+ mmune.no\n\nTrine Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-pos
+ t: trine.arntzen@trondheim.kommune.no\n\nPåmeldingsfrist – delta: 31.01
+ .2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 02.01.2027 kl. 23:
+ 59\nArrangementsside: https://www.ukm.no/arrangement/2027-trondheim-traant
+ e-trondheim-traante
 LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
 URL:https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante
 STATUS:CONFIRMED
@@ -931,36 +897,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9910@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261114T051029Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:2
 DTSTART:20270311T170000Z
-DTEND:20270311T210000Z
+DTEND:20270313T210000Z
 SUMMARY:Trondheim - Tråante
-DESCRIPTION:Trondheim - Tråante\n\ntorsdag 11. mars kl. 18:00 - 22:00\n\nK
- ultursenteret ISAK\n\n🎉 UKM Trondheim 2027\, hold av uke 10!\n\nHva lik
- er DU å lage\, spille\, vise fram eller finne på? I uke 10 fyller vi Kul
- tursenteret ISAK med ungdomskultur\, og vi vil ha deg med! 🔥\n\nUKM st
- år for Ung Kultur Møtes\, og er en møteplass der ungdom kan vise fram d
- et de skaper\, prøve noe nytt og bli kjent med andre som liker å være k
- reative.\n\nMusikk\, dans\, kunst\, film\, foto\, teater\, tekst\, søm\, 
- cosplay eller noe vi aldri har sett før? Her er det plass til mange uttry
- kk og ideer! Du kan delta alene eller sammen med andre\, enten du har gjor
- t det hundre ganger eller skal prøve for aller første gang.\n\n✨ Del d
- et du brenner for.\n✨ Møt andre kreative ungdommer.\n✨ Få erfaring o
- g inspirasjon\, og kanskje oppdage nye muligheter!\n\nDu trenger ikke ha a
- lt ferdig eller føle deg som en proff. Det starter med en idé og lysten 
- til å være med. Vil du heller komme og oppleve det andre viser fram? Da 
- er du også velkommen!\n\nHold av uka\, mer informasjon om program og påm
- elding kommer! 👀\n\nTrondheim - Tråante: https://sys.ukm.no/2027-trond
- heim-traante-trondheim-traante/files/2026/10/Kopi-av-UKM-Pameldingsplakat.
- png\n\nKontaktpersoner\nKim Olve Breistrand\nTelefon: 91532477\nE-post: ki
- m.olve.breistrand@trondheim.kommune.no\n\nTrine Arntzen\nUKM kontakt Trond
- heim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPå
- meldingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra 
- bak scenen: 02.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arr
- angement/2027-trondheim-traante-trondheim-traante
+DESCRIPTION:Trondheim - Tråante\n\ntorsdag 11. mars kl. 18:00 - lørdag 13
+ . mars kl. 22:00\n\nKultursenteret ISAK\n\n🎉 UKM Trondheim 2027\, hold 
+ av uke 10!\n\nHva liker DU å lage\, spille\, vise fram eller finne på? I
+  uke 10 fyller vi Kultursenteret ISAK med ungdomskultur\, og vi vil ha deg
+  med! 🔥\n\nUKM står for Ung Kultur Møtes\, og er en møteplass der un
+ gdom kan vise fram det de skaper\, prøve noe nytt og bli kjent med andre 
+ som liker å være kreative.\n\nMusikk\, dans\, kunst\, film\, foto\, teat
+ er\, tekst\, søm\, cosplay eller noe vi aldri har sett før? Her er det p
+ lass til mange uttrykk og ideer! Du kan delta alene eller sammen med andre
+ \, enten du har gjort det hundre ganger eller skal prøve for aller først
+ e gang.\n\n✨ Del det du brenner for.\n✨ Møt andre kreative ungdommer.
+ \n✨ Få erfaring og inspirasjon\, og kanskje oppdage nye muligheter!\n\n
+ Du trenger ikke ha alt ferdig eller føle deg som en proff. Det starter me
+ d en idé og lysten til å være med. Vil du heller komme og oppleve det a
+ ndre viser fram? Da er du også velkommen!\n\nHold av uka\, mer informasjo
+ n om program og påmelding kommer! 👀\n\nTrondheim - Tråante: https://s
+ ys.ukm.no/2027-trondheim-traante-trondheim-traante/files/2026/10/Kopi-av-U
+ KM-Pameldingsplakat.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5001-9910/
+ \n\nKontaktpersoner\nKim Olve Breistrand\nTelefon: 91532477\nE-post: kim.o
+ lve.breistrand@trondheim.kommune.no\n\nTrine Arntzen\nUKM kontakt Trondhei
+ m\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nPåmel
+ dingsfrist – delta: 31.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak
+  scenen: 02.01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrang
+ ement/2027-trondheim-traante-trondheim-traante
 LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
 URL:https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante
 STATUS:CONFIRMED

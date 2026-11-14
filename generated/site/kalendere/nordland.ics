@@ -31,6 +31,29 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9793@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10037@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270122T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Bodø
+DESCRIPTION:Frist for å melde seg på bak scenen til Bodø.\nPåmeldingsfr
+ ist: 22.01.2027 kl. 23:59 (norsk tid).\n\nBodø\n\nlørdag 13. februar kl.
+  18:00 - 22:00\n\nSvømmehallen Scene\n\nBodø: https://sys.ukm.no/2027-bo
+ do-bodo/files/2026/11/Kopi-av-Stedsnavn-med-Logo-1-1200x799.png\n\nhttps:/
+ /delta.ukm.no/ukmid/pamelding/1804-10037/\n\nKontaktpersoner\nStig-Rune Ho
+ lien\nTelefon: 95188243\nE-post: stig@holienmedia.no\n\nPåmeldingsfrist 
+ – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 22
+ .01.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ bodo-bodo
+LOCATION:Svømmehallen Scene\, Bodø
+URL:https://www.ukm.no/arrangement/2027-bodo-bodo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10037@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9897@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -65,6 +88,27 @@ URL:https://www.ukm.no/arrangement/2027-alstahaug-alstahaug
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9897@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10037@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270213T170000Z
+DTEND:20270213T210000Z
+SUMMARY:Bodø
+DESCRIPTION:Bodø\n\nlørdag 13. februar kl. 18:00 - 22:00\n\nSvømmehallen
+  Scene\n\nBodø: https://sys.ukm.no/2027-bodo-bodo/files/2026/11/Kopi-av-S
+ tedsnavn-med-Logo-1-1200x799.png\n\nhttps://delta.ukm.no/ukmid/pamelding/1
+ 804-10037/\n\nKontaktpersoner\nStig-Rune Holien\nTelefon: 95188243\nE-post
+ : stig@holienmedia.no\n\nPåmeldingsfrist – delta: 05.02.2027 kl. 23:59\
+ nPåmeldingsfrist – bidra bak scenen: 22.01.2027 kl. 23:59\nArrangements
+ side: https://www.ukm.no/arrangement/2027-bodo-bodo
+LOCATION:Svømmehallen Scene\, Bodø
+URL:https://www.ukm.no/arrangement/2027-bodo-bodo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9939@ukm-kalendere

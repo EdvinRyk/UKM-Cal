@@ -92,39 +92,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9994@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9826@ukm-kalendere
-DTSTAMP:20261113T051739Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:4
-DTSTART:20261112T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Band Tour Alta
-DESCRIPTION:Frist for å melde seg på bak scenen til Band Tour Alta.\nPåm
- eldingsfrist: 12.11.2026 kl. 23:59 (norsk tid).\n\nBand Tour Alta\n\nfreda
- g 13. november kl. 16:00 - 22:30\n\nSkoleveien 14\n\nAlta\n\n🎸 UKM BAND
-  TOUR KOMMER TIL ALTA!\n\nUKM Band Tour er en turné der band reiser samme
- n på buss\, spiller konserter\, møter andre musikkinteresserte og får o
- ppleve hvordan det er å være på turné. Band Tour besøker flere steder
-  i Finnmark\, og turneen kommer også til Alta! 🔥\n\n🎶 BLI MED LOKAL
- T I ALTA\nNår UKM Band Tour kommer til Huset\, trenger vi deg!\n\nVi søk
- er deg mellom 13-20 år som ønsker å være med som:\n🎤 Oppvarmingsart
- ist! Kan være dans/musikk/teater/triks/film med varighet på maks 15min.\
- n🎥 Media (foto\, film og innhold til sosiale medier)\n🛠️ Arrangør
-  (markedsføring/gjennomføring)\n🔊 Teknikk og rigg (scene\, lyd\, lys 
- og praktisk gjennomføring)\n🎤 Konferansier\n\n🤘Vi gleder oss til å
-  se deg! 🎶🔥\n\nBand Tour Alta: https://sys.ukm.no/2026-alta-bandtour
- alta/files/2026/08/Blue-Modern-Album-Cover-2-1200x1200.png\n\nKontaktperso
- ner\nEirik Aune Hansen\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.
- kommune.no\n\nPåmeldingsfrist – delta: 12.11.2026 kl. 23:59\nPåmelding
- sfrist – bidra bak scenen: 12.11.2026 kl. 23:59\nArrangementsside: https
- ://www.ukm.no/arrangement/2026-alta-bandtouralta
-LOCATION:Skoleveien 14\, Alta
-URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9826@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9997@ukm-kalendere
 DTSTAMP:20261113T051739Z
 CREATED:20261031T045920Z
@@ -202,38 +169,6 @@ DESCRIPTION:UKM Band Tour 2026\n\nfredag 13. november kl. 14:00 - søndag 1
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9826@ukm-kalendere
-DTSTAMP:20261113T051739Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:6
-DTSTART:20261113T150000Z
-DTEND:20261113T213000Z
-SUMMARY:Band Tour Alta
-DESCRIPTION:Band Tour Alta\n\nfredag 13. november kl. 16:00 - 22:30\n\nSkol
- eveien 14\n\nAlta\n\n🎸 UKM BAND TOUR KOMMER TIL ALTA!\n\nUKM Band Tour 
- er en turné der band reiser sammen på buss\, spiller konserter\, møter 
- andre musikkinteresserte og får oppleve hvordan det er å være på turn
- é. Band Tour besøker flere steder i Finnmark\, og turneen kommer også t
- il Alta! 🔥\n\n🎶 BLI MED LOKALT I ALTA\nNår UKM Band Tour kommer til
-  Huset\, trenger vi deg!\n\nVi søker deg mellom 13-20 år som ønsker å 
- være med som:\n🎤 Oppvarmingsartist! Kan være dans/musikk/teater/triks
- /film med varighet på maks 15min.\n🎥 Media (foto\, film og innhold til
-  sosiale medier)\n🛠️ Arrangør (markedsføring/gjennomføring)\n🔊 
- Teknikk og rigg (scene\, lyd\, lys og praktisk gjennomføring)\n🎤 Konfe
- ransier\n\n🤘Vi gleder oss til å se deg! 🎶🔥\n\nBand Tour Alta: ht
- tps://sys.ukm.no/2026-alta-bandtouralta/files/2026/08/Blue-Modern-Album-Co
- ver-2-1200x1200.png\n\nKontaktpersoner\nEirik Aune Hansen\nTelefon: 414333
- 90\nE-post: eirik.aune.hansen@alta.kommune.no\n\nPåmeldingsfrist – delt
- a: 12.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 12.11.2026
-  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-alta-ban
- dtouralta
-LOCATION:Skoleveien 14\, Alta
-URL:https://www.ukm.no/arrangement/2026-alta-bandtouralta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -427,6 +362,37 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10040@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Finnmark - Finnmá
+ rku - Finmarkku
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Finn
+ mark - Finnmárku - Finmarkku.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (no
+ rsk tid).\n\nUKM-festivalen i Finnmark - Finnmárku - Finmarkku\n\nfredag 
+ 9. april kl. 18:00 - 22:00\n\nKontaktpersoner\nAnn Helen Paulsen\nTelefon:
+  99338586\nE-post: annhelen.paulsen@alta.kommune.no\n\nBernt-Johnny Berthe
+ ussen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nEirik Aune Hans
+ en\nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nProgra
+ mProgram: https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-
+ ukm-festivalenifinnmark-finnmrku-finmark/program\n\nPåmeldtePåmeldte: ht
+ tps://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-festival
+ enifinnmark-finnmrku-finmark/deltagere\n\nBilder og videoerBilder og video
+ er: https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-fe
+ stivalenifinnmark-finnmrku-finmark/media\n\nPåmeldingsfrist – delta: 01
+ .03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 
+ 23:59
+LOCATION:
+URL:https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-fes
+ tivalenifinnmark-finnmrku-finmark
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10040@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9794@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -577,6 +543,34 @@ DESCRIPTION:Deatnu - Tana\n\ntorsdag 1. april kl. 18:00 - 22:00\n\nDeanu bi
  mentsside: https://www.ukm.no/arrangement/2027-deatnu-tana-deatnu-tana
 LOCATION:Deanu birasvisti / Tana miljøbygg\, Deatnu - Tana
 URL:https://www.ukm.no/arrangement/2027-deatnu-tana-deatnu-tana
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10040@ukm-kalendere
+DTSTAMP:20261114T051029Z
+CREATED:20261114T051029Z
+LAST-MODIFIED:20261114T051029Z
+SEQUENCE:0
+DTSTART:20270409T160000Z
+DTEND:20270409T200000Z
+SUMMARY:UKM-festivalen i Finnmark - Finnmárku - Finmarkku
+DESCRIPTION:UKM-festivalen i Finnmark - Finnmárku - Finmarkku\n\nfredag 9.
+  april kl. 18:00 - 22:00\n\nKontaktpersoner\nAnn Helen Paulsen\nTelefon: 9
+ 9338586\nE-post: annhelen.paulsen@alta.kommune.no\n\nBernt-Johnny Bertheus
+ sen\nTelefon: 90569846\nE-post: b.bertheussen@tffk.no\n\nEirik Aune Hansen
+ \nTelefon: 41433390\nE-post: eirik.aune.hansen@alta.kommune.no\n\nProgramP
+ rogram: https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-uk
+ m-festivalenifinnmark-finnmrku-finmark/program\n\nPåmeldtePåmeldte: http
+ s://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-festivalen
+ ifinnmark-finnmrku-finmark/deltagere\n\nBilder og videoerBilder og videoer
+ : https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-fest
+ ivalenifinnmark-finnmrku-finmark/media\n\nPåmeldingsfrist – delta: 01.0
+ 3.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23
+ :59
+LOCATION:
+URL:https://www.ukm.no/arrangement/2027-finnmark-finnmrku-finmarkku-ukm-fes
+ tivalenifinnmark-finnmrku-finmark
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
