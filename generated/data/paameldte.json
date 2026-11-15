@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 148,
-  "antall_deltakernavn_i_innslag": 145,
-  "antall_innslag": 391,
+  "antall_arrangementer": 146,
+  "antall_deltakernavn_i_innslag": 149,
+  "antall_innslag": 399,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -287,35 +287,6 @@
       "navn": "DJ kurs med Sebastian"
     },
     {
-      "antall_innslag": 2,
-      "arrangement_id": "9990",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-kongsberg-krasjkursibandhvittingfoss",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262340",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262349",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9990",
-      "navn": "Kræsjkurs i band Hvittingfoss"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9994",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-nordkapp-nordkapp",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9994",
-      "navn": "UKM Band Tour Nordkapp"
-    },
-    {
       "antall_innslag": 1,
       "arrangement_id": "9997",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
@@ -559,7 +530,7 @@
       "navn": "Bandworkshop"
     },
     {
-      "antall_innslag": 27,
+      "antall_innslag": 29,
       "arrangement_id": "9847",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
       "innslag": [
@@ -663,6 +634,7 @@
           "deltakernavn": [
             "Birk Os Veland",
             "Fredrik Fjellvik Jønholt",
+            "Klara Aas-Haug",
             "Nikolai Johansen Bogerud"
           ],
           "id": "261593",
@@ -712,6 +684,14 @@
           "navn": "Lara Elise Jenssen"
         },
         {
+          "beskrivelse": "Jeg har sunget siden jeg var 7 år gammel. Opptrer i år for første gang på UKM.",
+          "deltakernavn": [
+            "Linea Thorud"
+          ],
+          "id": "262405",
+          "navn": "Linea Thorud"
+        },
+        {
           "beskrivelse": "Jeg har drevet med luftakrobatikk hos Stella polaris da det var mulig, og har egen hoop og aerial silk som jeg får brukt noe, når jeg har tilgang på treningsrom med riktig høyde under taket. Jeg var med i ett nummer på Stella polaris sitt arrangement i Vikingparken i juni 2026. Jeg deltok også på Ukm i 2025.",
           "deltakernavn": [
             "Sofie Camilla Lenes Enger"
@@ -726,6 +706,14 @@
           ],
           "id": "261788",
           "navn": "Lycke Linnea Stephansen-Smith"
+        },
+        {
+          "beskrivelse": "Jeg heter Madeleine, er 17 år og har alltid hatt en stor interesse for musikk og sang. Musikk er en viktig måte for meg å uttrykke følelser og formidle historier på. Jeg liker spesielt godt sanger med mye følelser og mulighet for å virkelig leve seg inn i teksten. Jeg gleder meg til å få dele noe jeg er glad i med publikum gjennom UKM!",
+          "deltakernavn": [
+            "Madeleine Henriksen"
+          ],
+          "id": "262406",
+          "navn": "Madeleine"
         },
         {
           "beskrivelse": "Jeg har vært med på UKM som arrangør på lokal x2, fylke x2 og lands nå som var. Har vært UKM kontakt i Larvik sin høyre hånd.",
@@ -760,6 +748,15 @@
           "navn": "Nicoline Bredesen"
         },
         {
+          "beskrivelse": "Vi er en gruppe unge film skapere som liker å kødde rundt og ha det gøy med mediumet",
+          "deltakernavn": [
+            "Mathilde Ligodt Lindhjem",
+            "Sondre Erland Wiger"
+          ],
+          "id": "262399",
+          "navn": "NORTHEM PRODUCTIONS"
+        },
+        {
           "beskrivelse": "Går vg2 musikk linja og er 17 år",
           "deltakernavn": [
             "Pia Avella Mathisen"
@@ -774,15 +771,6 @@
           ],
           "id": "261790",
           "navn": "Sondre Erland Wiger"
-        },
-        {
-          "beskrivelse": "Hei, vi er 2 jenter på 13 år som elsker å danse. Vi har danset ish hele livet. Vi vil gjerne vise fram hva vi har lært gjennom årene!",
-          "deltakernavn": [
-            "Emilia Lodthong Edvardsen",
-            "Pernille Thomassen"
-          ],
-          "id": "261900",
-          "navn": "Spark girls"
         },
         {
           "beskrivelse": "Mamma alltid sier at jeg burde skaffe meg en oppdrag eller noe å gjøre i fritiden min fordi hun sier at jeg snakker for mye og at jeg burde finne noe som er min interesse og jeg elsker å holde taler eller noe foran publikum for at de blir fokusert av å se på konserter som er skikkelig gøy! Jeg har tidligere vært som sier info eller noe i Stokke talenter.",
@@ -818,7 +806,7 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 7,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -832,6 +820,12 @@
           "beskrivelse": "Sarah er en kreativ jente på 12 år som elsker å lage ting.",
           "deltakernavn": [],
           "id": "262122",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg heter Miriam og er 12 år kommer fra Skjernøya og elsker og tegne og lage ting.",
+          "deltakernavn": [],
+          "id": "262142",
           "navn": "Utstilling innslag"
         },
         {
@@ -863,7 +857,7 @@
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -883,6 +877,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262327",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262400",
           "navn": "Person innslag"
         }
       ],
@@ -1257,7 +1257,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 22,
+      "antall_innslag": 23,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1326,6 +1326,12 @@
           "deltakernavn": [],
           "id": "261835",
           "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Hei!\nJeg har veldig lyst til å være konferansier på UKM! I fjor var jeg med som deltaker i band, og syntes det var utrolig gøy. Bandet mitt har dessverre blitt oppløst, men jeg hadde fortsatt veldig lyst til å være med på UKM i år. Derfor tenkte jeg at konferansier kunne være en spennende mulighet! Jeg går musikklinjen på Rud og har flere års erfaring med musikal og sceneopptreden. Jeg er veldig glad i skuespill, komedie og formidling, og synes det er gøy å underholde og engasjere andre. Jeg tror derfor konferansierrollen hadde passet meg veldig godt, og hadde syntes det var utrolig gøy å få prøve meg!",
+          "deltakernavn": [],
+          "id": "262397",
+          "navn": "Konferansier innslag"
         },
         {
           "beskrivelse": "Jeg har brukt kamera i 5+ år har jobbet på nesten alle askerfestivalene og i heggedal. Knutta, emely og anna kjener meg godt",
@@ -2162,10 +2168,18 @@
       "navn": "Askøy og Øygarden 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9919",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-nittedal-ukmnittedal2027",
       "innslag": [
+        {
+          "beskrivelse": "Jeg synes det er veldig gøy å stå på en scene, jeg var med på UKM i fjor og hadde det veldig gøy som konferansier. Derfor vil jeg melde meg på igjen. Sist år kom jeg meg videre til fylkesfinalen.",
+          "deltakernavn": [
+            "Greta Kancieriute"
+          ],
+          "id": "262398",
+          "navn": "Greta Kancieriute"
+        },
         {
           "beskrivelse": "Jeg har lyst til å prøve meg som scenearbeider fordi jeg liker å holde orden og ha oversikt. Jeg er glad i å jobbe 💪🏻",
           "deltakernavn": [
@@ -2593,10 +2607,17 @@
       "navn": "Lokalmønstring Sunnfjord 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10038",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg har tatt bilder i ca 2 år. Jeg har tatt bilder på nesten alle south band arrangementer. Jeg går andre året Medieproduksjon på Tangen VGS. Jeg har en sterk lidenskap for bilder og egenforbedring. Min filosofi er å alltid gjøre det bedre enn sist gang! Jeg kom meg helt til Landsfinalen i fjor, og det skal jeg igjen! Jeg har en instagrambruker (martindefoto) der jeg poster bilder jeg tar.",
+          "deltakernavn": [],
+          "id": "262404",
+          "navn": "Media innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10038",
       "navn": "Kristiansand 2027"
     },
@@ -2770,7 +2791,7 @@
       "navn": "UKM Eigersund 2027"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 10,
       "arrangement_id": "9986",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
       "innslag": [
@@ -2814,6 +2835,18 @@
           "beskrivelse": "Jeg har vært ung arrangør 2/3 ganger. Jeg har tatt bilder, pynting, intervju m.m.",
           "deltakernavn": [],
           "id": "262377",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Eg har ikkje gjort noe av dette før",
+          "deltakernavn": [],
+          "id": "262395",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Eg har aldri giort dette før!! Pluss, eg elsker Scythe frå spillet phighting❀‎ܓ(｡◠ ꇴ ◠｡ )♡",
+          "deltakernavn": [],
+          "id": "262408",
           "navn": "Arrangør innslag"
         },
         {
@@ -2941,7 +2974,7 @@
       "navn": "UKM Bremanger 2027"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 5,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -2967,6 +3000,12 @@
           "beskrivelse": "Skriver sanger og synger i Nidarosdomens Jentekor.",
           "deltakernavn": [],
           "id": "262388",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Musikk har vært en stor del av livet mitt, og jeg elsker å skrive egne sanger!",
+          "deltakernavn": [],
+          "id": "262409",
           "navn": "Musikk innslag"
         }
       ],
@@ -3858,5 +3897,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-14T05:10:29.678724+00:00"
+  "oppdatert": "2026-11-15T05:13:34.377618+00:00"
 }

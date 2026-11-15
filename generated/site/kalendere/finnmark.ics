@@ -52,46 +52,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9925@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9994@ukm-kalendere
-DTSTAMP:20261111T051743Z
-CREATED:20261031T045920Z
-LAST-MODIFIED:20261111T051743Z
-SEQUENCE:1
-DTSTART:20261110T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – UKM Band Tour Nordkapp
-DESCRIPTION:Frist for å melde seg på bak scenen til UKM Band Tour Nordkap
- p.\nPåmeldingsfrist: 10.11.2026 kl. 23:59 (norsk tid).\n\nUKM Band Tour N
- ordkapp\n\nlørdag 14. november kl. 16:00 - 22:00\n\nHonningsvåg Samfunns
- hus\n\nNordkapp\n\n🎸 UKM BAND TOUR KOMMER TIL HONNINGSVÅG!\n\nUKM Band
-  Tour er en turné der unge musikere fra Finnmark reiser sammen på buss\,
-  spiller konserter\, møter andre musikkinteresserte og får oppleve hvord
- an det er å være på turné. Band Tour besøker flere steder i Finnmark\
- , og turneen kommer også til Honningsvåg! 🔥\n\n🎶 BLI MED LOKALT\nN
- år UKM Band Tour kommer til Honningsvåg\, trenger vi folk som vil bidra 
- til å gjennomføre arrangementet.\n\nVi søker deg som ønsker å være m
- ed som:\n🎤 Musiker eller band\n🎥 Media (foto\, film og innhold til s
- osiale medier)\n🛠️ Arrangør\n🔊 Teknikk og rigg (scene\, lyd\, lys
-  og praktisk gjennomføring)\n\nVIKTIG! For å være med som band må dere
-  ha minimum 20 minutter med låter.\n\nDette er en unik mulighet til å sp
- ille konsert på en profesjonell scene\, møte nye folk og bidra til å sk
- ape en bra opplevelse!\n\nEnten du vil stå på scenen\, jobbe med lyd og 
- lys\, lage innhold eller bidra som arrangør\, håper vi du blir med når 
- UKM Band Tour kommer til dere.\n\nVi gleder oss til å se deg! 🎶🔥\n\
- nKontaktpersoner\nAndreas Børvik\nTelefon: 95802319\nE-post: andreas.borv
- ik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTelefon: 96913400\nE-post: k
- aisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTelefon: 98429851\nE-post: th
- omas.nilsen@nordkapp.kommune.no\n\nØystein Skårset\nTelefon: 90720190\nE
- -post: oystein.skarset@nordkapp.kommune.no\n\nPåmeldingsfrist – delta: 
- 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.11.2026 kl
- . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-nordkapp-no
- rdkapp
-LOCATION:Honningsvåg Samfunnshus\, Nordkapp
-URL:https://www.ukm.no/arrangement/2026-nordkapp-nordkapp
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9994@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9997@ukm-kalendere
 DTSTAMP:20261113T051739Z
 CREATED:20261031T045920Z
@@ -169,44 +129,6 @@ DESCRIPTION:UKM Band Tour 2026\n\nfredag 13. november kl. 14:00 - søndag 1
 LOCATION:Finnmark
 URL:https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmband
  tour26
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9994@ukm-kalendere
-DTSTAMP:20261111T051743Z
-CREATED:20261031T045920Z
-LAST-MODIFIED:20261111T051743Z
-SEQUENCE:1
-DTSTART:20261114T150000Z
-DTEND:20261114T210000Z
-SUMMARY:UKM Band Tour Nordkapp
-DESCRIPTION:UKM Band Tour Nordkapp\n\nlørdag 14. november kl. 16:00 - 22:0
- 0\n\nHonningsvåg Samfunnshus\n\nNordkapp\n\n🎸 UKM BAND TOUR KOMMER TIL
-  HONNINGSVÅG!\n\nUKM Band Tour er en turné der unge musikere fra Finnmar
- k reiser sammen på buss\, spiller konserter\, møter andre musikkinteress
- erte og får oppleve hvordan det er å være på turné. Band Tour besøke
- r flere steder i Finnmark\, og turneen kommer også til Honningsvåg! 🔥
- \n\n🎶 BLI MED LOKALT\nNår UKM Band Tour kommer til Honningsvåg\, tren
- ger vi folk som vil bidra til å gjennomføre arrangementet.\n\nVi søker 
- deg som ønsker å være med som:\n🎤 Musiker eller band\n🎥 Media (fo
- to\, film og innhold til sosiale medier)\n🛠️ Arrangør\n🔊 Teknikk 
- og rigg (scene\, lyd\, lys og praktisk gjennomføring)\n\nVIKTIG! For å v
- ære med som band må dere ha minimum 20 minutter med låter.\n\nDette er 
- en unik mulighet til å spille konsert på en profesjonell scene\, møte n
- ye folk og bidra til å skape en bra opplevelse!\n\nEnten du vil stå på 
- scenen\, jobbe med lyd og lys\, lage innhold eller bidra som arrangør\, h
- åper vi du blir med når UKM Band Tour kommer til dere.\n\nVi gleder oss 
- til å se deg! 🎶🔥\n\nKontaktpersoner\nAndreas Børvik\nTelefon: 9580
- 2319\nE-post: andreas.borvik@nordkapp.kommune.no\n\nKaisa Arnrup-Øien\nTe
- lefon: 96913400\nE-post: kaisa.arnrup.oien@gmail.com\n\nThomas Nilsen\nTel
- efon: 98429851\nE-post: thomas.nilsen@nordkapp.kommune.no\n\nØystein Skå
- rset\nTelefon: 90720190\nE-post: oystein.skarset@nordkapp.kommune.no\n\nP
- åmeldingsfrist – delta: 10.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
- a bak scenen: 10.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/a
- rrangement/2026-nordkapp-nordkapp
-LOCATION:Honningsvåg Samfunnshus\, Nordkapp
-URL:https://www.ukm.no/arrangement/2026-nordkapp-nordkapp
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
