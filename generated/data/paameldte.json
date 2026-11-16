@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 146,
+  "antall_arrangementer": 143,
   "antall_deltakernavn_i_innslag": 149,
-  "antall_innslag": 399,
+  "antall_innslag": 397,
   "arrangementer": [
     {
       "antall_innslag": 12,
@@ -209,99 +209,6 @@
       "navn": "CREW - Tokke og Vinje"
     },
     {
-      "antall_innslag": 9,
-      "arrangement_id": "9925",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-finnmark-finnmrku-finmarkku-ukmbandtour26",
-      "innslag": [
-        {
-          "beskrivelse": "Jobba masse på ukm før.. Vært med På open sir jam",
-          "deltakernavn": [],
-          "id": "261827",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg er veldig gira på UKM sine arrangementer og har deltatt flere gang. Jeg har tidligere vært konferansier. Jeg kan bidra med forskjellige ting, men ønsker å gi ut info.",
-          "deltakernavn": [],
-          "id": "261828",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg har jobbet med scene elementer på bootleg (hammerfest ungdomsklubb), og under Alta open air jam. Vært deltaker på ukm de siste to årene med band-innslag. Nå som 3 kjente band som noen av medlemmene er vennene mine, hadde det vært gøy å se dem spille og hjelpe til med å rigge opp :)",
-          "deltakernavn": [],
-          "id": "261839",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Har vært scenearbeider og konfransier",
-          "deltakernavn": [],
-          "id": "261889",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg har ikke vært arrangør men jeg tror det kan være noe for meg.",
-          "deltakernavn": [],
-          "id": "262071",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg har jobbet med å arrangere ukm i honningsvåg. Og jeg har jobbet backstage på ukm i honningsvåg.",
-          "deltakernavn": [],
-          "id": "262097",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Meldte meg på for ukm band tour før høst ferien å fikk beskjed om å bare skrive det!",
-          "deltakernavn": [],
-          "id": "261831",
-          "navn": "Media innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261832",
-          "navn": "Media innslag"
-        },
-        {
-          "beskrivelse": "Vi er band fra vardø som liker band som Lamb of God, sepultura, pantera og mye mer variert musikk",
-          "deltakernavn": [],
-          "id": "261830",
-          "navn": "Musikk innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9925",
-      "navn": "UKM Band Tour 2026"
-    },
-    {
-      "antall_innslag": 1,
-      "arrangement_id": "9807",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261592",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9807",
-      "navn": "DJ kurs med Sebastian"
-    },
-    {
-      "antall_innslag": 1,
-      "arrangement_id": "9997",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-porsanger-porsngu-porsanki-ukmbandtourlakselv",
-      "innslag": [
-        {
-          "beskrivelse": "Har jobbet en del med lys, bla annet på teateruke på skolen, og litt på bløgg. Har også en del erfaring med lyd og kobling av mikrofoner og slikt",
-          "deltakernavn": [],
-          "id": "262183",
-          "navn": "Arrangør innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9997",
-      "navn": "Band Tour Lakselv"
-    },
-    {
       "antall_innslag": 0,
       "arrangement_id": "9979",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026",
@@ -495,7 +402,7 @@
       "navn": "Ung kulturfestival"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 1,
       "arrangement_id": "9881",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27",
       "innslag": [
@@ -507,15 +414,6 @@
           ],
           "id": "262168",
           "navn": "N30N"
-        },
-        {
-          "beskrivelse": "Vi liker å danse, og at vi liker å danse foran andre.",
-          "deltakernavn": [
-            "Karoline Hallberg-Kolstad",
-            "Thea Rønneberg Furuheim"
-          ],
-          "id": "261782",
-          "navn": "Thea & Karoline"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9881",
@@ -806,7 +704,7 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -851,13 +749,19 @@
           "deltakernavn": [],
           "id": "262348",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg liker å jobbe med forskjellige typer materialer og mye jeg finner i skogen og i fjæra.",
+          "deltakernavn": [],
+          "id": "262421",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 5,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -883,6 +787,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262400",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262422",
           "navn": "Person innslag"
         }
       ],
@@ -1257,7 +1167,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 23,
+      "antall_innslag": 24,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1382,6 +1292,12 @@
           "navn": "Musikk innslag"
         },
         {
+          "beskrivelse": "Heisann! Jeg heter Eline (18år) og har sterk lidenskap for visuell kunst! :)\n\nTegning og maling er noe jeg alltid har vært glad i— går på billedkunst (Asker kulturskole), 3 år med kunst fordypning, i tillegg til å gå siste år med KDA på Rosenvilde akkurat nå— og kunst er noe jeg har veldig lyst til å gå videre med i livet også!",
+          "deltakernavn": [],
+          "id": "261913",
+          "navn": "Utstilling innslag"
+        },
+        {
           "beskrivelse": "Tegning",
           "deltakernavn": [],
           "id": "262291",
@@ -1404,10 +1320,18 @@
       "navn": "UKM Asker 2027"
     },
     {
-      "antall_innslag": 17,
+      "antall_innslag": 19,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
+        {
+          "beskrivelse": "Dette er femte året mitt med UKM, og jett om eg har glede meg sia i fjord. Eg elskar å uttrykke meg sjølv gjennom musikken og elskar å synge.",
+          "deltakernavn": [
+            "Alma Dagestad"
+          ],
+          "id": "262423",
+          "navn": "Alma"
+        },
         {
           "beskrivelse": "Heii jeg heter Anke! Jeg har veldig lyst til å jobbe på Ukm, jeg er snill og hjelpsom mot andre! Jeg har stått mye i kiosk og diverse på håndball dugnader men, eg har veldig lyst og vere med i år og hjelpe dere med hva som helst!",
           "deltakernavn": [
@@ -1503,6 +1427,14 @@
           ],
           "id": "262253",
           "navn": "Nora Karlsen Vatnøy"
+        },
+        {
+          "beskrivelse": "Jeg har jobbet på ukm i fjor. Da jobbet eg i kiosken og eg synes det var veldig gøy. Eg vet ikke hva eg vil jobbe med. Eg er villig til å lære, så dere kan plassere meg der dere trenger meg",
+          "deltakernavn": [
+            "Sofie Dyngeland"
+          ],
+          "id": "262425",
+          "navn": "Sofie Dyngeland"
         },
         {
           "beskrivelse": "Eg har jobbet på UKM som Ung-arrangør i fjor. I tillegg har eg vore med på ulike arrangement og arrangert",
@@ -1815,7 +1747,7 @@
       "navn": "UKM Samnanger 2027"
     },
     {
-      "antall_innslag": 23,
+      "antall_innslag": 24,
       "arrangement_id": "9706",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027",
       "innslag": [
@@ -1955,6 +1887,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "261993",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Noe av det beste jeg gjør er å skape kunst. Jeg bruker mange teknikker, som for eksempel oljepastell, blyant, kull og akvarell. Jeg har i mange år gått på visuell kunst på kulturskolen hvor jeg har lært mye om ulike kunstuttrykk.",
+          "deltakernavn": [],
+          "id": "262420",
           "navn": "Utstilling innslag"
         }
       ],
@@ -2103,10 +2041,17 @@
       "navn": "Askøy og Øygarden"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9953",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Vi e Tore og Emilie. Vi e 15 og 16 år.",
+          "deltakernavn": [],
+          "id": "262411",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9953",
       "navn": "Surnadal"
     },
@@ -2791,7 +2736,7 @@
       "navn": "UKM Eigersund 2027"
     },
     {
-      "antall_innslag": 10,
+      "antall_innslag": 12,
       "arrangement_id": "9986",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bykle-valle-bykleogvalle",
       "innslag": [
@@ -2850,10 +2795,22 @@
           "navn": "Arrangør innslag"
         },
         {
+          "beskrivelse": "Jeg var ung arrangør på ukm forrige gang. Det likte jeg veldig godt og vil gjerne være med igjen.",
+          "deltakernavn": [],
+          "id": "262413",
+          "navn": "Arrangør innslag"
+        },
+        {
           "beskrivelse": "Jeg vil gjerne være konferansier+vanlig arrangør.",
           "deltakernavn": [],
           "id": "262285",
           "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg er en snill, hyggelig og positiv person. Jeg liker å ha det gøy, le og være sammen med venner og familie. Og jeg liker musikk veldig godt.",
+          "deltakernavn": [],
+          "id": "262375",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9986",
@@ -2974,7 +2931,7 @@
       "navn": "UKM Bremanger 2027"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 6,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -2983,6 +2940,12 @@
           "deltakernavn": [],
           "id": "261804",
           "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Hei! Jeg heter Dilay, er 12 år gammel og har danset K-pop siden 2023. Jeg begynte faktisk å like K-pop på ordentlig i 2025!",
+          "deltakernavn": [],
+          "id": "262410",
+          "navn": "Dans innslag"
         },
         {
           "beskrivelse": "Have done this in ukm a few years now",
@@ -3897,5 +3860,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-15T05:13:34.377618+00:00"
+  "oppdatert": "2026-11-16T05:43:18.071925+00:00"
 }

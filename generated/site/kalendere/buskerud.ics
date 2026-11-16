@@ -8,64 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9807@ukm-kalendere
-DTSTAMP:20261107T050755Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261107T050755Z
-SEQUENCE:1
-DTSTART:20260916T114556Z
-SUMMARY:Påmeldingsfrist bak scenen – DJ kurs med Sebastian
-DESCRIPTION:Frist for å melde seg på bak scenen til DJ kurs med Sebastian
- .\nPåmeldingsfrist: 16.09.2026 kl. 13:45 (norsk tid).\n\nDJ kurs med Seba
- stian\n\nlørdag 14. november kl. 10:00 - søndag 15. november kl. 14:00\n
- \nØvre Eiker\n\nKanskje er du den kommende Kygo eller bare er interessert
-  i musikk!\nVi ønsker deg som går på ungdomskolen velkommen til Dj- kur
- s med Sebastian på Folkets Hus i Vestfossen lørdag 14. november og sønd
- ag 15.november. På kurset vil du lære\n- hva en Dj gjør\n- hvordan bruk
- e Dj- utstyr\n- hvordan musikk er bygd opp\n- hvordan du kan mikse låter 
- sammen\n\nDu trenger:\n- ipad/ telefon\n- øreklokker med kabel (hvis du h
- ar)\n- litt mat og drikke\n\nPåmeldingsfrist 6. november.\n\nKontaktperso
- ner\nAnne Grethe Klunderud\nTelefon: 90220744\nE-post: annegrethe.klunderu
- d@oeiker.no\n\nSebastian Lindland\nTelefon: 48269903\nE-post: SebastianNor
- mannNilsen.Lindland@ovre-eiker.kommune.no\n\nPåmeldingsfrist – delta: 0
- 6.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.09.2026 kl.
-  13:45\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-dj
- kursmedsebastian
-LOCATION:\, Øvre Eiker
-URL:https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9807@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9807@ukm-kalendere
-DTSTAMP:20261107T050755Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261107T050755Z
-SEQUENCE:2
-DTSTART:20261114T090000Z
-DTEND:20261115T130000Z
-SUMMARY:DJ kurs med Sebastian
-DESCRIPTION:DJ kurs med Sebastian\n\nlørdag 14. november kl. 10:00 - sønd
- ag 15. november kl. 14:00\n\nØvre Eiker\n\nKanskje er du den kommende Kyg
- o eller bare er interessert i musikk!\nVi ønsker deg som går på ungdoms
- kolen velkommen til Dj- kurs med Sebastian på Folkets Hus i Vestfossen l
- ørdag 14. november og søndag 15.november. På kurset vil du lære\n- hva
-  en Dj gjør\n- hvordan bruke Dj- utstyr\n- hvordan musikk er bygd opp\n- 
- hvordan du kan mikse låter sammen\n\nDu trenger:\n- ipad/ telefon\n- øre
- klokker med kabel (hvis du har)\n- litt mat og drikke\n\nPåmeldingsfrist 
- 6. november.\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 90220744\
- nE-post: annegrethe.klunderud@oeiker.no\n\nSebastian Lindland\nTelefon: 48
- 269903\nE-post: SebastianNormannNilsen.Lindland@ovre-eiker.kommune.no\n\nP
- åmeldingsfrist – delta: 06.11.2026 kl. 23:59\nPåmeldingsfrist – bidr
- a bak scenen: 16.09.2026 kl. 13:45\nArrangementsside: https://www.ukm.no/a
- rrangement/2026-ovreeiker-djkursmedsebastian
-LOCATION:\, Øvre Eiker
-URL:https://www.ukm.no/arrangement/2026-ovreeiker-djkursmedsebastian
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-10025@ukm-kalendere
 DTSTAMP:20261111T051743Z
 CREATED:20261111T051743Z

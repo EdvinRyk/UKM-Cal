@@ -50,10 +50,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9847@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261116T054318Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261116T054318Z
+SEQUENCE:1
 DTSTART:20261115T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Sandefjord 2026
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Sandefjord 2026.\
@@ -76,11 +76,11 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Sandefjord 2026.\
  takt med mer info\n\nLurer du på noe?\nTa kontakt med ane.pedersen@sandef
  jord.kommune.no (mailto:ane.pedersen@sandefjord.kommune.no)\n\nUKM Sandefj
  ord 2026: https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/files/2026/
- 09/DSC0351_2-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3907-984
- 7/\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203995\nE-post: ane.peders
- en@sandefjord.kommune.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl. 23:
- 59\nPåmeldingsfrist – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangeme
- ntsside: https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026
+ 09/DSC0351_2-1200x800.jpg\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203
+ 995\nE-post: ane.pedersen@sandefjord.kommune.no\n\nPåmeldingsfrist – de
+ lta: 15.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.11.20
+ 26 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sandef
+ jord-ukmsandefjord2026
 LOCATION:Harmonie Arena\, Sandefjord
 URL:https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026
 STATUS:CONFIRMED
@@ -139,10 +139,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9847@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261116T054318Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261116T054318Z
+SEQUENCE:2
 DTSTART:20261122T110000Z
 DTEND:20261122T180000Z
 SUMMARY:UKM Sandefjord 2026
@@ -164,12 +164,11 @@ DESCRIPTION:UKM Sandefjord 2026\n\nsøndag 22. november kl. 12:00 - 19:00\n
  nnen 15. november\nVi tar kontakt med mer info\n\nLurer du på noe?\nTa ko
  ntakt med ane.pedersen@sandefjord.kommune.no (mailto:ane.pedersen@sandefjo
  rd.kommune.no)\n\nUKM Sandefjord 2026: https://sys.ukm.no/2026-sandefjord-
- ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nhttps://delta.uk
- m.no/ukmid/pamelding/3907-9847/\n\nKontaktpersoner\nAne Pedersen\nTelefon:
-  95203995\nE-post: ane.pedersen@sandefjord.kommune.no\n\nPåmeldingsfrist 
- – delta: 15.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15
- .11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-
- sandefjord-ukmsandefjord2026
+ ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nKontaktpersoner\
+ nAne Pedersen\nTelefon: 95203995\nE-post: ane.pedersen@sandefjord.kommune.
+ no\n\nPåmeldingsfrist – delta: 15.11.2026 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026
 LOCATION:Harmonie Arena\, Sandefjord
 URL:https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026
 STATUS:CONFIRMED
