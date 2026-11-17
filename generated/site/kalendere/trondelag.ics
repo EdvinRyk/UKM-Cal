@@ -9,32 +9,29 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9920@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261117T051659Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:2
 DTSTART:20261013T163000Z
-DTEND:20270314T210000Z
+DTEND:20261117T210000Z
 SUMMARY:Arrangør Trondheim-Tråante
 DESCRIPTION:Arrangør Trondheim-Tråante\n\ntirsdag 13. oktober kl. 18:30 -
-  søndag 14. mars kl. 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante
- \n\nBli en arrangør for UKM 2027! 🎉\n\nSom arrangør er du med på å 
- planlegge UKM 2027 og skape fantastiske minner sammen med resten av arrang
- ørene.\nDet første arrangement vi planlegger\, er UKM kickoff 13. novemb
- er 2026. Vi har ungdommer i forskjellige arbeidsgrupper:\n\n-Media\n-Tekni
- ker\n-Konferansier\n-Dekor\n-og masse mer\n\nArrangør møter: Tirsdager K
- L: 18:30\nSted: Kultursenter ISAK\n\nSenere får du muligheten til å vær
- e med på arrangørenes egen kickoff som finner sted i Januar 2027.\n\nJoi
- n vår Discord chat for mer info :)\nhttps://discord.com/invite/MFKAyv7aq3
- \n\nArrangør Trondheim-Tråante: https://sys.ukm.no/2026-trondheim-traant
- e-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1800x1618.jpg\n\nhttp
- s://delta.ukm.no/ukmid/pamelding/5001-9920/\n\nKontaktpersoner\nTrine Arnt
- zen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@trond
- heim.kommune.no\n\nPåmeldingsfrist – delta: 07.01.2027 kl. 23:59\nPåme
- ldingsfrist – bidra bak scenen: 07.01.2027 kl. 19:04\nArrangementsbilde:
-  https://sys.ukm.no/2026-trondheim-traante-arrangorukmtrondheim-traante/fi
- les/2026/10/DSC9385-1200x1079.jpg\nArrangementsside: https://www.ukm.no/ar
- rangement/2026-trondheim-traante-arrangorukmtrondheim-traante
+  tirsdag 17. november kl. 22:00\n\nKultursenteret ISAK\n\nTrondheim - Trå
+ ante\n\nBli en arrangør for UKM 2027! 🎉\n\nSom arrangør er du med på
+  å planlegge UKM 2027 og skape fantastiske minner sammen med resten av ar
+ rangørene.\nDet første arrangement vi planlegger\, er UKM kickoff 13. no
+ vember 2026. Vi har ungdommer i forskjellige arbeidsgrupper:\n\n-Media\n-T
+ ekniker\n-Konferansier\n-Dekor\n-og masse mer\n\nArrangør møter: Tirsdag
+ er KL: 18:30\nSted: Kultursenter ISAK\n\nSenere får du muligheten til å 
+ være med på arrangørenes egen kickoff som finner sted i Januar 2027.\n\
+ nJoin vår Discord chat for mer info :)\nhttps://discord.com/invite/MFKAyv
+ 7aq3\n\nArrangør Trondheim-Tråante: https://sys.ukm.no/2026-trondheim-tr
+ aante-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1200x1079.jpg\n\n
+ https://delta.ukm.no/ukmid/pamelding/5001-9920/\n\nKontaktpersoner\nTrine 
+ Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@t
+ rondheim.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/20
+ 26-trondheim-traante-arrangorukmtrondheim-traante
 LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
 URL:https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondh
  eim-traante
@@ -61,25 +58,6 @@ URL:https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9706@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9979@ukm-kalendere
-DTSTAMP:20261027T045222Z
-CREATED:20261027T045222Z
-LAST-MODIFIED:20261027T045222Z
-SEQUENCE:0
-DTSTART:20261116T170000Z
-DTEND:20261116T210000Z
-SUMMARY:band workshop med orkland 2026
-DESCRIPTION:band workshop med orkland 2026\n\nmandag 16. november kl. 18:00
-  - 22:00\n\nMelhus\n\nhttps://delta.ukm.no/ukmid/pamelding/5028-9979/\n\nK
- ontaktpersoner\nPatryk Henryk Polanski\nTelefon: 96839575\nE-post: patryk.
- henryk.polanski@melhus.kommune.no\n\nArrangementsside: https://www.ukm.no/
- arrangement/2026-melhus-bandworkshopmedorkland2026
-LOCATION:\, Melhus
-URL:https://www.ukm.no/arrangement/2026-melhus-bandworkshopmedorkland2026
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9872@ukm-kalendere
@@ -298,42 +276,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9910@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9920@ukm-kalendere
-DTSTAMP:20261025T121149Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
-DTSTART:20270107T180455Z
-SUMMARY:Påmeldingsfrist bak scenen – Arrangør Trondheim-Tråante
-DESCRIPTION:Frist for å melde seg på bak scenen til Arrangør Trondheim-T
- råante.\nPåmeldingsfrist: 07.01.2027 kl. 19:04 (norsk tid).\n\nArrangør
-  Trondheim-Tråante\n\ntirsdag 13. oktober kl. 18:30 - søndag 14. mars kl
- . 22:00\n\nKultursenteret ISAK\n\nTrondheim - Tråante\n\nBli en arrangør
-  for UKM 2027! 🎉\n\nSom arrangør er du med på å planlegge UKM 2027 o
- g skape fantastiske minner sammen med resten av arrangørene.\nDet første
-  arrangement vi planlegger\, er UKM kickoff 13. november 2026. Vi har ungd
- ommer i forskjellige arbeidsgrupper:\n\n-Media\n-Tekniker\n-Konferansier\n
- -Dekor\n-og masse mer\n\nArrangør møter: Tirsdager KL: 18:30\nSted: Kult
- ursenter ISAK\n\nSenere får du muligheten til å være med på arrangøre
- nes egen kickoff som finner sted i Januar 2027.\n\nJoin vår Discord chat 
- for mer info :)\nhttps://discord.com/invite/MFKAyv7aq3\n\nArrangør Trondh
- eim-Tråante: https://sys.ukm.no/2026-trondheim-traante-arrangorukmtrondhe
- im-traante/files/2026/10/DSC9385-1800x1618.jpg\n\nhttps://delta.ukm.no/ukm
- id/pamelding/5001-9920/\n\nKontaktpersoner\nTrine Arntzen\nUKM kontakt Tro
- ndheim\nTelefon: 91672579\nE-post: trine.arntzen@trondheim.kommune.no\n\nP
- åmeldingsfrist – delta: 07.01.2027 kl. 23:59\nPåmeldingsfrist – bidr
- a bak scenen: 07.01.2027 kl. 19:04\nArrangementsbilde: https://sys.ukm.no/
- 2026-trondheim-traante-arrangorukmtrondheim-traante/files/2026/10/DSC9385-
- 1200x1079.jpg\nArrangementsside: https://www.ukm.no/arrangement/2026-trond
- heim-traante-arrangorukmtrondheim-traante
-LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
-URL:https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondh
- eim-traante
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9920@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9960@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -367,6 +309,26 @@ URL:https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9960@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10045@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270116T170000Z
+DTEND:20270116T210000Z
+SUMMARY:Kick-off
+DESCRIPTION:Kick-off\n\nlørdag 16. januar kl. 18:00 - 22:00\n\nNamsos\n\nh
+ ttps://delta.ukm.no/ukmid/pamelding/5007-10045/\n\nKontaktpersoner\nHilde 
+ Kristin Øien\nTelefon: 47847011\nE-post: hilde.kristin.oien@namsos.kommun
+ e.no\n\nLars Øivind Meland\nTelefon: 91330590\nE-post: lars-oivind.meland
+ @namsos.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/202
+ 7-namsos-kick-off
+LOCATION:\, Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-kick-off
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9853@ukm-kalendere
@@ -637,6 +599,62 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9838@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10021@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270212T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Lokalfestival Jøa 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Lokalfestival Jø
+ a 2027.\nPåmeldingsfrist: 12.02.2027 kl. 23:59 (norsk tid).\n\nUKM Lokalf
+ estival Jøa 2027\n\nsøndag 7. mars kl. 14:00 - 16:00\n\nDunavegen 550\n\
+ nNamsos\n\nPÅMELDINGEN ER ÅPEN!\nSøndag 7. mars 2027 braker det løs\, 
+ med UKM lokalfestival på Jøa!\n\nVi trenger innslag til scenen\, til uts
+ tillingen og konferansierer.\nØnsker du å hjelpe til med rigging\, lyd- 
+ og lys\, eller å filme/fotografere kan du melde deg på med det også.\n\
+ nLa oss vise hva barna og ungdommen på Jøa har å by på\, og meld deg p
+ å nå!\n\nhttps://delta.ukm.no/ukmid/pamelding/5007-10021/\n\nKontaktpers
+ oner\nGuri Tranås\nTelefon: 91777604\nE-post: guri.tranas@mnsk.no\n\nPåm
+ eldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra b
+ ak scenen: 12.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arra
+ ngement/2027-namsos-ukmjoalokalfestival2027
+LOCATION:Dunavegen 550\, Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-ukmjoalokalfestival2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10021@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10023@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270212T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Namsos Lokalfestival 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Namsos Lokalfestival 
+ 2027.\nPåmeldingsfrist: 12.02.2027 kl. 23:59 (norsk tid).\n\nNamsos Lokal
+ festival 2027\n\nlørdag 6. mars kl. 15:00 - 17:00\n\nKulturhuset i Namsos
+ \n\nNamsos\n\nDa er påmeldingen åpnet for påmelding til UKM i Namsos 20
+ 27! Sammen skal vi lage en gnistrende sceneforestilling og utstilling!\nB
+ åde lokalfestivalen og kunstutstillingen foregår i Kulturhuset i Namsos.
+ \n\nDet er mulig å melde seg på med innslag til scenen\, til utstillinge
+ n\, og som konferansierer\, riggere\, lyd- og lysteknikere\, videoprodusen
+ ter\, fotografer og mye mer!\n\nKanskje er det nettopp DU som går videre 
+ til regionfestivalen i år?\nMeld deg på nå!\n\nhttps://delta.ukm.no/ukm
+ id/pamelding/5007-10023/\n\nKontaktpersoner\nHilde Kristin Øien\nTelefon:
+  47847011\nE-post: hilde.kristin.oien@namsos.kommune.no\n\nPåmeldingsfris
+ t – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 
+ 12.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/202
+ 7-namsos-namsoslokalfestival2027
+LOCATION:Kulturhuset i Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-namsoslokalfestival2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10023@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9718@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
@@ -772,6 +790,36 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9891@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10022@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270226T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Namdalseid 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Namdalseid 2027.\
+ nPåmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nUKM Namdalseid 202
+ 7\n\nlørdag 6. mars kl. 11:00 - 13:00\n\nNamdalseid samfunnshus\n\nNamsos
+ \n\nNå er påmeldingen åpen til UKM lokalfestival i Namdalseid samfunnsh
+ us\, lørdag 6. mars 2027 kl. 11.00!\n\nDu kan melde deg på med alt som k
+ an vises på en scene\, staffeli\, utstilling\, lerret eller noe som kan s
+ pises(!).\nDet kan være sang\, musikk\, teater\, dans\, film\, kunst\, bi
+ lde\, egenkomponerte matretter og mye annet.\nDu kan også melde deg på s
+ om konferansier eller scenearbeider.\n\nAlle mellom 10 og 20 år kan melde
+  seg på. Er du 13 år eller over\, har du i tillegg mulighet til å gå v
+ idere til regionfestivalen på Steinkjer 16.-18. april.\n\nhttps://delta.u
+ km.no/ukmid/pamelding/5007-10022/\n\nKontaktpersoner\nJan Åge Kolstad\nTe
+ lefon: 91388316\nE-post: jan-age.kolstad@namdalseid.kommune.no\n\nPåmeldi
+ ngsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak s
+ cenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangem
+ ent/2027-namsos-ukmvipaeide
+LOCATION:Namdalseid samfunnshus\, Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-ukmvipaeide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10022@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9971@ukm-kalendere
 DTSTAMP:20261107T050755Z
 CREATED:20261026T045449Z
@@ -867,6 +915,61 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10022@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270306T100000Z
+DTEND:20270306T120000Z
+SUMMARY:UKM Namdalseid 2027
+DESCRIPTION:UKM Namdalseid 2027\n\nlørdag 6. mars kl. 11:00 - 13:00\n\nNam
+ dalseid samfunnshus\n\nNamsos\n\nNå er påmeldingen åpen til UKM lokalfe
+ stival i Namdalseid samfunnshus\, lørdag 6. mars 2027 kl. 11.00!\n\nDu ka
+ n melde deg på med alt som kan vises på en scene\, staffeli\, utstilling
+ \, lerret eller noe som kan spises(!).\nDet kan være sang\, musikk\, teat
+ er\, dans\, film\, kunst\, bilde\, egenkomponerte matretter og mye annet.\
+ nDu kan også melde deg på som konferansier eller scenearbeider.\n\nAlle 
+ mellom 10 og 20 år kan melde seg på. Er du 13 år eller over\, har du i 
+ tillegg mulighet til å gå videre til regionfestivalen på Steinkjer 16.-
+ 18. april.\n\nhttps://delta.ukm.no/ukmid/pamelding/5007-10022/\n\nKontaktp
+ ersoner\nJan Åge Kolstad\nTelefon: 91388316\nE-post: jan-age.kolstad@namd
+ alseid.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPå
+ meldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside
+ : https://www.ukm.no/arrangement/2027-namsos-ukmvipaeide
+LOCATION:Namdalseid samfunnshus\, Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-ukmvipaeide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10023@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270306T140000Z
+DTEND:20270306T160000Z
+SUMMARY:Namsos Lokalfestival 2027
+DESCRIPTION:Namsos Lokalfestival 2027\n\nlørdag 6. mars kl. 15:00 - 17:00\
+ n\nKulturhuset i Namsos\n\nNamsos\n\nDa er påmeldingen åpnet for påmeld
+ ing til UKM i Namsos 2027! Sammen skal vi lage en gnistrende sceneforestil
+ ling og utstilling!\nBåde lokalfestivalen og kunstutstillingen foregår i
+  Kulturhuset i Namsos.\n\nDet er mulig å melde seg på med innslag til sc
+ enen\, til utstillingen\, og som konferansierer\, riggere\, lyd- og lystek
+ nikere\, videoprodusenter\, fotografer og mye mer!\n\nKanskje er det netto
+ pp DU som går videre til regionfestivalen i år?\nMeld deg på nå!\n\nht
+ tps://delta.ukm.no/ukmid/pamelding/5007-10023/\n\nKontaktpersoner\nHilde K
+ ristin Øien\nTelefon: 47847011\nE-post: hilde.kristin.oien@namsos.kommune
+ .no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 12.02.2027 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-namsos-namsoslokalfestival2027
+LOCATION:Kulturhuset i Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-namsoslokalfestival2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9891@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -892,6 +995,31 @@ DESCRIPTION:UKM Nærøysund 2027\n\nlørdag 6. mars kl. 16:00 - 19:00\n\nN
  und2027
 LOCATION:Nærøysund kulturhus
 URL:https://www.ukm.no/arrangement/2027-naroysund-ukmnaroysund2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10021@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270307T130000Z
+DTEND:20270307T150000Z
+SUMMARY:UKM Lokalfestival Jøa 2027
+DESCRIPTION:UKM Lokalfestival Jøa 2027\n\nsøndag 7. mars kl. 14:00 - 16:0
+ 0\n\nDunavegen 550\n\nNamsos\n\nPÅMELDINGEN ER ÅPEN!\nSøndag 7. mars 20
+ 27 braker det løs\, med UKM lokalfestival på Jøa!\n\nVi trenger innslag
+  til scenen\, til utstillingen og konferansierer.\nØnsker du å hjelpe ti
+ l med rigging\, lyd- og lys\, eller å filme/fotografere kan du melde deg 
+ på med det også.\n\nLa oss vise hva barna og ungdommen på Jøa har å b
+ y på\, og meld deg på nå!\n\nhttps://delta.ukm.no/ukmid/pamelding/5007-
+ 10021/\n\nKontaktpersoner\nGuri Tranås\nTelefon: 91777604\nE-post: guri.t
+ ranas@mnsk.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeld
+ ingsfrist – bidra bak scenen: 12.02.2027 kl. 23:59\nArrangementsside: ht
+ tps://www.ukm.no/arrangement/2027-namsos-ukmjoalokalfestival2027
+LOCATION:Dunavegen 550\, Namsos
+URL:https://www.ukm.no/arrangement/2027-namsos-ukmjoalokalfestival2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

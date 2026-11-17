@@ -503,26 +503,28 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9892@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10036@ukm-kalendere
-DTSTAMP:20261114T051029Z
+DTSTAMP:20261117T051659Z
 CREATED:20261114T051029Z
-LAST-MODIFIED:20261114T051029Z
-SEQUENCE:0
-DTSTART:20270301T225959Z
-SUMMARY:Påmeldingsfrist bak scenen – -festivalen i Rogaland
-DESCRIPTION:Frist for å melde seg på bak scenen til -festivalen i Rogalan
- d.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\n-festivalen i R
- ogaland\n\nfredag 9. april kl. 18:00 - 22:00\n\nhttps://delta.ukm.no/ukmid
- /pamelding/fylke-10036/\n\nKontaktpersoner\nCamilla Apeland\nTelefon: 4061
- 2164\nE-post: camilla.apeland@sola.kommune.no\n\nFYLKESKONTAKT: Susanne Vi
- ste Bie\nFylkeskontakt\nTelefon: 92203137\nE-post: susanne.viste.bie@rogfk
- .no\n\nArild Wold Hoem\nProdusent\nTelefon: 91589626\nE-post: arild.wold.h
- oem@rogfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-rogala
- nd-ukm-festivalenirogaland/program\n\nPåmeldtePåmeldte: https://www.ukm.
- no/arrangement/2027-rogaland-ukm-festivalenirogaland/deltagere\n\nBilder o
- g videoerBilder og videoer: https://www.ukm.no/arrangement/2027-rogaland-u
- km-festivalenirogaland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl.
-  23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59
-LOCATION:
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:1
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM festivalen i Rogaland 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM festivalen i Roga
+ land 2027.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM fes
+ tivalen i Rogaland 2027\n\nfredag 9. april kl. 16:00 - søndag 11. april k
+ l. 16:00\n\nPlogen kulturhus (https://www.google.com/maps/search/?api=1&qu
+ ery=Plogen%20kulturhus)\n\nPlogen kulturhus\n\nhttps://delta.ukm.no/ukmid/
+ pamelding/fylke-10036/\n\nKontaktpersoner\nCamilla Apeland\nTelefon: 40612
+ 164\nE-post: camilla.apeland@sola.kommune.no\n\nFYLKESKONTAKT: Susanne Vis
+ te Bie\nFylkeskontakt\nTelefon: 92203137\nE-post: susanne.viste.bie@rogfk.
+ no\n\nArild Wold Hoem\nProdusent\nTelefon: 91589626\nE-post: arild.wold.ho
+ em@rogfk.no\n\nProgramProgram: https://www.ukm.no/arrangement/2027-rogalan
+ d-ukm-festivalenirogaland/program\n\nPåmeldtePåmeldte: https://www.ukm.n
+ o/arrangement/2027-rogaland-ukm-festivalenirogaland/deltagere\n\nBilder og
+  videoerBilder og videoer: https://www.ukm.no/arrangement/2027-rogaland-uk
+ m-festivalenirogaland/media\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 
+ 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59
+LOCATION:Plogen kulturhus
 URL:https://www.ukm.no/arrangement/2027-rogaland-ukm-festivalenirogaland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -627,26 +629,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10036@ukm-kalendere
-DTSTAMP:20261114T051029Z
+DTSTAMP:20261117T051659Z
 CREATED:20261114T051029Z
-LAST-MODIFIED:20261114T051029Z
-SEQUENCE:0
-DTSTART:20270409T160000Z
-DTEND:20270409T200000Z
-SUMMARY:-festivalen i Rogaland
-DESCRIPTION:-festivalen i Rogaland\n\nfredag 9. april kl. 18:00 - 22:00\n\n
- https://delta.ukm.no/ukmid/pamelding/fylke-10036/\n\nKontaktpersoner\nCami
- lla Apeland\nTelefon: 40612164\nE-post: camilla.apeland@sola.kommune.no\n\
- nFYLKESKONTAKT: Susanne Viste Bie\nFylkeskontakt\nTelefon: 92203137\nE-pos
- t: susanne.viste.bie@rogfk.no\n\nArild Wold Hoem\nProdusent\nTelefon: 9158
- 9626\nE-post: arild.wold.hoem@rogfk.no\n\nProgramProgram: https://www.ukm.
- no/arrangement/2027-rogaland-ukm-festivalenirogaland/program\n\nPåmeldteP
- åmeldte: https://www.ukm.no/arrangement/2027-rogaland-ukm-festivaleniroga
- land/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/a
- rrangement/2027-rogaland-ukm-festivalenirogaland/media\n\nPåmeldingsfrist
-  – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 0
- 1.03.2027 kl. 23:59
-LOCATION:
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:1
+DTSTART:20270409T140000Z
+DTEND:20270411T140000Z
+SUMMARY:UKM festivalen i Rogaland 2027
+DESCRIPTION:UKM festivalen i Rogaland 2027\n\nfredag 9. april kl. 16:00 - s
+ øndag 11. april kl. 16:00\n\nPlogen kulturhus (https://www.google.com/map
+ s/search/?api=1&query=Plogen%20kulturhus)\n\nPlogen kulturhus\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/fylke-10036/\n\nKontaktpersoner\nCamilla Apela
+ nd\nTelefon: 40612164\nE-post: camilla.apeland@sola.kommune.no\n\nFYLKESKO
+ NTAKT: Susanne Viste Bie\nFylkeskontakt\nTelefon: 92203137\nE-post: susann
+ e.viste.bie@rogfk.no\n\nArild Wold Hoem\nProdusent\nTelefon: 91589626\nE-p
+ ost: arild.wold.hoem@rogfk.no\n\nProgramProgram: https://www.ukm.no/arrang
+ ement/2027-rogaland-ukm-festivalenirogaland/program\n\nPåmeldtePåmeldte:
+  https://www.ukm.no/arrangement/2027-rogaland-ukm-festivalenirogaland/delt
+ agere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/arrangemen
+ t/2027-rogaland-ukm-festivalenirogaland/media\n\nPåmeldingsfrist – delt
+ a: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027
+  kl. 23:59
+LOCATION:Plogen kulturhus
 URL:https://www.ukm.no/arrangement/2027-rogaland-ukm-festivalenirogaland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

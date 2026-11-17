@@ -33,6 +33,46 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9821@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10044@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20261120T170000Z
+DTEND:20261120T210000Z
+SUMMARY:Trommeworkshop med Baard Kolstad
+DESCRIPTION:Trommeworkshop med Baard Kolstad\n\nfredag 20. november kl. 18:
+ 00 - 22:00\n\nHamar kulturhus\n\nStange\n\nUKM Stange\, Stange kulturskole
+ \, Hamar kulturskole\, og Hamar kulturhus presenterer Trommeworkshop med B
+ aard Kolstad fra Leprous\, i forbindelse med at Leprous spiller i Hamar ku
+ lturhus fredag 20. November. Trommeworkshoppen finner sted kl. 18.00 - 19.
+ 30 på Klubbscenen i Hamar kulturhus der det pleier å være onsdags-jam.\
+ n\nDette er et gratis arrangement for ALLE ungdommer mellom 13-20 (samt al
+ le trommiser som øver ved Hamar kulturhus). Du trenger ikke å spille tro
+ mmer eller spille i band for å møte opp\, dette er et arrangement som er
+  åpent for all ungdom med musikkinteresse som ønsker å komme sammen. De
+ t blir et trommeshow🥁🎶🔥\n\nMeld deg gjerne på for å reservere p
+ lass\, ellers så kan du også møte opp i døra.\n\nFor eventuelle spørs
+ mål\, kontakt: Gaute.sodal.skullerud@stange.kommune.no (mailto:Gaute.soda
+ l.skullerud@stange.kommune.no)\n\nTrommeworkshop med Baard Kolstad: https:
+ //sys.ukm.no/2026-stange-trommeworkshopmedbaardkolstad/files/2026/11/Kopi-
+ av-Baard-Kolstad-plakat-847x1200.png\n\nhttps://delta.ukm.no/ukmid/pameldi
+ ng/3413-10044/\n\nKontaktpersoner\nBjørn Hagen\nTelefon: 97076177\nE-post
+ : ellien_cynicon@hotmail.com\n\nElise Havn\nTelefon: 47484221\nE-post: eli
+ se.langseth.havn@stange.kommune.no\n\nGaute Sødal Skullerud\nTelefon: 980
+ 38564\nE-post: gaute.sodal.skullerud@stor-elvdal.kommune.no\n\nIngrid Gran
+ rud Veiersted\nTelefon: 97535921\nE-post: ingrid.granrud.veiersted@stange.
+ kommune.no\n\nMona Djuphagen Flyen\nE-post: mona.djuphagen.flyen@stange.ko
+ mmune.no\n\nPål Andre Moen\nE-post: Pal.Andre.Moen@stange.kommune.no\n\nA
+ rrangementsside: https://www.ukm.no/arrangement/2026-stange-trommeworkshop
+ medbaardkolstad
+LOCATION:Hamar kulturhus\, Stange
+URL:https://www.ukm.no/arrangement/2026-stange-trommeworkshopmedbaardkolsta
+ d
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9851@ukm-kalendere
 DTSTAMP:20261111T051743Z
 CREATED:20261025T121149Z
@@ -71,6 +111,33 @@ URL:https://www.ukm.no/arrangement/2027-gjovik-sondrelangjoviksondrelandves
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9851@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10042@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20261205T110000Z
+DTEND:20261205T160000Z
+SUMMARY:Ta plass i eige liv
+DESCRIPTION:Ta plass i eige liv\n\nlørdag 5. desember kl. 12:00 - 17:00\n\
+ nVang\n\nHar du lyst til å danse eller vere med i ein dokumentar om ungdo
+ mslivet i Vang? Då håpar vi du kjem på workshop! 🎬\n\n📅 Laurdag 5
+ . desember kl. 12.00–17.00\n📍 Vangshallen\n\nVi prøver ut dans med k
+ oreografen vår\, Celine\, og snakkar om kva de har lyst til å vise og fo
+ rtelje om ungdomslivet i Vang. Du kan vere med på dans\, bidra i dokument
+ aren eller prøve begge delar.\n\nDet blir mat og god stemning! Ta gjerne 
+ med ein ven.\n\nTa plass i eige liv: https://sys.ukm.no/2026-vang-vang/fil
+ es/2026/11/UKM-plakat-med-mat-og-god-stemning-960x1200.png\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/3454-10042/\n\nKontaktpersoner\nYvonne Mæland\nT
+ elefon: 48226659\nE-post: Yvonne.Meland@vang.kommune.no\n\nPåmeldingsfris
+ t – delta: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/ar
+ rangement/2026-vang-vang
+LOCATION:Vang
+URL:https://www.ukm.no/arrangement/2026-vang-vang
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9901@ukm-kalendere
@@ -222,47 +289,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10018@ukm-kalendere
-DTSTAMP:20261112T051936Z
+DTSTAMP:20261117T051659Z
 CREATED:20261110T051208Z
-LAST-MODIFIED:20261112T051936Z
-SEQUENCE:1
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:2
 DTSTART:20270215T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Stange 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Stange 2027.\nPå
  meldingsfrist: 15.02.2027 kl. 23:59 (norsk tid).\n\nUKM Stange 2027\n\nlø
  rdag 13. mars kl. 17:00 - 19:00\n\nOttestad Ungdomshuset\n\nStange\n\nUKM 
  Stange er ungdommens egen kulturfestival! Her kan du som ungdom vise fram 
- det du driver med og møte andre ungdommer som driver med det samme som de
- g\, men også helt andre kule ting🎨🎶🎭 Bli med på en festival som
-  interessene dine på alvor\, og gir deg en arena hvor du kan oppleve fell
- esskap og anerkjennelse for det du brenner for!\n\nPå UKM Stange er det u
- ngdommene selv som fyller festivalprogrammet! Spiller du i band\, tegner o
- g maler\, driver med Minecraft/Roblox/Fortnite\, danser\, mekker motorsykk
- el\, skriver dikt\, lager beats\, driver med fotballtriksing\, fotografere
- r\, ulike brettspill\, skriver debattinnlegg\, spikker og lager motorsagsk
- ulpturer\, bygger modellfly\, maler Warhammer eller har en annen hobby som
-  du ønsker å vise for verden\, så er dette festivalen for deg! Er du me
- d i en stor gruppe på 30 personer eller stiller du alene? På UKM Stange 
- er det UANSETT plass til deg!💚\n\nPå UKM Stange kan du vise fram det d
- u driver med ved enten å stå på scenen\, stille ut i galleriet eller vi
- se det via film på storskjerm. Vi finner løsninger som passer best for a
- kkurat det du driver med. Du kan melde deg på uansett om du har holdt på
-  med noe i mange år eller akkurat har begynt. Det du driver med og din hi
- storie er interessant uansett! 🎤🎥🛹 Så er du usikker på om det d
- u driver med passer inn? Meld deg på likevel\, så finner vi ut av hvorda
- n vi kan få det til sammen! 💚💚\nBli en del av det kreative fellessk
- apet og meld deg på årets festivalprogram!🔥🎉\n\nUKM Stange 2027: h
- ttps://sys.ukm.no/2027-stange-ukmstange2027/files/2026/11/Sugercoat_Teodor
- EES_260622-4-1311x1800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3413-10
- 018/\n\nKontaktpersoner\nBjørn Hagen\nTelefon: 97076177\nE-post: ellien_c
- ynicon@hotmail.com\n\nElise Havn\nTelefon: 47484221\nE-post: elise.langset
- h.havn@stange.kommune.no\n\nGaute Sødal Skullerud\nTelefon: 98038564\nE-p
- ost: gaute.sodal.skullerud@stor-elvdal.kommune.no\n\nPål Andre Moen\nE-po
- st: Pal.Andre.Moen@stange.kommune.no\n\nPåmeldingsfrist – delta: 15.02.
- 2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:5
- 9\nArrangementsbilde: https://sys.ukm.no/2027-stange-ukmstange2027/files/2
- 026/11/Sugercoat_TeodorEES_260622-4-874x1200.jpg\nArrangementsside: https:
- //www.ukm.no/arrangement/2027-stange-ukmstange2027
+ alt du liker å drive med og møte andre ungdommer som driver med det samm
+ e som deg eller som driver med helt andre kule ting🎨🎶🎭 Bli med p
+ å en festival som tar interessene dine på alvor og gir deg en scene og e
+ t felleskap der du kan oppleve å få anerkjennelse for det du liker å dr
+ ive med! 🎥🛹\n\nPå UKM Stange er det ungdommene selv som fyller fest
+ ivalprogrammet! Spiller du i band\, tegner og maler\, driver med Minecraft
+ /Roblox/Fortnite\, danser\, mekker motorsykkel\, skriver dikt\, lager beat
+ s\, driver med fotballtriksing\, fotograferer\, ulike brettspill\, skriver
+  debattinnlegg\, spikker eller lager motorsagskulpturer\, bygger modellfly
+ \, maler Warhammer eller har en annen hobby så er dette festivalen for ak
+ kurat deg! Det har ingen ting å si om du er med i en stor gruppe på 30 p
+ ersoner eller stiller du alene? På UKM Stange er det UANSETT plass til de
+ g!💚\n\nPå UKM Stange kan du vise fram det du driver med ved enten å s
+ tå på scenen\, stille ut i galleriet eller vise det via film på storskj
+ erm. Vi finner løsninger som passer best for akkurat det du driver med. D
+ u kan melde deg på uansett om du har holdt på med noe i mange år eller 
+ akkurat har begynt. Det du driver med og din historie er interessant uanse
+ tt! 🎤 Så er du usikker på om det du driver med passer inn? Meld deg p
+ å likevel\, så finner vi ut av hvordan vi kan løse det sammen! 💚💚
+  Bli en del av det kreative fellesskapet og meld deg på årets festivalpr
+ ogram!🔥🎉\n\nUKM Stange 2027: https://sys.ukm.no/2027-stange-ukmstang
+ e2027/files/2026/11/Sugercoat_TeodorEES_260622-4-874x1200.jpg\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/3413-10018/\n\nKontaktpersoner\nBjørn Hagen\n
+ Telefon: 97076177\nE-post: ellien_cynicon@hotmail.com\n\nElise Havn\nTelef
+ on: 47484221\nE-post: elise.langseth.havn@stange.kommune.no\n\nGaute Søda
+ l Skullerud\nTelefon: 98038564\nE-post: gaute.sodal.skullerud@stor-elvdal.
+ kommune.no\n\nPål Andre Moen\nE-post: Pal.Andre.Moen@stange.kommune.no\n\
+ nPåmeldingsfrist – delta: 15.02.2027 kl. 23:59\nPåmeldingsfrist – bi
+ dra bak scenen: 15.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no
+ /arrangement/2027-stange-ukmstange2027
 LOCATION:Ottestad Ungdomshuset\, Stange
 URL:https://www.ukm.no/arrangement/2027-stange-ukmstange2027
 STATUS:CONFIRMED
@@ -408,47 +474,45 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10018@ukm-kalendere
-DTSTAMP:20261112T051936Z
+DTSTAMP:20261117T051659Z
 CREATED:20261110T051208Z
-LAST-MODIFIED:20261112T051936Z
-SEQUENCE:1
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:2
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
 SUMMARY:UKM Stange 2027
 DESCRIPTION:UKM Stange 2027\n\nlørdag 13. mars kl. 17:00 - 19:00\n\nOttest
  ad Ungdomshuset\n\nStange\n\nUKM Stange er ungdommens egen kulturfestival!
-  Her kan du som ungdom vise fram det du driver med og møte andre ungdomme
- r som driver med det samme som deg\, men også helt andre kule ting🎨
- 🎶🎭 Bli med på en festival som interessene dine på alvor\, og gir d
- eg en arena hvor du kan oppleve fellesskap og anerkjennelse for det du bre
- nner for!\n\nPå UKM Stange er det ungdommene selv som fyller festivalprog
- rammet! Spiller du i band\, tegner og maler\, driver med Minecraft/Roblox/
- Fortnite\, danser\, mekker motorsykkel\, skriver dikt\, lager beats\, driv
- er med fotballtriksing\, fotograferer\, ulike brettspill\, skriver debatti
- nnlegg\, spikker og lager motorsagskulpturer\, bygger modellfly\, maler Wa
- rhammer eller har en annen hobby som du ønsker å vise for verden\, så e
- r dette festivalen for deg! Er du med i en stor gruppe på 30 personer ell
- er stiller du alene? På UKM Stange er det UANSETT plass til deg!💚\n\nP
- å UKM Stange kan du vise fram det du driver med ved enten å stå på sce
- nen\, stille ut i galleriet eller vise det via film på storskjerm. Vi fin
- ner løsninger som passer best for akkurat det du driver med. Du kan melde
-  deg på uansett om du har holdt på med noe i mange år eller akkurat har
-  begynt. Det du driver med og din historie er interessant uansett! 🎤
- 🎥🛹 Så er du usikker på om det du driver med passer inn? Meld deg p
- å likevel\, så finner vi ut av hvordan vi kan få det til sammen! 💚
- 💚\nBli en del av det kreative fellesskapet og meld deg på årets festi
- valprogram!🔥🎉\n\nUKM Stange 2027: https://sys.ukm.no/2027-stange-ukm
- stange2027/files/2026/11/Sugercoat_TeodorEES_260622-4-1311x1800.jpg\n\nhtt
- ps://delta.ukm.no/ukmid/pamelding/3413-10018/\n\nKontaktpersoner\nBjørn H
- agen\nTelefon: 97076177\nE-post: ellien_cynicon@hotmail.com\n\nElise Havn\
- nTelefon: 47484221\nE-post: elise.langseth.havn@stange.kommune.no\n\nGaute
-  Sødal Skullerud\nTelefon: 98038564\nE-post: gaute.sodal.skullerud@stor-e
- lvdal.kommune.no\n\nPål Andre Moen\nE-post: Pal.Andre.Moen@stange.kommune
- .no\n\nPåmeldingsfrist – delta: 15.02.2027 kl. 23:59\nPåmeldingsfrist 
- – bidra bak scenen: 15.02.2027 kl. 23:59\nArrangementsbilde: https://sys
- .ukm.no/2027-stange-ukmstange2027/files/2026/11/Sugercoat_TeodorEES_260622
- -4-874x1200.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-sta
- nge-ukmstange2027
+  Her kan du som ungdom vise fram alt du liker å drive med og møte andre 
+ ungdommer som driver med det samme som deg eller som driver med helt andre
+  kule ting🎨🎶🎭 Bli med på en festival som tar interessene dine p
+ å alvor og gir deg en scene og et felleskap der du kan oppleve å få ane
+ rkjennelse for det du liker å drive med! 🎥🛹\n\nPå UKM Stange er de
+ t ungdommene selv som fyller festivalprogrammet! Spiller du i band\, tegne
+ r og maler\, driver med Minecraft/Roblox/Fortnite\, danser\, mekker motors
+ ykkel\, skriver dikt\, lager beats\, driver med fotballtriksing\, fotograf
+ erer\, ulike brettspill\, skriver debattinnlegg\, spikker eller lager moto
+ rsagskulpturer\, bygger modellfly\, maler Warhammer eller har en annen hob
+ by så er dette festivalen for akkurat deg! Det har ingen ting å si om du
+  er med i en stor gruppe på 30 personer eller stiller du alene? På UKM S
+ tange er det UANSETT plass til deg!💚\n\nPå UKM Stange kan du vise fram
+  det du driver med ved enten å stå på scenen\, stille ut i galleriet el
+ ler vise det via film på storskjerm. Vi finner løsninger som passer best
+  for akkurat det du driver med. Du kan melde deg på uansett om du har hol
+ dt på med noe i mange år eller akkurat har begynt. Det du driver med og 
+ din historie er interessant uansett! 🎤 Så er du usikker på om det du 
+ driver med passer inn? Meld deg på likevel\, så finner vi ut av hvordan 
+ vi kan løse det sammen! 💚💚 Bli en del av det kreative fellesskapet 
+ og meld deg på årets festivalprogram!🔥🎉\n\nUKM Stange 2027: https:
+ //sys.ukm.no/2027-stange-ukmstange2027/files/2026/11/Sugercoat_TeodorEES_2
+ 60622-4-874x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3413-10018/\n
+ \nKontaktpersoner\nBjørn Hagen\nTelefon: 97076177\nE-post: ellien_cynicon
+ @hotmail.com\n\nElise Havn\nTelefon: 47484221\nE-post: elise.langseth.havn
+ @stange.kommune.no\n\nGaute Sødal Skullerud\nTelefon: 98038564\nE-post: g
+ aute.sodal.skullerud@stor-elvdal.kommune.no\n\nPål Andre Moen\nE-post: Pa
+ l.Andre.Moen@stange.kommune.no\n\nPåmeldingsfrist – delta: 15.02.2027 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:59\nArr
+ angementsside: https://www.ukm.no/arrangement/2027-stange-ukmstange2027
 LOCATION:Ottestad Ungdomshuset\, Stange
 URL:https://www.ukm.no/arrangement/2027-stange-ukmstange2027
 STATUS:CONFIRMED

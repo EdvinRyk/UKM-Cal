@@ -109,6 +109,43 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9908@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-9961@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270111T090000Z
+DTEND:20270111T210000Z
+SUMMARY:Luster og Sogndal - UngArrangør\, Media og Konferansier - Oppstart
+DESCRIPTION:Luster og Sogndal - UngArrangør\, Media og Konferansier - Opps
+ tart\n\nmandag 11. januar kl. 10:00 - 22:00\n\nSogndal Kulturhus\n\nSognda
+ l\, Luster\n\nPåmelding til UKM 2027 – Ung arrangør\, Media og Konfera
+ nsier 🎤📸🎪\n\nHar du lyst til å vere med på å skape UKM i Sognd
+ al og Luster?\n\nVi ser etter ungdommar som ønskjer å bidra til planlegg
+ inga og gjennomføringa av UKM! Du kan melde deg på ei eller fleire av de
+ sse rollene:\n\n🎪 Ung arrangør (UA): Vere med på å planleggje\, orga
+ nisere og gjennomføre UKM. Du får prøve deg på ulike oppgåver både f
+ ør og under arrangementet.\n\n📸 Media: Ta bilete\, filme\, lage innhal
+ d til sosiale medium og dokumentere det som skjer under UKM.\n\n🎤 Konfe
+ ransier: Vere på scena\, presentere deltakarane og bidra til å skape god
+  stemning gjennom arrangementet.\n\nDu treng ingen erfaring frå før! Det
+  viktigaste er at du er engasjert\, samarbeidsvillig og har lyst til å pr
+ øve noko nytt.\n\nFyll ut skjemaet under for å melde di interesse. Vi te
+ k kontakt med deg med meir informasjon! 😊\n\nhttps://delta.ukm.no/ukmid
+ /pamelding/4640-9961/\n\nKontaktpersoner\nJakub Stasiak\nTelefon: 96720475
+ \nE-post: jakub.stasiak@sogndal.kommune.no\n\nMariann Thorsnes Kvalheim\nT
+ elefon: 97182132\nE-post: mariann.kvalheim.thorsnes@sogndal.kommune.no\n\n
+ Tor Talle\nTelefon: 92893432\nE-post: tor@tortalle.com\n\nHelga Garborg Si
+ e\nKontakt fra Luster Kommune\nTelefon: 46812453\nE-post: helga.sie@luster
+ .kommune.no\n\nPåmelding – Luster: https://delta.ukm.no/ukmid/pamelding
+ /4644-9961/\nArrangementsside: https://www.ukm.no/arrangement/2027-luster-
+ sogndal-lusterogsogndal
+LOCATION:Sogndal Kulturhus\, Luster
+URL:https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10010@ukm-kalendere
 DTSTAMP:20261105T051723Z
 CREATED:20261105T051723Z
@@ -248,6 +285,41 @@ URL:https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9885@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10043@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270201T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Kinn 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Kinn 2027.\nPåme
+ ldingsfrist: 01.02.2027 kl. 23:59 (norsk tid).\n\nUKM Kinn 2027\n\nlørdag
+  13. februar kl. 14:00 - 18:00\n\nGate 1 121\n\nKinn\n\n🎤 Har du noko d
+ u har lyst til å vise fram? Då er UKM Kinn 2027 noko for deg!\n\nEr du m
+ ellom 13 og 19 år og har lyst til å stå på scena\, vise fram kunsten d
+ in\, spele musikk\, danse\, lese dikt\, opptre eller prøve noko heilt nyt
+ t? Då vil vi ha deg med!\nKanskje du vil vere konferansier\, scenearbeida
+ r eller bare hjelpe til å organisere alt sammen? Då har vi bruk for deg!
+ \n\nUKM Kinn arrangerast i år i Turnhallen i Måløy\, og her er det plas
+ s til alle slags talent\, idear og uttrykk. Du treng ikkje vere proff – 
+ det viktigaste er at du har lyst til å vere med!\n\nGrip sjansen\, bli kj
+ ent med andre kreative ungdommar og skap noko kult saman med oss.\n\nDette
+  er din scene. Din sjanse. Ditt UKM! 🔥\n\nMeld deg på UKM Kinn 2027!\n
+ \nUKM Kinn 2027: https://sys.ukm.no/2027-kinn-ukmkinn2027/files/2026/11/UK
+ M-Kinn-2027_-Din-scene-1200x1200.png\n\nhttps://delta.ukm.no/ukmid/pameldi
+ ng/4602-10043/\n\nKontaktpersoner\nAnne Grethe Strand\nTelefon: 90890381\n
+ E-post: anne.grethe.strand@kinn.kommune.no\n\nCarina Takle-Hillersøy\nTel
+ efon: 97617293\nE-post: carina.takle-hillersoy@kinn.kommune.no\n\nPåmeldi
+ ngsfrist – delta: 01.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak s
+ cenen: 01.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangem
+ ent/2027-kinn-ukmkinn2027
+LOCATION:Gate 1 121\, Kinn
+URL:https://www.ukm.no/arrangement/2027-kinn-ukmkinn2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10043@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9820@ukm-kalendere
@@ -415,6 +487,39 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10043@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270213T130000Z
+DTEND:20270213T170000Z
+SUMMARY:UKM Kinn 2027
+DESCRIPTION:UKM Kinn 2027\n\nlørdag 13. februar kl. 14:00 - 18:00\n\nGate 
+ 1 121\n\nKinn\n\n🎤 Har du noko du har lyst til å vise fram? Då er UKM
+  Kinn 2027 noko for deg!\n\nEr du mellom 13 og 19 år og har lyst til å s
+ tå på scena\, vise fram kunsten din\, spele musikk\, danse\, lese dikt\,
+  opptre eller prøve noko heilt nytt? Då vil vi ha deg med!\nKanskje du v
+ il vere konferansier\, scenearbeidar eller bare hjelpe til å organisere a
+ lt sammen? Då har vi bruk for deg!\n\nUKM Kinn arrangerast i år i Turnha
+ llen i Måløy\, og her er det plass til alle slags talent\, idear og uttr
+ ykk. Du treng ikkje vere proff – det viktigaste er at du har lyst til å
+  vere med!\n\nGrip sjansen\, bli kjent med andre kreative ungdommar og ska
+ p noko kult saman med oss.\n\nDette er din scene. Din sjanse. Ditt UKM! 
+ 🔥\n\nMeld deg på UKM Kinn 2027!\n\nUKM Kinn 2027: https://sys.ukm.no/2
+ 027-kinn-ukmkinn2027/files/2026/11/UKM-Kinn-2027_-Din-scene-1200x1200.png\
+ n\nhttps://delta.ukm.no/ukmid/pamelding/4602-10043/\n\nKontaktpersoner\nAn
+ ne Grethe Strand\nTelefon: 90890381\nE-post: anne.grethe.strand@kinn.kommu
+ ne.no\n\nCarina Takle-Hillersøy\nTelefon: 97617293\nE-post: carina.takle-
+ hillersoy@kinn.kommune.no\n\nPåmeldingsfrist – delta: 01.02.2027 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 01.02.2027 kl. 23:59\nArrangem
+ entsside: https://www.ukm.no/arrangement/2027-kinn-ukmkinn2027
+LOCATION:Gate 1 121\, Kinn
+URL:https://www.ukm.no/arrangement/2027-kinn-ukmkinn2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9908@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -498,6 +603,48 @@ LOCATION:Voss kulturhus\, Eidfjord\, Ulvik
 URL:https://www.ukm.no/arrangement/2027-eidfjord-ulvik-vvosseidfjordulvik
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10046@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270216T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Sogndal & Luster 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Sogndal & Luster 
+ 2027.\nPåmeldingsfrist: 16.02.2027 kl. 23:59 (norsk tid).\n\nUKM Sogndal 
+ & Luster 2027\n\nlørdag 13. mars kl. 14:00 - 22:00\n\nSogndal Kulturhus\n
+ \nSogndal\, Luster\n\nPåmelding til UKM Sogndal og Luster 🎨🎤🎸\n\
+ nHar du eit talent\, ein hobby eller noko du har lyst til å vise fram? D
+ å er UKM noko for deg! 🤩\n\nUKM (Ung Kultur Møtest) er ein arena der 
+ ungdom frå Sogndal og Luster får moglegheit til å vise fram det dei er 
+ interesserte i\, møte andre ungdommar og oppleve eit inkluderande og krea
+ tivt fellesskap.\n\nDu kan delta med nesten kva som helst! 🎉\n\n🎤 Mu
+ sikk og song – Band\, soloartist\, rap\, DJ og mykje meir.\n\n💃 Dans 
+ og scenekunst – Dans\, teater\, standup eller andre sceneinnslag.\n\n
+ 🎨 Kunst og kreativitet – Teikning\, måleri\, foto\, film\, handverk 
+ og andre kreative uttrykk.\n\n🎮 Andre talent – Har du noko heilt anna
+  du ønskjer å vise fram? UKM har plass til deg òg!\n\n✨ Du treng ikkj
+ e vere best eller ha erfaring frå før. UKM handlar om å delta\, utforsk
+ e\, ha det kjekt og dele det du brenn for!\n\nDeltaking er gratis!\n\n👉
+  Fyll ut påmeldingsskjemaet og bli med på UKM Sogndal og Luster! 💛\n\
+ nhttps://delta.ukm.no/ukmid/pamelding/4640-10046/\n\nKontaktpersoner\nJaku
+ b Stasiak\nTelefon: 96720475\nE-post: jakub.stasiak@sogndal.kommune.no\n\n
+ Mariann Thorsnes Kvalheim\nTelefon: 97182132\nE-post: mariann.kvalheim.tho
+ rsnes@sogndal.kommune.no\n\nTor Talle\nTelefon: 92893432\nE-post: tor@tort
+ alle.com\n\nHelga Garborg Sie\nKontakt fra Luster Kommune\nTelefon: 468124
+ 53\nE-post: helga.sie@luster.kommune.no\n\nPåmelding – Luster: https://
+ delta.ukm.no/ukmid/pamelding/4644-10046/\nPåmeldingsfrist – delta: 16.0
+ 2.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 16.02.2027 kl. 23
+ :59\nArrangementsside: https://www.ukm.no/arrangement/2027-luster-sogndal-
+ lusterogsogndalukm2027
+LOCATION:Sogndal Kulturhus\, Luster
+URL:https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndalukm20
+ 27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10046@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10032@ukm-kalendere
@@ -655,6 +802,46 @@ DESCRIPTION:UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavi
  nt/2027-bremanger-ukmbremanger
 LOCATION:Davik oppvekst Davik skule\, Bremanger
 URL:https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10046@ukm-kalendere
+DTSTAMP:20261117T051659Z
+CREATED:20261117T051659Z
+LAST-MODIFIED:20261117T051659Z
+SEQUENCE:0
+DTSTART:20270313T130000Z
+DTEND:20270313T210000Z
+SUMMARY:UKM Sogndal & Luster 2027
+DESCRIPTION:UKM Sogndal & Luster 2027\n\nlørdag 13. mars kl. 14:00 - 22:00
+ \n\nSogndal Kulturhus\n\nSogndal\, Luster\n\nPåmelding til UKM Sogndal og
+  Luster 🎨🎤🎸\n\nHar du eit talent\, ein hobby eller noko du har ly
+ st til å vise fram? Då er UKM noko for deg! 🤩\n\nUKM (Ung Kultur Møt
+ est) er ein arena der ungdom frå Sogndal og Luster får moglegheit til å
+  vise fram det dei er interesserte i\, møte andre ungdommar og oppleve ei
+ t inkluderande og kreativt fellesskap.\n\nDu kan delta med nesten kva som 
+ helst! 🎉\n\n🎤 Musikk og song – Band\, soloartist\, rap\, DJ og myk
+ je meir.\n\n💃 Dans og scenekunst – Dans\, teater\, standup eller andr
+ e sceneinnslag.\n\n🎨 Kunst og kreativitet – Teikning\, måleri\, foto
+ \, film\, handverk og andre kreative uttrykk.\n\n🎮 Andre talent – Har
+  du noko heilt anna du ønskjer å vise fram? UKM har plass til deg òg!\n
+ \n✨ Du treng ikkje vere best eller ha erfaring frå før. UKM handlar om
+  å delta\, utforske\, ha det kjekt og dele det du brenn for!\n\nDeltaking
+  er gratis!\n\n👉 Fyll ut påmeldingsskjemaet og bli med på UKM Sogndal
+  og Luster! 💛\n\nhttps://delta.ukm.no/ukmid/pamelding/4640-10046/\n\nKo
+ ntaktpersoner\nJakub Stasiak\nTelefon: 96720475\nE-post: jakub.stasiak@sog
+ ndal.kommune.no\n\nMariann Thorsnes Kvalheim\nTelefon: 97182132\nE-post: m
+ ariann.kvalheim.thorsnes@sogndal.kommune.no\n\nTor Talle\nTelefon: 9289343
+ 2\nE-post: tor@tortalle.com\n\nHelga Garborg Sie\nKontakt fra Luster Kommu
+ ne\nTelefon: 46812453\nE-post: helga.sie@luster.kommune.no\n\nPåmelding 
+ – Luster: https://delta.ukm.no/ukmid/pamelding/4644-10046/\nPåmeldingsf
+ rist – delta: 16.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scene
+ n: 16.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/
+ 2027-luster-sogndal-lusterogsogndalukm2027
+LOCATION:Sogndal Kulturhus\, Luster
+URL:https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndalukm20
+ 27
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
