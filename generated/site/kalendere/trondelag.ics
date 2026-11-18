@@ -8,37 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-9920@ukm-kalendere
-DTSTAMP:20261117T051659Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261117T051659Z
-SEQUENCE:2
-DTSTART:20261013T163000Z
-DTEND:20261117T210000Z
-SUMMARY:Arrangør Trondheim-Tråante
-DESCRIPTION:Arrangør Trondheim-Tråante\n\ntirsdag 13. oktober kl. 18:30 -
-  tirsdag 17. november kl. 22:00\n\nKultursenteret ISAK\n\nTrondheim - Trå
- ante\n\nBli en arrangør for UKM 2027! 🎉\n\nSom arrangør er du med på
-  å planlegge UKM 2027 og skape fantastiske minner sammen med resten av ar
- rangørene.\nDet første arrangement vi planlegger\, er UKM kickoff 13. no
- vember 2026. Vi har ungdommer i forskjellige arbeidsgrupper:\n\n-Media\n-T
- ekniker\n-Konferansier\n-Dekor\n-og masse mer\n\nArrangør møter: Tirsdag
- er KL: 18:30\nSted: Kultursenter ISAK\n\nSenere får du muligheten til å 
- være med på arrangørenes egen kickoff som finner sted i Januar 2027.\n\
- nJoin vår Discord chat for mer info :)\nhttps://discord.com/invite/MFKAyv
- 7aq3\n\nArrangør Trondheim-Tråante: https://sys.ukm.no/2026-trondheim-tr
- aante-arrangorukmtrondheim-traante/files/2026/10/DSC9385-1200x1079.jpg\n\n
- https://delta.ukm.no/ukmid/pamelding/5001-9920/\n\nKontaktpersoner\nTrine 
- Arntzen\nUKM kontakt Trondheim\nTelefon: 91672579\nE-post: trine.arntzen@t
- rondheim.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangement/20
- 26-trondheim-traante-arrangorukmtrondheim-traante
-LOCATION:Kultursenteret ISAK\, Trondheim - Tråante
-URL:https://www.ukm.no/arrangement/2026-trondheim-traante-arrangorukmtrondh
- eim-traante
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9706@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9991@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261118T051959Z
 CREATED:20261030T050327Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:1
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:2
 DTSTART:20260301T225959Z
 SUMMARY:Påmeldingsfrist bak scenen – KICK OFF
 DESCRIPTION:Frist for å melde seg på bak scenen til KICK OFF.\nPåmelding
@@ -21,12 +21,15 @@ DESCRIPTION:Frist for å melde seg på bak scenen til KICK OFF.\nPåmelding
  ed UKM Oslo! I samarbeid med Deichman Grünerløkka inviterer vi til en kv
  eld med åpen scene\, kreativt verksted\, gratis mat\, Kahoot og god stemn
  ing. Arrangementer gratis og åpent for deg mellom 13 og 20 år\, og du tr
- enger ikke å ha deltatt på UKM tidligere!\n\nKontaktpersoner\nCelin Sols
- tad\nTelefon: 91795353\nE-post: celin.solstad@musikk.no\n\nMagnus Nordbekk
- \nTelefon: 45002286\nE-post: magnus.nordbekk@musikk.no\n\nPåmeldingsfrist
-  – delta: 01.03.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 0
- 1.03.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026
- -oslo-kickoffukmoslo
+ enger ikke å ha deltatt på UKM tidligere!\n\nKICK OFF: https://sys.ukm.n
+ o/2026-oslo-kickoffukmoslo/files/2026/11/Tekniske-prover_UKM_OSLO_2026_Kas
+ per-Holgersen-5-1351x1800.jpg\n\nKontaktpersoner\nCelin Solstad\nTelefon: 
+ 91795353\nE-post: celin.solstad@musikk.no\n\nMagnus Nordbekk\nTelefon: 450
+ 02286\nE-post: magnus.nordbekk@musikk.no\n\nPåmeldingsfrist – delta: 01
+ .03.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2026 kl. 
+ 23:59\nArrangementsbilde: https://sys.ukm.no/2026-oslo-kickoffukmoslo/file
+ s/2026/11/Tekniske-prover_UKM_OSLO_2026_Kasper-Holgersen-5-901x1200.jpg\nA
+ rrangementsside: https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 LOCATION:Deichman Grünerløkka
 URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
 STATUS:CONFIRMED
@@ -69,11 +72,37 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10049@ukm-kalendere
+DTSTAMP:20261118T051959Z
+CREATED:20261118T051959Z
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:0
+DTSTART:20261127T170000Z
+DTEND:20261127T200000Z
+SUMMARY:Ullern og Vestre Aker Kick Off
+DESCRIPTION:Ullern og Vestre Aker Kick Off\n\nfredag 27. november kl. 18:00
+  - 21:00\n\nStoppestedet\n\nUllern\, Vestre Aker\n\nUKM Kick Off bydel Ull
+ ern og Vestre Aker Fredag 27. November fra kl 18-21\n\nKonserter\, møt ar
+ tister\, møt andre UKM deltakere\, lær mer om hva du kan gjøre på UKM\
+ n\nUllern og Vestre Aker Kick Off: https://sys.ukm.no/2026-ullern-vestreak
+ eullernogvestreakerukmkickoff/files/2026/11/UKM-Kickoff-forste-plakat-1-96
+ 0x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/325-10049/\n\nKontaktpe
+ rsoner\nNicolai Nypan\nTelefon: 91354770\nE-post: nicolai.nypan@bun.oslo.k
+ ommune.no\n\nPåmelding – Vestre Aker: https://delta.ukm.no/ukmid/pameld
+ ing/324-10049/\nArrangementsside: https://www.ukm.no/arrangement/2026-ulle
+ rn-vestreakeullernogvestreakerukmkickoff
+LOCATION:Stoppestedet\, Ullern\, Vestre Aker
+URL:https://www.ukm.no/arrangement/2026-ullern-vestreakeullernogvestreakeru
+ kmkickoff
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9991@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261118T051959Z
 CREATED:20261030T050327Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:1
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:2
 DTSTART:20261203T160000Z
 DTEND:20261203T200000Z
 SUMMARY:KICK OFF
@@ -82,32 +111,17 @@ DESCRIPTION:KICK OFF\n\ntorsdag 3. desember kl. 17:00 - 21:00\n\nDeichman G
  man Grünerløkka inviterer vi til en kveld med åpen scene\, kreativt ver
  ksted\, gratis mat\, Kahoot og god stemning. Arrangementer gratis og åpen
  t for deg mellom 13 og 20 år\, og du trenger ikke å ha deltatt på UKM t
- idligere!\n\nKontaktpersoner\nCelin Solstad\nTelefon: 91795353\nE-post: ce
- lin.solstad@musikk.no\n\nMagnus Nordbekk\nTelefon: 45002286\nE-post: magnu
- s.nordbekk@musikk.no\n\nPåmeldingsfrist – delta: 01.03.2026 kl. 23:59\n
- Påmeldingsfrist – bidra bak scenen: 01.03.2026 kl. 23:59\nArrangementss
- ide: https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
+ idligere!\n\nKICK OFF: https://sys.ukm.no/2026-oslo-kickoffukmoslo/files/2
+ 026/11/Tekniske-prover_UKM_OSLO_2026_Kasper-Holgersen-5-1351x1800.jpg\n\nK
+ ontaktpersoner\nCelin Solstad\nTelefon: 91795353\nE-post: celin.solstad@mu
+ sikk.no\n\nMagnus Nordbekk\nTelefon: 45002286\nE-post: magnus.nordbekk@mus
+ ikk.no\n\nPåmeldingsfrist – delta: 01.03.2026 kl. 23:59\nPåmeldingsfri
+ st – bidra bak scenen: 01.03.2026 kl. 23:59\nArrangementsbilde: https://
+ sys.ukm.no/2026-oslo-kickoffukmoslo/files/2026/11/Tekniske-prover_UKM_OSLO
+ _2026_Kasper-Holgersen-5-901x1200.jpg\nArrangementsside: https://www.ukm.n
+ o/arrangement/2026-oslo-kickoffukmoslo
 LOCATION:Deichman Grünerløkka
 URL:https://www.ukm.no/arrangement/2026-oslo-kickoffukmoslo
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ukm-arrangement-9946@ukm-kalendere
-DTSTAMP:20261025T111629Z
-CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
-DTSTART:20261220T170000Z
-DTEND:20261220T210000Z
-SUMMARY:St.Hanshaugen
-DESCRIPTION:St.Hanshaugen\n\nsøndag 20. desember kl. 18:00 - 22:00\n\nhttp
- s://delta.ukm.no/ukmid/pamelding/303-9946/\n\nKontaktpersoner\nØystein Ha
- uso\nE-post: oystein.hauso@bsh.oslo.kommune.no\n\nPåmeldingsfrist – del
- ta: 12.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement
- /2026-sthanshaugen-sthanshaugen
-LOCATION:\, St.Hanshaugen
-URL:https://www.ukm.no/arrangement/2026-sthanshaugen-sthanshaugen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -306,6 +320,78 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9937@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10048@ukm-kalendere
+DTSTAMP:20261118T051959Z
+CREATED:20261118T051959Z
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:0
+DTSTART:20270217T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Grünerløkka
+DESCRIPTION:Frist for å melde seg på bak scenen til Grünerløkka.\nPåme
+ ldingsfrist: 17.02.2027 kl. 23:59 (norsk tid).\n\nGrünerløkka\n\nlørdag
+  13. mars kl. 18:00 - 22:00\n\nSinsen Kulturhus\n\nÅrets UKM festival på
+  Grünerløkka!\n\nhttps://delta.ukm.no/ukmid/pamelding/314-10048/\n\nKont
+ aktpersoner\nSara Høylo Egeh\nProsjektarbeider\nTelefon: 41752801\nE-post
+ : sara.hoylo.egeh@deichman.no\n\nVikram Jassal\nProsjektarbeider\nTelefon:
+  48011198\nE-post: vikramja@gmail.com\n\nYousra Chachoua\nTeamleder Sinsen
+  kulturhus\nTelefon: 41478943\nE-post: yousra.chachoua@bga.oslo.kommune.no
+ \n\nPåmeldingsfrist – delta: 17.02.2027 kl. 23:59\nPåmeldingsfrist –
+  bidra bak scenen: 17.02.2027 kl. 23:59\nArrangementsside: https://www.ukm
+ .no/arrangement/2027-grunerlokka-grunerlokka
+LOCATION:Sinsen Kulturhus\, Grünerløkka
+URL:https://www.ukm.no/arrangement/2027-grunerlokka-grunerlokka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10048@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10050@ukm-kalendere
+DTSTAMP:20261118T051959Z
+CREATED:20261118T051959Z
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:0
+DTSTART:20270217T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Ullern og Vestre Aker
+DESCRIPTION:Frist for å melde seg på bak scenen til Ullern og Vestre Aker
+ .\nPåmeldingsfrist: 17.02.2027 kl. 23:59 (norsk tid).\n\nUllern og Vestre
+  Aker\n\nlørdag 13. mars kl. 15:00 - 20:00\n\nStoppestedet\n\nUllern\, Ve
+ stre Aker\n\nBydel Ullern og Vestre Aker arrangerer UKM Lørdag 13. Mars. 
+ Mer info kommer.\n\nhttps://delta.ukm.no/ukmid/pamelding/325-10050/\n\nKon
+ taktpersoner\nNicolai Nypan\nTelefon: 91354770\nE-post: nicolai.nypan@bun.
+ oslo.kommune.no\n\nPåmelding – Vestre Aker: https://delta.ukm.no/ukmid/
+ pamelding/324-10050/\nPåmeldingsfrist – delta: 17.02.2027 kl. 23:59\nP
+ åmeldingsfrist – bidra bak scenen: 17.02.2027 kl. 23:59\nArrangementssi
+ de: https://www.ukm.no/arrangement/2027-ullern-vestreakeullernogvestreaker
+LOCATION:Stoppestedet\, Ullern\, Vestre Aker
+URL:https://www.ukm.no/arrangement/2027-ullern-vestreakeullernogvestreaker
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10050@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10050@ukm-kalendere
+DTSTAMP:20261118T051959Z
+CREATED:20261118T051959Z
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:0
+DTSTART:20270313T140000Z
+DTEND:20270313T190000Z
+SUMMARY:Ullern og Vestre Aker
+DESCRIPTION:Ullern og Vestre Aker\n\nlørdag 13. mars kl. 15:00 - 20:00\n\n
+ Stoppestedet\n\nUllern\, Vestre Aker\n\nBydel Ullern og Vestre Aker arrang
+ erer UKM Lørdag 13. Mars. Mer info kommer.\n\nhttps://delta.ukm.no/ukmid/
+ pamelding/325-10050/\n\nKontaktpersoner\nNicolai Nypan\nTelefon: 91354770\
+ nE-post: nicolai.nypan@bun.oslo.kommune.no\n\nPåmelding – Vestre Aker: 
+ https://delta.ukm.no/ukmid/pamelding/324-10050/\nPåmeldingsfrist – delt
+ a: 17.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.02.2027
+  kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-ullern-v
+ estreakeullernogvestreaker
+LOCATION:Stoppestedet\, Ullern\, Vestre Aker
+URL:https://www.ukm.no/arrangement/2027-ullern-vestreakeullernogvestreaker
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9937@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -331,6 +417,30 @@ DESCRIPTION:Lokal mønstring Vestre Aker 2027\n\nlørdag 13. mars kl. 16:00
 LOCATION:\, Vestre Aker
 URL:https://www.ukm.no/arrangement/2027-vestreaker-lokalmonstringvestreaker
  2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10048@ukm-kalendere
+DTSTAMP:20261118T051959Z
+CREATED:20261118T051959Z
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:0
+DTSTART:20270313T170000Z
+DTEND:20270313T210000Z
+SUMMARY:Grünerløkka
+DESCRIPTION:Grünerløkka\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nSinsen K
+ ulturhus\n\nÅrets UKM festival på Grünerløkka!\n\nhttps://delta.ukm.no
+ /ukmid/pamelding/314-10048/\n\nKontaktpersoner\nSara Høylo Egeh\nProsjekt
+ arbeider\nTelefon: 41752801\nE-post: sara.hoylo.egeh@deichman.no\n\nVikram
+  Jassal\nProsjektarbeider\nTelefon: 48011198\nE-post: vikramja@gmail.com\n
+ \nYousra Chachoua\nTeamleder Sinsen kulturhus\nTelefon: 41478943\nE-post: 
+ yousra.chachoua@bga.oslo.kommune.no\n\nPåmeldingsfrist – delta: 17.02.2
+ 027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 17.02.2027 kl. 23:59
+ \nArrangementsside: https://www.ukm.no/arrangement/2027-grunerlokka-gruner
+ lokka
+LOCATION:Sinsen Kulturhus\, Grünerløkka
+URL:https://www.ukm.no/arrangement/2027-grunerlokka-grunerlokka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

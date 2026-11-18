@@ -547,25 +547,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10032@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261118T051959Z
 CREATED:20261113T051739Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:0
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:1
 DTSTART:20270215T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Bjørnafjorden Ung kulturfestival 2
- 027
-DESCRIPTION:Frist for å melde seg på bak scenen til Bjørnafjorden Ung ku
- lturfestival 2027.\nPåmeldingsfrist: 15.02.2027 kl. 23:59 (norsk tid).\n\
- nBjørnafjorden Ung kulturfestival 2027\n\nlørdag 20. februar kl. 15:00 -
-  18:00\n\nOshaugen 2\n\nBjørnafjorden\n\nVi jobbar mot å arrangere ung k
- ulturfestival i Bjørnafjorden 2027. Du kan no melde deg på med det du dr
- iv med. Meir info kjem etter kvart\n\nhttps://delta.ukm.no/ukmid/pamelding
- /4624-10032/\n\nKontaktpersoner\nGrete Byrkjeland\nTelefon: 94853607\nE-po
- st: Gby@bjornafjorden.kommune.no\n\nMagnus Godøy\nTelefon: 90015801\nE-po
- st: magnus.godoy08@gmail.com\n\nPåmeldingsfrist – delta: 15.02.2027 kl.
-  23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:59\nArran
- gementsside: https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjord
- en
+SUMMARY:Påmeldingsfrist bak scenen – UKM Bjørnafjorden 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Bjørnafjorden 20
+ 27.\nPåmeldingsfrist: 15.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bjørnafjo
+ rden 2027\n\nlørdag 20. februar kl. 15:00 - 18:00\n\nOshaugen 2\n\nBjørn
+ afjorden\n\nUKM Bjørnafjorden 2027 Vi jobbar mot å arrangere ung kulturf
+ estival i Bjørnafjorden 2027. Du kan no melde deg på med det du driv med
+ . Meir info kjem etter kvart\n\nhttps://delta.ukm.no/ukmid/pamelding/4624-
+ 10032/\n\nKontaktpersoner\nGrete Byrkjeland\nTelefon: 94853607\nE-post: Gb
+ y@bjornafjorden.kommune.no\n\nMagnus Godøy\nTelefon: 90015801\nE-post: ma
+ gnus.godoy08@gmail.com\n\nPåmeldingsfrist – delta: 15.02.2027 kl. 23:59
+ \nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23:59\nArrangement
+ sside: https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjorden
 LOCATION:Oshaugen 2\, Bjørnafjorden
 URL:https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjorden
 STATUS:CONFIRMED
@@ -648,23 +646,23 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10046@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10032@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261118T051959Z
 CREATED:20261113T051739Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:0
+LAST-MODIFIED:20261118T051959Z
+SEQUENCE:1
 DTSTART:20270220T140000Z
 DTEND:20270220T170000Z
-SUMMARY:Bjørnafjorden Ung kulturfestival 2027
-DESCRIPTION:Bjørnafjorden Ung kulturfestival 2027\n\nlørdag 20. februar k
- l. 15:00 - 18:00\n\nOshaugen 2\n\nBjørnafjorden\n\nVi jobbar mot å arran
- gere ung kulturfestival i Bjørnafjorden 2027. Du kan no melde deg på med
-  det du driv med. Meir info kjem etter kvart\n\nhttps://delta.ukm.no/ukmid
- /pamelding/4624-10032/\n\nKontaktpersoner\nGrete Byrkjeland\nTelefon: 9485
- 3607\nE-post: Gby@bjornafjorden.kommune.no\n\nMagnus Godøy\nTelefon: 9001
- 5801\nE-post: magnus.godoy08@gmail.com\n\nPåmeldingsfrist – delta: 15.0
- 2.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.2027 kl. 23
- :59\nArrangementsside: https://www.ukm.no/arrangement/2027-bjornafjorden-b
- jornafjorden
+SUMMARY:UKM Bjørnafjorden 2027
+DESCRIPTION:UKM Bjørnafjorden 2027\n\nlørdag 20. februar kl. 15:00 - 18:0
+ 0\n\nOshaugen 2\n\nBjørnafjorden\n\nUKM Bjørnafjorden 2027 Vi jobbar mot
+  å arrangere ung kulturfestival i Bjørnafjorden 2027. Du kan no melde de
+ g på med det du driv med. Meir info kjem etter kvart\n\nhttps://delta.ukm
+ .no/ukmid/pamelding/4624-10032/\n\nKontaktpersoner\nGrete Byrkjeland\nTele
+ fon: 94853607\nE-post: Gby@bjornafjorden.kommune.no\n\nMagnus Godøy\nTele
+ fon: 90015801\nE-post: magnus.godoy08@gmail.com\n\nPåmeldingsfrist – de
+ lta: 15.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.02.20
+ 27 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bjorna
+ fjorden-bjornafjorden
 LOCATION:Oshaugen 2\, Bjørnafjorden
 URL:https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjorden
 STATUS:CONFIRMED
