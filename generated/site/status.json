@@ -2,7 +2,7 @@
   "base_url": "https://edvinryk.github.io/UKM-Cal",
   "calendar_count": 16,
   "calendars": {
-    "agder": 23,
+    "agder": 25,
     "akershus": 19,
     "buskerud": 27,
     "finnmark": 8,
@@ -10,7 +10,7 @@
     "moreogromsdal": 6,
     "nasjonalt": 2,
     "nordland": 12,
-    "oslo": 20,
+    "oslo": 22,
     "ostfold": 19,
     "rogaland": 22,
     "telemark": 18,
@@ -20,7 +20,7 @@
     "vestland": 27
   },
   "deadline_calendars": {
-    "agder": 10,
+    "agder": 11,
     "akershus": 9,
     "buskerud": 10,
     "finnmark": 4,
@@ -28,7 +28,7 @@
     "moreogromsdal": 3,
     "nasjonalt": 1,
     "nordland": 6,
-    "oslo": 7,
+    "oslo": 8,
     "ostfold": 9,
     "rogaland": 11,
     "telemark": 9,
@@ -37,15 +37,15 @@
     "vestfold": 2,
     "vestland": 13
   },
-  "deadline_count": 125,
-  "entry_count": 277,
-  "event_count": 152,
-  "last_success": "2026-11-18T05:19:59.369801+00:00",
+  "deadline_count": 127,
+  "entry_count": 281,
+  "event_count": 154,
+  "last_success": "2026-11-19T05:23:53.601737+00:00",
   "sources": {
-    "checked_detail_pages": 152,
+    "checked_detail_pages": 154,
     "search": {
       "complete": true,
-      "hits": 643,
+      "hits": 645,
       "index": "events_prod",
       "pages": 7
     },
@@ -63,6 +63,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 155
+    "upcoming_api_count": 157
   }
 }

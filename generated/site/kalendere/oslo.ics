@@ -369,6 +369,39 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10050@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10052@ukm-kalendere
+DTSTAMP:20261119T052353Z
+CREATED:20261119T052353Z
+LAST-MODIFIED:20261119T052353Z
+SEQUENCE:0
+DTSTART:20270309T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Sagene og Nordre Aker
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Sagene og Nordre 
+ Aker.\nPåmeldingsfrist: 09.03.2027 kl. 23:59 (norsk tid).\n\nUKM Sagene o
+ g Nordre Aker\n\ntirsdag 16. mars kl. 18:00 - 21:00\n\nCosmopolite Scene\n
+ \nSagene\, Nordre Aker\n\nPåmeldingen til UKM Sagene og Nordre Aker er å
+ pen!\n\nHar du et talent du gjerne vil dele med andre? Uansett hvilken for
+ m for kunst du driver med kan du bli med! UKM er et sted der du kan få vi
+ st fram talentet ditt\, nesten uansett hva det måtte være. Det kan være
+  sceneinnslag som musikk\, dans\, drama\, standup\, konferansier\, film\, 
+ kunst eller foto. Vil du heller gjøre noe bak scenen er det også mulighe
+ t for å melde seg på som arrangør\, fotograf eller lignende.\n\nUKM Sag
+ ene & Nordre Aker aksepterer ingen innslag med bruk av KI. Her vil vi se a
+ lt det fantastiske dere lager selv!\n\nhttps://delta.ukm.no/ukmid/pameldin
+ g/304-10052/\n\nKontaktpersoner\nAnthony D. Mena\nTelefon: 41628728\nE-pos
+ t: anthony.d.mena@gmail.com\n\nLina Marie Abeland\nTelefon: 97695649\nE-po
+ st: linamarie.ab@gmail.com\n\nPåmelding – Nordre Aker: https://delta.uk
+ m.no/ukmid/pamelding/321-10052/\nPåmeldingsfrist – delta: 09.03.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 09.03.2027 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2027-nordreaker-sagennordreak
+ erogsagene
+LOCATION:Cosmopolite Scene\, Sagene\, Nordre Aker
+URL:https://www.ukm.no/arrangement/2027-nordreaker-sagennordreakerogsagene
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10052@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-10050@ukm-kalendere
 DTSTAMP:20261118T051959Z
 CREATED:20261118T051959Z
@@ -441,6 +474,37 @@ DESCRIPTION:Grünerløkka\n\nlørdag 13. mars kl. 18:00 - 22:00\n\nSinsen K
  lokka
 LOCATION:Sinsen Kulturhus\, Grünerløkka
 URL:https://www.ukm.no/arrangement/2027-grunerlokka-grunerlokka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10052@ukm-kalendere
+DTSTAMP:20261119T052353Z
+CREATED:20261119T052353Z
+LAST-MODIFIED:20261119T052353Z
+SEQUENCE:0
+DTSTART:20270316T170000Z
+DTEND:20270316T200000Z
+SUMMARY:UKM Sagene og Nordre Aker
+DESCRIPTION:UKM Sagene og Nordre Aker\n\ntirsdag 16. mars kl. 18:00 - 21:00
+ \n\nCosmopolite Scene\n\nSagene\, Nordre Aker\n\nPåmeldingen til UKM Sage
+ ne og Nordre Aker er åpen!\n\nHar du et talent du gjerne vil dele med and
+ re? Uansett hvilken form for kunst du driver med kan du bli med! UKM er et
+  sted der du kan få vist fram talentet ditt\, nesten uansett hva det måt
+ te være. Det kan være sceneinnslag som musikk\, dans\, drama\, standup\,
+  konferansier\, film\, kunst eller foto. Vil du heller gjøre noe bak scen
+ en er det også mulighet for å melde seg på som arrangør\, fotograf ell
+ er lignende.\n\nUKM Sagene & Nordre Aker aksepterer ingen innslag med bruk
+  av KI. Her vil vi se alt det fantastiske dere lager selv!\n\nhttps://delt
+ a.ukm.no/ukmid/pamelding/304-10052/\n\nKontaktpersoner\nAnthony D. Mena\nT
+ elefon: 41628728\nE-post: anthony.d.mena@gmail.com\n\nLina Marie Abeland\n
+ Telefon: 97695649\nE-post: linamarie.ab@gmail.com\n\nPåmelding – Nordre
+  Aker: https://delta.ukm.no/ukmid/pamelding/321-10052/\nPåmeldingsfrist 
+ – delta: 09.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 09
+ .03.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ nordreaker-sagennordreakerogsagene
+LOCATION:Cosmopolite Scene\, Sagene\, Nordre Aker
+URL:https://www.ukm.no/arrangement/2027-nordreaker-sagennordreakerogsagene
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
