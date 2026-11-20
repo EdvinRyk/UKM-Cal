@@ -738,6 +738,55 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10034@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10013@ukm-kalendere
+DTSTAMP:20261120T052112Z
+CREATED:20261120T052112Z
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Høyanger
+DESCRIPTION:Frist for å melde seg på bak scenen til Høyanger.\nPåmeldin
+ gsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nHøyanger\n\nonsdag 3. mars 
+ kl. 18:00 - 22:00\n\nMeld deg på årets lokalmønstring\, åpent nå!\n\n
+ Høyanger: https://sys.ukm.no/2027-hoyanger-hoyanger/files/2026/11/A4-Plak
+ at-2027-MED-QR-KODE-1273x1800.png\n\nhttps://delta.ukm.no/ukmid/pamelding/
+ 4638-10013/\n\nKontaktpersoner\nHege Ølmheim\nTelefon: 91827607\nE-post: 
+ hege.olmheim@hoyanger.kommun.no\n\nPåmeldingsfrist – delta: 01.03.2027 
+ kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.03.2027 kl. 23:59\nAr
+ rangementsbilde: https://sys.ukm.no/2027-hoyanger-hoyanger/files/2026/11/A
+ 4-Plakat-2027-MED-QR-KODE-848x1200.png\nArrangementsside: https://www.ukm.
+ no/arrangement/2027-hoyanger-hoyanger
+LOCATION:\, Høyanger
+URL:https://www.ukm.no/arrangement/2027-hoyanger-hoyanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10013@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10013@ukm-kalendere
+DTSTAMP:20261120T052112Z
+CREATED:20261120T052112Z
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:0
+DTSTART:20270303T170000Z
+DTEND:20270303T210000Z
+SUMMARY:Høyanger
+DESCRIPTION:Høyanger\n\nonsdag 3. mars kl. 18:00 - 22:00\n\nMeld deg på 
+ årets lokalmønstring\, åpent nå!\n\nHøyanger: https://sys.ukm.no/2027
+ -hoyanger-hoyanger/files/2026/11/A4-Plakat-2027-MED-QR-KODE-1273x1800.png\
+ n\nhttps://delta.ukm.no/ukmid/pamelding/4638-10013/\n\nKontaktpersoner\nHe
+ ge Ølmheim\nTelefon: 91827607\nE-post: hege.olmheim@hoyanger.kommun.no\n\
+ nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bi
+ dra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.n
+ o/2027-hoyanger-hoyanger/files/2026/11/A4-Plakat-2027-MED-QR-KODE-848x1200
+ .png\nArrangementsside: https://www.ukm.no/arrangement/2027-hoyanger-hoyan
+ ger
+LOCATION:\, Høyanger
+URL:https://www.ukm.no/arrangement/2027-hoyanger-hoyanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9969@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z

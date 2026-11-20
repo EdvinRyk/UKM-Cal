@@ -142,15 +142,15 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9887@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9942@ukm-kalendere
-DTSTAMP:20261119T052353Z
+DTSTAMP:20261120T052112Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261119T052353Z
-SEQUENCE:2
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:3
 DTSTART:20270116T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Grimstad
 DESCRIPTION:Frist for å melde seg på bak scenen til Grimstad.\nPåmelding
  sfrist: 16.01.2027 kl. 23:59 (norsk tid).\n\nGrimstad\n\nfredag 19. mars k
- l. 17:30 - 21:00\n\nGrimstad Kulturhus og kino\n\nFredag 12.mars er vi end
+ l. 17:30 - 21:00\n\nGrimstad Kulturhus og kino\n\nFredag 19.mars er vi end
  elig klare til årets store kultur-happening for ungdom i Grimstad\, nemli
  g UKM!\n\nUKM (Ung Kultur Møtes) er en festival der ungdom kan vise hva d
  e holder på med og møte andre som liker å drive med noe kreativt og gø
@@ -757,15 +757,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9942@ukm-kalendere
-DTSTAMP:20261119T052353Z
+DTSTAMP:20261120T052112Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261119T052353Z
-SEQUENCE:3
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:4
 DTSTART:20270319T163000Z
 DTEND:20270319T200000Z
 SUMMARY:Grimstad
 DESCRIPTION:Grimstad\n\nfredag 19. mars kl. 17:30 - 21:00\n\nGrimstad Kultu
- rhus og kino\n\nFredag 12.mars er vi endelig klare til årets store kultur
+ rhus og kino\n\nFredag 19.mars er vi endelig klare til årets store kultur
  -happening for ungdom i Grimstad\, nemlig UKM!\n\nUKM (Ung Kultur Møtes) 
  er en festival der ungdom kan vise hva de holder på med og møte andre so
  m liker å drive med noe kreativt og gøy. Det er gratis å være med\, og

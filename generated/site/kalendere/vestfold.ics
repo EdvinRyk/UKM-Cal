@@ -9,40 +9,35 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9813@ukm-kalendere
-DTSTAMP:20261103T051258Z
+DTSTAMP:20261120T052112Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261103T051258Z
-SEQUENCE:3
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:4
 DTSTART:20261015T100000Z
 DTEND:20261130T113000Z
 SUMMARY:Larvik høst 26
 DESCRIPTION:Larvik høst 26\n\ntorsdag 15. oktober kl. 12:00 - mandag 30. n
- ovember kl. 12:30\n\nLarvik\n\nUKM\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
- \\\\\\\\\\\\\\\\\\\\\\'ere mellom 13-20 år!\n\nDenne høsten blir UKM Lar
- vik litt annerledes - istedenfor å samle alle til en UKM-dag\, har vi bes
- temt oss for å heller komme ut til dere!\n\nSå hvis du spiller i band\, 
- er soloartist\, lager kunst\, er fotograf eller tekniker\, eller andre tin
- g - inviter oss til der DU viser frem!\nDermed er du med på å kunne bli 
- trukket ut som Larviks bidrag til fylkesmønstringen (16.-17.JANUAR \\\\\\
- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'27)\n\nFor å mel
- de seg på må du ta kontakt med Sara (UKM-kontakt i Larvik)\, enten pr. m
- ail (sara.gjeterud@larvik.kommune.no (mailto:sara.gjeterud@larvik.kommune.
- no))\, eller komme innom på Fabrikken Ungdomshus for en prat. Det viktigs
- te er at vi får greie på hvor og når du skal vise frem kunsten\, musikk
- en\, dansen eller showet ditt :)\n\nDette må vi vite:\n- Hva skal du/dere
-  gjøre? (feks\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
- \\\\\"vi skal spille med bandet vårt på juleavslutninga på skolen\\\\\\
- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\, eller \\\\\\\\
- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"vi har utstilling m
- ed kunstgruppa på kulturskolen\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
- \\\\\\\\\\\\\\\\\\\")\n- Når og hvor skjer det?\n- Navnet ditt\, og alder
-  på de som er med?\n\nBidrag blir plukket ut denne høsten\, og siste fri
- st for å vise oss er 5. desember.\nHar du noe du liker å gjøre? UKM gir
-  deg muligheten for å vise det frem!\n\nLarvik høst 26: https://sys.ukm.
- no/2026-larvik-ukmlarvikhost26/files/2026/11/Sondre-1200x800.jpg\n\nKontak
- tpersoner\nSara Håkonsdatter Gjeterud\nE-post: sara.gjeterud@larvik.kommu
- ne.no\n\nArrangementsside: https://www.ukm.no/arrangement/2026-larvik-ukml
- arvikhost26
+ ovember kl. 12:30\n\nLarvik\n\nUKMere mellom 13-20 år!\n\nDenne høsten b
+ lir UKM Larvik litt annerledes - istedenfor å samle alle til en UKM-dag\,
+  har vi bestemt oss for å heller komme ut til dere!\n\nSå hvis du spille
+ r i band\, er soloartist\, lager kunst\, er fotograf eller tekniker\, elle
+ r andre ting - inviter oss til der DU viser frem!\nDermed er du med på å
+  kunne bli trukket ut som Larviks bidrag til fylkesmønstringen (16.-17.JA
+ NUAR 27)\n\nFor å melde seg på må du ta kontakt med Sara (UKM-kontakt i
+  Larvik)\, enten pr. mail (sara.gjeterud@larvik.kommune.no (mailto:sara.gj
+ eterud@larvik.kommune.no))\, eller komme innom på Fabrikken Ungdomshus fo
+ r en prat. Det viktigste er at vi får greie på hvor og når du skal vise
+  frem kunsten\, musikken\, dansen eller showet ditt :)\n\nDette må vi vit
+ e:\n- Hva skal du/dere gjøre? (feks\,vi skal spille med bandet vårt på 
+ juleavslutninga på skolen\, eller vi har utstilling med kunstgruppa på k
+ ulturskolen)\n- Når og hvor skjer det?\n- Navnet ditt\, og alder på de s
+ om er med?\n\nBidrag blir plukket ut denne høsten\, og siste frist for å
+  vise oss er 5. desember.\nHar du noe du liker å gjøre? UKM gir deg muli
+ gheten for å vise det frem!\n\nLarvik høst 26: https://sys.ukm.no/2026-l
+ arvik-ukmlarvikhost26/files/2026/11/Sondre-1200x800.jpg\n\nKontaktpersoner
+ \nSara Håkonsdatter Gjeterud\nE-post: sara.gjeterud@larvik.kommune.no\n\n
+ Arrangementsside: https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost
+ 26
 LOCATION:\, Larvik
 URL:https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26
 STATUS:CONFIRMED
@@ -50,15 +45,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9847@ukm-kalendere
-DTSTAMP:20261116T054318Z
+DTSTAMP:20261120T052112Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261116T054318Z
-SEQUENCE:1
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:2
 DTSTART:20261115T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Sandefjord 2026
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Sandefjord 2026.\
  nPåmeldingsfrist: 15.11.2026 kl. 23:59 (norsk tid).\n\nUKM Sandefjord 202
- 6\n\nsøndag 22. november kl. 12:00 - 19:00\n\nHarmonie Arena\n\nSandefjor
+ 6\n\nsøndag 22. november kl. 16:00 - 18:30\n\nHarmonie Arena\n\nSandefjor
  d\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er Norges største kulturarena f
  or ungdom – en festival der du får vise fram det du lager\, uansett om 
  det er en sang du har skrevet\, en dans du har koreografert\, en film du h
@@ -137,14 +132,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9847@ukm-kalendere
-DTSTAMP:20261116T054318Z
+DTSTAMP:20261120T052112Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261116T054318Z
-SEQUENCE:2
-DTSTART:20261122T110000Z
-DTEND:20261122T180000Z
+LAST-MODIFIED:20261120T052112Z
+SEQUENCE:3
+DTSTART:20261122T150000Z
+DTEND:20261122T173000Z
 SUMMARY:UKM Sandefjord 2026
-DESCRIPTION:UKM Sandefjord 2026\n\nsøndag 22. november kl. 12:00 - 19:00\n
+DESCRIPTION:UKM Sandefjord 2026\n\nsøndag 22. november kl. 16:00 - 18:30\n
  \nHarmonie Arena\n\nSandefjord\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er 
  Norges største kulturarena for ungdom – en festival der du får vise fr
  am det du lager\, uansett om det er en sang du har skrevet\, en dans du ha

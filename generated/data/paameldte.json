@@ -1,13 +1,28 @@
 {
-  "antall_arrangementer": 154,
-  "antall_deltakernavn_i_innslag": 177,
-  "antall_innslag": 448,
+  "antall_arrangementer": 157,
+  "antall_deltakernavn_i_innslag": 190,
+  "antall_innslag": 474,
   "arrangementer": [
     {
-      "antall_innslag": 5,
+      "antall_innslag": 7,
       "arrangement_id": "9813",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26",
       "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [
+            "Aliyah Aliyah",
+            "Amalie Amalie",
+            "Elvira Elvira",
+            "Emilie Næss",
+            "Henriette Brudal Uglum",
+            "Linnea Pøl Steinert",
+            "Nelly Nelly",
+            "Tia Sofie Dokken Nilsen"
+          ],
+          "id": "262539",
+          "navn": "Elitetroppen"
+        },
         {
           "beskrivelse": "Pønkerockeband fra Larvik",
           "deltakernavn": [
@@ -18,6 +33,14 @@
           ],
           "id": "262169",
           "navn": "Hallucination"
+        },
+        {
+          "beskrivelse": "4 portretter",
+          "deltakernavn": [
+            "Hanna Wendel-Haga"
+          ],
+          "id": "262536",
+          "navn": "Hanna"
         },
         {
           "beskrivelse": "Har vært med før, er ei pottitt, er tech først og fremst, men Sara sier jeg kan brukes til nesten alt ;) Hvis jeg får velge vil jeg helst IKKE jobbe som scenearbeider.",
@@ -136,7 +159,7 @@
       "navn": "Markedsføring i sosiale medier med \\\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\\"."
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "10044",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-stange-trommeworkshopmedbaardkolstad",
       "innslag": [
@@ -157,13 +180,19 @@
           "deltakernavn": [],
           "id": "262452",
           "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262560",
+          "navn": "Person innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10044",
       "navn": "Trommeworkshop med Baard Kolstad"
     },
     {
-      "antall_innslag": 29,
+      "antall_innslag": 33,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
       "innslag": [
@@ -339,6 +368,30 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262427",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262541",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262542",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262543",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262544",
           "navn": "Person innslag"
         }
       ],
@@ -668,7 +721,7 @@
       "navn": "UKM Sandefjord 2026"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 7,
       "arrangement_id": "9950",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
       "innslag": [
@@ -701,6 +754,18 @@
           "deltakernavn": [],
           "id": "262503",
           "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262535",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262564",
+          "navn": "Person innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9950",
@@ -715,7 +780,7 @@
       "navn": "Ullern og Vestre Aker Kick Off"
     },
     {
-      "antall_innslag": 12,
+      "antall_innslag": 14,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -756,6 +821,12 @@
           "navn": "Utstilling innslag"
         },
         {
+          "beskrivelse": "4 klassing som elsker å lage ting. Veldig kreativ og spesielt flink til å tegne.",
+          "deltakernavn": [],
+          "id": "262334",
+          "navn": "Utstilling innslag"
+        },
+        {
           "beskrivelse": "Jeg liker veldig godt å tegne ting jeg syntes er kult",
           "deltakernavn": [],
           "id": "262348",
@@ -790,13 +861,19 @@
           "deltakernavn": [],
           "id": "262500",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg liker å tegne. Som oftest tegner jeg folk og dyr. For 1 år siden prøvde jeg digital tegning og likte det vedlig godt.",
+          "deltakernavn": [],
+          "id": "262562",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -841,6 +918,12 @@
           "deltakernavn": [],
           "id": "262501",
           "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262563",
+          "navn": "Person innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9949",
@@ -863,7 +946,7 @@
       "navn": "Åpen dansesal med Lise"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "9995",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
       "innslag": [
@@ -871,6 +954,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262362",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262558",
           "navn": "Person innslag"
         }
       ],
@@ -910,7 +999,7 @@
       "navn": "Torsdagsscenen 17. desember 2026"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "10017",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-hole-manga-workshoppaholebibliotek",
       "innslag": [
@@ -929,6 +1018,14 @@
           ],
           "id": "262528",
           "navn": "Heine Felberg Johnsen"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [
+            "Thomas André Moen"
+          ],
+          "id": "262529",
+          "navn": "Thomas André Moen"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10017",
@@ -1070,7 +1167,7 @@
       "navn": "UKM-festivalen i Vestfold"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 7,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [
@@ -1089,6 +1186,14 @@
           ],
           "id": "262345",
           "navn": "Edel Malene Torset Roksvåg"
+        },
+        {
+          "beskrivelse": "Jeg liker å være kreativ og prøve meg på forskjellige typer kunst. Jeg synes det er gøy å kunne lage noe helt eget og bruke fantasien til å skape noe som andre kan se på og tolke på sin egen måte.",
+          "deltakernavn": [
+            "Emma Lervik"
+          ],
+          "id": "262550",
+          "navn": "Emma Lervik"
         },
         {
           "beskrivelse": "Jeg er 14 år og heter Martine. Jeg har sunget siden jeg var 4 år. Musikken betyr ekstra mye for meg fordi når jeg synger så tenker jeg ikke på noe annet. Musikken er som mitt beste fristed",
@@ -1621,7 +1726,7 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 5,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
@@ -1648,10 +1753,24 @@
           "deltakernavn": [],
           "id": "262271",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "17, år sunget hele livet spilt piano 1 år",
+          "deltakernavn": [],
+          "id": "262538",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9980",
       "navn": "Kvitsøy og Randaberg"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10055",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkstedpaholmliakulturhavn",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10055",
+      "navn": "Kunst & kulturverksted på Holmlia Kulturhavn"
     },
     {
       "antall_innslag": 0,
@@ -2195,10 +2314,17 @@
       "navn": "Jazzimpro for blåsere med Petter Anton Næss"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10000",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-hol-ukmhol2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Sprudlende, morsom og glad solstråle som sprer glede til de rundt seg.",
+          "deltakernavn": [],
+          "id": "262378",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10000",
       "navn": "Hol 2027"
     },
@@ -2248,10 +2374,18 @@
       "navn": "UKM Midt-Telemark"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 5,
       "arrangement_id": "9943",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-levanger-lokalmonstringlevanger",
       "innslag": [
+        {
+          "beskrivelse": "Jeg har vært konseransier på mange arrangemet inkludert ukm før",
+          "deltakernavn": [
+            "Emilie Ingersol Zakariassen"
+          ],
+          "id": "262548",
+          "navn": "Emilie Ingersol Zakariassen"
+        },
         {
           "beskrivelse": "Gutt som liker dansing og g pop",
           "deltakernavn": [
@@ -2361,25 +2495,25 @@
       "navn": "Kviteseid og Seljord"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 0,
       "arrangement_id": "9985",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-midtregauldal-midtregauldal",
-      "innslag": [
-        {
-          "beskrivelse": "Jeg er en jente på 17 år som liker og synge og ønsker og vise frem hva jeg kan. Jeg gleder meg masse til ukm🩷.",
-          "deltakernavn": [],
-          "id": "262145",
-          "navn": "Musikk innslag"
-        }
-      ],
+      "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9985",
       "navn": "Midtre Gauldal"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9815",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-hole-modum-ringeholemodumogringerike",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Hyglig og livlig person som er vært og henge rundt",
+          "deltakernavn": [],
+          "id": "262426",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9815",
       "navn": "Hole, Modum og Ringerike"
     },
@@ -2400,10 +2534,29 @@
       "navn": "Øvre Eiker festival 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 3,
       "arrangement_id": "10032",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bjornafjorden-bjornafjorden",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Det eg synest er kjekt med å vere konferansier er å få andre til å skinne, og underhalde publikum mellom sceneskift. Eg var til landsfestivalen som konferansier i fjor og året før!",
+          "deltakernavn": [],
+          "id": "262533",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Eg heiter Magnus, er 18 år gammal og bur på Vinnes. Eg har spelt piano i 10 år no, og e glad i mykje forskjellig musikk. Eg elsker UKM, og dette blir mitt fjerde år!",
+          "deltakernavn": [],
+          "id": "262532",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Inspirert av UKM har eg og fleire ungommmar laga ein app for ung kultur, kor vi kan drive med det vi brenner for, heile året. Eg ønsker å fortelje om reisa vår: kva vi har skapt, utfordringane vi møtte og hva vi har lært.",
+          "deltakernavn": [],
+          "id": "262534",
+          "navn": "Noe annet på scene innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10032",
       "navn": "UKM Bjørnafjorden 2027"
     },
@@ -2586,6 +2739,14 @@
       "navn": "UKM Show Kongsberg"
     },
     {
+      "antall_innslag": 0,
+      "arrangement_id": "10013",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-hoyanger-hoyanger",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10013",
+      "navn": "Høyanger"
+    },
+    {
       "antall_innslag": 8,
       "arrangement_id": "9954",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027",
@@ -2753,10 +2914,23 @@
       "navn": "Lokalfestival i Eidsvoll 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 2,
       "arrangement_id": "9969",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord2027",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Eg er 15 år, speler gitar og synger aleine på scena, eg har spelt gitar i mange år på kulturskulen, før eg slutta når eg var 13 år og spela fritt. Eg har nylig begynt på sang og elska det, men eg har songe i fleire år aleine.",
+          "deltakernavn": [],
+          "id": "262525",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "eg heite Alice er 20 år og er nettopp ferdig på vgs. på fitida mi drive eg med musikk der eg synge i førde Tensing Deciding, Gospelkor, Førde internasjonaltkor og tar sangtimar på Kulturskulen. i sommar i fjor lagde eg ein sang til onkelen min på morsmålet vårt. eg lagde den fordi han e ein kjempe snill og kul onkel og eg e veldig glad i han. no ønske eg å vise fram låta på UKM. ein heilt egen låt som eg har skreve heilt sjølv ilag med onkelen min. eg har stort sett dreve med musikk og songet i kor sida eg gjekk på barneskulen.",
+          "deltakernavn": [],
+          "id": "262559",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9969",
       "navn": "Lokalmønstring Sunnfjord 2027"
     },
@@ -3116,7 +3290,7 @@
       "navn": "UKM BAMBLE"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9998",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-etnedal-nord-aurukmvaldres",
       "innslag": [
@@ -3133,6 +3307,12 @@
           "navn": "Konferansier innslag"
         },
         {
+          "beskrivelse": "Vi er et band på tre folk som elsker å spille metal og vise oss selg fram med musikken vår",
+          "deltakernavn": [],
+          "id": "262062",
+          "navn": "Musikk innslag"
+        },
+        {
           "beskrivelse": "Jeg har spilt fiolin i flere år, og fikk tilbud å være med å lege min egen sammen med en felemaker.",
           "deltakernavn": [],
           "id": "262059",
@@ -3143,10 +3323,17 @@
       "navn": "UKM Valdres 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9897",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alstahaug-alstahaug",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Hei! Jeg heter Eslin Tesfa. Jeg liker å synge og høre på musikk, spesielt Olivia Rodrigo sienna spiro og àdel . Jeg er en person som liker å prøve nye ting, selv om jeg noen ganger kan bli litt nervøs. Jeg gleder meg til å være med på UKM og vise fram noe jeg liker",
+          "deltakernavn": [],
+          "id": "262490",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9897",
       "navn": "UKM Alstahaug"
     },
@@ -3832,6 +4019,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10054",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-sondrenordstrand-ukmsondrenordstrand",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10054",
+      "navn": "UKM Søndre Nordstrand"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9821",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trysil-trysil",
       "innslag": [],
@@ -4012,7 +4207,7 @@
       "navn": "UKM Indre Østfold 2027"
     },
     {
-      "antall_innslag": 13,
+      "antall_innslag": 14,
       "arrangement_id": "9906",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027",
       "innslag": [
@@ -4070,6 +4265,14 @@
             "Mio Aunmo"
           ],
           "id": "261759",
+          "navn": "Mio Aunmo"
+        },
+        {
+          "beskrivelse": "vær så god",
+          "deltakernavn": [
+            "Mio Aunmo"
+          ],
+          "id": "262552",
           "navn": "Mio Aunmo"
         },
         {
@@ -4228,7 +4431,7 @@
           "navn": "Liam Dee"
         },
         {
-          "beskrivelse": "Jeg vokst opp med å synge karaoke på familiefester. Jeg har også sunget på andre festivaler fra før, og jeg har tenkt å synge for gøy.",
+          "beskrivelse": "Jeg vokst opp med å synge karaoke på familiefester. Jeg har også sunget på andre festivaler fra før. Nå gjør jeg det som side quests.",
           "deltakernavn": [
             "Rogley Salem"
           ],
@@ -4306,5 +4509,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-19T05:23:53.601737+00:00"
+  "oppdatert": "2026-11-20T05:21:12.537520+00:00"
 }
