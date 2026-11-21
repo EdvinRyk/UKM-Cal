@@ -265,34 +265,61 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9951@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10055@ukm-kalendere
-DTSTAMP:20261120T052112Z
+DTSTAMP:20261121T051351Z
 CREATED:20261120T052112Z
-LAST-MODIFIED:20261120T052112Z
-SEQUENCE:0
-DTSTART:20270201T170000Z
-DTEND:20270228T210000Z
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:1
+DTSTART:20270129T170000Z
+DTEND:20270129T190000Z
 SUMMARY:Kunst & kulturverksted på Holmlia Kulturhavn
-DESCRIPTION:Kunst & kulturverksted på Holmlia Kulturhavn\n\nmandag 1. febr
- uar kl. 18:00 - søndag 28. februar kl. 22:00\n\nHolmlia Kulturhavn\n\nSø
- ndre Nordstrand\n\nHolmlia Kulturhavn arrangerer to verksted innenfor kuns
- t og kultur for ungdom i alderen 13 - 20 år. Verkstedene holdes i løpet 
- av februar 2027\, datoer publiseres i løpet av kort tid.\nAlle som deltar
-  på verkstedene vil også få mulighet til å melde seg på hovedarrangem
- entet UKM-festivalen i Søndre Nordstrand\, som arrangeres på Holmlia Kul
- turhavn søndag 14. mars 2027.\nMeld gjerne din interesse allerede nå!\n\
- nKunst & kulturverksted på Holmlia Kulturhavn: https://sys.ukm.no/2027-so
- ndrenordstrand-kunstkulturverkstedpaholmliakulturhavn/files/2026/11/DSC030
- 21-1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/309-10055/\n\nKont
- aktpersoner\nEinar Eidsvåg\nTelefon: 40232497\nE-post: einar@holmliakultu
- rhavn.no\n\nLinn Evensen\nTelefon: 99242768\nE-post: linn.evensen@bymisjon
- .no\n\nEspransa Abou Zeid\nProsjektleder for UKM på Holmlia Kulturhavn\nT
- elefon: 46352221\nE-post: espransa@holmliakulturhavn.no\n\nPåmeldingsfris
- t – delta: 24.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 
- 19.02.2027 kl. 15:44\nArrangementsside: https://www.ukm.no/arrangement/202
- 7-sondrenordstrand-kunstkulturverkstedpaholmliakulturhavn
+DESCRIPTION:Kunst & kulturverksted på Holmlia Kulturhavn\n\nfredag 29. jan
+ uar kl. 18:00 - 20:00\n\nHolmlia Kulturhavn\n\nSøndre Nordstrand\n\nHolml
+ ia Kulturhavn arrangerer to verksted innenfor kunst og kultur for ungdom i
+  alderen 13 - 20 år. Verkstedene holdes i løpet av februar 2027\, datoer
+  publiseres i løpet av kort tid.\nAlle som deltar på verkstedene vil ogs
+ å få mulighet til å melde seg på hovedarrangementet UKM-festivalen i S
+ øndre Nordstrand\, som arrangeres på Holmlia Kulturhavn søndag 14. mars
+  2027.\nMeld gjerne din interesse allerede nå!\n\nKunst & kulturverksted 
+ på Holmlia Kulturhavn: https://sys.ukm.no/2027-sondrenordstrand-kunstkult
+ urverkstedpaholmliakulturhavn/files/2026/11/DSC03021-1200x800.jpg\n\nhttps
+ ://delta.ukm.no/ukmid/pamelding/309-10055/\n\nKontaktpersoner\nEspransa Ab
+ ou Zeid\nProsjektleder for UKM på Holmlia Kulturhavn\nTelefon: 46352221\n
+ E-post: espransa@holmliakulturhavn.no\n\nEinar Eidsvåg\nProsjektleder på
+  Holmlia Kulturhavn\nTelefon: 40232497\nE-post: einar@holmliakulturhavn.no
+ \n\nPåmeldingsfrist – delta: 24.01.2027 kl. 23:59\nArrangementsside: ht
+ tps://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkstedpaho
+ lmliakulturhavn
 LOCATION:Holmlia Kulturhavn\, Søndre Nordstrand
 URL:https://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkste
  dpaholmliakulturhavn
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10061@ukm-kalendere
+DTSTAMP:20261121T051351Z
+CREATED:20261121T051351Z
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:0
+DTSTART:20270205T170000Z
+DTEND:20270205T193000Z
+SUMMARY:Kunst & kulturverksted på Holmlia Kulturhavn
+DESCRIPTION:Kunst & kulturverksted på Holmlia Kulturhavn\n\nfredag 5. febr
+ uar kl. 18:00 - 20:30\n\nSøndre Nordstrand\n\nHolmlia Kulturhavn arranger
+ er to verksted innenfor kunst og kultur for ungdom i alderen 13 - 20 år. 
+ Verkstedene holdes i løpet av februar 2027\, datoer publiseres i løpet a
+ v kort tid.\nAlle som deltar på verkstedene vil også få mulighet til å
+  melde seg på hovedarrangementet UKM-festivalen i Søndre Nordstrand\, so
+ m arrangeres på Holmlia Kulturhavn søndag 14. mars 2027.\nMeld gjerne di
+ n interesse allerede nå!\n\nhttps://delta.ukm.no/ukmid/pamelding/309-1006
+ 1/\n\nKontaktpersoner\nCamilla Rowe\nTelefon: 90806710\nE-post: mail@camil
+ larowe.com\n\nEspransa Abou Zeid\nProsjektleder for UKM på Holmlia Kultur
+ havn\nTelefon: 45352221\nE-post: espe_@live.no\n\nEinar Eidsvåg\nProsjekt
+ leder på Holmlia Kulturhavn\nTelefon: 40232497\nE-post: einar@holmliakult
+ urhavn.no\n\nArrangementsside: https://www.ukm.no/arrangement/2027-sondren
+ ordstrand-sondrenordstrand3
+LOCATION:\, Søndre Nordstrand
+URL:https://www.ukm.no/arrangement/2027-sondrenordstrand-sondrenordstrand3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -402,47 +429,11 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10050@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-10055@ukm-kalendere
-DTSTAMP:20261120T052112Z
-CREATED:20261120T052112Z
-LAST-MODIFIED:20261120T052112Z
-SEQUENCE:0
-DTSTART:20270219T144407Z
-SUMMARY:Påmeldingsfrist bak scenen – Kunst & kulturverksted på Holmlia 
- Kulturhavn
-DESCRIPTION:Frist for å melde seg på bak scenen til Kunst & kulturverkste
- d på Holmlia Kulturhavn.\nPåmeldingsfrist: 19.02.2027 kl. 15:44 (norsk t
- id).\n\nKunst & kulturverksted på Holmlia Kulturhavn\n\nmandag 1. februar
-  kl. 18:00 - søndag 28. februar kl. 22:00\n\nHolmlia Kulturhavn\n\nSøndr
- e Nordstrand\n\nHolmlia Kulturhavn arrangerer to verksted innenfor kunst o
- g kultur for ungdom i alderen 13 - 20 år. Verkstedene holdes i løpet av 
- februar 2027\, datoer publiseres i løpet av kort tid.\nAlle som deltar p
- å verkstedene vil også få mulighet til å melde seg på hovedarrangemen
- tet UKM-festivalen i Søndre Nordstrand\, som arrangeres på Holmlia Kultu
- rhavn søndag 14. mars 2027.\nMeld gjerne din interesse allerede nå!\n\nK
- unst & kulturverksted på Holmlia Kulturhavn: https://sys.ukm.no/2027-sond
- renordstrand-kunstkulturverkstedpaholmliakulturhavn/files/2026/11/DSC03021
- -1200x800.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/309-10055/\n\nKontak
- tpersoner\nEinar Eidsvåg\nTelefon: 40232497\nE-post: einar@holmliakulturh
- avn.no\n\nLinn Evensen\nTelefon: 99242768\nE-post: linn.evensen@bymisjon.n
- o\n\nEspransa Abou Zeid\nProsjektleder for UKM på Holmlia Kulturhavn\nTel
- efon: 46352221\nE-post: espransa@holmliakulturhavn.no\n\nPåmeldingsfrist 
- – delta: 24.01.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19
- .02.2027 kl. 15:44\nArrangementsside: https://www.ukm.no/arrangement/2027-
- sondrenordstrand-kunstkulturverkstedpaholmliakulturhavn
-LOCATION:Holmlia Kulturhavn\, Søndre Nordstrand
-URL:https://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkste
- dpaholmliakulturhavn
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10055@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10054@ukm-kalendere
-DTSTAMP:20261120T052112Z
+DTSTAMP:20261121T051351Z
 CREATED:20261120T052112Z
-LAST-MODIFIED:20261120T052112Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:1
 DTSTART:20270219T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Søndre Nordstrand
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Søndre Nordstran
@@ -456,12 +447,13 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Søndre Nordstran
   hvis du har spørsmål.\n\nUKM Søndre Nordstrand: https://sys.ukm.no/202
  7-sondrenordstrand-ukmsondrenordstrand/files/2026/11/336893046_22786024313
  7538_3286954656812404837_n-1200x799.jpeg\n\nhttps://delta.ukm.no/ukmid/pam
- elding/309-10054/\n\nKontaktpersoner\nEinar Eidsvåg\nTelefon: 40232497\nE
- -post: einar@holmliakulturhavn.no\n\nEspransa Abou Zeid\nProsjektleder for
-  UKM på Holmlia Kulturhavn\nTelefon: 46352221\nE-post: espransa@holmliaku
- lturhavn.no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldin
- gsfrist – bidra bak scenen: 19.02.2027 kl. 23:59\nArrangementsside: http
- s://www.ukm.no/arrangement/2027-sondrenordstrand-ukmsondrenordstrand
+ elding/309-10054/\n\nKontaktpersoner\nEspransa Abou Zeid\nProsjektleder fo
+ r UKM på Holmlia Kulturhavn\nTelefon: 46352221\nE-post: espransa@holmliak
+ ulturhavn.no\n\nEinar Eidsvåg\nProsjektleder på Holmlia Kulturhavn\nTele
+ fon: 40232497\nE-post: einar@holmliakulturhavn.no\n\nPåmeldingsfrist – 
+ delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.02.
+ 2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-sond
+ renordstrand-ukmsondrenordstrand
 LOCATION:Holmlia Kulturhavn\, Søndre Nordstrand
 URL:https://www.ukm.no/arrangement/2027-sondrenordstrand-ukmsondrenordstran
  d
@@ -580,10 +572,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10054@ukm-kalendere
-DTSTAMP:20261120T052112Z
+DTSTAMP:20261121T051351Z
 CREATED:20261120T052112Z
-LAST-MODIFIED:20261120T052112Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:1
 DTSTART:20270314T130000Z
 DTEND:20270314T180000Z
 SUMMARY:UKM Søndre Nordstrand
@@ -596,13 +588,13 @@ DESCRIPTION:UKM Søndre Nordstrand\n\nsøndag 14. mars kl. 14:00 - 19:00\n\
  rs eller ta kontakt med oss hvis du har spørsmål.\n\nUKM Søndre Nordstr
  and: https://sys.ukm.no/2027-sondrenordstrand-ukmsondrenordstrand/files/20
  26/11/336893046_227860243137538_3286954656812404837_n-1200x799.jpeg\n\nhtt
- ps://delta.ukm.no/ukmid/pamelding/309-10054/\n\nKontaktpersoner\nEinar Eid
- svåg\nTelefon: 40232497\nE-post: einar@holmliakulturhavn.no\n\nEspransa A
- bou Zeid\nProsjektleder for UKM på Holmlia Kulturhavn\nTelefon: 46352221\
- nE-post: espransa@holmliakulturhavn.no\n\nPåmeldingsfrist – delta: 01.0
- 3.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 19.02.2027 kl. 23
- :59\nArrangementsside: https://www.ukm.no/arrangement/2027-sondrenordstran
- d-ukmsondrenordstrand
+ ps://delta.ukm.no/ukmid/pamelding/309-10054/\n\nKontaktpersoner\nEspransa 
+ Abou Zeid\nProsjektleder for UKM på Holmlia Kulturhavn\nTelefon: 46352221
+ \nE-post: espransa@holmliakulturhavn.no\n\nEinar Eidsvåg\nProsjektleder p
+ å Holmlia Kulturhavn\nTelefon: 40232497\nE-post: einar@holmliakulturhavn.
+ no\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 19.02.2027 kl. 23:59\nArrangementsside: https://www.
+ ukm.no/arrangement/2027-sondrenordstrand-ukmsondrenordstrand
 LOCATION:Holmlia Kulturhavn\, Søndre Nordstrand
 URL:https://www.ukm.no/arrangement/2027-sondrenordstrand-ukmsondrenordstran
  d

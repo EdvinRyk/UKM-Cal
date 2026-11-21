@@ -62,14 +62,14 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9875@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9980@ukm-kalendere
-DTSTAMP:20261118T051959Z
+DTSTAMP:20261121T051351Z
 CREATED:20261027T045222Z
-LAST-MODIFIED:20261118T051959Z
-SEQUENCE:1
-DTSTART:20270110T225900Z
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:2
+DTSTART:20270115T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Kvitsøy og Randaberg
 DESCRIPTION:Frist for å melde seg på bak scenen til Kvitsøy og Randaberg
- .\nPåmeldingsfrist: 10.01.2027 kl. 23:59 (norsk tid).\n\nKvitsøy og Rand
+ .\nPåmeldingsfrist: 15.01.2027 kl. 23:59 (norsk tid).\n\nKvitsøy og Rand
  aberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n\nVaren Randaberg kultursce
  ne\n\nRandaberg\, Kvitsøy\n\nUKM 2027 – Randaberg & Kvitsøy\nUKM er en
   arena der ungdom fra Randaberg og Kvitsøy får vise fram det de brenner 
@@ -86,8 +86,8 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Kvitsøy og Randaberg
  ud Dahl\nTelefon: 45246602\nE-post: ida.haugerud.dahl@kvitsoy.kommune.no\n
  \nSimon Leirvik\nTelefon: 91395991\nE-post: simon.leirvik@randaberg.kommun
  e.no\n\nPåmelding – Kvitsøy: https://delta.ukm.no/ukmid/pamelding/1144
- -9980/\nPåmeldingsfrist – delta: 10.01.2027 kl. 23:59\nPåmeldingsfrist
-  – bidra bak scenen: 10.01.2027 kl. 23:59\nArrangementsside: https://www
+ -9980/\nPåmeldingsfrist – delta: 15.01.2027 kl. 23:59\nPåmeldingsfrist
+  – bidra bak scenen: 15.01.2027 kl. 23:59\nArrangementsside: https://www
  .ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg
 LOCATION:Varen Randaberg kulturscene\, Kvitsøy
 URL:https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg
@@ -141,10 +141,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9940@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9980@ukm-kalendere
-DTSTAMP:20261118T051959Z
+DTSTAMP:20261121T051351Z
 CREATED:20261027T045222Z
-LAST-MODIFIED:20261118T051959Z
-SEQUENCE:1
+LAST-MODIFIED:20261121T051351Z
+SEQUENCE:2
 DTSTART:20270130T170000Z
 DTEND:20270130T210000Z
 SUMMARY:Kvitsøy og Randaberg
@@ -164,8 +164,8 @@ DESCRIPTION:Kvitsøy og Randaberg\n\nlørdag 30. januar kl. 18:00 - 22:00\n
  Kontaktpersoner\nIda Haugerud Dahl\nTelefon: 45246602\nE-post: ida.haugeru
  d.dahl@kvitsoy.kommune.no\n\nSimon Leirvik\nTelefon: 91395991\nE-post: sim
  on.leirvik@randaberg.kommune.no\n\nPåmelding – Kvitsøy: https://delta.
- ukm.no/ukmid/pamelding/1144-9980/\nPåmeldingsfrist – delta: 10.01.2027 
- kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 10.01.2027 kl. 23:59\nAr
+ ukm.no/ukmid/pamelding/1144-9980/\nPåmeldingsfrist – delta: 15.01.2027 
+ kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.01.2027 kl. 23:59\nAr
  rangementsside: https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitso
  yograndaberg
 LOCATION:Varen Randaberg kulturscene\, Kvitsøy

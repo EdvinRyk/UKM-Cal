@@ -1,7 +1,7 @@
 {
   "antall_arrangementer": 157,
-  "antall_deltakernavn_i_innslag": 190,
-  "antall_innslag": 474,
+  "antall_deltakernavn_i_innslag": 196,
+  "antall_innslag": 478,
   "arrangementer": [
     {
       "antall_innslag": 7,
@@ -159,40 +159,7 @@
       "navn": "Markedsføring i sosiale medier med \\\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\\"."
     },
     {
-      "antall_innslag": 4,
-      "arrangement_id": "10044",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-stange-trommeworkshopmedbaardkolstad",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262446",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262450",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262452",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262560",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10044",
-      "navn": "Trommeworkshop med Baard Kolstad"
-    },
-    {
-      "antall_innslag": 33,
+      "antall_innslag": 34,
       "arrangement_id": "9872",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
       "innslag": [
@@ -392,6 +359,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262544",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262572",
           "navn": "Person innslag"
         }
       ],
@@ -721,7 +694,7 @@
       "navn": "UKM Sandefjord 2026"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 9,
       "arrangement_id": "9950",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
       "innslag": [
@@ -765,6 +738,18 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262564",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262583",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262584",
           "navn": "Person innslag"
         }
       ],
@@ -1167,10 +1152,23 @@
       "navn": "UKM-festivalen i Vestfold"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [
+        {
+          "beskrivelse": "Sal og scene gjengen fra tustna",
+          "deltakernavn": [
+            "Emily Köning",
+            "Ingeborg Aukan",
+            "Marion Linvåg Smerud",
+            "Othelie Neerland Jørgenvåg",
+            "Runa Aurora Helgesson Nordgård",
+            "Tanita Sofie Edøy"
+          ],
+          "id": "262569",
+          "navn": "Dead Lizards"
+        },
         {
           "beskrivelse": "Har sunget i flere år",
           "deltakernavn": [
@@ -1257,7 +1255,7 @@
       "navn": "Kick-off"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 15,
       "arrangement_id": "9960",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
       "innslag": [
@@ -1340,6 +1338,12 @@
           "navn": "Musikk innslag"
         },
         {
+          "beskrivelse": "Vi er et band som er energisk og liker liv på scenen. Alle i bandet er 13 og 14",
+          "deltakernavn": [],
+          "id": "262575",
+          "navn": "Musikk innslag"
+        },
+        {
           "beskrivelse": "E heter Shwe er 15år og er veldig glad i å male og være kreativ!",
           "deltakernavn": [],
           "id": "262504",
@@ -1350,7 +1354,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 31,
+      "antall_innslag": 34,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1424,6 +1428,24 @@
           "beskrivelse": "Deltatt på UKM tidligere som UA og media.",
           "deltakernavn": [],
           "id": "262278",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg heter Iben og jeg er 14 år gammel, jeg går i niende klasse på hovedgården ungdomsskole. Jeg liker å være kreativ og å lage ting og spiller fiolin og gitar i band. Jeg har veldig lyst til å bli arrangør fordi jeg er veldig glad i å være med på arrangementer og jeg vil støtte vennene mine. Jeg bryr meg egentlig ikke så mye om hva jeg jobber med. Jeg jobbet som «crew» her i fjor, og jeg vil gjerne gjøre det igjen.",
+          "deltakernavn": [],
+          "id": "262578",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Hei, jeg heter Julie og er 14 år, jeg går i 9.trinn på Hovedgården ungsomsskole.\nJeg har ingen tilidgere erfaring med å være arrangør, men jeg ønsker å få muligheten til å prøve dette ut.\nJeg har også lyst til å være der for å støtte vennene mine og andre.",
+          "deltakernavn": [],
+          "id": "262579",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Jeg heter Grace og er 14 år. Jeg går på 9. trinnHovedgården ungdomsskole. Jeg vil støtte venner, og jeg spiller i band og har erfaring med å arrangere ting",
+          "deltakernavn": [],
+          "id": "262580",
           "navn": "Arrangør innslag"
         },
         {
@@ -1543,6 +1565,14 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9868",
       "navn": "UKM Asker 2027"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10055",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkstedpaholmliakulturhavn",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10055",
+      "navn": "Kunst & kulturverksted på Holmlia Kulturhavn"
     },
     {
       "antall_innslag": 21,
@@ -1726,7 +1756,7 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 5,
+      "antall_innslag": 6,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
@@ -1734,6 +1764,12 @@
           "beskrivelse": "Jeg var med som lystekniker ifjord å har jobbet mye i varen så har god kontroll på hva jeg driver med",
           "deltakernavn": [],
           "id": "262330",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "jeg jobber som lydtekniker og hr vert med i to år på Ukm",
+          "deltakernavn": [],
+          "id": "262573",
           "navn": "Arrangør innslag"
         },
         {
@@ -1763,14 +1799,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9980",
       "navn": "Kvitsøy og Randaberg"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "10055",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-sondrenordstrand-kunstkulturverkstedpaholmliakulturhavn",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10055",
-      "navn": "Kunst & kulturverksted på Holmlia Kulturhavn"
     },
     {
       "antall_innslag": 0,
@@ -1824,6 +1852,14 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10030",
       "navn": "Åpen dansesal med Lise"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10061",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-sondrenordstrand-sondrenordstrand3",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10061",
+      "navn": "Kunst & kulturverksted på Holmlia Kulturhavn"
     },
     {
       "antall_innslag": 1,
@@ -2038,7 +2074,7 @@
       "navn": "UKM Samnanger 2027"
     },
     {
-      "antall_innslag": 24,
+      "antall_innslag": 23,
       "arrangement_id": "9706",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027",
       "innslag": [
@@ -2118,12 +2154,6 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "261716",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262004",
           "navn": "Arrangør innslag"
         },
         {
@@ -4509,5 +4539,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-20T05:21:12.537520+00:00"
+  "oppdatert": "2026-11-21T05:13:51.935515+00:00"
 }
