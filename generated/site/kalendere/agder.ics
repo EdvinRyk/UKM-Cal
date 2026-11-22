@@ -56,11 +56,84 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9986@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9947@ukm-kalendere
+DTSTAMP:20261122T051558Z
+CREATED:20261122T051558Z
+LAST-MODIFIED:20261122T051558Z
+SEQUENCE:0
+DTSTART:20261124T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – Kunstutstilling
+DESCRIPTION:Frist for å melde seg på bak scenen til Kunstutstilling.\nPå
+ meldingsfrist: 24.11.2026 kl. 23:59 (norsk tid).\n\nKunstutstilling\n\nlø
+ rdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets k
+ unstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet\, 
+ Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løpe
+ r og underholdning. Og viktigst av alt\, det blir stor kunst fra våre ung
+ dommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille
+  ut? Eller har du planer om å produsere kunst? Da kan du melde deg på he
+ r :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.
+ ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTele
+ fon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Anderse
+ n\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona H
+ arbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåm
+ eldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra b
+ ak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arra
+ ngement/2026-lindesnes-ukmkunstutstilling
+LOCATION:\, Lindesnes
+URL:https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9947@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10063@ukm-kalendere
+DTSTAMP:20261122T051558Z
+CREATED:20261122T051558Z
+LAST-MODIFIED:20261122T051558Z
+SEQUENCE:0
+DTSTART:20261128T120000Z
+DTEND:20261128T163000Z
+SUMMARY:Informasjon om årets kunstutstilling og workshop
+DESCRIPTION:Informasjon om årets kunstutstilling og workshop\n\nlørdag 28
+ . november kl. 13:00 - 17:30\n\nLindesnes\n\nInformasjon til crew\, utstil
+ lere og deltaker på workshopen.\n\nCrew\nFredag 27. november møtes vi p
+ å Kulturtorvet\, Vigeland\, klokka 17.00. Vi skal rigge og klargjøre til
+  lørdagen. Dere får pizza. Vi holder på til klokka 20.00.\nLørdag 28. 
+ november møtes vi klokka 11 for de siste forberedelsene. Fra 13- 14 er de
+ t åpning av kunstustillinga. Da hjelper dere til. Etter det er det worksh
+ op\, dere kan velge om dere vil være deltakere på denne\, eller om dere 
+ vil jobbe som crew. Fra klokka 17.30 - 18.30 er det rydding.\n\nKunstutsti
+ llere\nKunsten leveres på bibliotekene i kommunen (Mandal\, Vigeland elle
+ r Øyslebø) senest tirsdag 24. november. Hvis dere har en annen avtale me
+ d Hanne eller Kolbrun kan dere se bort fra dette. Åpningen av utstillinga
+  er 28. november 13.00-14.00 på Kulturtorvet\, Vigeland. Her blir det god
+ terikanapeer\, brus og god stemning. Hvis ikke du har meldt deg på\, gjø
+ r du det her: https://www.ukm.no/?steder=Agder_Lindesnes (finn fanen som h
+ eterkunstuststilling). Påmeldingsfrist tirsdag 24. november.\n\nWorkshop\
+ nWorkshopen varer fra klokka 14.00 - 17.30. Ta med tøy som tåler å bli 
+ skittent. Det blir taco og snacks. Viktig at dere melder dere på her: htt
+ ps://www.ukm.no/?steder=Agder_Lindesnes (finn fanen som heter workshop\; m
+ aske i leire). Dette for at vi kan beregne mat som skal kjøpes og kunne t
+ a mathensyn. Påmeldingsfrist tirsdag 24. november\n\nInformasjon om året
+ s kunstutstilling og workshop: https://sys.ukm.no/2026-lindesnes-informasj
+ onomaretskunstutstillingogworks/files/2026/11/arrangement_utstilling-1200x
+ 675.jpg\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: han
+ ne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-po
+ st: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\n
+ E-post: mona.harbak@lindesnes.kommune.no\n\nArrangementsside: https://www.
+ ukm.no/arrangement/2026-lindesnes-informasjonomaretskunstutstillingogworks
+LOCATION:\, Lindesnes
+URL:https://www.ukm.no/arrangement/2026-lindesnes-informasjonomaretskunstut
+ stillingogworks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9947@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261122T051558Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T051558Z
+SEQUENCE:2
 DTSTART:20261128T120000Z
 DTEND:20261128T130000Z
 SUMMARY:Kunstutstilling
@@ -75,8 +148,9 @@ DESCRIPTION:Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLi
  aktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lin
  desnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.anders
  en@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.ha
- rbak@lindesnes.kommune.no\n\nArrangementsside: https://www.ukm.no/arrangem
- ent/2026-lindesnes-ukmkunstutstilling
+ rbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangem
+ entsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
 LOCATION:\, Lindesnes
 URL:https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
 STATUS:CONFIRMED
@@ -84,10 +158,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9949@ukm-kalendere
-DTSTAMP:20261121T051351Z
+DTSTAMP:20261122T051558Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261121T051351Z
-SEQUENCE:2
+LAST-MODIFIED:20261122T051558Z
+SEQUENCE:3
 DTSTART:20261128T130000Z
 DTEND:20261128T163000Z
 SUMMARY:Workshop\; maske i leire
@@ -103,7 +177,7 @@ DESCRIPTION:Workshop\; maske i leire\n\nlørdag 28. november kl. 14:00 - 17
  efon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Anders
  en\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona 
  Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPå
- meldingsfrist – delta: 20.11.2026 kl. 23:59\nArrangementsside: https://w
+ meldingsfrist – delta: 24.11.2026 kl. 23:59\nArrangementsside: https://w
  ww.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire
 LOCATION:\, Lindesnes
 URL:https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire

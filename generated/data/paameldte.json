@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 157,
-  "antall_deltakernavn_i_innslag": 196,
-  "antall_innslag": 478,
+  "antall_arrangementer": 154,
+  "antall_deltakernavn_i_innslag": 189,
+  "antall_innslag": 447,
   "arrangementer": [
     {
       "antall_innslag": 7,
@@ -149,294 +149,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
       "navn": "CREW - Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "10025",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-ovreeiker-markedsforingisosialemediermedhalllo",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10025",
-      "navn": "Markedsføring i sosiale medier med \\\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\\"."
-    },
-    {
-      "antall_innslag": 34,
-      "arrangement_id": "9872",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-verdal-ungkulturfestival",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262188",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262189",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262190",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262191",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262192",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262193",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262194",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262195",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262196",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262197",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262198",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262199",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262200",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262204",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262255",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262256",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262257",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262258",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262259",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262260",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262261",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262262",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262263",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262264",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262282",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262372",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262373",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262374",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262427",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262541",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262542",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262543",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262544",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262572",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9872",
-      "navn": "Ung kulturfestival"
-    },
-    {
-      "antall_innslag": 6,
-      "arrangement_id": "9881",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-holmestrand-holmestrand27",
-      "innslag": [
-        {
-          "beskrivelse": "Caps",
-          "deltakernavn": [
-            "Erik Viktor Varberg"
-          ],
-          "id": "262498",
-          "navn": "KE spill"
-        },
-        {
-          "beskrivelse": "Jeg har gått på teater før jeg er snill, får ikke så lett nerver (kommer an på hvor mange det er😅)\nJeg liker lesing og dikting😊.",
-          "deltakernavn": [
-            "Iben Tyse"
-          ],
-          "id": "262486",
-          "navn": "Linn skåber"
-        },
-        {
-          "beskrivelse": "Liker å være kreativ.",
-          "deltakernavn": [
-            "Mina Moen Kvammen"
-          ],
-          "id": "262519",
-          "navn": "Mina Moen Kvammen"
-        },
-        {
-          "beskrivelse": "To 14 år gamle jenter som liker å danse 💃",
-          "deltakernavn": [
-            "Olivia Antoniusen",
-            "Vilde Malmsten Lislerud"
-          ],
-          "id": "262168",
-          "navn": "N30N"
-        },
-        {
-          "beskrivelse": "Jeg prøver meg på graffiti",
-          "deltakernavn": [
-            "Samuel Rødal-Øvretveit"
-          ],
-          "id": "262483",
-          "navn": "Patrick the star"
-        },
-        {
-          "beskrivelse": "Rare og kule",
-          "deltakernavn": [
-            "Signe Hesselberg Løvestad",
-            "Victoria Tidemansen"
-          ],
-          "id": "262520",
-          "navn": "Selvik jentene"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9881",
-      "navn": "Holmestrand"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "9970",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-sarpsborg-bandworkshop",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9970",
-      "navn": "Bandworkshop"
     },
     {
       "antall_innslag": 29,
@@ -765,10 +477,54 @@
       "navn": "Ullern og Vestre Aker Kick Off"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 0,
+      "arrangement_id": "10063",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-informasjonomaretskunstutstillingogworks",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10063",
+      "navn": "Informasjon om årets kunstutstilling og workshop"
+    },
+    {
+      "antall_innslag": 20,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262588",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262589",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262590",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262591",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262592",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262593",
+          "navn": "Arrangør innslag"
+        },
         {
           "beskrivelse": "Jeg liker kunst.",
           "deltakernavn": [],
@@ -1255,7 +1011,7 @@
       "navn": "Kick-off"
     },
     {
-      "antall_innslag": 15,
+      "antall_innslag": 16,
       "arrangement_id": "9960",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
       "innslag": [
@@ -1282,6 +1038,12 @@
           "deltakernavn": [],
           "id": "262226",
           "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "DXLAB Oppdal blir til stede på UKM Oppdal 2027! Vi arrangerer en «game jam» der ungdommer på UKM kan bli med i et utviklingsteam og lage et spill! Spillene utvikles i «game jam»-stil i løpet av UKM, og vises frem for publikum på den siste dagen! Følg med videre – vi avslører snart et spennende tema som vil engasjere alle!",
+          "deltakernavn": [],
+          "id": "262585",
+          "navn": "Datakultur innslag"
         },
         {
           "beskrivelse": "Var konferansier i fjor, har også vært det på mairock og barnas kulturfestival",
@@ -2548,10 +2310,17 @@
       "navn": "Hole, Modum og Ringerike"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10016",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alta-alta",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "En kunstnerisk og musikalsk person som drømmer om et liv som musiker! Spiller trompet i korps, og er selvlært på gitar og piano.",
+          "deltakernavn": [],
+          "id": "262565",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10016",
       "navn": "Alta"
     },
@@ -3119,7 +2888,7 @@
       "navn": "UKM Namdalseid 2027"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "9957",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-eigersund-eigersund",
       "innslag": [
@@ -3141,6 +2910,14 @@
           ],
           "id": "262050",
           "navn": "Inger Angelica"
+        },
+        {
+          "beskrivelse": "Spiller Piano. Var på ukm ifjor og syns det var kjekt å se på, og har lyst å være med i år. Er glad i musikk og alt forkjellige som skjer på scenen under ukm. Dette er første gang jeg er med.",
+          "deltakernavn": [
+            "Tilla Koldal"
+          ],
+          "id": "262488",
+          "navn": "Tilla"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9957",
@@ -4539,5 +4316,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-21T05:13:51.935515+00:00"
+  "oppdatert": "2026-11-22T05:15:58.685605+00:00"
 }

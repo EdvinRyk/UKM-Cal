@@ -8,41 +8,6 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ukm-arrangement-10025@ukm-kalendere
-DTSTAMP:20261111T051743Z
-CREATED:20261111T051743Z
-LAST-MODIFIED:20261111T051743Z
-SEQUENCE:0
-DTSTART:20261120T170000Z
-DTEND:20261121T130000Z
-SUMMARY:Markedsføring i sosiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\\\\\
- \\\\".
-DESCRIPTION:Markedsføring i sosiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\
- \\\\\\\\".\n\nfredag 20. november kl. 18:00 - lørdag 21. november kl. 14:
- 00\n\nØvre Eiker\n\nNå har du muligheten til å få opplæring av de pro
- fesjonelle på hvordan du skal få oppmerksomhet rundt din sak. Fredag 18-
- 20 Lørdag 10-14 i Skotselv\n\nKanskje er du allerede en med mange følger
- e som trenger å spisse budskapet\, eller kanskje har du en hjertesak du v
- i nå i gjennom med. Og kanskje vil du bli en av de som hjelper til med ma
- rkedsføringen av UKM?\n\nhttps://www.halllo.no/avis\n\nMarkedsføring i s
- osiale medier med \\\\\\\\\\\\\\"Halllo\\\\\\\\\\\\\\".: https://sys.ukm.n
- o/2026-ovreeiker-markedsforingisosialemediermedhalllo/files/2026/11/Kopi-a
- v-Facebook-arr.-cover-3-1200x628.png\n\nhttps://delta.ukm.no/ukmid/pameldi
- ng/3314-10025/\n\nKontaktpersoner\nAnne Grethe Klunderud\nTelefon: 9022074
- 4\nE-post: annegrethe.klunderud@oeiker.no\n\nMari Sundsaasen Innervik\nTel
- efon: 91365177\nE-post: marisundsaasen.innervik@ovre-eiker.kommune.no\n\nS
- ebastian Lindland\nTelefon: 48269903\nE-post: SebastianNormannNilsen.Lindl
- and@ovre-eiker.kommune.no\n\nÅsmund Tvinnereim\nTelefon: 40914147\nE-post
- : asmund.tvinnereim@oeiker.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl
- . 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-ovreeiker-m
- arkedsforingisosialemediermedhalllo
-LOCATION:\, Øvre Eiker
-URL:https://www.ukm.no/arrangement/2026-ovreeiker-markedsforingisosialemedi
- ermedhalllo
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-10029@ukm-kalendere
 DTSTAMP:20261111T051743Z
 CREATED:20261111T051743Z
