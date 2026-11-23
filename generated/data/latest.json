@@ -173,24 +173,6 @@
     {
       "all_day": false,
       "calendars": [
-        "vestfold"
-      ],
-      "description": "Frist for å melde seg på bak scenen til UKM Sandefjord 2026.\nPåmeldingsfrist: 15.11.2026 kl. 23:59 (norsk tid).\n\nUKM Sandefjord 2026\n\nsøndag 22. november kl. 16:00 - 18:30\n\nHarmonie Arena\n\nSandefjord\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er Norges største kulturarena for ungdom – en festival der du får vise fram det du lager, uansett om det er en sang du har skrevet, en dans du har koreografert, en film du har klipt, eller noe vi ikke har hørt om ennå.\nDu trenger ikke være «god nok» eller ha gjort det før. UKM er stedet du prøver deg – foran et publikum som heier på deg.\n\nHvem kan delta?\nAlle ungdommer mellom 10 - 20 år, enten du vil:\nVære utøver - vis fram det du lager - på scenen, på en skjerm, eller i en utstilling\nVære arrangør - Bli med og lag festivalen sammen med oss. Vi trenger folk som liker å planlegge, bygge scene, jobbe bak kulissene, eller ta i mot publikum.\n\nPraktisk info:\nNår: 22. november\nHvor: Harmonie arena\nHvem: Ungdom i Sandefjord (og omegn)\nPris: Gratis å delta og å se forestilling\n\nSlik melder du deg på:\nBestem deg for hva du vil vise fram eller hvilken rolle du vil ha som arrangør\nFyll ut påmeldingsskjemaet innen 15. november\nVi tar kontakt med mer info\n\nLurer du på noe?\nTa kontakt med ane.pedersen@sandefjord.kommune.no (mailto:ane.pedersen@sandefjord.kommune.no)\n\nUKM Sandefjord 2026: https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203995\nE-post: ane.pedersen@sandefjord.kommune.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
-      "end": null,
-      "expires": "2026-11-22T18:30:00+01:00",
-      "id": "9847-bak-scenen-frist",
-      "kind": "backstage_deadline",
-      "location": "Harmonie Arena, Sandefjord",
-      "parent_uid": "ukm-arrangement-9847@ukm-kalendere",
-      "start": "2026-11-15T23:59:00+01:00",
-      "status": "CONFIRMED",
-      "title": "Påmeldingsfrist bak scenen – UKM Sandefjord 2026",
-      "uid": "ukm-bak-scenen-frist-9847@ukm-kalendere",
-      "url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026"
-    },
-    {
-      "all_day": false,
-      "calendars": [
         "agder"
       ],
       "description": "Frist for å melde seg på bak scenen til Kunstutstilling.\nPåmeldingsfrist: 24.11.2026 kl. 23:59 (norsk tid).\n\nKunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
@@ -2656,88 +2638,6 @@
         },
         "type": "kommune",
         "url": "https://sys.ukm.no/2026-tokke-vinje-crew-tokkeogvinje/",
-        "utvidet_gui": false
-      }
-    },
-    {
-      "event": {
-        "all_day": false,
-        "calendars": [
-          "vestfold"
-        ],
-        "description": "UKM Sandefjord 2026\n\nsøndag 22. november kl. 16:00 - 18:30\n\nHarmonie Arena\n\nSandefjord\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er Norges største kulturarena for ungdom – en festival der du får vise fram det du lager, uansett om det er en sang du har skrevet, en dans du har koreografert, en film du har klipt, eller noe vi ikke har hørt om ennå.\nDu trenger ikke være «god nok» eller ha gjort det før. UKM er stedet du prøver deg – foran et publikum som heier på deg.\n\nHvem kan delta?\nAlle ungdommer mellom 10 - 20 år, enten du vil:\nVære utøver - vis fram det du lager - på scenen, på en skjerm, eller i en utstilling\nVære arrangør - Bli med og lag festivalen sammen med oss. Vi trenger folk som liker å planlegge, bygge scene, jobbe bak kulissene, eller ta i mot publikum.\n\nPraktisk info:\nNår: 22. november\nHvor: Harmonie arena\nHvem: Ungdom i Sandefjord (og omegn)\nPris: Gratis å delta og å se forestilling\n\nSlik melder du deg på:\nBestem deg for hva du vil vise fram eller hvilken rolle du vil ha som arrangør\nFyll ut påmeldingsskjemaet innen 15. november\nVi tar kontakt med mer info\n\nLurer du på noe?\nTa kontakt med ane.pedersen@sandefjord.kommune.no (mailto:ane.pedersen@sandefjord.kommune.no)\n\nUKM Sandefjord 2026: https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203995\nE-post: ane.pedersen@sandefjord.kommune.no\n\nPåmeldingsfrist – delta: 15.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 15.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
-        "end": "2026-11-22T18:30:00+01:00",
-        "expires": "2026-11-22T18:30:00+01:00",
-        "id": "9847",
-        "location": "Harmonie Arena, Sandefjord",
-        "start": "2026-11-22T16:00:00+01:00",
-        "status": "CONFIRMED",
-        "title": "UKM Sandefjord 2026",
-        "uid": "ukm-arrangement-9847@ukm-kalendere",
-        "url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026"
-      },
-      "page": {
-        "displayed_times": [
-          "16:00",
-          "18:30"
-        ],
-        "text": "UKM Sandefjord 2026\n\nsøndag 22. november kl. 16:00 - 18:30\n\nHarmonie Arena\n\nSandefjord\n\nHva er UKM?\nUKM (Ung Kultur Møtes) er Norges største kulturarena for ungdom – en festival der du får vise fram det du lager, uansett om det er en sang du har skrevet, en dans du har koreografert, en film du har klipt, eller noe vi ikke har hørt om ennå.\nDu trenger ikke være «god nok» eller ha gjort det før. UKM er stedet du prøver deg – foran et publikum som heier på deg.\n\nHvem kan delta?\nAlle ungdommer mellom 10 - 20 år, enten du vil:\nVære utøver - vis fram det du lager - på scenen, på en skjerm, eller i en utstilling\nVære arrangør - Bli med og lag festivalen sammen med oss. Vi trenger folk som liker å planlegge, bygge scene, jobbe bak kulissene, eller ta i mot publikum.\n\nPraktisk info:\nNår: 22. november\nHvor: Harmonie arena\nHvem: Ungdom i Sandefjord (og omegn)\nPris: Gratis å delta og å se forestilling\n\nSlik melder du deg på:\nBestem deg for hva du vil vise fram eller hvilken rolle du vil ha som arrangør\nFyll ut påmeldingsskjemaet innen 15. november\nVi tar kontakt med mer info\n\nLurer du på noe?\nTa kontakt med ane.pedersen@sandefjord.kommune.no (mailto:ane.pedersen@sandefjord.kommune.no)\n\nUKM Sandefjord 2026: https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/files/2026/09/DSC0351_2-1200x800.jpg\n\nKontaktpersoner\nAne Pedersen\nTelefon: 95203995\nE-post: ane.pedersen@sandefjord.kommune.no",
-        "title": "UKM Sandefjord 2026"
-      },
-      "raw": {
-        "beskrivelse": "Hva er UKM?\r\nUKM (Ung Kultur Møtes) er Norges største kulturarena for ungdom – en festival der du får vise fram det du lager, uansett om det er en sang du har skrevet, en dans du har koreografert, en film du har klipt, eller noe vi ikke har hørt om ennå.\r\nDu trenger ikke være «god nok» eller ha gjort det før. UKM er stedet du prøver deg – foran et publikum som heier på deg.\r\n \r\nHvem kan delta?\r\nAlle ungdommer mellom 10 - 20 år, enten du vil:\r\nVære utøver - vis fram det du lager - på scenen, på en skjerm, eller i en utstilling\r\nVære arrangør - Bli med og lag festivalen sammen med oss. Vi trenger folk som liker å planlegge, bygge scene, jobbe bak kulissene, eller ta i mot publikum. \r\n \r\nPraktisk info:\r\nNår: 22. november\r\nHvor: Harmonie arena\r\nHvem: Ungdom i Sandefjord (og omegn)\r\nPris: Gratis å delta og å se forestilling\r\n \r\nSlik melder du deg på:\r\nBestem deg for hva du vil vise fram eller hvilken rolle du vil ha som arrangør\r\nFyll ut påmeldingsskjemaet innen 15. november\r\nVi tar kontakt med mer info\r\n \r\nLurer du på noe? \r\nTa kontakt med ane.pedersen@sandefjord.kommune.no",
-        "fylke": {
-          "active": true,
-          "attributes": null,
-          "fake": false,
-          "id": 39,
-          "kommuner": {
-            "id": null
-          },
-          "link": "vestfold",
-          "navn": "Vestfold",
-          "nettverk_omrade": null
-        },
-        "id": 9847,
-        "kommuner": [
-          {
-            "fylke_id": 39,
-            "fylke_navn": "Vestfold",
-            "id": 3907,
-            "navn": "Sandefjord",
-            "path": "/sandefjord/"
-          }
-        ],
-        "navn": "UKM Sandefjord 2026",
-        "paamelding_lenker": [],
-        "paameldingsfrist_1": 1794787140,
-        "paameldingsfrist_1_date": {
-          "date": "2026-11-15 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "paameldingsfrist_2": 1794787140,
-        "paameldingsfrist_2_date": {
-          "date": "2026-11-15 23:59:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "path": "2026-sandefjord-ukmsandefjord2026",
-        "start": 1795363200,
-        "start_date": {
-          "date": "2026-11-22 16:00:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "sted": "Harmonie Arena",
-        "stop": 1795372200,
-        "stop_date": {
-          "date": "2026-11-22 18:30:00.000000",
-          "timezone": "UTC",
-          "timezone_type": 3
-        },
-        "type": "kommune",
-        "url": "https://sys.ukm.no/2026-sandefjord-ukmsandefjord2026/",
         "utvidet_gui": false
       }
     },
@@ -16142,5 +16042,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T05:15:58.685605+00:00"
+  "generated_at": "2026-11-23T05:35:47.710663+00:00"
 }

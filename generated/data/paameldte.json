@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 154,
-  "antall_deltakernavn_i_innslag": 189,
-  "antall_innslag": 447,
+  "antall_arrangementer": 153,
+  "antall_deltakernavn_i_innslag": 146,
+  "antall_innslag": 423,
   "arrangementer": [
     {
       "antall_innslag": 7,
@@ -151,261 +151,6 @@
       "navn": "CREW - Tokke og Vinje"
     },
     {
-      "antall_innslag": 29,
-      "arrangement_id": "9847",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-sandefjord-ukmsandefjord2026",
-      "innslag": [
-        {
-          "beskrivelse": "Vi er 4 ivrige 7.klassinger fra 3 forskjellige korps som på kulturskolen har dannet en klarinettkvartett hvor vi øver og spiller sammen hver uke. Vi startet i høst og synes det er utrolig gøy å spille sammen. Det er første gang vi er med i UKM som kvartett.",
-          "deltakernavn": [
-            "David Birkedal",
-            "Erla Pedersen",
-            "Ida Fuglerud",
-            "Martin Himberg",
-            "Sarah Oline Hvidsten"
-          ],
-          "id": "262023",
-          "navn": "2014 kvartetten"
-        },
-        {
-          "beskrivelse": "Jeg er en rapper ifra Arendal som forklarer gatelivet og hvordan det er og være heldig",
-          "deltakernavn": [
-            "Kevin Eide Bulien"
-          ],
-          "id": "262231",
-          "navn": "2k Vango"
-        },
-        {
-          "beskrivelse": "Jeg er en sosial og blid jente, som brenner for teater, dans og sang. Og går på musikk dans og drama på Greveskogen i Tønsberg. Og har drevet med dette hele livet. Jeg holder på med min første musikal på hjertes nå «folkeeventyrene the musikal» og har veldig lyst til og bli bedre på og synge for andre mennesker.",
-          "deltakernavn": [
-            "Adele Andersen"
-          ],
-          "id": "261702",
-          "navn": "Adele Andersen"
-        },
-        {
-          "beskrivelse": "jeg elsker musikk og synge",
-          "deltakernavn": [
-            "Amalie Sollie"
-          ],
-          "id": "261740",
-          "navn": "Amalie"
-        },
-        {
-          "beskrivelse": "Hei!\nJeg er en jente som er 12 år gammel.\nJeg er glad i å synge, synger alene på scene.\nJeg kommer fra Ramnes.",
-          "deltakernavn": [
-            "Amela Botonjic"
-          ],
-          "id": "262060",
-          "navn": "Amela Botonjic"
-        },
-        {
-          "beskrivelse": "Jeg var med som arrangør i fjor via ungdomspannelet. Jeg kan gjøre alt fra filme til SoMe til og hjelpe til back stage.",
-          "deltakernavn": [
-            "Amine Torkveen"
-          ],
-          "id": "262338",
-          "navn": "Amine Torkveen"
-        },
-        {
-          "beskrivelse": "Avgudsdyrkelse er et black metal band som stammer fra Larvik, vi er opptatt av å lage så creepy og onde riff som mulige med inspirasjon fra blant annet “Dissection” og “Windir“",
-          "deltakernavn": [
-            "Erling Vinsand",
-            "Jotunvindr Igjengående",
-            "Julian Seppänen",
-            "Nikolai Johansen Bogerud"
-          ],
-          "id": "261420",
-          "navn": "Avgudsdyrkelse"
-        },
-        {
-          "beskrivelse": "Jeg er 19 år og har laget to digitale tegninger som jeg vil vise frem på UKM.",
-          "deltakernavn": [
-            "Elma Tofte Halvorsen"
-          ],
-          "id": "261450",
-          "navn": "CoreShimmer"
-        },
-        {
-          "beskrivelse": "Jeg er 19 år og har mange års erfaring med flerkamera i både klipp, regi, kamera og grafikk. Jeg har også vært med på landsfestivalen som flerkamera de to siste årene.",
-          "deltakernavn": [
-            "Elma Tofte Halvorsen"
-          ],
-          "id": "261448",
-          "navn": "Elma Tofte Halvorsen"
-        },
-        {
-          "beskrivelse": "Jeg er 19 år og har vært med på UKM i flere år. Jeg var arrangør og CREW i Telemark i fjor og har litt erfaring som frivillig scenearbeider på et teaterstykke i Porsgrunn.",
-          "deltakernavn": [
-            "Elma Tofte Halvorsen"
-          ],
-          "id": "261449",
-          "navn": "Elma Tofte Halvorsen"
-        },
-        {
-          "beskrivelse": "Executor er et ungt Thrash metal band, fra Larvik, som er inspirert av gamle band, som Sodom, Metallica, og motorhead. Vi startet å spille i april 2025 og holder på å spille inn vår debut ep.",
-          "deltakernavn": [
-            "Birk Os Veland",
-            "Fredrik Fjellvik Jønholt",
-            "Klara Aas-Haug",
-            "Nikolai Johansen Bogerud"
-          ],
-          "id": "261593",
-          "navn": "Executor"
-        },
-        {
-          "beskrivelse": "Hallucination er et band fra Larvik som spiller i variert blanding av sjangre med hovedfokus på Pop-Punk og Alternativ Rock! Hallucination startet i 2025. Musikken de spiller er forklart som \"Hva de liker å spille\" imotsetning til andre band som holder seg til en fast sjanger. Bandet består av Nebel på Lead-Gitar, Ludvig på Trommer, Liam på Bass og Oscar på Rytme-gitar og vokal. Hallucination spiller egene låter, med kanskje en eller to coverlåter i løpet av en konsert.\n\nhttps://hallucination.no/",
-          "deltakernavn": [
-            "Liam Hannah",
-            "Ludvig Svendsen",
-            "Marius Nebel Markegård",
-            "Oscar Blømacher"
-          ],
-          "id": "261857",
-          "navn": "Hallucination"
-        },
-        {
-          "beskrivelse": "17 år gammel kunstner fra andebu",
-          "deltakernavn": [
-            "Iljen Angela Honstad-Wild"
-          ],
-          "id": "261483",
-          "navn": "Iljén"
-        },
-        {
-          "beskrivelse": "Jeg elsker å spille gitar, og vil gjerne vise frem. Jeg har gått på teater i 3 år, så jeg er vant til å være på scene. Jeg har også stått på gata og spilt.",
-          "deltakernavn": [
-            "Jacob Efraim Hafstad Ueland"
-          ],
-          "id": "262085",
-          "navn": "Jacob Ueland"
-        },
-        {
-          "beskrivelse": "Jeg jobber med SoMe i ungdomspanelet og har medier og kommunikasjon i valgfag på skolen! Syntes det er veldig gøy!☺️",
-          "deltakernavn": [
-            "Julie Heidenreich-Riis"
-          ],
-          "id": "261873",
-          "navn": "Julie Heidenreich-Riis"
-        },
-        {
-          "beskrivelse": "Jeg har holdt på med sang i syv år. Jeg er med i ett kor og to band. Jeg elsker å fremføre og høre på musikk. Jeg er spesielt glad i alternativ drømmende musikk som denne sangen og prøver også å lage min egen musikk",
-          "deltakernavn": [
-            "Lara Elise Jenssen"
-          ],
-          "id": "261697",
-          "navn": "Lara Elise Jenssen"
-        },
-        {
-          "beskrivelse": "Jeg har sunget siden jeg var 7 år gammel. Opptrer i år for første gang på UKM.",
-          "deltakernavn": [
-            "Linea Thorud"
-          ],
-          "id": "262405",
-          "navn": "Linea Thorud"
-        },
-        {
-          "beskrivelse": "Jeg har drevet med luftakrobatikk hos Stella polaris da det var mulig, og har egen hoop og aerial silk som jeg får brukt noe, når jeg har tilgang på treningsrom med riktig høyde under taket. Jeg var med i ett nummer på Stella polaris sitt arrangement i Vikingparken i juni 2026. Jeg deltok også på Ukm i 2025.",
-          "deltakernavn": [
-            "Sofie Camilla Lenes Enger"
-          ],
-          "id": "261417",
-          "navn": "Luftakrobatikk med Sofie"
-        },
-        {
-          "beskrivelse": "Jente på snart 13 år som er glad i å synge og cheerleading.",
-          "deltakernavn": [
-            "Lycke Linnea Stphansen-Smith"
-          ],
-          "id": "261788",
-          "navn": "Lycke Linnea Stephansen-Smith"
-        },
-        {
-          "beskrivelse": "Jeg heter Madeleine, er 17 år og har alltid hatt en stor interesse for musikk og sang. Musikk er en viktig måte for meg å uttrykke følelser og formidle historier på. Jeg liker spesielt godt sanger med mye følelser og mulighet for å virkelig leve seg inn i teksten. Jeg gleder meg til å få dele noe jeg er glad i med publikum gjennom UKM!",
-          "deltakernavn": [
-            "Madeleine Henriksen"
-          ],
-          "id": "262406",
-          "navn": "Madeleine"
-        },
-        {
-          "beskrivelse": "Jeg har vært med på UKM som arrangør på lokal x2, fylke x2 og lands nå som var. Har vært UKM kontakt i Larvik sin høyre hånd.",
-          "deltakernavn": [
-            "Martine Bredesen Wold"
-          ],
-          "id": "261496",
-          "navn": "Martine Bredesen Wold"
-        },
-        {
-          "beskrivelse": "Jeg heter Matheo er 14 år og jeg har vært involvert i scene siden jeg var liten, da jeg begynte å være med faren min på ulike produksjoner. Siden den gang har interessen utviklet seg til at jeg selv jobber med lyd og lys på konserter, teater og andre arrangementer.\n\nJeg har blant annet kjørt lys på «Imagine Music Experience» og hatt ansvar for lyd på «Ta Sjansen» i Sandefjord. Jeg har også erfaring med rigging, scenearbeid, lydsystemer, lysutstyr og lysstyring.\n\nJeg spiller også i band og får spille rundt på forskjellige scener rundt om i Vestfold og blir kjent med scener!",
-          "deltakernavn": [
-            "Matheo Larsen Sandhalla"
-          ],
-          "id": "261685",
-          "navn": "Matheo Larsen Sandhalla"
-        },
-        {
-          "beskrivelse": "Jeg har vært fotograf og flerkamera, kamera på både UKM og Amandus festivalen.",
-          "deltakernavn": [
-            "Mathilde Ligodt Lindhjem"
-          ],
-          "id": "261855",
-          "navn": "Mathilde Ligodt Lindhjem"
-        },
-        {
-          "beskrivelse": "15år fra Stokke. Går på Sandefjord Videregående skole. Startet å synge fra 2års alder. Begynte i Stella Polaris som 5åring å drevet med gjøglerteater og luftakrobatikk der. Fortsatte med luftakrobatikk og sirkus i Tønsberg kulturskole på 4året. Har holdt samtidig på med sang hos Sandefjord kultuskole på 9året.\nOpptred på flere steder rundt i vestfold. Elsker å synge å stå på scenen. Å ønsker at alle skal følge hjerte sitt og være trygg i eget utrykk.",
-          "deltakernavn": [
-            "Nicoline Bredesen"
-          ],
-          "id": "261425",
-          "navn": "Nicoline Bredesen"
-        },
-        {
-          "beskrivelse": "Vi er en gruppe unge film skapere som liker å kødde rundt og ha det gøy med mediumet",
-          "deltakernavn": [
-            "Mathilde Ligodt Lindhjem",
-            "Sondre Erland Wiger"
-          ],
-          "id": "262399",
-          "navn": "NORTHEM PRODUCTIONS"
-        },
-        {
-          "beskrivelse": "Går vg2 musikk linja og er 17 år",
-          "deltakernavn": [
-            "Pia Avella Mathisen"
-          ],
-          "id": "261932",
-          "navn": "Pia Avella Mathisen"
-        },
-        {
-          "beskrivelse": "Er fotograf og videograf i film og TV og har ca 5 års erfaring innen fagfeltet.",
-          "deltakernavn": [
-            "Sondre Erland Wiger"
-          ],
-          "id": "261790",
-          "navn": "Sondre Erland Wiger"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [
-            "Emilia Lodthong Edvardsen"
-          ],
-          "id": "262489",
-          "navn": "Sparkgirls"
-        },
-        {
-          "beskrivelse": "Mamma alltid sier at jeg burde skaffe meg en oppdrag eller noe å gjøre i fritiden min fordi hun sier at jeg snakker for mye og at jeg burde finne noe som er min interesse og jeg elsker å holde taler eller noe foran publikum for at de blir fokusert av å se på konserter som er skikkelig gøy! Jeg har tidligere vært som sier info eller noe i Stokke talenter.",
-          "deltakernavn": [
-            "Uzair Ahmad Qaderi"
-          ],
-          "id": "261943",
-          "navn": "Uzair Ahmad Qaderi"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9847",
-      "navn": "UKM Sandefjord 2026"
-    },
-    {
       "antall_innslag": 9,
       "arrangement_id": "9950",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
@@ -485,7 +230,7 @@
       "navn": "Informasjon om årets kunstutstilling og workshop"
     },
     {
-      "antall_innslag": 20,
+      "antall_innslag": 23,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -529,6 +274,12 @@
           "beskrivelse": "Jeg liker kunst.",
           "deltakernavn": [],
           "id": "262103",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg er ei jente som har tegnet siden jeg var to år. Jeg tegnet først på et tegnebrett for barn samtidig som jeg tegnet på papir. Senere ble det digital tegning på Ipad med et program som heter ProCreate. Dette programmet skaffet vi etter anbefaling fra selveste Frode Øverli.",
+          "deltakernavn": [],
+          "id": "262108",
           "navn": "Utstilling innslag"
         },
         {
@@ -608,13 +359,25 @@
           "deltakernavn": [],
           "id": "262562",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg liker å male,tegne,sy,klippe,brette, jobbe med keramikk,perle og å nålefilte.",
+          "deltakernavn": [],
+          "id": "262595",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Jeg melder på Albert som ønsker å stille ut to kunstverk.",
+          "deltakernavn": [],
+          "id": "262605",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 9,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -664,6 +427,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262563",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262596",
           "navn": "Person innslag"
         }
       ],
@@ -913,7 +682,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [
         {
-          "beskrivelse": "Sal og scene gjengen fra tustna",
+          "beskrivelse": "Sal og scene-gjengen fra Tustna",
           "deltakernavn": [
             "Emily Köning",
             "Ingeborg Aukan",
@@ -3349,7 +3118,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien",
       "innslag": [
         {
-          "beskrivelse": "Jeg liker og kle meg ut og dette er det første kostyme jeg har laget selv :)",
+          "beskrivelse": "Første cosplay jeg har laget 🫡",
           "deltakernavn": [],
           "id": "262328",
           "navn": "Cosplay innslag"
@@ -3722,7 +3491,7 @@
       "navn": "UKM Sandnes 2027"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9923",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-molde-ukmfestivalmolde-2027",
       "innslag": [
@@ -3730,6 +3499,12 @@
           "beskrivelse": "I e en veldig pratsom person som e energisk, bli og glad I å fordele informasjon I tror at det å kunne presentere andre innslag og kunne få folk til bli spent og ha god stemning e alltid koselig I sånne type ting",
           "deltakernavn": [],
           "id": "261975",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Jeg er glad i å snakke, glad i ord og har fremført forestillinger med teater før. Jeg er glad i å løfte stemming og synes det er viktig at publikum blir underholdt mens scenen rigges om, i tillegg til at en god introduksjon kan hjelpe personen som skal på scenen.",
+          "deltakernavn": [],
+          "id": "262604",
           "navn": "Konferansier innslag"
         },
         {
@@ -3854,7 +3629,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-nordreaker-sagennordreakerogsagene",
       "innslag": [
         {
-          "beskrivelse": "Vi er et helt nyoppstarta all girl band som spiller coverlåter. Dette blir vår første seriøse opptreden. Alder: 14/15/16 år\nVokalistene er sceneglade\nGitaristene er kule og talentfulle\nBassist kan variere, de er begge goata\nTrommisen har mye aura",
+          "beskrivelse": "Vi er et helt nyoppstarta all girl band som spiller coverlåter. Dette blir vår første seriøse opptreden. Alder: 14/15/16 år",
           "deltakernavn": [],
           "id": "262522",
           "navn": "Musikk innslag"
@@ -4316,5 +4091,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-22T05:15:58.685605+00:00"
+  "oppdatert": "2026-11-23T05:35:47.710663+00:00"
 }

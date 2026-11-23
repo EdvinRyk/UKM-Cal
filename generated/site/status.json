@@ -16,7 +16,7 @@
     "telemark": 18,
     "troms": 13,
     "trondelag": 38,
-    "vestfold": 4,
+    "vestfold": 2,
     "vestland": 29
   },
   "deadline_calendars": {
@@ -34,15 +34,15 @@
     "telemark": 9,
     "troms": 6,
     "trondelag": 18,
-    "vestfold": 1,
+    "vestfold": 0,
     "vestland": 14
   },
-  "deadline_count": 129,
-  "entry_count": 283,
-  "event_count": 154,
-  "last_success": "2026-11-22T05:15:58.685605+00:00",
+  "deadline_count": 128,
+  "entry_count": 281,
+  "event_count": 153,
+  "last_success": "2026-11-23T05:35:47.710663+00:00",
   "sources": {
-    "checked_detail_pages": 154,
+    "checked_detail_pages": 153,
     "search": {
       "complete": true,
       "hits": 650,
@@ -63,6 +63,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 157
+    "upcoming_api_count": 156
   }
 }
