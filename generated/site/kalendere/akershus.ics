@@ -462,6 +462,45 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10064@ukm-kalendere
+DTSTAMP:20261124T052517Z
+CREATED:20261124T052517Z
+LAST-MODIFIED:20261124T052517Z
+SEQUENCE:0
+DTSTART:20270307T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Gjerdrum 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Gjerdrum 2027.\nP
+ åmeldingsfrist: 07.03.2027 kl. 23:59 (norsk tid).\n\nUKM Gjerdrum 2027\n\
+ nsøndag 14. mars kl. 18:00 - 22:00\n\nGjerdrum Kulturhus\n\nGjerdrum\n\nE
+ ndelig tid for UKM igjen! I UKM er alle kulturelle uttrykk velkommen\, ent
+ en det er sang\, fotokunst\, cosplay eller moderne dans. Liker du ikke å 
+ lage ting eller stå på scenen? Da er det alltid plass til flere i arrang
+ ørgjengen vår. Kanskje du liker teknikk\, markedsføring eller å bake k
+ aker til de på bakscenen? Her er det plass til mange! UKM er morsomt og s
+ osialt\, uansett om du er tilskuer\, arrangør eller deltar. I Gjerdrum er
+  det Unge Arrangører som både planlegger og gjennomfører arrangementet.
+  Vi har et lokalt UKM-arrangement hver vår. Det arrangeres også fykesfes
+ tival og landstreff\, og de som deltar lokalt kan bli spurt om å delta p
+ å disse.\n\nHer kan du vise frem det du brenner for\, eller hjelpe andre 
+ å bli sett. Vi er her for å gi deg muligheten til å drive med det som i
+ nteresserer deg! Kanskje oppdager du også noe nytt?\n\nUKM Gjerdrum 2027:
+  https://sys.ukm.no/2027-gjerdrum-ukmgjerdrum2027/files/2026/11/Kopi-av-St
+ edsnavn-med-Logo-1-1200x799.png\n\nhttps://delta.ukm.no/ukmid/pamelding/32
+ 30-10064/\n\nKontaktpersoner\nChristiane Lier Dahl\nTelefon: 98003740\nE-p
+ ost: christiane.lier.dahl@gjerdrum.kommune.no\n\nEmma Cecilie Einlyng Geor
+ giev\nTelefon: 47832070\nE-post: emma.georgiev@gjerdrum.kommune.no\n\nKris
+ tian Gullåsen\nTelefon: 91801311\nE-post: kristian.gullasen@gjerdrum.komm
+ une.no\n\nThomas Håkonsen\nTelefon: 91194522\nE-post: thakons1@gmail.com\
+ n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – 
+ bidra bak scenen: 07.03.2027 kl. 23:59\nArrangementsside: https://www.ukm.
+ no/arrangement/2027-gjerdrum-ukmgjerdrum2027
+LOCATION:Gjerdrum Kulturhus
+URL:https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10064@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9959@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -619,6 +658,43 @@ DESCRIPTION:Scenemønstring Lillestrøm\n\nsøndag 14. mars kl. 13:00 - 18:
  side: https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
 LOCATION:Lillestrøm Kultursenter
 URL:https://www.ukm.no/arrangement/2027-lillestrom-lillestrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10064@ukm-kalendere
+DTSTAMP:20261124T052517Z
+CREATED:20261124T052517Z
+LAST-MODIFIED:20261124T052517Z
+SEQUENCE:0
+DTSTART:20270314T170000Z
+DTEND:20270314T210000Z
+SUMMARY:UKM Gjerdrum 2027
+DESCRIPTION:UKM Gjerdrum 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nGjer
+ drum Kulturhus\n\nGjerdrum\n\nEndelig tid for UKM igjen! I UKM er alle kul
+ turelle uttrykk velkommen\, enten det er sang\, fotokunst\, cosplay eller 
+ moderne dans. Liker du ikke å lage ting eller stå på scenen? Da er det 
+ alltid plass til flere i arrangørgjengen vår. Kanskje du liker teknikk\,
+  markedsføring eller å bake kaker til de på bakscenen? Her er det plass
+  til mange! UKM er morsomt og sosialt\, uansett om du er tilskuer\, arrang
+ ør eller deltar. I Gjerdrum er det Unge Arrangører som både planlegger 
+ og gjennomfører arrangementet. Vi har et lokalt UKM-arrangement hver vår
+ . Det arrangeres også fykesfestival og landstreff\, og de som deltar loka
+ lt kan bli spurt om å delta på disse.\n\nHer kan du vise frem det du bre
+ nner for\, eller hjelpe andre å bli sett. Vi er her for å gi deg mulighe
+ ten til å drive med det som interesserer deg! Kanskje oppdager du også n
+ oe nytt?\n\nUKM Gjerdrum 2027: https://sys.ukm.no/2027-gjerdrum-ukmgjerdru
+ m2027/files/2026/11/Kopi-av-Stedsnavn-med-Logo-1-1200x799.png\n\nhttps://d
+ elta.ukm.no/ukmid/pamelding/3230-10064/\n\nKontaktpersoner\nChristiane Lie
+ r Dahl\nTelefon: 98003740\nE-post: christiane.lier.dahl@gjerdrum.kommune.n
+ o\n\nEmma Cecilie Einlyng Georgiev\nTelefon: 47832070\nE-post: emma.georgi
+ ev@gjerdrum.kommune.no\n\nKristian Gullåsen\nTelefon: 91801311\nE-post: k
+ ristian.gullasen@gjerdrum.kommune.no\n\nThomas Håkonsen\nTelefon: 9119452
+ 2\nE-post: thakons1@gmail.com\n\nPåmeldingsfrist – delta: 07.03.2027 kl
+ . 23:59\nPåmeldingsfrist – bidra bak scenen: 07.03.2027 kl. 23:59\nArra
+ ngementsside: https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027
+LOCATION:Gjerdrum Kulturhus
+URL:https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

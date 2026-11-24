@@ -1,7 +1,7 @@
 {
-  "antall_arrangementer": 153,
+  "antall_arrangementer": 155,
   "antall_deltakernavn_i_innslag": 146,
-  "antall_innslag": 423,
+  "antall_innslag": 458,
   "arrangementer": [
     {
       "antall_innslag": 7,
@@ -214,6 +214,63 @@
       "navn": "Workshop i musikkproduksjon med Marcel Basima"
     },
     {
+      "antall_innslag": 8,
+      "arrangement_id": "10065",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-malvik-ukmbarnmalvik",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262615",
+          "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Lisa, Hermine, Signe og Hanna",
+          "deltakernavn": [],
+          "id": "262617",
+          "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Egen dans",
+          "deltakernavn": [],
+          "id": "262618",
+          "navn": "Dans innslag"
+        },
+        {
+          "beskrivelse": "Golden fra K-pop Demon Hunters på fiolin",
+          "deltakernavn": [],
+          "id": "262616",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262619",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Vårrin skal spille",
+          "deltakernavn": [],
+          "id": "262620",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Elie skal synge",
+          "deltakernavn": [],
+          "id": "262621",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Et teater om mord",
+          "deltakernavn": [],
+          "id": "262622",
+          "navn": "Teater innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10065",
+      "navn": "UKM Barn Malvik"
+    },
+    {
       "antall_innslag": 0,
       "arrangement_id": "10049",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-ullern-vestreakeullernogvestreakerukmkickoff",
@@ -230,7 +287,7 @@
       "navn": "Informasjon om årets kunstutstilling og workshop"
     },
     {
-      "antall_innslag": 23,
+      "antall_innslag": 38,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -269,12 +326,6 @@
           "deltakernavn": [],
           "id": "262593",
           "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker kunst.",
-          "deltakernavn": [],
-          "id": "262103",
-          "navn": "Utstilling innslag"
         },
         {
           "beskrivelse": "Jeg er ei jente som har tegnet siden jeg var to år. Jeg tegnet først på et tegnebrett for barn samtidig som jeg tegnet på papir. Senere ble det digital tegning på Ipad med et program som heter ProCreate. Dette programmet skaffet vi etter anbefaling fra selveste Frode Øverli.",
@@ -370,6 +421,102 @@
           "beskrivelse": "Jeg melder på Albert som ønsker å stille ut to kunstverk.",
           "deltakernavn": [],
           "id": "262605",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Kunstner",
+          "deltakernavn": [],
+          "id": "262631",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262635",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262636",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262637",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262638",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262639",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262640",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262641",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262642",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262643",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262644",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262645",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262646",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262647",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262648",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262649",
           "navn": "Utstilling innslag"
         }
       ],
@@ -885,7 +1032,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 34,
+      "antall_innslag": 35,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1055,6 +1202,12 @@
           "beskrivelse": "Me er 5 gutar fra Hurum som har bred musikksmak. Me lagar eigne songar, men liker framleis å covre.",
           "deltakernavn": [],
           "id": "262339",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262611",
           "navn": "Musikk innslag"
         },
         {
@@ -1287,7 +1440,7 @@
       "navn": "UKM Nordhordland lokalfestival"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 7,
       "arrangement_id": "9980",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kvitsoy-randaberkvitsoyograndaberg",
       "innslag": [
@@ -1308,6 +1461,12 @@
           "deltakernavn": [],
           "id": "262336",
           "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Vi er et ungdoms metalcore band med medlemmer fra Randaberg,Tasta,Bryne",
+          "deltakernavn": [],
+          "id": "262013",
+          "navn": "Musikk innslag"
         },
         {
           "beskrivelse": "Trener volleyball 3 ganger i uken.\nGår på the voice på showakademiet.\nElsker å synge og tegne.\nHar 7 søsken og 3 bonus søsken.",
@@ -1546,7 +1705,7 @@
       "navn": "Sola 2027"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9820",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
       "innslag": [
@@ -1572,6 +1731,12 @@
           "beskrivelse": "Eg forelska meg i sjangeren jazz etter eg sang From The Start av Laufey på min første UKM. Sidan da, er jazz sjangeren den eg syng mest på. Har sunget med den ikoniske «Jazz Trio».",
           "deltakernavn": [],
           "id": "262505",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262606",
           "navn": "Musikk innslag"
         },
         {
@@ -1898,7 +2063,7 @@
       "navn": "Askøy og Øygarden"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "9953",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal",
       "innslag": [
@@ -1912,6 +2077,12 @@
           "beskrivelse": "Vi e Tore og Emilie. Vi e 15 og 16 år.",
           "deltakernavn": [],
           "id": "262411",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Rapper fra Surnadal. Lager musikk på fritida",
+          "deltakernavn": [],
+          "id": "262655",
           "navn": "Musikk innslag"
         }
       ],
@@ -2239,7 +2410,7 @@
       "navn": "Workshop Sokndal 2027"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 9,
       "arrangement_id": "9828",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy",
       "innslag": [
@@ -2256,9 +2427,27 @@
           "navn": "Arrangør innslag"
         },
         {
+          "beskrivelse": "Jeg har gått på teater i mange år og deltok på ukm i 2025 og 2026. I 2026 var jeg også konferansier, og likte det godt. Jeg har ingen problem med å snakke foran andre.",
+          "deltakernavn": [],
+          "id": "262651",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Eg e 17 år , å eg har vert konferansier dei siste to årene på karmøy, og har veldig lust å vara d i år o. Eg ser på det å være konfiransier som ein stor mulighet til å utvikle mine ferdigheter på scenen.",
+          "deltakernavn": [],
+          "id": "262653",
+          "navn": "Konferansier innslag"
+        },
+        {
           "beskrivelse": "Jeg er god på sånn data video dippedutt greier!",
           "deltakernavn": [],
           "id": "261384",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Ansatt som medieleder.",
+          "deltakernavn": [],
+          "id": "262650",
           "navn": "Media innslag"
         },
         {
@@ -2482,7 +2671,7 @@
       "navn": "Lokalfestival i Eidsvoll 2027"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "9969",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sunnfjord-lokalmonstringsunnfjord2027",
       "innslag": [
@@ -2497,13 +2686,19 @@
           "deltakernavn": [],
           "id": "262559",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Vi er to søte, talentfulle og morosame jenter som likar å drive med musikk. Madelen har aldri opptredd på scene før, men vi likar å spele og synge ilag.",
+          "deltakernavn": [],
+          "id": "262630",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9969",
       "navn": "Lokalmønstring Sunnfjord 2027"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "10038",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027",
       "innslag": [
@@ -2511,6 +2706,12 @@
           "beskrivelse": "Jeg har jobbet på ukm i fjord og har vært på diverse jobber med Thor einar ifra samsen og lx design via måkeskrik,ravnedalen live.\nHar også jobbet som teknisk på samsen kultur sommer",
           "deltakernavn": [],
           "id": "262465",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Hei mitt navn er Elvin jeg er snart 18 år gammel gutt og har en stor interesse for arrangement arbeid, lys, lyd og data og er veldig interessert i og være frivillig hos dere. Jeg går IT og har ekspertise innenfor data teknologi, medie og ubgdomarbeid. Jeg har også jobbet som ungdoms og samfunns arbeider på kulturkammeret Arendal og har vært arrangør for flere aktiviteter på kulturkammeret Arendal. Gleder meg til og høre fra dere :).",
+          "deltakernavn": [],
+          "id": "262626",
           "navn": "Arrangør innslag"
         },
         {
@@ -2641,10 +2842,17 @@
       "navn": "Våler (Østfold) 2027"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10007",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-as-ukmas",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Et band fra Kolbotn.",
+          "deltakernavn": [],
+          "id": "262654",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10007",
       "navn": "UKM ÅS"
     },
@@ -2922,7 +3130,7 @@
       "navn": "UKM Lokalfestival Jøa 2027"
     },
     {
-      "antall_innslag": 1,
+      "antall_innslag": 2,
       "arrangement_id": "10034",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
       "innslag": [
@@ -2930,6 +3138,12 @@
           "beskrivelse": "Gut ved svelgen kunstklubb",
           "deltakernavn": [],
           "id": "262370",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "14, har vore med før og elskar å male",
+          "deltakernavn": [],
+          "id": "262633",
           "navn": "Utstilling innslag"
         }
       ],
@@ -2945,7 +3159,7 @@
       "navn": "UKM JUNIOR"
     },
     {
-      "antall_innslag": 10,
+      "antall_innslag": 11,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -3007,6 +3221,12 @@
           "beskrivelse": "Musikk har vært en stor del av livet mitt, og jeg elsker å skrive egne sanger!",
           "deltakernavn": [],
           "id": "262409",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Ngoy Amuri er en norsk musikkartist fra Sarpsborg. Han lager musikk med inspirasjon fra blant annet afrobeats, hiphop og moderne urban musikk",
+          "deltakernavn": [],
+          "id": "262627",
           "navn": "Musikk innslag"
         }
       ],
@@ -3617,6 +3837,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10064",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10064",
+      "navn": "UKM Gjerdrum 2027"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9805",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lyngdal-lyngdal",
       "innslag": [],
@@ -4091,5 +4319,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-23T05:35:47.710663+00:00"
+  "oppdatert": "2026-11-24T05:25:17.697880+00:00"
 }
