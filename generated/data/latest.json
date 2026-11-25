@@ -175,7 +175,7 @@
       "calendars": [
         "agder"
       ],
-      "description": "Frist for å melde seg på bak scenen til Kunstutstilling.\nPåmeldingsfrist: 24.11.2026 kl. 23:59 (norsk tid).\n\nKunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
+      "description": "Frist for å melde seg på bak scenen til Kunstutstilling.\nPåmeldingsfrist: 24.11.2026 kl. 23:59 (norsk tid).\n\nKunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "end": null,
       "expires": "2026-11-28T14:00:00+01:00",
       "id": "9947-bak-scenen-frist",
@@ -947,6 +947,24 @@
     {
       "all_day": false,
       "calendars": [
+        "troms"
+      ],
+      "description": "Frist for å melde seg på bak scenen til UKM Bardu 2027.\nPåmeldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bardu 2027\n\nlørdag 20. februar kl. 17:00 - 19:00\n\nBardu skole - og kulturarena\n\nBardu\n\nUKM Bardu 2027 er en arena for ungdom som driver med kunst og kultur. Alle ungdommer mellom 10-20 år kan melde seg på enten med sceneinnslag, som konferansier eller med kunstverk.\n\nDet vil være kunstutstilling, forestilling med sceneinnslag og kaffesalg.\n\nDe som stiller med sceneinnslag vil få lydprøve/sceneprøve og felles generalprøve i forkant av forestillingen.\n\nHver enkelt kunstner kan melde seg på med maksimalt 3 kunstverk\n\nhttps://delta.ukm.no/ukmid/pamelding/5520-10066/\n\nKontaktpersoner\nGro Bjerregaard Lamøy\nTelefon: 92230023\nE-post: gro.bjerregaard@bardu.kommune.no\n\nPåmeldingsfrist – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027",
+      "end": null,
+      "expires": "2027-02-20T19:00:00+01:00",
+      "id": "10066-bak-scenen-frist",
+      "kind": "backstage_deadline",
+      "location": "Bardu skole - og kulturarena",
+      "parent_uid": "ukm-arrangement-10066@ukm-kalendere",
+      "start": "2027-02-05T23:59:00+01:00",
+      "status": "CONFIRMED",
+      "title": "Påmeldingsfrist bak scenen – UKM Bardu 2027",
+      "uid": "ukm-bak-scenen-frist-10066@ukm-kalendere",
+      "url": "https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027"
+    },
+    {
+      "all_day": false,
+      "calendars": [
         "agder"
       ],
       "description": "Frist for å melde seg på bak scenen til Tvedestrand.\nPåmeldingsfrist: 07.02.2027 kl. 23:59 (norsk tid).\n\nTvedestrand\n\nlørdag 20. februar kl. 18:00 - 21:00\n\nDet blir Tvedestrand UKM i 2027 også!\n\nUKM er for deg mellom 10 – 20 år. Du kan vise frem noe, danse, synge, opptre med band, vise en film, spille musikk, spille en teatersnutt, utstille noe du har laget, sydd, tegnet, skrevet, brodert, skapt.... Det kan være hva som helst!\nOg så trenger vi deg som vil hjelpe bak scenen med å rigge til, ta foto og filme det hele. Hvis du ikke har gjort det før, gjør det ingenting. Du får lære av de som kan det.\n\nBli med og meld deg på!\n\nTvedestrand: https://sys.ukm.no/2027-tvedestrand-tvedestrandukm/files/2026/10/P1228584-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4213-9931/\n\nKontaktpersoner\nFranziska Rüttimann Storemyr\nTelefon: 47667687\nE-post: franziska.ruttimann.storemyr@tvedestrand.kommune.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm",
@@ -1399,7 +1417,7 @@
       "calendars": [
         "vestland"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM Bremanger 2027.\nPåmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
+      "description": "Frist for å melde seg på bak scenen til UKM Bremanger 2027.\nPåmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nUKM Bremanger 2027: https://sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-1800x1013.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-1200x675.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
       "end": null,
       "expires": "2027-03-07T21:00:00+01:00",
       "id": "10034-bak-scenen-frist",
@@ -1471,7 +1489,7 @@
       "calendars": [
         "buskerud"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM Lier 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nVi gleder oss til å se hva Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
+      "description": "Frist for å melde seg på bak scenen til UKM Lier 2027.\nPåmeldingsfrist: 28.02.2027 kl. 23:59 (norsk tid).\n\nUKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nFor foresatte\n\nUKM Lier er en trygg og inkluderende møteplass for ungdom mellom **10 og 20 år**, hvor de kan vise frem det de liker å holde på med – enten det er musikk, dans, kunst, foto, film, teater eller noe helt annet.\n\nUKM Lier arrangeres i samarbeid mellom **Ungdomshuset V2, Lier kulturskole og Lier kulturscene**. Det er gratis å delta, og ungdommene trenger ingen tidligere sceneerfaring for å være med.\n\nPåmeldingen gjøres av ungdommen selv, men foresatte er velkommen til å ta kontakt dersom dere har spørsmål om **påmelding, tilrettelegging, oppmøte eller gjennomføring**.\n\nVi gleder oss til å møte årets deltakere!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
       "end": null,
       "expires": "2027-03-13T22:00:00+01:00",
       "id": "9819-bak-scenen-frist",
@@ -1922,14 +1940,14 @@
       "calendars": [
         "trondelag"
       ],
-      "description": "Frist for å melde seg på bak scenen til UKM Orkland 2027.\nPåmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
+      "description": "Frist for å melde seg på bak scenen til UKM Orkland 2027.\nPåmeldingsfrist: 24.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
       "end": null,
       "expires": "2027-03-14T16:00:00+01:00",
       "id": "9889-bak-scenen-frist",
       "kind": "backstage_deadline",
       "location": "Allfarveien 5, Orkland",
       "parent_uid": "ukm-arrangement-9889@ukm-kalendere",
-      "start": "2026-12-01T23:59:00+01:00",
+      "start": "2026-12-24T23:59:00+01:00",
       "status": "CONFIRMED",
       "title": "Påmeldingsfrist bak scenen – UKM Orkland 2027",
       "uid": "ukm-bak-scenen-frist-9889@ukm-kalendere",
@@ -3023,7 +3041,7 @@
         "calendars": [
           "agder"
         ],
-        "description": "Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
+        "description": "Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
         "end": "2026-11-28T14:00:00+01:00",
         "expires": "2026-11-28T14:00:00+01:00",
         "id": "9947",
@@ -3039,7 +3057,7 @@
           "13:00",
           "14:00"
         ],
-        "text": "Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no",
+        "text": "Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLindesnes\n\nVelkommen til årets kunstutstilling\nUKM Lindesnes inviterer til utstilling på Kulturtorvet, Vigeland.\nHer blir det stettglass og godterikanapeer. Det blir rød løper og underholdning. Og viktigst av alt, det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille ut? Eller har du planer om å produsere kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no",
         "title": "Kunstutstilling"
       },
       "raw": {
@@ -3067,13 +3085,7 @@
           }
         ],
         "navn": "Kunstutstilling",
-        "paamelding_lenker": [
-          {
-            "id": 4205,
-            "lenke": "https://delta.ukm.no/ukmid/pamelding/4205-9947/",
-            "type": "kommune"
-          }
-        ],
+        "paamelding_lenker": [],
         "paameldingsfrist_1": 1795564740,
         "paameldingsfrist_1_date": {
           "date": "2026-11-24 23:59:00.000000",
@@ -8714,6 +8726,94 @@
       "event": {
         "all_day": false,
         "calendars": [
+          "troms"
+        ],
+        "description": "UKM Bardu 2027\n\nlørdag 20. februar kl. 17:00 - 19:00\n\nBardu skole - og kulturarena\n\nBardu\n\nUKM Bardu 2027 er en arena for ungdom som driver med kunst og kultur. Alle ungdommer mellom 10-20 år kan melde seg på enten med sceneinnslag, som konferansier eller med kunstverk.\n\nDet vil være kunstutstilling, forestilling med sceneinnslag og kaffesalg.\n\nDe som stiller med sceneinnslag vil få lydprøve/sceneprøve og felles generalprøve i forkant av forestillingen.\n\nHver enkelt kunstner kan melde seg på med maksimalt 3 kunstverk\n\nhttps://delta.ukm.no/ukmid/pamelding/5520-10066/\n\nKontaktpersoner\nGro Bjerregaard Lamøy\nTelefon: 92230023\nE-post: gro.bjerregaard@bardu.kommune.no\n\nPåmeldingsfrist – delta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027",
+        "end": "2027-02-20T19:00:00+01:00",
+        "expires": "2027-02-20T19:00:00+01:00",
+        "id": "10066",
+        "location": "Bardu skole - og kulturarena",
+        "start": "2027-02-20T17:00:00+01:00",
+        "status": "CONFIRMED",
+        "title": "UKM Bardu 2027",
+        "uid": "ukm-arrangement-10066@ukm-kalendere",
+        "url": "https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027"
+      },
+      "page": {
+        "displayed_times": [
+          "17:00",
+          "19:00"
+        ],
+        "text": "UKM Bardu 2027\n\nlørdag 20. februar kl. 17:00 - 19:00\n\nBardu skole - og kulturarena\n\nBardu\n\nUKM Bardu 2027 er en arena for ungdom som driver med kunst og kultur. Alle ungdommer mellom 10-20 år kan melde seg på enten med sceneinnslag, som konferansier eller med kunstverk.\n\nDet vil være kunstutstilling, forestilling med sceneinnslag og kaffesalg.\n\nDe som stiller med sceneinnslag vil få lydprøve/sceneprøve og felles generalprøve i forkant av forestillingen.\n\nHver enkelt kunstner kan melde seg på med maksimalt 3 kunstverk\n\nhttps://delta.ukm.no/ukmid/pamelding/5520-10066/\n\nKontaktpersoner\nGro Bjerregaard Lamøy\nTelefon: 92230023\nE-post: gro.bjerregaard@bardu.kommune.no",
+        "title": "UKM Bardu 2027"
+      },
+      "raw": {
+        "beskrivelse": "UKM Bardu 2027 er en arena for ungdom som driver med kunst og kultur. Alle ungdommer mellom 10-20 år kan melde seg på enten med sceneinnslag, som konferansier eller med kunstverk.\r\n\r\nDet vil være kunstutstilling, forestilling med sceneinnslag og kaffesalg. \r\n\r\nDe som stiller med sceneinnslag vil få lydprøve/sceneprøve og felles generalprøve i forkant av forestillingen. \r\n\r\nHver enkelt kunstner kan melde seg på med maksimalt 3 kunstverk",
+        "fylke": {
+          "active": true,
+          "attributes": null,
+          "fake": false,
+          "id": 55,
+          "kommuner": {
+            "id": null
+          },
+          "link": "troms",
+          "navn": "Troms - Romsa - Tromssa",
+          "nettverk_omrade": null
+        },
+        "id": 10066,
+        "kommuner": [
+          {
+            "fylke_id": 55,
+            "fylke_navn": "Troms - Romsa - Tromssa",
+            "id": 5520,
+            "navn": "Bardu",
+            "path": "/bardu/"
+          }
+        ],
+        "navn": "UKM Bardu 2027",
+        "paamelding_lenker": [
+          {
+            "id": 5520,
+            "lenke": "https://delta.ukm.no/ukmid/pamelding/5520-10066/",
+            "type": "kommune"
+          }
+        ],
+        "paameldingsfrist_1": 1801871940,
+        "paameldingsfrist_1_date": {
+          "date": "2027-02-05 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "paameldingsfrist_2": 1801871940,
+        "paameldingsfrist_2_date": {
+          "date": "2027-02-05 23:59:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "path": "2027-bardu-ukmbardu2027",
+        "start": 1803142800,
+        "start_date": {
+          "date": "2027-02-20 17:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "sted": "Bardu skole - og kulturarena",
+        "stop": 1803150000,
+        "stop_date": {
+          "date": "2027-02-20 19:00:00.000000",
+          "timezone": "UTC",
+          "timezone_type": 3
+        },
+        "type": "kommune",
+        "url": "https://sys.ukm.no/2027-bardu-ukmbardu2027/",
+        "utvidet_gui": false
+      }
+    },
+    {
+      "event": {
+        "all_day": false,
+        "calendars": [
           "agder"
         ],
         "description": "Tvedestrand\n\nlørdag 20. februar kl. 18:00 - 21:00\n\nDet blir Tvedestrand UKM i 2027 også!\n\nUKM er for deg mellom 10 – 20 år. Du kan vise frem noe, danse, synge, opptre med band, vise en film, spille musikk, spille en teatersnutt, utstille noe du har laget, sydd, tegnet, skrevet, brodert, skapt.... Det kan være hva som helst!\nOg så trenger vi deg som vil hjelpe bak scenen med å rigge til, ta foto og filme det hele. Hvis du ikke har gjort det før, gjør det ingenting. Du får lære av de som kan det.\n\nBli med og meld deg på!\n\nTvedestrand: https://sys.ukm.no/2027-tvedestrand-tvedestrandukm/files/2026/10/P1228584-3.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4213-9931/\n\nKontaktpersoner\nFranziska Rüttimann Storemyr\nTelefon: 47667687\nE-post: franziska.ruttimann.storemyr@tvedestrand.kommune.no\n\nPåmeldingsfrist – delta: 07.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 07.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-tvedestrand-tvedestrandukm",
@@ -11064,7 +11164,7 @@
         "calendars": [
           "vestland"
         ],
-        "description": "UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
+        "description": "UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nUKM Bremanger 2027: https://sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-1800x1013.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-1200x675.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
         "end": "2027-03-07T21:00:00+01:00",
         "expires": "2027-03-07T21:00:00+01:00",
         "id": "10034",
@@ -11080,7 +11180,7 @@
           "16:00",
           "21:00"
         ],
-        "text": "UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no",
+        "text": "UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBremanger\n\nUKM Bremanger 2027: https://sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-1800x1013.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no",
         "title": "UKM Bremanger 2027"
       },
       "raw": {
@@ -11428,7 +11528,7 @@
         "calendars": [
           "buskerud"
         ],
-        "description": "UKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nVi gleder oss til å se hva Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
+        "description": "UKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nFor foresatte\n\nUKM Lier er en trygg og inkluderende møteplass for ungdom mellom **10 og 20 år**, hvor de kan vise frem det de liker å holde på med – enten det er musikk, dans, kunst, foto, film, teater eller noe helt annet.\n\nUKM Lier arrangeres i samarbeid mellom **Ungdomshuset V2, Lier kulturskole og Lier kulturscene**. Det er gratis å delta, og ungdommene trenger ingen tidligere sceneerfaring for å være med.\n\nPåmeldingen gjøres av ungdommen selv, men foresatte er velkommen til å ta kontakt dersom dere har spørsmål om **påmelding, tilrettelegging, oppmøte eller gjennomføring**.\n\nVi gleder oss til å møte årets deltakere!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no\n\nPåmeldingsfrist – bidra bak scenen: 28.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
         "end": "2027-03-13T22:00:00+01:00",
         "expires": "2027-03-13T22:00:00+01:00",
         "id": "9819",
@@ -11444,11 +11544,11 @@
           "14:00",
           "22:00"
         ],
-        "text": "UKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nVi gleder oss til å se hva Liers ungdom har å by på!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no",
+        "text": "UKM Lier 2027\n\nfredag 12. mars kl. 14:00 - lørdag 13. mars kl. 22:00\n\nLier Kulturscene\n\nLier\n\nVelkommen til UKM Lier 2027\n\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\n\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\n\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\n\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine.\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\n\nPåmeldingen er nå åpen!\n\nFor foresatte\n\nUKM Lier er en trygg og inkluderende møteplass for ungdom mellom **10 og 20 år**, hvor de kan vise frem det de liker å holde på med – enten det er musikk, dans, kunst, foto, film, teater eller noe helt annet.\n\nUKM Lier arrangeres i samarbeid mellom **Ungdomshuset V2, Lier kulturskole og Lier kulturscene**. Det er gratis å delta, og ungdommene trenger ingen tidligere sceneerfaring for å være med.\n\nPåmeldingen gjøres av ungdommen selv, men foresatte er velkommen til å ta kontakt dersom dere har spørsmål om **påmelding, tilrettelegging, oppmøte eller gjennomføring**.\n\nVi gleder oss til å møte årets deltakere!\n\nUKM Lier 2027: https://sys.ukm.no/2027-lier-ukmlier2027/files/2026/10/BSF_8284-TeodorEmilEinarsen-260623-800x1200.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/3312-9819/\n\nKontaktpersoner\nYngvild Nystrøm\nKunstansvarlig\nTelefon: 45613716\nE-post: Yngvild.Mehren.Nystrom@lier.kommune.no\n\nJames Hendry\nLeder Husband\nTelefon: 92080625\nE-post: JamesHenrik.HovindHendry@lier.kommune.no\n\nIrene Algarheim Risan\nProdusent\nTelefon: 97961699\nE-post: irene.risan@lier.kommune.no",
         "title": "UKM Lier 2027"
       },
       "raw": {
-        "beskrivelse": "Velkommen til UKM Lier 2027\r\n\r\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\r\n\r\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\r\n\r\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\r\n\r\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine. \r\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\r\n\r\nPåmeldingen er nå åpen!\r\n\r\nVi gleder oss til å se hva Liers ungdom har å by på!",
+        "beskrivelse": "Velkommen til UKM Lier 2027\r\n\r\nUKM (Ung Kultur Møtes) er en møteplass for unge mellom 10 og 20 år som vil vise frem det de brenner for, prøve noe nytt og møte andre med samme interesser!\r\n\r\nEnten du driver med musikk, dans, teater, kunst, foto, film eller noe helt annet, er UKM stedet for deg! Du trenger ikke være proff eller ha stått på en scene før. Her handler det om kreativitet, fellesskap og å ha det gøy.\r\n\r\nDu kan delta på scenen, stille ut noe du har laget, eller være med bak kulissene som arrangør, fotograf eller tekniker.\r\n\r\nUKM er ikke en konkurranse, men en arena hvor ungdom får utvikle seg, bli kjent med andre og vise frem talentene sine. \r\nUKM Lier er gratis for alle deltakere mellom 10 og 20 år!\r\n\r\nPåmeldingen er nå åpen!\r\n\r\nFor foresatte\r\n\r\nUKM Lier er en trygg og inkluderende møteplass for ungdom mellom **10 og 20 år**, hvor de kan vise frem det de liker å holde på med – enten det er musikk, dans, kunst, foto, film, teater eller noe helt annet.\r\n\r\nUKM Lier arrangeres i samarbeid mellom **Ungdomshuset V2, Lier kulturskole og Lier kulturscene**. Det er gratis å delta, og ungdommene trenger ingen tidligere sceneerfaring for å være med.\r\n\r\nPåmeldingen gjøres av ungdommen selv, men foresatte er velkommen til å ta kontakt dersom dere har spørsmål om **påmelding, tilrettelegging, oppmøte eller gjennomføring**.\r\n\r\nVi gleder oss til å møte årets deltakere!",
         "fylke": {
           "active": true,
           "attributes": null,
@@ -13695,7 +13795,7 @@
         "calendars": [
           "trondelag"
         ],
-        "description": "UKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
+        "description": "UKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du mellom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med videre til regionssamling det året du fyller 13 år. Tilhører du en gruppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV for å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-orkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027",
         "end": "2027-03-14T16:00:00+01:00",
         "expires": "2027-03-14T16:00:00+01:00",
         "id": "9889",
@@ -13752,9 +13852,9 @@
           "timezone": "UTC",
           "timezone_type": 3
         },
-        "paameldingsfrist_2": 1796169540,
+        "paameldingsfrist_2": 1798156740,
         "paameldingsfrist_2_date": {
-          "date": "2026-12-01 23:59:00.000000",
+          "date": "2026-12-24 23:59:00.000000",
           "timezone": "UTC",
           "timezone_type": 3
         },
@@ -16234,5 +16334,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-24T05:25:17.697880+00:00"
+  "generated_at": "2026-11-25T05:27:13.723969+00:00"
 }

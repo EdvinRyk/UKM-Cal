@@ -99,6 +99,34 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10033@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10066@ukm-kalendere
+DTSTAMP:20261125T052713Z
+CREATED:20261125T052713Z
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:0
+DTSTART:20270205T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Bardu 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Bardu 2027.\nPåm
+ eldingsfrist: 05.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bardu 2027\n\nlørd
+ ag 20. februar kl. 17:00 - 19:00\n\nBardu skole - og kulturarena\n\nBardu\
+ n\nUKM Bardu 2027 er en arena for ungdom som driver med kunst og kultur. A
+ lle ungdommer mellom 10-20 år kan melde seg på enten med sceneinnslag\, 
+ som konferansier eller med kunstverk.\n\nDet vil være kunstutstilling\, f
+ orestilling med sceneinnslag og kaffesalg.\n\nDe som stiller med sceneinns
+ lag vil få lydprøve/sceneprøve og felles generalprøve i forkant av for
+ estillingen.\n\nHver enkelt kunstner kan melde seg på med maksimalt 3 kun
+ stverk\n\nhttps://delta.ukm.no/ukmid/pamelding/5520-10066/\n\nKontaktperso
+ ner\nGro Bjerregaard Lamøy\nTelefon: 92230023\nE-post: gro.bjerregaard@ba
+ rdu.kommune.no\n\nPåmeldingsfrist – delta: 05.02.2027 kl. 23:59\nPåmel
+ dingsfrist – bidra bak scenen: 05.02.2027 kl. 23:59\nArrangementsside: h
+ ttps://www.ukm.no/arrangement/2027-bardu-ukmbardu2027
+LOCATION:Bardu skole - og kulturarena
+URL:https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10066@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-arrangement-9830@ukm-kalendere
 DTSTAMP:20261025T111629Z
 CREATED:20261025T111128Z
@@ -126,6 +154,33 @@ DESCRIPTION:UKM Svalbard\n\ntirsdag 9. februar kl. 18:00 - fredag 12. febru
  ard
 LOCATION:\, Svalbard
 URL:https://www.ukm.no/arrangement/2027-svalbard-svalbard
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10066@ukm-kalendere
+DTSTAMP:20261125T052713Z
+CREATED:20261125T052713Z
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:0
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:UKM Bardu 2027
+DESCRIPTION:UKM Bardu 2027\n\nlørdag 20. februar kl. 17:00 - 19:00\n\nBard
+ u skole - og kulturarena\n\nBardu\n\nUKM Bardu 2027 er en arena for ungdom
+  som driver med kunst og kultur. Alle ungdommer mellom 10-20 år kan melde
+  seg på enten med sceneinnslag\, som konferansier eller med kunstverk.\n\
+ nDet vil være kunstutstilling\, forestilling med sceneinnslag og kaffesal
+ g.\n\nDe som stiller med sceneinnslag vil få lydprøve/sceneprøve og fel
+ les generalprøve i forkant av forestillingen.\n\nHver enkelt kunstner kan
+  melde seg på med maksimalt 3 kunstverk\n\nhttps://delta.ukm.no/ukmid/pam
+ elding/5520-10066/\n\nKontaktpersoner\nGro Bjerregaard Lamøy\nTelefon: 92
+ 230023\nE-post: gro.bjerregaard@bardu.kommune.no\n\nPåmeldingsfrist – d
+ elta: 05.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.02.2
+ 027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-bardu
+ -ukmbardu2027
+LOCATION:Bardu skole - og kulturarena
+URL:https://www.ukm.no/arrangement/2027-bardu-ukmbardu2027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

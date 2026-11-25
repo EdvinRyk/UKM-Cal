@@ -57,10 +57,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9986@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9947@ukm-kalendere
-DTSTAMP:20261122T051558Z
+DTSTAMP:20261125T052713Z
 CREATED:20261122T051558Z
-LAST-MODIFIED:20261122T051558Z
-SEQUENCE:0
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:1
 DTSTART:20261124T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – Kunstutstilling
 DESCRIPTION:Frist for å melde seg på bak scenen til Kunstutstilling.\nPå
@@ -71,14 +71,13 @@ DESCRIPTION:Frist for å melde seg på bak scenen til Kunstutstilling.\nPå
  r og underholdning. Og viktigst av alt\, det blir stor kunst fra våre ung
  dommer i kommunen.\nGratis inngang.\nHar du laget noe du ønsker å stille
   ut? Eller har du planer om å produsere kunst? Da kan du melde deg på he
- r :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nhttps://delta.
- ukm.no/ukmid/pamelding/4205-9947/\n\nKontaktpersoner\nHanne Thyholdt\nTele
- fon: 99441160\nE-post: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Anderse
- n\nTelefon: 95307893\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona H
- arbak\nTelefon: 90243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåm
- eldingsfrist – delta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra b
- ak scenen: 24.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arra
- ngement/2026-lindesnes-ukmkunstutstilling
+ r :)\n(for å stille ut må du være mellom 9 og 19 år)\n\nKontaktpersone
+ r\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lindesnes.kom
+ mune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.andersen@lindesn
+ es.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.harbak@linde
+ snes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23:59\nPåme
+ ldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangementsside: 
+ https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
 LOCATION:\, Lindesnes
 URL:https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
 STATUS:CONFIRMED
@@ -130,10 +129,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9947@ukm-kalendere
-DTSTAMP:20261122T051558Z
+DTSTAMP:20261125T052713Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261122T051558Z
-SEQUENCE:2
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:3
 DTSTART:20261128T120000Z
 DTEND:20261128T130000Z
 SUMMARY:Kunstutstilling
@@ -144,13 +143,13 @@ DESCRIPTION:Kunstutstilling\n\nlørdag 28. november kl. 13:00 - 14:00\n\nLi
  det blir stor kunst fra våre ungdommer i kommunen.\nGratis inngang.\nHar 
  du laget noe du ønsker å stille ut? Eller har du planer om å produsere 
  kunst? Da kan du melde deg på her :)\n(for å stille ut må du være mell
- om 9 og 19 år)\n\nhttps://delta.ukm.no/ukmid/pamelding/4205-9947/\n\nKont
- aktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-post: hanne.thyholdt@lin
- desnes.kommune.no\n\nKeth Andersen\nTelefon: 95307893\nE-post: keth.anders
- en@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90243405\nE-post: mona.ha
- rbak@lindesnes.kommune.no\n\nPåmeldingsfrist – delta: 24.11.2026 kl. 23
- :59\nPåmeldingsfrist – bidra bak scenen: 24.11.2026 kl. 23:59\nArrangem
- entsside: https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
+ om 9 og 19 år)\n\nKontaktpersoner\nHanne Thyholdt\nTelefon: 99441160\nE-p
+ ost: hanne.thyholdt@lindesnes.kommune.no\n\nKeth Andersen\nTelefon: 953078
+ 93\nE-post: keth.andersen@lindesnes.kommune.no\n\nMona Harbak\nTelefon: 90
+ 243405\nE-post: mona.harbak@lindesnes.kommune.no\n\nPåmeldingsfrist – d
+ elta: 24.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 24.11.2
+ 026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2026-linde
+ snes-ukmkunstutstilling
 LOCATION:\, Lindesnes
 URL:https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling
 STATUS:CONFIRMED

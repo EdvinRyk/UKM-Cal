@@ -51,33 +51,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-bak-scenen-frist-9889@ukm-kalendere
-DTSTAMP:20261027T045222Z
-CREATED:20261025T121149Z
-LAST-MODIFIED:20261027T045222Z
-SEQUENCE:1
-DTSTART:20261201T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – UKM Orkland 2027
-DESCRIPTION:Frist for å melde seg på bak scenen til UKM Orkland 2027.\nP
- åmeldingsfrist: 01.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\n
- søndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du me
- llom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med
-  videre til regionssamling det året du fyller 13 år. Tilhører du en gru
- ppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV f
- or å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-o
- rkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.
- ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTel
- efon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfr
- ist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
- : 01.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
- 027-orkland-ukmorkland2027
-LOCATION:Allfarveien 5\, Orkland
-URL:https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9889@ukm-kalendere
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-10031@ukm-kalendere
 DTSTAMP:20261112T051936Z
 CREATED:20261112T051936Z
@@ -154,6 +127,33 @@ LOCATION:\, Melhus
 URL:https://www.ukm.no/arrangement/2026-melhus-torsdagsscenen17desember2026
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-9889@ukm-kalendere
+DTSTAMP:20261125T052713Z
+CREATED:20261025T121149Z
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:2
+DTSTART:20261224T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM Orkland 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM Orkland 2027.\nP
+ åmeldingsfrist: 24.12.2026 kl. 23:59 (norsk tid).\n\nUKM Orkland 2027\n\n
+ søndag 14. mars kl. 12:00 - 16:00\n\nAllfarveien 5\n\nOrkland\n\nEr du me
+ llom 10 og 20 år kan du melde deg på for å delta lokalt. Du kan bli med
+  videre til regionssamling det året du fyller 13 år. Tilhører du en gru
+ ppe må halvparten fylle 13 år det året.\n\n(Scroll ned til VIDEOARKIV f
+ or å se fjorårets video!)\n\nUKM Orkland 2027: https://sys.ukm.no/2027-o
+ rkland-ukmorkland2027/files/2026/09/DSC7587-1200x675.jpg\n\nhttps://delta.
+ ukm.no/ukmid/pamelding/5059-9889/\n\nKontaktpersoner\nStefan Røstvik\nTel
+ efon: 94251540\nE-post: stefan.rostvik@orkland.kommune.no\n\nPåmeldingsfr
+ ist – delta: 07.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen
+ : 24.12.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2
+ 027-orkland-ukmorkland2027
+LOCATION:Allfarveien 5\, Orkland
+URL:https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9889@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9910@ukm-kalendere
@@ -983,10 +983,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9889@ukm-kalendere
-DTSTAMP:20261027T045222Z
+DTSTAMP:20261125T052713Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261027T045222Z
-SEQUENCE:2
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:3
 DTSTART:20270314T110000Z
 DTEND:20270314T150000Z
 SUMMARY:UKM Orkland 2027
@@ -999,7 +999,7 @@ DESCRIPTION:UKM Orkland 2027\n\nsøndag 14. mars kl. 12:00 - 16:00\n\nAllfa
  -1200x675.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/5059-9889/\n\nKontak
  tpersoner\nStefan Røstvik\nTelefon: 94251540\nE-post: stefan.rostvik@orkl
  and.kommune.no\n\nPåmeldingsfrist – delta: 07.03.2027 kl. 23:59\nPåmel
- dingsfrist – bidra bak scenen: 01.12.2026 kl. 23:59\nArrangementsside: h
+ dingsfrist – bidra bak scenen: 24.12.2026 kl. 23:59\nArrangementsside: h
  ttps://www.ukm.no/arrangement/2027-orkland-ukmorkland2027
 LOCATION:Allfarveien 5\, Orkland
 URL:https://www.ukm.no/arrangement/2027-orkland-ukmorkland2027

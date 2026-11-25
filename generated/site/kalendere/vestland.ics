@@ -721,22 +721,26 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9969@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10034@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261125T052713Z
 CREATED:20261113T051739Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:0
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:1
 DTSTART:20270226T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Bremanger 2027
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Bremanger 2027.\n
  Påmeldingsfrist: 26.02.2027 kl. 23:59 (norsk tid).\n\nUKM Bremanger 2027\
  n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavik oppvekst Davik skule\n\nBrem
- anger\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontaktperson
- er\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.kommune
- .no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klungreset
- er@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raim
- und.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02.2027 
- kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:59\nAr
- rangementsside: https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger
+ anger\n\nUKM Bremanger 2027: https://sys.ukm.no/2027-bremanger-ukmbremange
+ r/files/2026/11/Bilde-01.03.2026-17-17-18-1800x1013.jpg\n\nhttps://delta.u
+ km.no/ukmid/pamelding/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefo
+ n: 95426347\nE-post: gard.nodset@bremanger.kommune.no\n\nNorvall Klungrese
+ ter\nTelefon: 91658547\nE-post: Norvall.klungreseter@bremanger.kommune.no\
+ n\nRaimund Hoclas\nTelefon: 46883779\nE-post: Raimund.hoclas@bremanger.kom
+ mune.no\n\nPåmeldingsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfr
+ ist – bidra bak scenen: 26.02.2027 kl. 23:59\nArrangementsbilde: https:/
+ /sys.ukm.no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-
+ 17-18-1200x675.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-
+ bremanger-ukmbremanger
 LOCATION:Davik oppvekst Davik skule\, Bremanger
 URL:https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger
 STATUS:CONFIRMED
@@ -837,22 +841,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10034@ukm-kalendere
-DTSTAMP:20261113T051739Z
+DTSTAMP:20261125T052713Z
 CREATED:20261113T051739Z
-LAST-MODIFIED:20261113T051739Z
-SEQUENCE:0
+LAST-MODIFIED:20261125T052713Z
+SEQUENCE:1
 DTSTART:20270307T150000Z
 DTEND:20270307T200000Z
 SUMMARY:UKM Bremanger 2027
 DESCRIPTION:UKM Bremanger 2027\n\nsøndag 7. mars kl. 16:00 - 21:00\n\nDavi
- k oppvekst Davik skule\n\nBremanger\n\nhttps://delta.ukm.no/ukmid/pameldin
- g/4648-10034/\n\nKontaktpersoner\nGard Nødset\nTelefon: 95426347\nE-post:
-  gard.nodset@bremanger.kommune.no\n\nNorvall Klungreseter\nTelefon: 916585
- 47\nE-post: Norvall.klungreseter@bremanger.kommune.no\n\nRaimund Hoclas\nT
- elefon: 46883779\nE-post: Raimund.hoclas@bremanger.kommune.no\n\nPåmeldin
- gsfrist – delta: 26.02.2027 kl. 23:59\nPåmeldingsfrist – bidra bak sc
- enen: 26.02.2027 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangeme
- nt/2027-bremanger-ukmbremanger
+ k oppvekst Davik skule\n\nBremanger\n\nUKM Bremanger 2027: https://sys.ukm
+ .no/2027-bremanger-ukmbremanger/files/2026/11/Bilde-01.03.2026-17-17-18-18
+ 00x1013.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4648-10034/\n\nKontakt
+ personer\nGard Nødset\nTelefon: 95426347\nE-post: gard.nodset@bremanger.k
+ ommune.no\n\nNorvall Klungreseter\nTelefon: 91658547\nE-post: Norvall.klun
+ greseter@bremanger.kommune.no\n\nRaimund Hoclas\nTelefon: 46883779\nE-post
+ : Raimund.hoclas@bremanger.kommune.no\n\nPåmeldingsfrist – delta: 26.02
+ .2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 26.02.2027 kl. 23:
+ 59\nArrangementsbilde: https://sys.ukm.no/2027-bremanger-ukmbremanger/file
+ s/2026/11/Bilde-01.03.2026-17-17-18-1200x675.jpg\nArrangementsside: https:
+ //www.ukm.no/arrangement/2027-bremanger-ukmbremanger
 LOCATION:Davik oppvekst Davik skule\, Bremanger
 URL:https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger
 STATUS:CONFIRMED
