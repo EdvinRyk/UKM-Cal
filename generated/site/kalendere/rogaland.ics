@@ -35,6 +35,35 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9828@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-arrangement-10067@ukm-kalendere
+DTSTAMP:20261126T135909Z
+CREATED:20261126T135909Z
+LAST-MODIFIED:20261126T135909Z
+SEQUENCE:0
+DTSTART:20261203T160000Z
+DTEND:20261203T200000Z
+SUMMARY:Bli med bak scenen! - workshop i sceneteknikk
+DESCRIPTION:Bli med bak scenen! - workshop i sceneteknikk\n\ntorsdag 3. des
+ ember kl. 17:00 - 21:00\n\nKongshaugvegen 32\n\nSola\n\nHar du lyst til å
+  lære hvordan det fungerer bak scenen?\n\nBli med og lær om lys\, lyd og
+  sceneproduksjon\, og få muligheten til å være med å jobbe med Klubbsc
+ enen på Sola Kulturhus!\n\nIngen erfaring nødvendig – bare møt opp me
+ d nysgjerrighet og skaperglede!\n\nDet blir gratis mat!\n\nBli med bak sce
+ nen! - workshop i sceneteknikk: https://sys.ukm.no/2026-sola-blimedbakscen
+ en-workshopisceneteknikk/files/2026/11/A3-Plakat-6-1-848x1200.png\n\nhttps
+ ://delta.ukm.no/ukmid/pamelding/1124-10067/\n\nKontaktpersoner\nFeel Good\
+ nTelefon: 98905261\nE-post: feelgood@sola.kommune.no\n\nMartin Løland\nTe
+ lefon: 41628416\nE-post: martin.loland@sola.kommune.no\n\nSjur Halleraker\
+ nTelefon: 41306124\nE-post: sjur.halleraker@sola.kommune.no\n\nArrangement
+ sside: https://www.ukm.no/arrangement/2026-sola-blimedbakscenen-workshopis
+ ceneteknikk
+LOCATION:Kongshaugvegen 32\, Sola
+URL:https://www.ukm.no/arrangement/2026-sola-blimedbakscenen-workshopiscene
+ teknikk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9875@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z

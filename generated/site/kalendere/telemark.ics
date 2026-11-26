@@ -9,14 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-arrangement-9890@ukm-kalendere
-DTSTAMP:20261107T050755Z
+DTSTAMP:20261126T135909Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261107T050755Z
-SEQUENCE:2
-DTSTART:20261017T100000Z
+LAST-MODIFIED:20261126T135909Z
+SEQUENCE:3
+DTSTART:20261130T110000Z
 DTEND:20270313T210000Z
 SUMMARY:CREW - Tokke og Vinje
-DESCRIPTION:CREW - Tokke og Vinje\n\nlørdag 17. oktober kl. 12:00 - lørda
+DESCRIPTION:CREW - Tokke og Vinje\n\nmandag 30. november kl. 12:00 - lørda
  g 13. mars kl. 22:00\n\nVinje\, Tokke\n\nUKM-Crew – bli med bak scena!\n
  \nUKM står for Ung-Kultur-Møtast og UKM-Crew er ei gruppe ungdom som mø
  test jamleg for å lære korleis ein arrangerer konsertar\, workshops og s
@@ -67,15 +67,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9890@ukm-kalendere
-DTSTAMP:20261107T050755Z
+DTSTAMP:20261126T135909Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261107T050755Z
-SEQUENCE:1
+LAST-MODIFIED:20261126T135909Z
+SEQUENCE:2
 DTSTART:20261225T105154Z
 SUMMARY:Påmeldingsfrist bak scenen – CREW - Tokke og Vinje
 DESCRIPTION:Frist for å melde seg på bak scenen til CREW - Tokke og Vinje
  .\nPåmeldingsfrist: 25.12.2026 kl. 11:51 (norsk tid).\n\nCREW - Tokke og 
- Vinje\n\nlørdag 17. oktober kl. 12:00 - lørdag 13. mars kl. 22:00\n\nVin
+ Vinje\n\nmandag 30. november kl. 12:00 - lørdag 13. mars kl. 22:00\n\nVin
  je\, Tokke\n\nUKM-Crew – bli med bak scena!\n\nUKM står for Ung-Kultur-
  Møtast og UKM-Crew er ei gruppe ungdom som møtest jamleg for å lære ko
  rleis ein arrangerer konsertar\, workshops og sceneproduksjonar. Du treng 

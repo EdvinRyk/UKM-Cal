@@ -11,8 +11,8 @@
     "nasjonalt": 2,
     "nordland": 12,
     "oslo": 26,
-    "ostfold": 18,
-    "rogaland": 22,
+    "ostfold": 19,
+    "rogaland": 23,
     "telemark": 18,
     "troms": 15,
     "trondelag": 39,
@@ -38,14 +38,14 @@
     "vestland": 14
   },
   "deadline_count": 130,
-  "entry_count": 286,
-  "event_count": 156,
-  "last_success": "2026-11-25T05:27:13.723969+00:00",
+  "entry_count": 288,
+  "event_count": 158,
+  "last_success": "2026-11-26T13:59:09.564620+00:00",
   "sources": {
-    "checked_detail_pages": 156,
+    "checked_detail_pages": 158,
     "search": {
       "complete": true,
-      "hits": 653,
+      "hits": 655,
       "index": "events_prod",
       "pages": 7
     },
@@ -59,6 +59,6 @@
         "reason": "UKM markerer fylket som fake"
       }
     ],
-    "upcoming_api_count": 158
+    "upcoming_api_count": 160
   }
 }

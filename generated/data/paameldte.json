@@ -1,155 +1,8 @@
 {
-  "antall_arrangementer": 156,
-  "antall_deltakernavn_i_innslag": 151,
-  "antall_innslag": 480,
+  "antall_arrangementer": 158,
+  "antall_deltakernavn_i_innslag": 153,
+  "antall_innslag": 503,
   "arrangementer": [
-    {
-      "antall_innslag": 7,
-      "arrangement_id": "9813",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [
-            "Aliyah Aliyah",
-            "Amalie Amalie",
-            "Elvira Elvira",
-            "Emilie Næss",
-            "Henriette Brudal Uglum",
-            "Linnea Pøl Steinert",
-            "Nelly Nelly",
-            "Tia Sofie Dokken Nilsen"
-          ],
-          "id": "262539",
-          "navn": "Elitetroppen"
-        },
-        {
-          "beskrivelse": "Pønkerockeband fra Larvik",
-          "deltakernavn": [
-            "Liam Larsen",
-            "Ludvig Svendsen",
-            "Nebel Markegård",
-            "Oscar Blømacher"
-          ],
-          "id": "262169",
-          "navn": "Hallucination"
-        },
-        {
-          "beskrivelse": "4 portretter",
-          "deltakernavn": [
-            "Hanna Wendel-Haga"
-          ],
-          "id": "262536",
-          "navn": "Hanna"
-        },
-        {
-          "beskrivelse": "Har vært med før, er ei pottitt, er tech først og fremst, men Sara sier jeg kan brukes til nesten alt ;) Hvis jeg får velge vil jeg helst IKKE jobbe som scenearbeider.",
-          "deltakernavn": [
-            "Jessica Ravn Paulsen"
-          ],
-          "id": "262027",
-          "navn": "Jessica Ravn Paulsen"
-        },
-        {
-          "beskrivelse": "UKM lands 2 ganger som scenearbeider. Har også vært trommetekniker mange ganger for lokale band i Larvik.",
-          "deltakernavn": [
-            "Jonathan Kjørven"
-          ],
-          "id": "262028",
-          "navn": "Jonathan Kjørven"
-        },
-        {
-          "beskrivelse": "Vi er 4 gutter fra musikklinja i Larvik som spiller hard-rock med en moderne vri. Vi spilte på minifestivalen Blåbråk i oktober, og har siden hatt fokus på å skrive nye låter og å forbedre de gamle.",
-          "deltakernavn": [
-            "Christoffer Høiseth",
-            "Håvard Sølvik",
-            "Jonathan Kjørven",
-            "Mykhailo Topchii"
-          ],
-          "id": "262029",
-          "navn": "SLAKT"
-        },
-        {
-          "beskrivelse": "Har vært med før, lands x 2, har eget kamera. Har tatt masse bilder av band og scene og stemninger før. Er rutta.",
-          "deltakernavn": [
-            "Teodor Emil Einarsen Skeie"
-          ],
-          "id": "262026",
-          "navn": "Teodor Emil Einarsen Skeie"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9813",
-      "navn": "Larvik høst 26"
-    },
-    {
-      "antall_innslag": 10,
-      "arrangement_id": "9890",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261695",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261724",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261727",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261744",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261745",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261748",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261755",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261784",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261785",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "261786",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
-      "navn": "CREW - Tokke og Vinje"
-    },
     {
       "antall_innslag": 9,
       "arrangement_id": "9950",
@@ -287,7 +140,7 @@
       "navn": "Informasjon om årets kunstutstilling og workshop"
     },
     {
-      "antall_innslag": 38,
+      "antall_innslag": 48,
       "arrangement_id": "9947",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
       "innslag": [
@@ -325,6 +178,18 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262593",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262700",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262701",
           "navn": "Arrangør innslag"
         },
         {
@@ -518,13 +383,61 @@
           "deltakernavn": [],
           "id": "262649",
           "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262703",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262704",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262705",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262706",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262707",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262708",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262709",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262711",
+          "navn": "Utstilling innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
       "navn": "Kunstutstilling"
     },
     {
-      "antall_innslag": 16,
+      "antall_innslag": 22,
       "arrangement_id": "9949",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-workshopmaskeileire",
       "innslag": [
@@ -623,10 +536,210 @@
           "deltakernavn": [],
           "id": "262675",
           "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262712",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262713",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262714",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262715",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262716",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262717",
+          "navn": "Person innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9949",
       "navn": "Workshop; maske i leire"
+    },
+    {
+      "antall_innslag": 8,
+      "arrangement_id": "9813",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-larvik-ukmlarvikhost26",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [
+            "Aliyah Aliyah",
+            "Amalie Amalie",
+            "Elvira Elvira",
+            "Emilie Næss",
+            "Henriette Brudal Uglum",
+            "Linnea Pøl Steinert",
+            "Nelly Nelly",
+            "Tia Sofie Dokken Nilsen"
+          ],
+          "id": "262539",
+          "navn": "Elitetroppen"
+        },
+        {
+          "beskrivelse": "Pønkerockeband fra Larvik",
+          "deltakernavn": [
+            "Liam Larsen",
+            "Ludvig Svendsen",
+            "Nebel Markegård",
+            "Oscar Blømacher"
+          ],
+          "id": "262169",
+          "navn": "Hallucination"
+        },
+        {
+          "beskrivelse": "4 portretter",
+          "deltakernavn": [
+            "Hanna Wendel-Haga"
+          ],
+          "id": "262536",
+          "navn": "Hanna"
+        },
+        {
+          "beskrivelse": "Har vært med før, er ei pottitt, er tech først og fremst, men Sara sier jeg kan brukes til nesten alt ;) Hvis jeg får velge vil jeg helst IKKE jobbe som scenearbeider.",
+          "deltakernavn": [
+            "Jessica Ravn Paulsen"
+          ],
+          "id": "262027",
+          "navn": "Jessica Ravn Paulsen"
+        },
+        {
+          "beskrivelse": "UKM lands 2 ganger som scenearbeider. Har også vært trommetekniker mange ganger for lokale band i Larvik.",
+          "deltakernavn": [
+            "Jonathan Kjørven"
+          ],
+          "id": "262028",
+          "navn": "Jonathan Kjørven"
+        },
+        {
+          "beskrivelse": "Vi er 4 gutter fra musikklinja i Larvik som spiller hard-rock med en moderne vri. Vi spilte på minifestivalen Blåbråk i oktober, og har siden hatt fokus på å skrive nye låter og å forbedre de gamle.",
+          "deltakernavn": [
+            "Christoffer Høiseth",
+            "Håvard Sølvik",
+            "Jonathan Kjørven",
+            "Mykhailo Topchii"
+          ],
+          "id": "262029",
+          "navn": "SLAKT"
+        },
+        {
+          "beskrivelse": "Har vært med før, lands x 2, har eget kamera. Har tatt masse bilder av band og scene og stemninger før. Er rutta.",
+          "deltakernavn": [
+            "Teodor Emil Einarsen Skeie"
+          ],
+          "id": "262026",
+          "navn": "Teodor Emil Einarsen Skeie"
+        },
+        {
+          "beskrivelse": "To bilder (i serien)\nGrafittikunst",
+          "deltakernavn": [
+            "Alex K. Fossum",
+            "Tim S. Haugen"
+          ],
+          "id": "262695",
+          "navn": "ZQ!"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9813",
+      "navn": "Larvik høst 26"
+    },
+    {
+      "antall_innslag": 10,
+      "arrangement_id": "9890",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-tokke-vinje-crew-tokkeogvinje",
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261695",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261724",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261727",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261744",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261745",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261748",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261755",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261784",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261785",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "261786",
+          "navn": "Person innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9890",
+      "navn": "CREW - Tokke og Vinje"
+    },
+    {
+      "antall_innslag": 0,
+      "arrangement_id": "10067",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-sola-blimedbakscenen-workshopisceneteknikk",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10067",
+      "navn": "Bli med bak scenen! - workshop i sceneteknikk"
     },
     {
       "antall_innslag": 0,
@@ -683,9 +796,30 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10068",
+      "arrangement_url": "https://www.ukm.no/arrangement/2026-sarpsborg-apenscene",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10068",
+      "navn": "Åpen scene"
+    },
+    {
+      "antall_innslag": 2,
       "arrangement_id": "10039",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kongsberg-kongsberg",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262696",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262702",
+          "navn": "Person innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10039",
       "navn": "Klar for et eventyr? Bli med på Dungeons & Dragons!"
     },
@@ -880,8 +1014,7 @@
         {
           "beskrivelse": "11år, spilt piano litt over et år",
           "deltakernavn": [
-            "Ada Folde",
-            "Hanne Hjelen Torseth"
+            "Ada Folde"
           ],
           "id": "262681",
           "navn": "Ada Folde"
@@ -949,7 +1082,7 @@
           "navn": "Martine og Amalie"
         },
         {
-          "beskrivelse": "",
+          "beskrivelse": "Maleri",
           "deltakernavn": [
             "Sofiia Yaremenko"
           ],
@@ -1090,7 +1223,7 @@
       "navn": "Oppdal 2027"
     },
     {
-      "antall_innslag": 35,
+      "antall_innslag": 36,
       "arrangement_id": "9868",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-asker-asker",
       "innslag": [
@@ -1266,6 +1399,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262611",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Jeg skal synge hopelessly devoted to you",
+          "deltakernavn": [],
+          "id": "262718",
           "navn": "Musikk innslag"
         },
         {
@@ -1549,10 +1688,17 @@
       "navn": "Kvitsøy og Randaberg"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "9855",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-orland-orlandkunst",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "Jeg liker å lese, se filmer, begynner å lære å spille på piano. Jeg er veldig glad i å male både med farger å grå bliant. Jeg kan to språk ukrainsk og russisk også kan jeg kanskje halvparten av norsk. Jeg liker fantasi bøker og filmer spesielt. Jeg synes at dyr er veldig interessant og fin så jeg liker å tegne dem og.",
+          "deltakernavn": [],
+          "id": "262699",
+          "navn": "Utstilling innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9855",
       "navn": "Ørland kunstutstilling"
     },
@@ -1676,7 +1822,7 @@
       "navn": "Ullensvang"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 13,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [
@@ -1747,12 +1893,6 @@
           "navn": "Musikk innslag"
         },
         {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262663",
-          "navn": "Musikk innslag"
-        },
-        {
           "beskrivelse": "Liker kunst, kreativitet og ønsker å jobbe på arrangementet",
           "deltakernavn": [],
           "id": "262235",
@@ -1769,7 +1909,7 @@
       "navn": "Sola 2027"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 9,
       "arrangement_id": "9820",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
       "innslag": [
@@ -1801,6 +1941,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262606",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Glad I Musikk",
+          "deltakernavn": [],
+          "id": "262720",
           "navn": "Musikk innslag"
         },
         {
@@ -1981,7 +2127,7 @@
       "navn": "UKM Malvik 2027"
     },
     {
-      "antall_innslag": 15,
+      "antall_innslag": 14,
       "arrangement_id": "9911",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
       "innslag": [
@@ -2067,12 +2213,6 @@
           "beskrivelse": "4 stramme karer fra gausdal. Vi best i alt anna enn bøker. 50% av bandet klare å ta av seg skoa når de er inne.",
           "deltakernavn": [],
           "id": "262173",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "Hei, jeg heter Maja. Jeg er 15 år og deltar for 4. gang. Jeg spiller gitar å synger, og det er det jeg liker best og gjøre!",
-          "deltakernavn": [],
-          "id": "262484",
           "navn": "Musikk innslag"
         }
       ],
@@ -3242,10 +3382,16 @@
       "navn": "UKM Lokalfestival Jøa 2027"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "10034",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bremanger-ukmbremanger",
       "innslag": [
+        {
+          "beskrivelse": "Vi er to bestevenner som har vert venner I 4 år og vi treng helst komp.",
+          "deltakernavn": [],
+          "id": "262694",
+          "navn": "Musikk innslag"
+        },
         {
           "beskrivelse": "Gut ved svelgen kunstklubb",
           "deltakernavn": [],
@@ -3391,7 +3537,7 @@
       "navn": "Flekkefjord og Kvinesdal"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 7,
       "arrangement_id": "9819",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-lier-ukmlier2027",
       "innslag": [
@@ -3426,6 +3572,14 @@
           ],
           "id": "262376",
           "navn": "Lise Wamstad"
+        },
+        {
+          "beskrivelse": "Hei jeg heter Luna og jeg liker veldig godt sang og musikk! Elsker god stemning, og er selvlært på både guitar/sang. Musikk betyr egentlig veldig mye for meg fordi, det har alltid vært en del av livet mitt som skaper glede/fantasi og ro.",
+          "deltakernavn": [
+            "Luna Nystrøm"
+          ],
+          "id": "262689",
+          "navn": "Luna Nystrøm"
         },
         {
           "beskrivelse": "jeg har lyst og være med fordi jeg har lyst lærere noe nyt",
@@ -3828,7 +3982,7 @@
       "navn": "Hadeland 2027"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9892",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sandnes-sandnes",
       "innslag": [
@@ -3848,6 +4002,12 @@
           "beskrivelse": "Jeg elsker musikk og sang og teater, og har drevet med sang og teater i 6 år! Jeg har sunget solo, i kor og jeg spiller gitar. Jeg har blitt med på UKM de siste 4 årene, og er veldig glad for at jeg kan bli med igjen.",
           "deltakernavn": [],
           "id": "262497",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Jeg er en musikkintressert 17-åring fra Sandnes. Jeg går på Vågen videregående skole på musikk,dans og drama. Jeg er en sanger, men kan også spille litt piano og gitar. Jeg har alltid vært en person som har hatt engasjement for både sang og dans, men tok ikke dem seriøst får i tiende klasse, hvor jeg begynte på kulturskolen. På kulturskolen har jeg en sanglærer/sangpedagog som heter Jenny. Hun har jeg gått til i 2-3 år. Jeg blir sett på som en hyggelig, omsorgsfull og morsom kar. Jeg har OCD og ADHD, men får behandling for dem.",
+          "deltakernavn": [],
+          "id": "262722",
           "navn": "Musikk innslag"
         }
       ],
@@ -4472,5 +4632,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-25T05:27:13.723969+00:00"
+  "oppdatert": "2026-11-26T13:59:09.564620+00:00"
 }

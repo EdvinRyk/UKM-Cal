@@ -8,6 +8,33 @@ X-WR-TIMEZONE:Europe/Oslo
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:ukm-arrangement-10068@ukm-kalendere
+DTSTAMP:20261126T135909Z
+CREATED:20261126T135909Z
+LAST-MODIFIED:20261126T135909Z
+SEQUENCE:0
+DTSTART:20261211T170000Z
+DTEND:20261211T210000Z
+SUMMARY:Åpen scene
+DESCRIPTION:Åpen scene\n\nfredag 11. desember kl. 18:00 - 22:00\n\nSarpsbo
+ rg\n\nPåmelding: https://forms.cloud.microsoft/e/6L6LVRWMnP\n\nVis det du
+  kan på åpen scene fredag 11. desember!\n\nEnten du synger\, danser\, sp
+ iller et instrument\, spiller i band eller vil vise frem noe annet - alle 
+ kan bli med!\nHar du ikke lyst til å stå på scenen kan du også bare ko
+ mme og se på og bli med.\nVi serverer gratis kake og pizza\, og det er se
+ lvfølgelig gratis å være med.\n\nUKM Sarpsborg arrangerer åpen scene i
+  forbindelse med Ungdommens kulturhus sitt 10 års jubileum.\n\nTa kontakt
+  ved spørsmål :)\n\nFølg oss på sosiale medier!\nFacebook: UKM Sarpsbo
+ rg\nInstagram: @ukmsarp\n\nKontaktpersoner\nMaiken Gunnerød\nE-post: maik
+ en.gunnerod@sarpsborg.com\n\nMartin Halvorsen\nTelefon: 48061690\nE-post: 
+ martin.halvorsen@sarpsborg.com\n\nArrangementsside: https://www.ukm.no/arr
+ angement/2026-sarpsborg-apenscene
+LOCATION:\, Sarpsborg
+URL:https://www.ukm.no/arrangement/2026-sarpsborg-apenscene
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9958@ukm-kalendere
 DTSTAMP:20261025T121149Z
 CREATED:20261025T121149Z
