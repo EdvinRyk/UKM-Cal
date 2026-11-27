@@ -335,6 +335,45 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10011@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
+UID:ukm-bak-scenen-frist-10070@ukm-kalendere
+DTSTAMP:20261127T135817Z
+CREATED:20261127T135817Z
+LAST-MODIFIED:20261127T135817Z
+SEQUENCE:0
+DTSTART:20270301T225900Z
+SUMMARY:Påmeldingsfrist bak scenen – UKM-festivalen i Akershus
+DESCRIPTION:Frist for å melde seg på bak scenen til UKM-festivalen i Aker
+ shus.\nPåmeldingsfrist: 01.03.2027 kl. 23:59 (norsk tid).\n\nUKM-festival
+ en i Akershus\n\nfredag 23. april kl. 15:00 - søndag 25. april kl. 17:00\
+ n\nMarikollen Kultursal (https://www.google.com/maps/search/?api=1&query=M
+ arikollen%20Kultursal)\n\nMarikollen Kultursal\n\nUKM Akershus 2027 – fy
+ lkesfestivalen i Rælingen\n\n23.–25. april 2027 møtes unge kunstnere\,
+  artister og arrangører fra hele Akershus til fylkesfestivalen i Marikoll
+ en kultursal i Rælingen. Festivalen arrangeres i tett samarbeid med Ræli
+ ngen kommune.\n\nHva kan deltakerne forvente seg?\n\nSceneforestillinger f
+ ra fredag kveld til søndag\, med profesjonelt lys\, lyd og scenetekniker\
+ nKunstutstilling og workshops\, blant annet skrivekurs med UNG TEKST\nUKM 
+ Media: foto\, film og innhold fra festivalen\nMuligheter for unge arrangø
+ rer til å jobbe bak kulissene\nSosialt program og nye venner fra hele fyl
+ ket\nMulighet til å bli videresendt til landsfestivalen 2027 i Kristiansa
+ nd\n\nTre dager med ung kultur\, mestring og fellesskap. Velkommen til Ræ
+ lingen!\n\nKontaktpersoner\nRaymond A. K. Egge\nFylkeskontakt\nTelefon: 45
+ 886470\nE-post: raymond.egge@musikk.no\n\nProgramProgram: https://www.ukm.
+ no/arrangement/2027-akershus-ukm-festivaleniakershus/program\n\nPåmeldteP
+ åmeldte: https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniaker
+ shus/deltagere\n\nBilder og videoerBilder og videoer: https://www.ukm.no/a
+ rrangement/2027-akershus-ukm-festivaleniakershus/media\n\nPåmeldingsfrist
+  – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 0
+ 1.03.2027 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-akershus-u
+ km-festivaleniakershus/files/2026/11/MIMIQ-Mathias-Abrahamsrud_-Sara-Hegna
+ -250426-1200x800.jpg
+LOCATION:Marikollen Kultursal
+URL:https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniakershus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10070@ukm-kalendere
+END:VEVENT
+BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9802@ukm-kalendere
 DTSTAMP:20261105T051723Z
 CREATED:20261025T121149Z
@@ -695,6 +734,43 @@ DESCRIPTION:UKM Gjerdrum 2027\n\nsøndag 14. mars kl. 18:00 - 22:00\n\nGjer
  ngementsside: https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027
 LOCATION:Gjerdrum Kulturhus
 URL:https://www.ukm.no/arrangement/2027-gjerdrum-ukmgjerdrum2027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukm-arrangement-10070@ukm-kalendere
+DTSTAMP:20261127T135817Z
+CREATED:20261127T135817Z
+LAST-MODIFIED:20261127T135817Z
+SEQUENCE:0
+DTSTART:20270423T130000Z
+DTEND:20270425T150000Z
+SUMMARY:UKM-festivalen i Akershus
+DESCRIPTION:UKM-festivalen i Akershus\n\nfredag 23. april kl. 15:00 - sønd
+ ag 25. april kl. 17:00\n\nMarikollen Kultursal (https://www.google.com/map
+ s/search/?api=1&query=Marikollen%20Kultursal)\n\nMarikollen Kultursal\n\nU
+ KM Akershus 2027 – fylkesfestivalen i Rælingen\n\n23.–25. april 2027 
+ møtes unge kunstnere\, artister og arrangører fra hele Akershus til fylk
+ esfestivalen i Marikollen kultursal i Rælingen. Festivalen arrangeres i t
+ ett samarbeid med Rælingen kommune.\n\nHva kan deltakerne forvente seg?\n
+ \nSceneforestillinger fra fredag kveld til søndag\, med profesjonelt lys\
+ , lyd og scenetekniker\nKunstutstilling og workshops\, blant annet skrivek
+ urs med UNG TEKST\nUKM Media: foto\, film og innhold fra festivalen\nMulig
+ heter for unge arrangører til å jobbe bak kulissene\nSosialt program og 
+ nye venner fra hele fylket\nMulighet til å bli videresendt til landsfesti
+ valen 2027 i Kristiansand\n\nTre dager med ung kultur\, mestring og felles
+ skap. Velkommen til Rælingen!\n\nKontaktpersoner\nRaymond A. K. Egge\nFyl
+ keskontakt\nTelefon: 45886470\nE-post: raymond.egge@musikk.no\n\nProgramPr
+ ogram: https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniakershu
+ s/program\n\nPåmeldtePåmeldte: https://www.ukm.no/arrangement/2027-akers
+ hus-ukm-festivaleniakershus/deltagere\n\nBilder og videoerBilder og videoe
+ r: https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniakershus/me
+ dia\n\nPåmeldingsfrist – delta: 01.03.2027 kl. 23:59\nPåmeldingsfrist 
+ – bidra bak scenen: 01.03.2027 kl. 23:59\nArrangementsbilde: https://sys
+ .ukm.no/2027-akershus-ukm-festivaleniakershus/files/2026/11/MIMIQ-Mathias-
+ Abrahamsrud_-Sara-Hegna-250426-1200x800.jpg
+LOCATION:Marikollen Kultursal
+URL:https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniakershus
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

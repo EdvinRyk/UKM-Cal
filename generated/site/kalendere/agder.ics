@@ -578,25 +578,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-10051@ukm-kalendere
-DTSTAMP:20261119T052353Z
+DTSTAMP:20261127T135817Z
 CREATED:20261119T052353Z
-LAST-MODIFIED:20261119T052353Z
-SEQUENCE:0
+LAST-MODIFIED:20261127T135817Z
+SEQUENCE:1
 DTSTART:20270305T225900Z
-SUMMARY:Påmeldingsfrist bak scenen – Evje og Hornnes
-DESCRIPTION:Frist for å melde seg på bak scenen til Evje og Hornnes.\nPå
- meldingsfrist: 05.03.2027 kl. 23:59 (norsk tid).\n\nEvje og Hornnes\n\nfre
- dag 12. mars kl. 18:00 - lørdag 13. mars kl. 22:00\n\nEvjemoen Kino & Sce
- ne\n\nEvje og Hornnes: https://sys.ukm.no/2027-evjeoghornnes-evjeoghornnes
- /files/2026/11/20250426_125947-1800x1013.jpg\n\nhttps://delta.ukm.no/ukmid
- /pamelding/4219-10051/\n\nKontaktpersoner\nAnette Moe-Kittelsen\nTelefon: 
- 37932300\nE-post: anette.moe@e-h.kommune.no\n\nMaya Hjertholm\nTelefon: 99
- 247307\nE-post: maya.hjertholm@e-h.kommune.no\n\nOlav Austegard\nTelefon: 
- 90711906\nE-post: olav.austegard@e-h.kommune.no\n\nPåmeldingsfrist – de
- lta: 05.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.03.20
- 27 kl. 23:59\nArrangementsbilde: https://sys.ukm.no/2027-evjeoghornnes-evj
- eoghornnes/files/2026/11/20250426_125947-1200x676.jpg\nArrangementsside: h
- ttps://www.ukm.no/arrangement/2027-evjeoghornnes-evjeoghornnes
+SUMMARY:Påmeldingsfrist bak scenen – Lokalfestival Evje og Hornnes 2027
+DESCRIPTION:Frist for å melde seg på bak scenen til Lokalfestival Evje og
+  Hornnes 2027.\nPåmeldingsfrist: 05.03.2027 kl. 23:59 (norsk tid).\n\nLok
+ alfestival Evje og Hornnes 2027\n\nfredag 12. mars kl. 18:00 - lørdag 13.
+  mars kl. 22:00\n\nEvjemoen Kino & Scene\n\nEvje og Hornnes\n\nGeneralprø
+ ve: 18:00 - 12. Mars 2027\nUKM-Fest: Etter generalprøven 12. Mars 2027\n\
+ nUKM Lokalfestival: 18:00 - 13. Mars 2027\n\nLokalfestival Evje og Hornnes
+  2027: https://sys.ukm.no/2027-evjeoghornnes-evjeoghornnes/files/2026/11/2
+ 0250426_125947-1200x676.jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4219-1
+ 0051/\n\nKontaktpersoner\nAnette Moe-Kittelsen\nTelefon: 37932300\nE-post:
+  anette.moe@e-h.kommune.no\n\nMaya Hjertholm\nTelefon: 99247307\nE-post: m
+ aya.hjertholm@e-h.kommune.no\n\nOlav Austegard\nTelefon: 90711906\nE-post:
+  olav.austegard@e-h.kommune.no\n\nPåmeldingsfrist – delta: 05.03.2027 k
+ l. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.03.2027 kl. 23:59\nArr
+ angementsside: https://www.ukm.no/arrangement/2027-evjeoghornnes-evjeoghor
+ nnes
 LOCATION:Evjemoen Kino & Scene\, Evje og Hornnes
 URL:https://www.ukm.no/arrangement/2027-evjeoghornnes-evjeoghornnes
 STATUS:CONFIRMED
@@ -763,25 +765,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-10051@ukm-kalendere
-DTSTAMP:20261119T052353Z
+DTSTAMP:20261127T135817Z
 CREATED:20261119T052353Z
-LAST-MODIFIED:20261119T052353Z
-SEQUENCE:0
+LAST-MODIFIED:20261127T135817Z
+SEQUENCE:1
 DTSTART:20270312T170000Z
 DTEND:20270313T210000Z
-SUMMARY:Evje og Hornnes
-DESCRIPTION:Evje og Hornnes\n\nfredag 12. mars kl. 18:00 - lørdag 13. mars
-  kl. 22:00\n\nEvjemoen Kino & Scene\n\nEvje og Hornnes: https://sys.ukm.no
- /2027-evjeoghornnes-evjeoghornnes/files/2026/11/20250426_125947-1800x1013.
- jpg\n\nhttps://delta.ukm.no/ukmid/pamelding/4219-10051/\n\nKontaktpersoner
- \nAnette Moe-Kittelsen\nTelefon: 37932300\nE-post: anette.moe@e-h.kommune.
- no\n\nMaya Hjertholm\nTelefon: 99247307\nE-post: maya.hjertholm@e-h.kommun
- e.no\n\nOlav Austegard\nTelefon: 90711906\nE-post: olav.austegard@e-h.komm
- une.no\n\nPåmeldingsfrist – delta: 05.03.2027 kl. 23:59\nPåmeldingsfri
- st – bidra bak scenen: 05.03.2027 kl. 23:59\nArrangementsbilde: https://
- sys.ukm.no/2027-evjeoghornnes-evjeoghornnes/files/2026/11/20250426_125947-
- 1200x676.jpg\nArrangementsside: https://www.ukm.no/arrangement/2027-evjeog
- hornnes-evjeoghornnes
+SUMMARY:Lokalfestival Evje og Hornnes 2027
+DESCRIPTION:Lokalfestival Evje og Hornnes 2027\n\nfredag 12. mars kl. 18:00
+  - lørdag 13. mars kl. 22:00\n\nEvjemoen Kino & Scene\n\nEvje og Hornnes\
+ n\nGeneralprøve: 18:00 - 12. Mars 2027\nUKM-Fest: Etter generalprøven 12
+ . Mars 2027\n\nUKM Lokalfestival: 18:00 - 13. Mars 2027\n\nLokalfestival E
+ vje og Hornnes 2027: https://sys.ukm.no/2027-evjeoghornnes-evjeoghornnes/f
+ iles/2026/11/20250426_125947-1200x676.jpg\n\nhttps://delta.ukm.no/ukmid/pa
+ melding/4219-10051/\n\nKontaktpersoner\nAnette Moe-Kittelsen\nTelefon: 379
+ 32300\nE-post: anette.moe@e-h.kommune.no\n\nMaya Hjertholm\nTelefon: 99247
+ 307\nE-post: maya.hjertholm@e-h.kommune.no\n\nOlav Austegard\nTelefon: 907
+ 11906\nE-post: olav.austegard@e-h.kommune.no\n\nPåmeldingsfrist – delta
+ : 05.03.2027 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 05.03.2027 
+ kl. 23:59\nArrangementsside: https://www.ukm.no/arrangement/2027-evjeoghor
+ nnes-evjeoghornnes
 LOCATION:Evjemoen Kino & Scene\, Evje og Hornnes
 URL:https://www.ukm.no/arrangement/2027-evjeoghornnes-evjeoghornnes
 STATUS:CONFIRMED

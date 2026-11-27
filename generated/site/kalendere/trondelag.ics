@@ -29,28 +29,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9706@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-10065@ukm-kalendere
-DTSTAMP:20261124T052517Z
-CREATED:20261124T052517Z
-LAST-MODIFIED:20261124T052517Z
-SEQUENCE:0
-DTSTART:20261126T163000Z
-DTEND:20261126T183000Z
-SUMMARY:UKM Barn Malvik
-DESCRIPTION:UKM Barn Malvik\n\ntorsdag 26. november kl. 17:30 - 19:30\n\nVi
- khammer ungdomsskole\n\nMalvik\n\nFor første gang arrangeres UKM Barn\, f
- or barn i alderes 10-12 år. Har du et talent \,så har vi en scene å vis
- e det frem på!\n\nUKM Barn Malvik: https://sys.ukm.no/2026-malvik-ukmbarn
- malvik/files/2026/11/UKM-Barn-plakat-800x1200.png\n\nhttps://delta.ukm.no/
- ukmid/pamelding/5031-10065/\n\nKontaktpersoner\nIngunn Granli\nTelefon: 93
- 068849\nE-post: ingunn.granli@malvik.kommune.no\n\nArrangementsside: https
- ://www.ukm.no/arrangement/2026-malvik-ukmbarnmalvik
-LOCATION:Vikhammer ungdomsskole\, Malvik
-URL:https://www.ukm.no/arrangement/2026-malvik-ukmbarnmalvik
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-10031@ukm-kalendere
 DTSTAMP:20261112T051936Z
 CREATED:20261112T051936Z

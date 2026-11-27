@@ -1,128 +1,8 @@
 {
   "antall_arrangementer": 158,
-  "antall_deltakernavn_i_innslag": 153,
-  "antall_innslag": 503,
+  "antall_deltakernavn_i_innslag": 167,
+  "antall_innslag": 505,
   "arrangementer": [
-    {
-      "antall_innslag": 9,
-      "arrangement_id": "9950",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-sthanshaugen-workshopimusikkproduksjonmedmarcelbasima",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262187",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262393",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262472",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262502",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262503",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262535",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262564",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262583",
-          "navn": "Person innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262584",
-          "navn": "Person innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9950",
-      "navn": "Workshop i musikkproduksjon med Marcel Basima"
-    },
-    {
-      "antall_innslag": 8,
-      "arrangement_id": "10065",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-malvik-ukmbarnmalvik",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262615",
-          "navn": "Dans innslag"
-        },
-        {
-          "beskrivelse": "Lisa, Hermine, Signe og Hanna",
-          "deltakernavn": [],
-          "id": "262617",
-          "navn": "Dans innslag"
-        },
-        {
-          "beskrivelse": "Egen dans",
-          "deltakernavn": [],
-          "id": "262618",
-          "navn": "Dans innslag"
-        },
-        {
-          "beskrivelse": "Golden fra K-pop Demon Hunters på fiolin",
-          "deltakernavn": [],
-          "id": "262616",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "Vårrin skal spille",
-          "deltakernavn": [],
-          "id": "262620",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "Elie skal synge",
-          "deltakernavn": [],
-          "id": "262621",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "Klara skal synge",
-          "deltakernavn": [],
-          "id": "262688",
-          "navn": "Musikk innslag"
-        },
-        {
-          "beskrivelse": "Et teater om mord",
-          "deltakernavn": [],
-          "id": "262622",
-          "navn": "Teater innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10065",
-      "navn": "UKM Barn Malvik"
-    },
     {
       "antall_innslag": 0,
       "arrangement_id": "10049",
@@ -758,7 +638,7 @@
       "navn": "Åpen dansesal med Lise"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 7,
       "arrangement_id": "9995",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
       "innslag": [
@@ -772,6 +652,36 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262558",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262726",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262727",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262730",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262748",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262749",
           "navn": "Person innslag"
         }
       ],
@@ -803,7 +713,7 @@
       "navn": "Åpen scene"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "10039",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kongsberg-kongsberg",
       "innslag": [
@@ -817,6 +727,12 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262702",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262734",
           "navn": "Person innslag"
         }
       ],
@@ -1007,7 +923,7 @@
       "navn": "UKM-festivalen i Vestfold"
     },
     {
-      "antall_innslag": 9,
+      "antall_innslag": 12,
       "arrangement_id": "9977",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-aure-smola-ukmaureogsmola2027",
       "innslag": [
@@ -1057,6 +973,23 @@
           "navn": "Emma Lervik"
         },
         {
+          "beskrivelse": "Vi er en gruppe fra Smøla, som har danset sammen 4 år og er gla i å dans",
+          "deltakernavn": [
+            "Akshara Kadayat",
+            "Andrea Folde Håseth",
+            "Baithong Pornphicha Choeikhunthod",
+            "Celine Farstad",
+            "Ella Torset Stølen",
+            "Emilie Grimli",
+            "Emma Hamervold",
+            "Esther Mwamakazi Sebaruzi",
+            "Malena Sørli",
+            "Martine Fagerheim"
+          ],
+          "id": "262729",
+          "navn": "Les Dix Étoiles"
+        },
+        {
           "beskrivelse": "Jeg er 14 år og heter Martine. Jeg har sunget siden jeg var 4 år. Musikken betyr ekstra mye for meg fordi når jeg synger så tenker jeg ikke på noe annet. Musikken er som mitt beste fristed",
           "deltakernavn": [
             "Martine Fagerheim"
@@ -1080,6 +1013,22 @@
           ],
           "id": "262162",
           "navn": "Martine og Amalie"
+        },
+        {
+          "beskrivelse": "Jeg har vært konferansier på kulturskolekonserter. Liker godt og snakke foran publikum",
+          "deltakernavn": [
+            "Othelie Neerland Jørgenvåg"
+          ],
+          "id": "262746",
+          "navn": "Othelie Neerland Jørgenvåg"
+        },
+        {
+          "beskrivelse": "Jeg er en muntlig aktiv jente som er god på å snakke. Jeg er med i Aure ungdomsråd å klarer godt å snakke foran folk. Jeg er utavendt og glad i folk.",
+          "deltakernavn": [
+            "Ramona Elksnite"
+          ],
+          "id": "262747",
+          "navn": "Ramona Elksnite"
         },
         {
           "beskrivelse": "Maleri",
@@ -1118,7 +1067,7 @@
       "navn": "Kick-off"
     },
     {
-      "antall_innslag": 16,
+      "antall_innslag": 17,
       "arrangement_id": "9960",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-oppdal-ukmoppdal2027",
       "innslag": [
@@ -1210,6 +1159,12 @@
           "beskrivelse": "Vi er et band som er energisk og liker liv på scenen. Alle i bandet er 13 og 14",
           "deltakernavn": [],
           "id": "262575",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Oskar, Jay og Aini treffer senen iår med en håp om å komme videre!!! Har jobbet lenge og hardt for våres egenskrevet låt og vi gleder oss til å vis den fram.",
+          "deltakernavn": [],
+          "id": "262732",
           "navn": "Musikk innslag"
         },
         {
@@ -1814,10 +1769,17 @@
       "navn": "Workshop i Improvisasjonsteater"
     },
     {
-      "antall_innslag": 0,
+      "antall_innslag": 1,
       "arrangement_id": "10010",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ullensvang-ullensvang",
-      "innslag": [],
+      "innslag": [
+        {
+          "beskrivelse": "3 kjekke gutter som liker og henge og spille musikk, han siste e litt rar og vi kalle han Åge vi inspireres av Death og opeth",
+          "deltakernavn": [],
+          "id": "262733",
+          "navn": "Musikk innslag"
+        }
+      ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10010",
       "navn": "Ullensvang"
     },
@@ -1909,6 +1871,14 @@
       "navn": "Sola 2027"
     },
     {
+      "antall_innslag": 0,
+      "arrangement_id": "10069",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-stryn-ukmstryn2027",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10069",
+      "navn": "UKM Stryn 2027"
+    },
+    {
       "antall_innslag": 9,
       "arrangement_id": "9820",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-ardal-ukmardal2027",
@@ -1980,7 +1950,7 @@
       "navn": "UKM Samnanger 2027"
     },
     {
-      "antall_innslag": 23,
+      "antall_innslag": 24,
       "arrangement_id": "9706",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-malvik-ukmmalvik2027",
       "innslag": [
@@ -2117,6 +2087,12 @@
           "navn": "Utstilling innslag"
         },
         {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262111",
+          "navn": "Utstilling innslag"
+        },
+        {
           "beskrivelse": "Noe av det beste jeg gjør er å skape kunst. Jeg bruker mange teknikker, som for eksempel oljepastell, blyant, kull og akvarell. Jeg har i mange år gått på visuell kunst på kulturskolen hvor jeg har lært mye om ulike kunstuttrykk.",
           "deltakernavn": [],
           "id": "262420",
@@ -2127,7 +2103,7 @@
       "navn": "UKM Malvik 2027"
     },
     {
-      "antall_innslag": 14,
+      "antall_innslag": 15,
       "arrangement_id": "9911",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-gausdal-oyer-oyer",
       "innslag": [
@@ -2214,6 +2190,12 @@
           "deltakernavn": [],
           "id": "262173",
           "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Vi er en gruppe",
+          "deltakernavn": [],
+          "id": "262728",
+          "navn": "Musikk innslag"
         }
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9911",
@@ -2267,7 +2249,7 @@
       "navn": "Askøy og Øygarden"
     },
     {
-      "antall_innslag": 3,
+      "antall_innslag": 4,
       "arrangement_id": "9953",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-surnadal-surnadal",
       "innslag": [
@@ -2287,6 +2269,12 @@
           "beskrivelse": "Rapper fra Surnadal. Lager musikk på fritida",
           "deltakernavn": [],
           "id": "262655",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "16 år. Spiller musikk.",
+          "deltakernavn": [],
+          "id": "262741",
           "navn": "Musikk innslag"
         }
       ],
@@ -2627,6 +2615,27 @@
       "navn": "Tvedestrand"
     },
     {
+      "antall_innslag": 2,
+      "arrangement_id": "10046",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndalukm2027",
+      "innslag": [
+        {
+          "beskrivelse": "Ein metal band av ukrainare som speler metal covers og anna. (Vi har ikkje laga noko sjølv endå særlig 😢)",
+          "deltakernavn": [],
+          "id": "262740",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Eg er ein sjølvlært teiknar og målar, og har vert med på UKM ein gong før. Eg likar alt fra å sketsje smått i skrivebøkene mine på skulen, til å måle store og fargerike maleri. Maleriene eg lager, ligg stort sett i ein bunke i eit hjørne på rommet mitt, men det er skikkelig stas å få gi vekk- eller stille ut nokre av dei.",
+          "deltakernavn": [],
+          "id": "262686",
+          "navn": "Utstilling innslag"
+        }
+      ],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10046",
+      "navn": "UKM Sogndal & Luster 2027"
+    },
+    {
       "antall_innslag": 0,
       "arrangement_id": "9875",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sokndal-workshopsokndal2027",
@@ -2635,7 +2644,7 @@
       "navn": "Workshop Sokndal 2027"
     },
     {
-      "antall_innslag": 9,
+      "antall_innslag": 10,
       "arrangement_id": "9828",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-karmoy-ukmkarmoy",
       "innslag": [
@@ -2649,6 +2658,12 @@
           "beskrivelse": "Jeg har vært scenearbeider for både kommune og fylkesfestivalen to år på rad, i tillegg til at jeg var ung arrangør på landsfestivalen sist år, der jeg prøvde ulike deler av både scenearbeid og annen hjelp.",
           "deltakernavn": [],
           "id": "261396",
+          "navn": "Arrangør innslag"
+        },
+        {
+          "beskrivelse": "Hei jeg har vert med på å ukm i de 2-3 site årene å har lit peiling på va jeg skal gjør å vordan ting skal vare",
+          "deltakernavn": [],
+          "id": "262731",
           "navn": "Arrangør innslag"
         },
         {
@@ -2729,7 +2744,7 @@
       "navn": "Høyanger"
     },
     {
-      "antall_innslag": 8,
+      "antall_innslag": 9,
       "arrangement_id": "9954",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-rana-ukmmoirana2027",
       "innslag": [
@@ -2779,6 +2794,15 @@
           ],
           "id": "261919",
           "navn": "Ladon"
+        },
+        {
+          "beskrivelse": "Vi er 14 år og kommer fra Mo i Rana.\nVi har laget et skuespill som vi egentlig skulle framføre i ukm tidligere i år, men vi fikk ikke sjansen.\nVi har skrevet manus selv.",
+          "deltakernavn": [
+            "Ronja Langfjell Stien",
+            "Sienna Og Ronja Rostad Og Langfjell"
+          ],
+          "id": "262725",
+          "navn": "Ronja og Sienna"
         },
         {
           "beskrivelse": "17 år gammel kunster! Mesteparten av tegningene mine er laget i ett 1X1 format for å likne på album-kover! Primært så er tegningene mine D&D og musikk relaterte, men jeg besøker også andre medier for inspirasjon!\nHar tegnet merch for bandet Idiot Savant fra Hemnesberget ;P",
@@ -2923,7 +2947,7 @@
       "navn": "Lokalmønstring Sunnfjord 2027"
     },
     {
-      "antall_innslag": 6,
+      "antall_innslag": 7,
       "arrangement_id": "10038",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-kristiansand-ukmkristiansand2027",
       "innslag": [
@@ -2956,6 +2980,12 @@
           "deltakernavn": [],
           "id": "262404",
           "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Vi har erfaring med å stå på scenen, og tror vi kan levere et heavy og energisk show til UKM. Vi jobber også med å ferdigstille egne låter, som kanskje kan spilles på festivalen, men er enda ikke ferdig!",
+          "deltakernavn": [],
+          "id": "262739",
+          "navn": "Musikk innslag"
         },
         {
           "beskrivelse": "Jeg tar bilder av natur og utsikt. Jeg viser to forskjellige bilder, ett i naturen og ett i byen. Jeg liker at bildene skal være så naturlig som mulig.",
@@ -3414,7 +3444,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-bamble-ukmjunior",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10047",
-      "navn": "UKM JUNIOR"
+      "navn": "UKM BAMBLE JUNIOR"
     },
     {
       "antall_innslag": 15,
@@ -3661,7 +3691,7 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-evjeoghornnes-evjeoghornnes",
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10051",
-      "navn": "Evje og Hornnes"
+      "navn": "Lokalfestival Evje og Hornnes 2027"
     },
     {
       "antall_innslag": 0,
@@ -3766,14 +3796,6 @@
       ],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9858",
       "navn": "Tokke og Vinje"
-    },
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "10046",
-      "arrangement_url": "https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndalukm2027",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10046",
-      "navn": "UKM Sogndal & Luster 2027"
     },
     {
       "antall_innslag": 0,
@@ -4583,6 +4605,14 @@
     },
     {
       "antall_innslag": 0,
+      "arrangement_id": "10070",
+      "arrangement_url": "https://www.ukm.no/arrangement/2027-akershus-ukm-festivaleniakershus",
+      "innslag": [],
+      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10070",
+      "navn": "UKM-festivalen i Akershus"
+    },
+    {
+      "antall_innslag": 0,
       "arrangement_id": "9899",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-vestland-ukm-festivalenivestland",
       "innslag": [],
@@ -4632,5 +4662,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-26T13:59:09.564620+00:00"
+  "oppdatert": "2026-11-27T13:58:17.764109+00:00"
 }
