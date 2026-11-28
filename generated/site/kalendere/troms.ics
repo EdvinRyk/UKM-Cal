@@ -9,10 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ukm-bak-scenen-frist-9830@ukm-kalendere
-DTSTAMP:20261025T121149Z
+DTSTAMP:20261128T131230Z
 CREATED:20261025T121149Z
-LAST-MODIFIED:20261025T121149Z
-SEQUENCE:0
+LAST-MODIFIED:20261128T131230Z
+SEQUENCE:1
 DTSTART:20261127T225900Z
 SUMMARY:Påmeldingsfrist bak scenen – UKM Svalbard
 DESCRIPTION:Frist for å melde seg på bak scenen til UKM Svalbard.\nPåmel
@@ -27,12 +27,11 @@ DESCRIPTION:Frist for å melde seg på bak scenen til UKM Svalbard.\nPåmel
  er\, malerier eller foto\n• vise fram design\, håndverk eller egne teks
  ter\n\nKort sagt: Hvis du skaper noe – digitalt\, på papir eller på sc
  enen – så hører det hjemme på UKM!\n\nUKM Svalbard: https://sys.ukm.n
- o/2027-svalbard-svalbard/files/2026/08/UKM-svalbard.png\n\nhttps://delta.u
- km.no/ukmid/pamelding/5399-9830/\n\nKontaktpersoner\nLene Gjervik\nBarne- 
- og ungdomskoordinator\nTelefon: 93231207\nE-post: lene.gjervik@lokalstyre.
- no\n\nPåmeldingsfrist – delta: 27.11.2026 kl. 23:59\nPåmeldingsfrist 
- – bidra bak scenen: 27.11.2026 kl. 23:59\nArrangementsside: https://www.
- ukm.no/arrangement/2027-svalbard-svalbard
+ o/2027-svalbard-svalbard/files/2026/08/UKM-svalbard.png\n\nKontaktpersoner
+ \nLene Gjervik\nBarne- og ungdomskoordinator\nTelefon: 93231207\nE-post: l
+ ene.gjervik@lokalstyre.no\n\nPåmeldingsfrist – delta: 27.11.2026 kl. 23
+ :59\nPåmeldingsfrist – bidra bak scenen: 27.11.2026 kl. 23:59\nArrangem
+ entsside: https://www.ukm.no/arrangement/2027-svalbard-svalbard
 LOCATION:\, Svalbard
 URL:https://www.ukm.no/arrangement/2027-svalbard-svalbard
 STATUS:CONFIRMED
@@ -139,10 +138,10 @@ RELATED-TO;RELTYPE=PARENT:ukm-arrangement-10066@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
 UID:ukm-arrangement-9830@ukm-kalendere
-DTSTAMP:20261025T111629Z
+DTSTAMP:20261128T131230Z
 CREATED:20261025T111128Z
-LAST-MODIFIED:20261025T111629Z
-SEQUENCE:1
+LAST-MODIFIED:20261128T131230Z
+SEQUENCE:2
 DTSTART:20270209T170000Z
 DTEND:20270212T210000Z
 SUMMARY:UKM Svalbard
@@ -157,12 +156,11 @@ DESCRIPTION:UKM Svalbard\n\ntirsdag 9. februar kl. 18:00 - fredag 12. febru
   design\, håndverk eller egne tekster\n\nKort sagt: Hvis du skaper noe 
  – digitalt\, på papir eller på scenen – så hører det hjemme på UK
  M!\n\nUKM Svalbard: https://sys.ukm.no/2027-svalbard-svalbard/files/2026/0
- 8/UKM-svalbard.png\n\nhttps://delta.ukm.no/ukmid/pamelding/5399-9830/\n\nK
- ontaktpersoner\nLene Gjervik\nBarne- og ungdomskoordinator\nTelefon: 93231
- 207\nE-post: lene.gjervik@lokalstyre.no\n\nPåmeldingsfrist – delta: 27.
- 11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak scenen: 27.11.2026 kl. 2
- 3:59\nArrangementsside: https://www.ukm.no/arrangement/2027-svalbard-svalb
- ard
+ 8/UKM-svalbard.png\n\nKontaktpersoner\nLene Gjervik\nBarne- og ungdomskoor
+ dinator\nTelefon: 93231207\nE-post: lene.gjervik@lokalstyre.no\n\nPåmeldi
+ ngsfrist – delta: 27.11.2026 kl. 23:59\nPåmeldingsfrist – bidra bak s
+ cenen: 27.11.2026 kl. 23:59\nArrangementsside: https://www.ukm.no/arrangem
+ ent/2027-svalbard-svalbard
 LOCATION:\, Svalbard
 URL:https://www.ukm.no/arrangement/2027-svalbard-svalbard
 STATUS:CONFIRMED

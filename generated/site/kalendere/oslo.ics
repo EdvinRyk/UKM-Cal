@@ -37,32 +37,6 @@ TRANSP:TRANSPARENT
 RELATED-TO;RELTYPE=PARENT:ukm-arrangement-9991@ukm-kalendere
 END:VEVENT
 BEGIN:VEVENT
-UID:ukm-arrangement-10049@ukm-kalendere
-DTSTAMP:20261118T051959Z
-CREATED:20261118T051959Z
-LAST-MODIFIED:20261118T051959Z
-SEQUENCE:0
-DTSTART:20261127T170000Z
-DTEND:20261127T200000Z
-SUMMARY:Ullern og Vestre Aker Kick Off
-DESCRIPTION:Ullern og Vestre Aker Kick Off\n\nfredag 27. november kl. 18:00
-  - 21:00\n\nStoppestedet\n\nUllern\, Vestre Aker\n\nUKM Kick Off bydel Ull
- ern og Vestre Aker Fredag 27. November fra kl 18-21\n\nKonserter\, møt ar
- tister\, møt andre UKM deltakere\, lær mer om hva du kan gjøre på UKM\
- n\nUllern og Vestre Aker Kick Off: https://sys.ukm.no/2026-ullern-vestreak
- eullernogvestreakerukmkickoff/files/2026/11/UKM-Kickoff-forste-plakat-1-96
- 0x1200.png\n\nhttps://delta.ukm.no/ukmid/pamelding/325-10049/\n\nKontaktpe
- rsoner\nNicolai Nypan\nTelefon: 91354770\nE-post: nicolai.nypan@bun.oslo.k
- ommune.no\n\nPåmelding – Vestre Aker: https://delta.ukm.no/ukmid/pameld
- ing/324-10049/\nArrangementsside: https://www.ukm.no/arrangement/2026-ulle
- rn-vestreakeullernogvestreakerukmkickoff
-LOCATION:Stoppestedet\, Ullern\, Vestre Aker
-URL:https://www.ukm.no/arrangement/2026-ullern-vestreakeullernogvestreakeru
- kmkickoff
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ukm-arrangement-9991@ukm-kalendere
 DTSTAMP:20261118T051959Z
 CREATED:20261030T050327Z

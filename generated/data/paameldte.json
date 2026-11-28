@@ -1,16 +1,8 @@
 {
-  "antall_arrangementer": 158,
-  "antall_deltakernavn_i_innslag": 167,
-  "antall_innslag": 505,
+  "antall_arrangementer": 156,
+  "antall_deltakernavn_i_innslag": 170,
+  "antall_innslag": 467,
   "arrangementer": [
-    {
-      "antall_innslag": 0,
-      "arrangement_id": "10049",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-ullern-vestreakeullernogvestreakerukmkickoff",
-      "innslag": [],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10049",
-      "navn": "Ullern og Vestre Aker Kick Off"
-    },
     {
       "antall_innslag": 0,
       "arrangement_id": "10063",
@@ -18,303 +10,6 @@
       "innslag": [],
       "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=10063",
       "navn": "Informasjon om årets kunstutstilling og workshop"
-    },
-    {
-      "antall_innslag": 48,
-      "arrangement_id": "9947",
-      "arrangement_url": "https://www.ukm.no/arrangement/2026-lindesnes-ukmkunstutstilling",
-      "innslag": [
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262588",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262589",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262590",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262591",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262592",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262593",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262700",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262701",
-          "navn": "Arrangør innslag"
-        },
-        {
-          "beskrivelse": "Jeg er ei jente som har tegnet siden jeg var to år. Jeg tegnet først på et tegnebrett for barn samtidig som jeg tegnet på papir. Senere ble det digital tegning på Ipad med et program som heter ProCreate. Dette programmet skaffet vi etter anbefaling fra selveste Frode Øverli.",
-          "deltakernavn": [],
-          "id": "262108",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Sarah er en kreativ jente på 12 år som elsker å lage ting.",
-          "deltakernavn": [],
-          "id": "262122",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg heter Miriam og er 12 år kommer fra Skjernøya og elsker og tegne og lage ting.",
-          "deltakernavn": [],
-          "id": "262142",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Kreativ person",
-          "deltakernavn": [],
-          "id": "262149",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg har malt et bildet med akvarell og akryl. I bilde ser man en fiske ørn som ser ganske krenket ut.",
-          "deltakernavn": [],
-          "id": "262319",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker å male og tegne, da helst dyr, fisker og fugler. Sauen er inspirasjon fra egne sauer på Skjernøy. Sauene går i skog og mark og blir fort dekket av blader ogbreiner nå på høsten",
-          "deltakernavn": [],
-          "id": "262322",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "4 klassing som elsker å lage ting. Veldig kreativ og spesielt flink til å tegne.",
-          "deltakernavn": [],
-          "id": "262334",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker veldig godt å tegne ting jeg syntes er kult",
-          "deltakernavn": [],
-          "id": "262348",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker å jobbe med forskjellige typer materialer og mye jeg finner i skogen og i fjæra.",
-          "deltakernavn": [],
-          "id": "262421",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg er en elev på Kulturskolen som er veldig glad i å drive med leire.",
-          "deltakernavn": [],
-          "id": "262451",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Kunstelev på kulturskolen",
-          "deltakernavn": [],
-          "id": "262462",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Glad i å tegne og lage ulike ting. Favoritten er å lage skisser.",
-          "deltakernavn": [],
-          "id": "262463",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker å lage ting, og har gjennom kulturskolen laget en maske i gips og laget en kopp av leire.",
-          "deltakernavn": [],
-          "id": "262500",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker å tegne. Som oftest tegner jeg folk og dyr. For 1 år siden prøvde jeg digital tegning og likte det vedlig godt.",
-          "deltakernavn": [],
-          "id": "262562",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg liker å male,tegne,sy,klippe,brette, jobbe med keramikk,perle og å nålefilte.",
-          "deltakernavn": [],
-          "id": "262595",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Jeg melder på Albert som ønsker å stille ut to kunstverk.",
-          "deltakernavn": [],
-          "id": "262605",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "Kunstner",
-          "deltakernavn": [],
-          "id": "262631",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262635",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262636",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262637",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262638",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262639",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262640",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262641",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262642",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262643",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262644",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262645",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262646",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262647",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262648",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262649",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262703",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262704",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262705",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262706",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262707",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262708",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262709",
-          "navn": "Utstilling innslag"
-        },
-        {
-          "beskrivelse": "",
-          "deltakernavn": [],
-          "id": "262711",
-          "navn": "Utstilling innslag"
-        }
-      ],
-      "kilde": "https://api.ukm.no/nettside:arrangement_innslag?arrangement_id=9947",
-      "navn": "Kunstutstilling"
     },
     {
       "antall_innslag": 22,
@@ -638,7 +333,7 @@
       "navn": "Åpen dansesal med Lise"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 10,
       "arrangement_id": "9995",
       "arrangement_url": "https://www.ukm.no/arrangement/2026-harstad-hrsttk-ukmkick-offiharstad",
       "innslag": [
@@ -682,6 +377,24 @@
           "beskrivelse": "",
           "deltakernavn": [],
           "id": "262749",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262758",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262769",
+          "navn": "Person innslag"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [],
+          "id": "262770",
           "navn": "Person innslag"
         }
       ],
@@ -1411,7 +1124,7 @@
       "navn": "Kunst & kulturverksted på Holmlia Kulturhavn"
     },
     {
-      "antall_innslag": 21,
+      "antall_innslag": 23,
       "arrangement_id": "9900",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-alver-austrheim-ukmnordhordland",
       "innslag": [
@@ -1430,6 +1143,22 @@
           ],
           "id": "262343",
           "navn": "Anke Lilletvedt"
+        },
+        {
+          "beskrivelse": "Eg kjem frå Gulen men bor midlertidig i Balestrand på internat skulen der, eg går kunst der andre året. Dette blir mitt femte år med UKM og målet mitt er å en dag komme til landsfinalen",
+          "deltakernavn": [
+            "Aurora Skogen Westervik"
+          ],
+          "id": "262736",
+          "navn": "Aurora S Westervik"
+        },
+        {
+          "beskrivelse": "Eg går kunst på videregående og liker å male og tegne. Eg har tidligere lagd maleri av ulike størrelser. Dette er min andre gang på UKM",
+          "deltakernavn": [
+            "Danita Leth Helgaland"
+          ],
+          "id": "262765",
+          "navn": "Danita L. H"
         },
         {
           "beskrivelse": "Jeg har vært med som media på UKM i 3 år i år! Det her vært en utrolig fantastisk opplevelse, der jeg har lært mye om kamera, bilder og den slags, men også lære samarbeid mellom ulike grupper og personer og fått mange gode venner av å være med",
@@ -1784,7 +1513,7 @@
       "navn": "Ullensvang"
     },
     {
-      "antall_innslag": 13,
+      "antall_innslag": 14,
       "arrangement_id": "9973",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-sola-ukmsola2027",
       "innslag": [
@@ -1822,6 +1551,12 @@
           "beskrivelse": "Liit av fyste gang till å gå på sene E litt Red men det går greit",
           "deltakernavn": [],
           "id": "262288",
+          "navn": "Konferansier innslag"
+        },
+        {
+          "beskrivelse": "Eg liker å snakke foran folk og det er spennende og prøve nye ting! Ønsker veldig mye å jobbe me Bergljot.",
+          "deltakernavn": [],
+          "id": "262756",
           "navn": "Konferansier innslag"
         },
         {
@@ -2615,7 +2350,7 @@
       "navn": "Tvedestrand"
     },
     {
-      "antall_innslag": 2,
+      "antall_innslag": 3,
       "arrangement_id": "10046",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-luster-sogndal-lusterogsogndalukm2027",
       "innslag": [
@@ -2629,6 +2364,12 @@
           "beskrivelse": "Eg er ein sjølvlært teiknar og målar, og har vert med på UKM ein gong før. Eg likar alt fra å sketsje smått i skrivebøkene mine på skulen, til å måle store og fargerike maleri. Maleriene eg lager, ligg stort sett i ein bunke i eit hjørne på rommet mitt, men det er skikkelig stas å få gi vekk- eller stille ut nokre av dei.",
           "deltakernavn": [],
           "id": "262686",
+          "navn": "Utstilling innslag"
+        },
+        {
+          "beskrivelse": "Blankt felt",
+          "deltakernavn": [],
+          "id": "262766",
           "navn": "Utstilling innslag"
         }
       ],
@@ -3447,7 +3188,7 @@
       "navn": "UKM BAMBLE JUNIOR"
     },
     {
-      "antall_innslag": 15,
+      "antall_innslag": 16,
       "arrangement_id": "9910",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-trondheim-traante-trondheim-traante",
       "innslag": [
@@ -3515,6 +3256,12 @@
           "beskrivelse": "Jeg har vært flerkamera og fotograf på flere areangamang på isak kulturen inkl. UKM, og er fritids fotograf",
           "deltakernavn": [],
           "id": "262678",
+          "navn": "Media innslag"
+        },
+        {
+          "beskrivelse": "Selv om jeg ikke har tidligere arbeidserfaring, er jeg aktiv i både korps og volleyball, gjennom disse har jeg lært å ta ansvar og jobbe som et lag. En som har vært med på både konserter og turneringer, vet jeg hvor viktig det er å møte opp presis, være godt forberedt og bidra til et godt miljø. Jeg er lærevillig, blid, positiv, lærevillig og liker å møte nye mennesker. Jeg ønsker å få erfaring gjennom UKM, og jeg vil gjøre mitt beste for å være en god representant for arrangementet.",
+          "deltakernavn": [],
+          "id": "262755",
           "navn": "Media innslag"
         },
         {
@@ -3653,7 +3400,7 @@
       "navn": "UKM LILLESAND"
     },
     {
-      "antall_innslag": 4,
+      "antall_innslag": 5,
       "arrangement_id": "10008",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-porsgrunn-skien-ukmporsgrunnogskien",
       "innslag": [
@@ -3673,6 +3420,12 @@
           "beskrivelse": "Jeg har spilt piano i 8 år",
           "deltakernavn": [],
           "id": "262321",
+          "navn": "Musikk innslag"
+        },
+        {
+          "beskrivelse": "Skal synge en Polsk sang",
+          "deltakernavn": [],
+          "id": "262753",
           "navn": "Musikk innslag"
         },
         {
@@ -3923,7 +3676,7 @@
       "navn": "Grünerløkka"
     },
     {
-      "antall_innslag": 7,
+      "antall_innslag": 8,
       "arrangement_id": "9715",
       "arrangement_url": "https://www.ukm.no/arrangement/2027-malselv-ukmmalselv2027",
       "innslag": [
@@ -3981,6 +3734,14 @@
             "Marius Myrvoll"
           ],
           "id": "261742",
+          "navn": "Marius Myrvoll"
+        },
+        {
+          "beskrivelse": "",
+          "deltakernavn": [
+            "Marius Myrvoll"
+          ],
+          "id": "262750",
           "navn": "Marius Myrvoll"
         }
       ],
@@ -4357,12 +4118,12 @@
       "arrangement_url": "https://www.ukm.no/arrangement/2027-elverum-ukmelverum2027",
       "innslag": [
         {
-          "beskrivelse": "jeg er en 18 år gammel gutt som går på folkehøgskole musikk linja og driver med michael jackson dansing og synger selv og vil gjerne vise meg frem",
+          "beskrivelse": "Jeg er en 18 år gammel gutt som synger/ danser michael jackson, øvd siden jeg var liten gutt og vil gjerne vise meg frem som at andre også tar en sjanse de kanskje ikke hadde turt å ta",
           "deltakernavn": [
             "Alexander Flåten Hannestad"
           ],
-          "id": "262527",
-          "navn": "Alexander"
+          "id": "262759",
+          "navn": "Alex"
         },
         {
           "beskrivelse": "Hei jeg er Eirik, jeg er 20år, ble ferdig med skole nå i år, jeg liker musikk, videospill, skate og henge med venner. Jeg har vært meg på UKM to ganger før og var med som arrangør og synes det var veldig gøy.",
@@ -4662,5 +4423,5 @@
   ],
   "merknad": "Offentlig påmeldte innslag og publiserte deltakernavn. Ikke en fullstendig liste over alle deltakere eller aktivitetspåmeldinger.",
   "omfang": "Kommende og pågående arrangementer i kalenderen",
-  "oppdatert": "2026-11-27T13:58:17.764109+00:00"
+  "oppdatert": "2026-11-28T13:12:30.913857+00:00"
 }
